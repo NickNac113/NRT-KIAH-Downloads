@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenery name="NRT KIAH R22 Original Garage">
+  <datarefs>
+    <dataref name="nrt/kiah/r10/mx/outer_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="60" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r10/mx/middle_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="60" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r10/mx/tail_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="60" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r10/mh2/accordion_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="40" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r21/private_hangar/doors_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="60" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r22/truck_garage/bay_1_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="18" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r22/truck_garage/bay_2_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="18" v="0" />
+    </dataref>
+    <dataref name="nrt/kiah/r22/truck_garage/bay_3_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="1" />
+      <animation t="18" v="0" />
+    </dataref>
+  </datarefs>
+  <objects>
+    <instance id="mx" latitude="29.989315797" longitude="-95.315900745" elevation="29" heading="0" />
+    <instance id="mh2" latitude="29.988603136" longitude="-95.315755669" elevation="29" heading="0" />
+    <instance id="private_hangar" latitude="29.987682992" longitude="-95.315817844" elevation="29" heading="0" />
+    <instance id="truck_service" latitude="29.991002728" longitude="-95.309527773" elevation="29" heading="0" />
+  </objects>
+  <gui>
+    <checkbox label="Close NRT MH1 Outer" title="Close outer doors" instance="mx" dataref="nrt/kiah/r10/mx/outer_open" />
+    <checkbox label="Close NRT MH1 Middle" title="Close middle doors" instance="mx" dataref="nrt/kiah/r10/mx/middle_open" />
+    <checkbox label="Close NRT MH1 Tail" title="Close tail doors" instance="mx" dataref="nrt/kiah/r10/mx/tail_open" />
+    <checkbox label="Close NRT MH2" title="Close accordion doors" instance="mh2" dataref="nrt/kiah/r10/mh2/accordion_open" />
+    <checkbox label="Close NRT Private Hangar" title="Close sliding hangar doors" instance="private_hangar" dataref="nrt/kiah/r21/private_hangar/doors_open" />
+    <checkbox label="Close NRT Truck Bay 1" title="Close sectional workshop door" instance="truck_service" dataref="nrt/kiah/r22/truck_garage/bay_1_open" />
+    <checkbox label="Close NRT Truck Bay 2" title="Close sectional workshop door" instance="truck_service" dataref="nrt/kiah/r22/truck_garage/bay_2_open" />
+    <checkbox label="Close NRT Truck Bay 3" title="Close sectional workshop door" instance="truck_service" dataref="nrt/kiah/r22/truck_garage/bay_3_open" />
+  </gui>
+  <models />
+  <jetways>
+    
+  </jetways>
+</scenery>

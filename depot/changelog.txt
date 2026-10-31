@@ -1,0 +1,6 @@
+0.22.0
+- First NRT member release with GitHub and SkunkCrafts updates.
+- Original three-bay NRT truck workshop replaces the inherited T02 garage.
+- Private terminal, BBJ2-size canopy, enlarged private hangar and landscaped arrival court.
+- Hangars open by default; main aircraft starts retained.
+- New garage has offline checks; simulator acceptance remains pending.

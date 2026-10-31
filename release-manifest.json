@@ -1,0 +1,985 @@
+{
+  "product": "NRT KIAH Campus",
+  "folder": "NRT_KIAH_Campus",
+  "version": "0.22.0",
+  "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
+  "preview_only": false,
+  "not_for_publication": false,
+  "local_only_assets": [],
+  "files": [
+    {
+      "path": "ASSET_NOTICES.txt",
+      "crc32": 4048129230,
+      "sha256": "603f12eba557ba21d697b4559f224ffb3244120d15db5de0f9d15803920ef9a8",
+      "size": 1525
+    },
+    {
+      "path": "Build_Evidence.json",
+      "crc32": 1931998758,
+      "sha256": "b49960afb249d9bc48f318fd1470b4f79409ae535cea9132402d623bba4a4ffc",
+      "size": 260009
+    },
+    {
+      "path": "COPYING",
+      "crc32": 2122558730,
+      "sha256": "5dd184a71bedc2ed80f5da8ecb8a9814ca78832706882fc82d53c4fd7fb693c5",
+      "size": 18693
+    },
+    {
+      "path": "Earth nav data/+20-100/+29-096.dsf",
+      "crc32": 1301496259,
+      "sha256": "1f1172a339de271f968fec84757633c0e55d8a1aa1200fb78e54d187e6ad98a0",
+      "size": 941738
+    },
+    {
+      "path": "Earth nav data/+30-100/+30-096.dsf",
+      "crc32": 2326234223,
+      "sha256": "9b3159b971f402b9a1d0938e53f89f1d9adcd8bc40d88379eceee8cc09a73132",
+      "size": 22135
+    },
+    {
+      "path": "Earth nav data/apt.dat",
+      "crc32": 652757495,
+      "sha256": "2b0e1c85ec7438f2bc9686c4ccbba69abf3e493884de13ba4e171d33d7dcbb7d",
+      "size": 1510224
+    },
+    {
+      "path": "Garage_Provenance.json",
+      "crc32": 4094886187,
+      "sha256": "491244acc547d90ea3e880445f2a85ca82d7b64eaa198cb4ce81b5711efe9cf8",
+      "size": 2462
+    },
+    {
+      "path": "Garage_Replacement_Record.json",
+      "crc32": 1166978272,
+      "sha256": "4da2be0e640bb08ba33efacec7118b2ca2b70fd57c86b87617c47db31de4ce57",
+      "size": 598
+    },
+    {
+      "path": "Gateway-original-README.txt",
+      "crc32": 102524826,
+      "sha256": "169964b32600bae61cabef531de7f45a4408a9fbaac5b2c32e6e6a9ddedf1472",
+      "size": 941
+    },
+    {
+      "path": "INSTALL.txt",
+      "crc32": 2146730108,
+      "sha256": "19d058e1b26c0e57d6f60b5625fb16b6a74a8f2c39185ee0475e44fb953f9fb3",
+      "size": 2047
+    },
+    {
+      "path": "README_R22.txt",
+      "crc32": 1615071817,
+      "sha256": "0834e063f487595ab4af1adb71ecfbd1755acf566a725737bfd25e84faab9b86",
+      "size": 522
+    },
+    {
+      "path": "Source/Native/+29-096.txt",
+      "crc32": 17082927,
+      "sha256": "3d58e277fa5c137cec546721100e813ff49400d5d262ada874b3db65a8d04875",
+      "size": 2460997
+    },
+    {
+      "path": "Source/Native/+30-096.txt",
+      "crc32": 4125969887,
+      "sha256": "bd74681999a106e132c4150acd389dbff0a899413795cfd1f577826a97c46f0a",
+      "size": 145492
+    },
+    {
+      "path": "Source/R17_Helpers/airport_geometry.py",
+      "crc32": 4164745813,
+      "sha256": "1beeea968c7e69e98295f25c0d789e74fd7603982b8e110500164e6462599eba",
+      "size": 7661
+    },
+    {
+      "path": "Source/R17_Helpers/build_test.py",
+      "crc32": 655054194,
+      "sha256": "57d9c2842b0999a5f2c57cbbaf9780a9c1af2a059d43365203b53196c9bc82a1",
+      "size": 31820
+    },
+    {
+      "path": "Source/R17_Helpers/materials.py",
+      "crc32": 2260496630,
+      "sha256": "5cd86bbae46d4a0bbb86012afb85af42978400f93daf0df267bd354d801d7c15",
+      "size": 5000
+    },
+    {
+      "path": "Source/R17_Helpers/obj_reader.py",
+      "crc32": 3325807387,
+      "sha256": "3c7c7010572515d48f9435d30b759d784f443b34279ec00b645395efe42406cd",
+      "size": 2714
+    },
+    {
+      "path": "Source/R21/build_r21.py",
+      "crc32": 2723046546,
+      "sha256": "036dc634eaa03ce6b70a9bf6564604f6b344ec196d7bbf50eb3313ea5b91eb45",
+      "size": 22123
+    },
+    {
+      "path": "Source/R21/finalize_r21.py",
+      "crc32": 1776834109,
+      "sha256": "2b3c6b946519a674aab025fdbcb76b806647ca5eec2586d2fc1a2972ceed365f",
+      "size": 9329
+    },
+    {
+      "path": "Source/R21/render_exports.py",
+      "crc32": 481493152,
+      "sha256": "a8463806a4b737a57057116bd6c54704446d0557e8d14567b8c5698879b110cc",
+      "size": 4899
+    },
+    {
+      "path": "Source/R21/validate_r21.py",
+      "crc32": 2876522174,
+      "sha256": "0b33a7a11af8f32ccb76d2880776b40b198ca1a3c5ccb43e0dc7a390473b4234",
+      "size": 7842
+    },
+    {
+      "path": "Source/R22/South.dsf.txt",
+      "crc32": 17082927,
+      "sha256": "3d58e277fa5c137cec546721100e813ff49400d5d262ada874b3db65a8d04875",
+      "size": 2460997
+    },
+    {
+      "path": "Source/R22/build_r22.py",
+      "crc32": 464358019,
+      "sha256": "71f37ef1d24ad286aebea2ef80e1671d2d52f1c009442af8a75bd5e1d5e48a35",
+      "size": 18826
+    },
+    {
+      "path": "Source/R22/finalize_r22.py",
+      "crc32": 1832874743,
+      "sha256": "99eb839642282cebf6ec8931d1d809ca7ce455723253211be7ae7be0d90c6ee0",
+      "size": 10091
+    },
+    {
+      "path": "Source/R22/render_r22.py",
+      "crc32": 2048204315,
+      "sha256": "0da0da304e68ad2a51a13c7f289b7edb7983f5f9d1300faebc541eb09d8f1ed1",
+      "size": 4324
+    },
+    {
+      "path": "Source/R22/validate_r22.py",
+      "crc32": 3963908501,
+      "sha256": "8fb17722c4d6a5dda990ab83e07d358e53d18b562ae6760d102447ccca40b03e",
+      "size": 8949
+    },
+    {
+      "path": "Source/README.txt",
+      "crc32": 3532855337,
+      "sha256": "e3fbbb09afa90051b3745d0ad0a01aa3b5163b393e0e91764fa90bc95353ba1e",
+      "size": 641
+    },
+    {
+      "path": "Source/rebuild_dsf.py",
+      "crc32": 3811686248,
+      "sha256": "ac3515c89685d3962373508750e5c0f7417f05f0afa832f7698ccb0e27a1b0ab",
+      "size": 1082
+    },
+    {
+      "path": "changelog.txt",
+      "crc32": 807987279,
+      "sha256": "f35955c14747985517b84aaa5d1d7d45647465e100c236b243cc5257e66ebdc0",
+      "size": 373
+    },
+    {
+      "path": "objects/B_Lobby_Closed.obj",
+      "crc32": 456459122,
+      "sha256": "b13c8985a9a3c0357f6c7815aad83bf773aa545a99fe2d6ebb4330572f623e80",
+      "size": 401921
+    },
+    {
+      "path": "objects/B_North.obj",
+      "crc32": 1917700347,
+      "sha256": "be946d77a58557b2e02696d0761a6f62f67e2a4d28238c51dc942e11e72f6950",
+      "size": 664042
+    },
+    {
+      "path": "objects/Current_Stand_Labels.obj",
+      "crc32": 3817567693,
+      "sha256": "81b6e99f53d8bafa3e08a4b9514e773fec2e16c72a8afb02933d1030c6fe498b",
+      "size": 26733
+    },
+    {
+      "path": "objects/D_West.obj",
+      "crc32": 417298393,
+      "sha256": "52c51a0f994b0c546c9555f4f06e1bc7d006ef678264bc106153a846ce97dd46",
+      "size": 377247
+    },
+    {
+      "path": "objects/International_Processor.obj",
+      "crc32": 4198524874,
+      "sha256": "a55a8a425d13427959dd18de17c3066c5ea24895cac950f6d8923dc639e46230",
+      "size": 519735
+    },
+    {
+      "path": "objects/United_Maintenance_Exterior.obj",
+      "crc32": 3508604341,
+      "sha256": "2df81caf131261a9fca5a2b7aac49fb566085123030dcc62ef117bbb23e9a7bd",
+      "size": 468819
+    },
+    {
+      "path": "objects/bridge_A20.obj",
+      "crc32": 1400591421,
+      "sha256": "7aefd3781e0c89beb4e4f5f04a4fcec7c852aba74411b6db09e14679d02fc56d",
+      "size": 103563
+    },
+    {
+      "path": "objects/bridge_B1.obj",
+      "crc32": 4027425967,
+      "sha256": "a01eaae30099b9fedc77143ebc90714154aa5e8df38169cf04c1f229cb44d438",
+      "size": 103578
+    },
+    {
+      "path": "objects/bridge_B10.obj",
+      "crc32": 2362912667,
+      "sha256": "da6a3fa2a0bfc9736e6254d68cf0c3ffba72625bc4c86f6f3de632d6a85eb894",
+      "size": 103556
+    },
+    {
+      "path": "objects/bridge_B11.obj",
+      "crc32": 4248706971,
+      "sha256": "05bcb2bfe8996f8ac8811ac64bf3ec70135d45b99e14cfd8988319df6638be16",
+      "size": 103556
+    },
+    {
+      "path": "objects/bridge_B12.obj",
+      "crc32": 1490032281,
+      "sha256": "9252cfe01a27cd9b9a23bb3eacc4f4e563612532987a3793b49432552d7d46a1",
+      "size": 103572
+    },
+    {
+      "path": "objects/bridge_B14.obj",
+      "crc32": 2710219801,
+      "sha256": "1f9e930d9fb9b10b6829b587f6ed455a74380add4362c48628af1f205a58c190",
+      "size": 103572
+    },
+    {
+      "path": "objects/bridge_B15.obj",
+      "crc32": 3547175307,
+      "sha256": "9b6a2039ced341afe7b4c72d7c7987d15de0beb86e57f9745358142a0f7b4ac2",
+      "size": 103578
+    },
+    {
+      "path": "objects/bridge_B16.obj",
+      "crc32": 3638642638,
+      "sha256": "e84122ab9e8c33beb087098d14bd7d57b52a13589fecd53f3dfcdaeac9eccaef",
+      "size": 103574
+    },
+    {
+      "path": "objects/bridge_B17.obj",
+      "crc32": 2794474870,
+      "sha256": "09d97c2518f3191c73ab2873055c49f18ce39a97261685cb3fdf4feaf979edf4",
+      "size": 103562
+    },
+    {
+      "path": "objects/bridge_B18.obj",
+      "crc32": 3186124968,
+      "sha256": "1244cbe41dc000403c0ca3eb76de4661386af6282f491f6fefaf6b4dced1d9cc",
+      "size": 103561
+    },
+    {
+      "path": "objects/bridge_B19.obj",
+      "crc32": 2637906503,
+      "sha256": "f31e4df4449d2eb0634354e900d4b960ea204cffc3e26a261ad4d3b90904af42",
+      "size": 103560
+    },
+    {
+      "path": "objects/bridge_B2.obj",
+      "crc32": 1636937255,
+      "sha256": "323268894bdb9da9c7a36b51979368c0eabd8688c866ce890c466c73251a972c",
+      "size": 103572
+    },
+    {
+      "path": "objects/bridge_B20.obj",
+      "crc32": 266685579,
+      "sha256": "7b21f2536b3e3855da69e79aa5bad74f2d001cbe94f1701bf68773e05faf86df",
+      "size": 103548
+    },
+    {
+      "path": "objects/bridge_B21.obj",
+      "crc32": 3516079957,
+      "sha256": "3d102c9116380beef6457afa3fb37e431ea8c58b72e5a64e69dceb1f06fa7eed",
+      "size": 103553
+    },
+    {
+      "path": "objects/bridge_B22.obj",
+      "crc32": 132742287,
+      "sha256": "a6d2a27409f086ace2f032f3ca19cc285bd6542c003f6db8a2522419c8514fd7",
+      "size": 103553
+    },
+    {
+      "path": "objects/bridge_B23.obj",
+      "crc32": 3593542021,
+      "sha256": "f4b7d7e1763ba8a25bea133bf3bf7fe7a5f91d05394e3124842d17fd7adfee9c",
+      "size": 103542
+    },
+    {
+      "path": "objects/bridge_B3.obj",
+      "crc32": 3782659519,
+      "sha256": "d04fc4d43bad67986652d3572c4bb04d6193e7436010ffea3a86d17ab7550093",
+      "size": 103578
+    },
+    {
+      "path": "objects/bridge_B4.obj",
+      "crc32": 3497167311,
+      "sha256": "2704c3bbb5f6cb1f1aaeeb9aed25968b0f983d3255c704512b014ebd68fbf57e",
+      "size": 103574
+    },
+    {
+      "path": "objects/bridge_B5.obj",
+      "crc32": 2293164333,
+      "sha256": "b7c60fa9cffb1b91013fadc2391d8a0ae4dc1a528fe0defd0d67ac13f1cba344",
+      "size": 103562
+    },
+    {
+      "path": "objects/bridge_B6.obj",
+      "crc32": 723122178,
+      "sha256": "bb1ae808d13c6bcb915950ba33b0a5d2a08afc8c7cc102c014d3cdb54881b619",
+      "size": 103561
+    },
+    {
+      "path": "objects/bridge_B7.obj",
+      "crc32": 3127793856,
+      "sha256": "c3c8192d6facad0a836e611b7820a65ba30b44fca5632a4ca4c0b4a36e6d6d88",
+      "size": 103560
+    },
+    {
+      "path": "objects/bridge_B8.obj",
+      "crc32": 2810496370,
+      "sha256": "30395e264c2553125fb287c628594d2a99d56b7fabd84da022b70063e5ef5343",
+      "size": 103548
+    },
+    {
+      "path": "objects/bridge_B9.obj",
+      "crc32": 1845594952,
+      "sha256": "ca9fbe687399f3a49acf2993a45ed1d79f5a28a2fe9f1e66e7c68307d9d12d44",
+      "size": 103542
+    },
+    {
+      "path": "objects/bridge_C12.obj",
+      "crc32": 3141302142,
+      "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
+      "size": 104230
+    },
+    {
+      "path": "objects/bridge_C14.obj",
+      "crc32": 90890705,
+      "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
+      "size": 103556
+    },
+    {
+      "path": "objects/bridge_C15.obj",
+      "crc32": 117391061,
+      "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
+      "size": 103556
+    },
+    {
+      "path": "objects/bridge_D1.obj",
+      "crc32": 2184256594,
+      "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
+      "size": 105679
+    },
+    {
+      "path": "objects/bridge_D2.obj",
+      "crc32": 3011590559,
+      "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
+      "size": 104229
+    },
+    {
+      "path": "objects/bridge_D3.obj",
+      "crc32": 769173109,
+      "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
+      "size": 104275
+    },
+    {
+      "path": "objects/bridge_D4.obj",
+      "crc32": 1149090086,
+      "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
+      "size": 104235
+    },
+    {
+      "path": "objects/bridge_D5.obj",
+      "crc32": 614651558,
+      "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
+      "size": 105656
+    },
+    {
+      "path": "objects/bridge_D6.obj",
+      "crc32": 2321882266,
+      "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
+      "size": 104251
+    },
+    {
+      "path": "objects/nrt_test/apron_material.obj",
+      "crc32": 1185826733,
+      "sha256": "b04ffd5b2d412a1765d9a8eaee190aba585f96bf431aec740354374115d05670",
+      "size": 11889
+    },
+    {
+      "path": "objects/nrt_test/cargo.obj",
+      "crc32": 330352749,
+      "sha256": "f93b41e624444e5c0e922bd84aca19cde81cbf2a24e71a2e177a66546cfe3ba7",
+      "size": 757291
+    },
+    {
+      "path": "objects/nrt_test/cargo_recess_walls.obj",
+      "crc32": 287965777,
+      "sha256": "062fb791041f714d684a0319f60484f0c242ef26a54f347856a0757684465906",
+      "size": 94491
+    },
+    {
+      "path": "objects/nrt_test/fbo.obj",
+      "crc32": 2901780316,
+      "sha256": "9d7dbddceac9146b7b281f733877fa9ec734b91810d8d74dd00aa10911e6b7bb",
+      "size": 822655
+    },
+    {
+      "path": "objects/nrt_test/fbo_ground_tower.obj",
+      "crc32": 3844490818,
+      "sha256": "40d2dbaa1a747893892fe1e8a77db724d76a5e2d1a58ce050811df98d41df950",
+      "size": 949238
+    },
+    {
+      "path": "objects/nrt_test/fixed_8.obj",
+      "crc32": 1484721516,
+      "sha256": "0eee30ce9f32b8c22d71e0c6372eca8943db67746e87483d3f3b8efd5472fa32",
+      "size": 158025
+    },
+    {
+      "path": "objects/nrt_test/fixed_9A.obj",
+      "crc32": 3205353886,
+      "sha256": "53e53b9946d06ddfb251958fc06d133bc46b392640d2c63b7467634ab92bf7d1",
+      "size": 161042
+    },
+    {
+      "path": "objects/nrt_test/fixed_9B.obj",
+      "crc32": 4081611576,
+      "sha256": "d74bd61ac50ea53f7b37a859d0be9e5a2f4013a76fd9be407a04829545ed569e",
+      "size": 157486
+    },
+    {
+      "path": "objects/nrt_test/floor_wear_mh1.obj",
+      "crc32": 2436600759,
+      "sha256": "8c9e7816d0589f8ec89f1968b9928fe2e58208730b1a780edd2e4416f41f281d",
+      "size": 1650
+    },
+    {
+      "path": "objects/nrt_test/floor_wear_mh2.obj",
+      "crc32": 824809709,
+      "sha256": "5a55a98e0b586b71c3ce2d75ca51ece758714722a4b5c35a35e7ce0bd802ee2a",
+      "size": 1650
+    },
+    {
+      "path": "objects/nrt_test/floor_wear_mh3.obj",
+      "crc32": 824809709,
+      "sha256": "5a55a98e0b586b71c3ce2d75ca51ece758714722a4b5c35a35e7ce0bd802ee2a",
+      "size": 1650
+    },
+    {
+      "path": "objects/nrt_test/landside_curbs.obj",
+      "crc32": 3054905033,
+      "sha256": "83b2dd44f4c04b10778e1829d62dac57aa6506b0d74e93b224c85b8764317b2e",
+      "size": 160155
+    },
+    {
+      "path": "objects/nrt_test/landside_fence.obj",
+      "crc32": 3747683847,
+      "sha256": "09215b47bacbce9ac02d13a5de37b9bdc96d140fec394a0543e2773337797624",
+      "size": 5008
+    },
+    {
+      "path": "objects/nrt_test/landside_lights.obj",
+      "crc32": 3644329454,
+      "sha256": "012829b5790e74346693b3c247b2922e54b2b66f1f6dd852f9c83ffd0eaf882f",
+      "size": 89223
+    },
+    {
+      "path": "objects/nrt_test/landside_paint.obj",
+      "crc32": 4019819455,
+      "sha256": "e4107f28ed48f439f55769d001a35c0d7649deae9e3b6fe676e4df5172944a39",
+      "size": 460108
+    },
+    {
+      "path": "objects/nrt_test/landside_security.obj",
+      "crc32": 2746877571,
+      "sha256": "e7da3c32d269da8570bf6018e0e2c764f7f7fffd8048692236900c5f6e2c6fcd",
+      "size": 2218371
+    },
+    {
+      "path": "objects/nrt_test/landside_signboards.obj",
+      "crc32": 2121102621,
+      "sha256": "672dd15344407603fb234571113f10b67d27cbd5b7beb367065002ede0e6b9ef",
+      "size": 1160
+    },
+    {
+      "path": "objects/nrt_test/landside_stencils.obj",
+      "crc32": 4278417504,
+      "sha256": "3ebd64824a96ddb6d8a0242d76a4f58e28e749110185fbaca1e1c43bc84fc80f",
+      "size": 10488
+    },
+    {
+      "path": "objects/nrt_test/landside_surface.obj",
+      "crc32": 2326156274,
+      "sha256": "e3ace3cbe03e1dca96a56cf1649826f975144539fbfbd9a8a68cd74c1ea210c6",
+      "size": 19674
+    },
+    {
+      "path": "objects/nrt_test/mh2_accordion_hangar.obj",
+      "crc32": 1536903774,
+      "sha256": "0e453fc208ca5f973664a77b4553e16986d8afb7da2aa2041718a1a3032edd6e",
+      "size": 684766
+    },
+    {
+      "path": "objects/nrt_test/mh3_accordion_hangar.obj",
+      "crc32": 1922387365,
+      "sha256": "448370c355c26c42852043a057675276b03b84b9ccb586453802bc50f517f6c9",
+      "size": 684766
+    },
+    {
+      "path": "objects/nrt_test/mx_7478I_proxy.obj",
+      "crc32": 1502241099,
+      "sha256": "0823e4432f203f49d802360f930ca0813ce39598799f83c129f000f732a43145",
+      "size": 235738
+    },
+    {
+      "path": "objects/nrt_test/mx_service_lights.obj",
+      "crc32": 2642955792,
+      "sha256": "64ff0848a132da0f7aa027a2f1dc964602f6d767d8d0ba096459b4bb2b9297a9",
+      "size": 72385
+    },
+    {
+      "path": "objects/nrt_test/mx_stepped_hangar.obj",
+      "crc32": 4201799676,
+      "sha256": "bfcefc0d91abb8d932e0aec243c27e20181e6a676564d771e7d2725f894deac3",
+      "size": 1862461
+    },
+    {
+      "path": "objects/nrt_test/paint.obj",
+      "crc32": 3317571401,
+      "sha256": "0ed10ae6ab8cadd968a17f471e9ab07d7d6641215876227dfcd8c9843dc56fa7",
+      "size": 369879
+    },
+    {
+      "path": "objects/nrt_test/r21_arrival_landscape.obj",
+      "crc32": 2902597344,
+      "sha256": "a9a45bd47f6df6a38dfadfb7c182ef7fcbe39c12288935952ce9a2971230df98",
+      "size": 86220
+    },
+    {
+      "path": "objects/nrt_test/r21_arrival_paint.obj",
+      "crc32": 709044525,
+      "sha256": "cdd3fd9fff315e38b0a67e9b3eae554a5e70fabf54e93486b2577dde58708cda",
+      "size": 58538
+    },
+    {
+      "path": "objects/nrt_test/r21_identity.obj",
+      "crc32": 3743831805,
+      "sha256": "d5d97ad8392e2e891037e49124b437f3520927c82826c28858813d1ff1fce6c2",
+      "size": 2656
+    },
+    {
+      "path": "objects/nrt_test/r21_planting_bed.obj",
+      "crc32": 1756791997,
+      "sha256": "2edeafa790f223b6751d0d054ff684405b586cf0fd0aa515e459ede48445fdee",
+      "size": 619
+    },
+    {
+      "path": "objects/nrt_test/r21_private_hangar.obj",
+      "crc32": 1207634765,
+      "sha256": "63fe3b079e65fc6078eb54dd7d6a5e9daaf0d4eea4de7db19f632dc848a9d867",
+      "size": 1304071
+    },
+    {
+      "path": "objects/nrt_test/r21_stand_ids.obj",
+      "crc32": 823478493,
+      "sha256": "d2c7732d9319947ab1a7f86d281bfc18d21cf9851c0ab6613fee22841b1be7c7",
+      "size": 1283
+    },
+    {
+      "path": "objects/nrt_test/r21_terminal_canopy.obj",
+      "crc32": 3795844262,
+      "sha256": "ed0606f882df8000663912b6cea1ce11bd1215c6d74165b640981adba3d8782f",
+      "size": 933074
+    },
+    {
+      "path": "objects/nrt_test/r22_nrt_truck_doors.obj",
+      "crc32": 1872782627,
+      "sha256": "51b1eb77b56cd0ffbcc8104356740ea1c9f70c87e0b470e950c0ea6d6f2fb01b",
+      "size": 330986
+    },
+    {
+      "path": "objects/nrt_test/r22_nrt_truck_garage.obj",
+      "crc32": 562160799,
+      "sha256": "61ac9bee23a3027f1f757f821bc32604d7bb02c8b2cd133d3b860da8833d89cd",
+      "size": 771110
+    },
+    {
+      "path": "objects/nrt_test/r22_nrt_truck_signs.obj",
+      "crc32": 2969498779,
+      "sha256": "40bc30b53afbdc6881899eaca8782c06f8c333647024a9a46951e6958c92e061",
+      "size": 2622
+    },
+    {
+      "path": "objects/nrt_test/ramp_safety.obj",
+      "crc32": 658665691,
+      "sha256": "fed7968da7fa2688dda881b9048a37c576e42b082d0e5a8e4dac27d16d6a9d5d",
+      "size": 86623
+    },
+    {
+      "path": "objects/nrt_test/ramp_wear.obj",
+      "crc32": 1494082985,
+      "sha256": "64acb928bd22a484278acfd6d215f14e1c54bbc852b102a827668ff0c4cbaad6",
+      "size": 338834
+    },
+    {
+      "path": "objects/nrt_test/signs_cargo.obj",
+      "crc32": 4071139399,
+      "sha256": "ce003826c5dfd87f619f503507f3cc47f64a94a9869abde3e0d304af2659b986",
+      "size": 11724
+    },
+    {
+      "path": "objects/nrt_test/signs_fbo.obj",
+      "crc32": 4284727420,
+      "sha256": "d954674bab5be8d4eb26fa960e60ca18b623f28af9fec0907db0daa876c544c5",
+      "size": 1176
+    },
+    {
+      "path": "objects/nrt_test/signs_mh2_accordion_hangar.obj",
+      "crc32": 3595798624,
+      "sha256": "621708f0931c1fe0827b412e04d6f04122e559b5ebafd231555e3066b8694b96",
+      "size": 687
+    },
+    {
+      "path": "objects/nrt_test/signs_mh3_accordion_hangar.obj",
+      "crc32": 413189376,
+      "sha256": "e0c75bd9d193c0111d607d6ec168f9ffa7c2b82a142215fe9e530366989ade54",
+      "size": 687
+    },
+    {
+      "path": "objects/nrt_test/signs_mx_stepped_hangar.obj",
+      "crc32": 4231768049,
+      "sha256": "5cdfd67c3c75b6ad21e776a85584355371cf797291573e273a296bf6f00b8418",
+      "size": 687
+    },
+    {
+      "path": "objects/nrt_test/taxi_wear.obj",
+      "crc32": 451828829,
+      "sha256": "7bfee87d0e6de605c1585e16c2fed220f65e124716faa7eb213614ec469c6a25",
+      "size": 2643277
+    },
+    {
+      "path": "objects/nrt_test/truck_parallel_bays.obj",
+      "crc32": 924289102,
+      "sha256": "2e99abd927d0c262c94e59a1b0f86780546c6f3ed4db6ce74f801cc98eb6f935",
+      "size": 8136
+    },
+    {
+      "path": "objects/nrt_test/truck_parallel_ids.obj",
+      "crc32": 3963010157,
+      "sha256": "071cb3ec7ca44648560a88af965e9509c9624e5337df943ec6e3df95eb09ae1e",
+      "size": 2288
+    },
+    {
+      "path": "opensam.xml",
+      "crc32": 3126635029,
+      "sha256": "a3b5ef2d25273d6b02708f0fbbcd1d93d254bbb3aca2a30599ec3408bf0bf283",
+      "size": 3433
+    },
+    {
+      "path": "sam.xml",
+      "crc32": 4193309730,
+      "sha256": "84fc7bb4f0f3c80c0966fa41618b3a7c5231247c831ab9fcd8b3ef0760c1b0b3",
+      "size": 3386
+    },
+    {
+      "path": "textures/nrt_test/apron.dds",
+      "crc32": 779192630,
+      "sha256": "17c22999c80435070597b18c08b863698649777c874f0df79a093f35e62b6cd8",
+      "size": 699192
+    },
+    {
+      "path": "textures/nrt_test/apron.png",
+      "crc32": 2320942339,
+      "sha256": "e9297073c62c8eafdeb02814fefc54f5f083cbf47e4ffb71286affe82523a80c",
+      "size": 635529
+    },
+    {
+      "path": "textures/nrt_test/apron_NML.png",
+      "crc32": 2785476980,
+      "sha256": "f66de2cbd1c305cce921ed1b1d787ba05c03f69e7cba4c9ee1c9f82ce65b84b9",
+      "size": 854626
+    },
+    {
+      "path": "textures/nrt_test/atlas.png",
+      "crc32": 2567676633,
+      "sha256": "0628b097713aa133921c2a7acfe0001efe6b1555c5532a1b6473c8c0e5e17479",
+      "size": 119867
+    },
+    {
+      "path": "textures/nrt_test/buildings.dds",
+      "crc32": 4184753731,
+      "sha256": "a5c42159ab7faecfc6e0d740c399f32bc2005eb64f95c0747b49c47ccc93ab80",
+      "size": 2796344
+    },
+    {
+      "path": "textures/nrt_test/buildings.png",
+      "crc32": 832495130,
+      "sha256": "edbd27fdb1f4e4945254c39fdf5cc421ec2f7b98685ed2d2eee0eac36f9a8614",
+      "size": 1195228
+    },
+    {
+      "path": "textures/nrt_test/buildings_LIT.dds",
+      "crc32": 1320548873,
+      "sha256": "1a6500a98b31ecdffa79d8a27cc0580f0d04d9b5a774272b3fdaa1e1e1133ec3",
+      "size": 2796344
+    },
+    {
+      "path": "textures/nrt_test/buildings_LIT.png",
+      "crc32": 2915244531,
+      "sha256": "6906d84b90da5b6e2b0180c3cd629653af5ef23bc264958a7cf46b410b19d25c",
+      "size": 13639
+    },
+    {
+      "path": "textures/nrt_test/buildings_NML.png",
+      "crc32": 747225634,
+      "sha256": "b6b5558b0d1dc3faeaaed91ac6675e1152c071cc50ddbc1a9364823add8ba17c",
+      "size": 542981
+    },
+    {
+      "path": "textures/nrt_test/landside_asphalt.dds",
+      "crc32": 3550228915,
+      "sha256": "eea40937b0a8c4cd0a2ade20bcfff1873319c18f8e6801fff8814ca1b894f1f4",
+      "size": 699192
+    },
+    {
+      "path": "textures/nrt_test/landside_asphalt.png",
+      "crc32": 3024453293,
+      "sha256": "ae1968fe50c468848457ed66ed21ce3fb83dddcf9b7d3a7fed026f4a55729a19",
+      "size": 748453
+    },
+    {
+      "path": "textures/nrt_test/landside_fence.dds",
+      "crc32": 1485056384,
+      "sha256": "8f88c0a8a3fa40ceea4d4492c210d4443f4a0d32dddc6abcf760dd00358ce4a4",
+      "size": 349680
+    },
+    {
+      "path": "textures/nrt_test/landside_fence.png",
+      "crc32": 2329112956,
+      "sha256": "3d3f4ca4f4d4146b3b0c040ad00500a14d1b11822c7f0dc1f802c943ee62d8cd",
+      "size": 13070
+    },
+    {
+      "path": "textures/nrt_test/landside_stencils.dds",
+      "crc32": 552457615,
+      "sha256": "075c3cea78a696b11f2afb25171427b99fa9752e94d651ebc85b6cc6d966f0c2",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/landside_stencils.png",
+      "crc32": 1034883512,
+      "sha256": "5769e051a3c4dcde73054299376bf418b3fac7ba98da0a57bd37c2a04c7a3d19",
+      "size": 75039
+    },
+    {
+      "path": "textures/nrt_test/nrt_identity.dds",
+      "crc32": 1325858426,
+      "sha256": "2466f88f2e89fb65cc576dcb7f21e8942cb1f05e9e641044e1a5a022b07f667b",
+      "size": 174920
+    },
+    {
+      "path": "textures/nrt_test/nrt_identity.png",
+      "crc32": 1302734051,
+      "sha256": "cea84beff2552fbe3f95e9b1970c607b4734741cb2030f56f34dd1bbe86933a6",
+      "size": 10204
+    },
+    {
+      "path": "textures/nrt_test/nrt_identity_LIT.dds",
+      "crc32": 3686405433,
+      "sha256": "0302fb64d759067609a0e5d28f805a4281833db63ad9d16d27c3eae1df611aa4",
+      "size": 174920
+    },
+    {
+      "path": "textures/nrt_test/nrt_identity_LIT.png",
+      "crc32": 1917998652,
+      "sha256": "eae1e7aa34b2de420d1af06706423016e6f2c24364f74fca30a9dc973fbd69e0",
+      "size": 9757
+    },
+    {
+      "path": "textures/nrt_test/r21_ground_ids.dds",
+      "crc32": 3875985595,
+      "sha256": "f6a37f41cd8ac49a039fad0dcadd07200ccb8c620bbe4f0c7263f6c4a45644aa",
+      "size": 2796368
+    },
+    {
+      "path": "textures/nrt_test/r21_ground_ids.png",
+      "crc32": 2602885163,
+      "sha256": "0b82c975f9905b94a53820305d076b7a65c0ffcc14313a288536d10101e60e4c",
+      "size": 30110
+    },
+    {
+      "path": "textures/nrt_test/r21_identity.dds",
+      "crc32": 3433337633,
+      "sha256": "b609f36bbfafde1083fac86c57776a453e406fb14c298ca5ca41061ca9252f32",
+      "size": 2796368
+    },
+    {
+      "path": "textures/nrt_test/r21_identity.png",
+      "crc32": 171319201,
+      "sha256": "d87e9335eae654ec43fbb99f70f47ccfd56a75566a5a544c2d1699a8f4042e36",
+      "size": 60693
+    },
+    {
+      "path": "textures/nrt_test/r21_identity_LIT.dds",
+      "crc32": 3155787699,
+      "sha256": "99ffdaa7d276260d380bc50491bb772f7862112b5cc1a4ad1e891b446632336f",
+      "size": 2796368
+    },
+    {
+      "path": "textures/nrt_test/r21_identity_LIT.png",
+      "crc32": 2648069416,
+      "sha256": "4c173733cce493e1ae4b5c750a3def5137f2253f9d7e92db19d2c32c70c72d21",
+      "size": 56911
+    },
+    {
+      "path": "textures/nrt_test/r21_planting.dds",
+      "crc32": 1553798230,
+      "sha256": "ad6c72697b8e39c9ca2521037200f2d04b56040ef996a5383a459c8613788f2e",
+      "size": 174904
+    },
+    {
+      "path": "textures/nrt_test/r21_planting.png",
+      "crc32": 3620480935,
+      "sha256": "a7de308d95fe708c19fbfb93d8e67e392bd22cc9e22b1816cc6b51018cb0cf66",
+      "size": 208500
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_materials.dds",
+      "crc32": 2794452330,
+      "sha256": "63c04d0f5a8435f44ad72c7ee504c99b61a2b94de433bea90130fb78f7c01f08",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_materials.png",
+      "crc32": 2912290344,
+      "sha256": "6e768ef178349c56d406e8edd76ec92d12bcbf8b6c78b8371a62acc59036a4bb",
+      "size": 932980
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_materials_LIT.dds",
+      "crc32": 2045463168,
+      "sha256": "a8e4522820be178ece448201ddb002ecabb8e7eb8bcf6b2541a8d2c892f89bbd",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_materials_LIT.png",
+      "crc32": 4097339392,
+      "sha256": "46222a66982436930bdd1360ef4ba6a859372ace9862fa0612777a6cdd36c1d8",
+      "size": 7436
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_materials_NML.png",
+      "crc32": 2922420823,
+      "sha256": "afd6eab61abde4a1ab04927a40f1945e56051c5ae637b59d127c72fbb8f4cee3",
+      "size": 228578
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_signs.dds",
+      "crc32": 3023839023,
+      "sha256": "84702c57aadd6f316551f7850243cbbc2daf3d2987ab9d65374468e27e86b10f",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_signs.png",
+      "crc32": 1535058770,
+      "sha256": "6d0bf2d9f9517be94e431b481e12d7ff137379fb95bfc4981e00a4f20458b0e7",
+      "size": 62551
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_signs_LIT.dds",
+      "crc32": 860397961,
+      "sha256": "63c0804db0bfd24c07e0d2d64eb291199547a01e310fc351b5a19f78f5630fae",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r22_garage_signs_LIT.png",
+      "crc32": 4065349890,
+      "sha256": "3d46b352591bfd1b8a8ef3a03005900db596303857db774ae60b972abbbcc6da",
+      "size": 57702
+    },
+    {
+      "path": "textures/nrt_test/ramp_wear.dds",
+      "crc32": 825845906,
+      "sha256": "ce04ac3588503b32391ea0f69481dd3465839aa85f941df5a87462d60c4936ea",
+      "size": 349680
+    },
+    {
+      "path": "textures/nrt_test/ramp_wear.png",
+      "crc32": 3444430921,
+      "sha256": "749ff9b1e7403dd8d2536ada205796d91f23368fb376a1155bbfa1d2412a4f9f",
+      "size": 32011
+    },
+    {
+      "path": "textures/nrt_test/refined_markings.dds",
+      "crc32": 1951075485,
+      "sha256": "8b57e6f7415627e23fe53cda0a0dc868451b18585a4c42abb3d4bde86d77a14d",
+      "size": 2796368
+    },
+    {
+      "path": "textures/nrt_test/refined_markings.png",
+      "crc32": 742829841,
+      "sha256": "a6e54ecacdb7f99f005454fcadb52e972d9cf9e4168f727748366cef558b90c3",
+      "size": 70772
+    },
+    {
+      "path": "textures/nrt_test/signs.dds",
+      "crc32": 3267936462,
+      "sha256": "d09abaf71c3b9ea9c56a0538999f249842db639809b0b05948cb1601872a11ef",
+      "size": 2796344
+    },
+    {
+      "path": "textures/nrt_test/signs.png",
+      "crc32": 3095339157,
+      "sha256": "67037741c5fb90cf69fd6a6a86053d4d7666607e4eaf4e5547e9978e2ee27bb1",
+      "size": 165391
+    },
+    {
+      "path": "textures/nrt_test/signs_LIT.dds",
+      "crc32": 2206217044,
+      "sha256": "cc6039843cf8234bf407478b94b44e720773e8466e3b687b8c5fb165e255f0fe",
+      "size": 2796344
+    },
+    {
+      "path": "textures/nrt_test/signs_LIT.png",
+      "crc32": 551549999,
+      "sha256": "405bbfa75485ba83729369d40a53ee791eb7c9c37c98b2b2a140bad13942a24c",
+      "size": 145792
+    },
+    {
+      "path": "textures/nrt_test/taxi_wear.dds",
+      "crc32": 1426076648,
+      "sha256": "558d1037aee9b8532a134a23170889a553e6727318c44b0a16b4c2325f6ff1af",
+      "size": 2796368
+    },
+    {
+      "path": "textures/nrt_test/taxi_wear.png",
+      "crc32": 555848760,
+      "sha256": "df1a590d0a710a62ce1307768e46131a28c615a878898ac3838c71d27f7fcfdd",
+      "size": 486681
+    },
+    {
+      "path": "textures/terminal_atlas.png",
+      "crc32": 3993655427,
+      "sha256": "b1410bad3c22fb135d087d7b3930ed1d413fe0f4e3b2faf44aaa66ce0f89468d",
+      "size": 117546
+    },
+    {
+      "path": "textures/terminal_atlas_LIT.png",
+      "crc32": 661616781,
+      "sha256": "d1310f799ab701ad4af790e42373e00d7e423c566e9b3782dd99befc469df1aa",
+      "size": 107654
+    }
+  ],
+  "source_revision": "R22",
+  "prerelease": true
+}

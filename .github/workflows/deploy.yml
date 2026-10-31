@@ -1,0 +1,42 @@
+name: Deploy downloads and updater
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: public-downloads
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify payload and build first-install download
+        run: python tools/package_site.py --out _site
+      - name: Prevent changes to an existing version
+        run: python tools/release_archive.py --site _site --check
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy complete site snapshot
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Archive the versioned download
+        run: python tools/release_archive.py --site _site --publish
+        env:
+          GH_TOKEN: ${{ github.token }}

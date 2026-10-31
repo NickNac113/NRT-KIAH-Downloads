@@ -1,0 +1,15 @@
+# Install NRT KIAH Campus
+
+Download the latest scenery ZIP from [NRT KIAH Downloads](https://nicknac113.github.io/NRT-KIAH-Downloads/).
+
+1. Close X-Plane. Extract the ZIP into your X-Plane 12 folder. The result must be `Custom Scenery/NRT_KIAH_Campus/skunkcrafts_updater.cfg`, with `Earth nav data` beside it. Avoid a second nested `Custom Scenery` folder.
+2. Keep **MisterX Library**, **OpenSAM**, and **openSAM_Library** installed. These are separate dependencies and are not included in this download. Use their developer distributions; keep the copies already working on your PC.
+3. Back up `Custom Scenery/scenery_packs.ini`. Disable previous NRT/KIAH test scenery entries (R20, R21, R22, etc.) so only this KIAH package is active. Keep their folders for rollback. Put `SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/` above other KIAH airport packages and Global Airports, with the libraries below the airport.
+4. Run the current [SkunkCrafts standalone updater](https://updater.skunkcrafts.com/) against this X-Plane folder. It should find **NRT KIAH Campus**. Check and update when offered, with X-Plane closed.
+5. Launch X-Plane and select a main NRT start at KIAH. Check hangar doors, jetways, canopy clearance, pavement and night lighting on your PC.
+
+The first member release is **0.22.0 (R22)**. It includes the private terminal/canopy, enlarged private hangar, landscaped arrival court and original three-bay truck garage. Hangar doors load open with OpenSAM. R22 has offline geometry, export and installer checks; simulator acceptance of the new garage remains pending.
+
+Future updates replace files inside the same `NRT_KIAH_Campus` folder. They do not manage libraries, plugins, aircraft, preferences, or `scenery_packs.ini`. Keep personal custom files outside managed paths or use SkunkCrafts' ignore file. Old versioned scenery folders are not removed automatically.
+
+For rollback, close X-Plane, disable the stable folder and re-enable your previous versioned package. Download links are public; a GitHub account is not required.

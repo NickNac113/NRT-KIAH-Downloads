@@ -1,0 +1,99 @@
+{
+  "name": "Original NRT Truck Service",
+  "revision": "R22",
+  "origin": [
+    3080.0,
+    727.0
+  ],
+  "bounds_en": [
+    3065.3,
+    693.2,
+    3095.1,
+    760.8
+  ],
+  "height_m": 9.8,
+  "service_bays": [
+    {
+      "id": "B1",
+      "center_y": 704.0,
+      "door_width_m": 8,
+      "door_height_m": 5.8,
+      "clear_interior_depth_m": 27.7,
+      "clear_work_width_m": 12,
+      "clear_box": [
+        3067.1,
+        700.1,
+        3094.8,
+        707.9
+      ],
+      "dataref": "nrt/kiah/r22/truck_garage/bay_1_open"
+    },
+    {
+      "id": "B2",
+      "center_y": 720.0,
+      "door_width_m": 8,
+      "door_height_m": 5.8,
+      "clear_interior_depth_m": 27.7,
+      "clear_work_width_m": 12,
+      "clear_box": [
+        3067.1,
+        716.1,
+        3094.8,
+        723.9
+      ],
+      "dataref": "nrt/kiah/r22/truck_garage/bay_2_open"
+    },
+    {
+      "id": "B3",
+      "center_y": 736.0,
+      "door_width_m": 8,
+      "door_height_m": 5.8,
+      "clear_interior_depth_m": 27.7,
+      "clear_work_width_m": 12,
+      "clear_box": [
+        3067.1,
+        732.1,
+        3094.8,
+        739.9
+      ],
+      "dataref": "nrt/kiah/r22/truck_garage/bay_3_open"
+    }
+  ],
+  "office": "Dispatch and driver room in the north end; parts/workbench space at the rear.",
+  "doors": "Original articulated overhead sectional doors, open on load with OpenSAM, independent Close controls.",
+  "geometry_source": "Generated dimensional primitives in Source/R22/build_r22.py; no imported mesh.",
+  "texture_source": "Original seeded metal/paint/concrete/normal/night materials and NRT text atlas generated in the same source; no imported images.",
+  "input_geometry_or_texture_files": [],
+  "inherited_donor_runtime_files_removed": 81,
+  "legacy_donor_instances_removed": 27,
+  "new_placements": [
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_garage.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 3028
+    },
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_doors.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 1032
+    },
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_signs.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 10
+    }
+  ],
+  "runtime_tested": false
+}

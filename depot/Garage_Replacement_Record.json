@@ -1,0 +1,15 @@
+{
+  "revision": "R22",
+  "garage_replacement": "original generated NRT geometry/materials",
+  "known_t02_blocker_resolved": true,
+  "donor_runtime_files_remaining": 0,
+  "source": "Source/R22/build_r22.py",
+  "provenance": "Garage_Provenance.json",
+  "notices_preserved": [
+    "COPYING",
+    "Gateway-original-README.txt"
+  ],
+  "live_updater_configured": true,
+  "scope": "This records the garage replacement and does not replace the inherited scenery licenses or establish a public download destination.",
+  "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot"
+}
