@@ -1,3 +1,13 @@
+0.24.0
+- Approved canopy pull-through with native yellow entry/exit guidance; stop and passenger doorway moved 11 m north. G650/Lineage turning targets; BBJ2 remains tow-only.
+- NRT11 faces east with a gentle taxi branch and straight final approach. GA planning envelope: 20 m wingspan, 22 m length; pushback/tow departure.
+- Marked walk follows the headquarters wall, approaches NRT11 from the north, and continues to the NRT10 hold point. One ground-lit helipad; no beacon.
+- INDOOR PARKING replaces the Private Hangar name. Unified walls remove corner overlap; roof matches MH2 at 20.6 m, with a 16 m clear opening.
+- Left and right Indoor Parking doors now have independent OpenSAM controls, open by default. Six total aircraft-hangar controls; truck doors fixed open.
+- Both main building signs read NRT VIRTUAL HEADQUARTERS. Removed obsolete arrival-court fence framework and red parking marks behind the hangar.
+- Cargo blast fencing faces the apron and follows the complete south, east and northeast cargo fence sections while preserving vehicle openings.
+- Retained all 119 native airport/FBO jetway records and existing service routes. Live simulator checks remain pending.
+
 0.23.0
 - Cohesive FBO/private terminal exterior and matching aircraft canopy materials.
 - Side-entry canopy start facing south, with a passenger-door alignment and native OpenSAM marshaller placement.

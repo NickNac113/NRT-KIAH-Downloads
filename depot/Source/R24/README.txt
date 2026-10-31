@@ -1,0 +1,1 @@
+Authoring records; builds require the private workspace R23/R21/R17 helpers and Laminar tools. No third-party library assets copied. Approved route geometry is recorded in Approved_Pullthrough.json. Runtime testing is separate from these offline checks.

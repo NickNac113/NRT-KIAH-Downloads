@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -9,15 +9,15 @@
   "files": [
     {
       "path": "ASSET_NOTICES.txt",
-      "crc32": 899034516,
-      "sha256": "359d4d5c7997a529900a896362d4d6c1ac9b1b12ebbd3cd0e61d85e16bbb561f",
-      "size": 1828
+      "crc32": 75757961,
+      "sha256": "f90378d65019a89d68f6c6b44f70ac103fbe1b9d676898d90ed1c8355c44ef8b",
+      "size": 2162
     },
     {
       "path": "Build_Evidence.json",
-      "crc32": 3412264994,
-      "sha256": "62b530e50ae01079824825ae40ff0bafe3578ad7bb533f1a003bd393da6e689b",
-      "size": 267788
+      "crc32": 1697675010,
+      "sha256": "18e1cf8f5db9c08fa3ffae6dd11d9c24a4e037e5cad1a6907ee1df44aaf7a894",
+      "size": 493719
     },
     {
       "path": "COPYING",
@@ -39,9 +39,9 @@
     },
     {
       "path": "Earth nav data/+20-100/+29-096.dsf",
-      "crc32": 3731695279,
-      "sha256": "fc1bf46cdbf93a8e9d61277bdef2f96ca440dc19789fc5d03d6cb2c65e2c0980",
-      "size": 942226
+      "crc32": 244440607,
+      "sha256": "ad4557e36b79271894213c30a3c2b90e8412f66c2d863cbc170675ec9d1aa802",
+      "size": 942543
     },
     {
       "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -51,9 +51,9 @@
     },
     {
       "path": "Earth nav data/apt.dat",
-      "crc32": 2107075083,
-      "sha256": "738b7be0cc30fe33fe49fdd7a00a52331ccd0e68016b03629e6e287e885a32e0",
-      "size": 1514918
+      "crc32": 2192929803,
+      "sha256": "87aba4a724fccd402bc215bb6ac808ad8673d8c562d10ae12bef6315a4f9f022",
+      "size": 1518559
     },
     {
       "path": "Garage_Provenance.json",
@@ -75,9 +75,9 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 839576069,
-      "sha256": "71b3acd24abec030b538f95db2677215061b9ecfee255ccab0d68f4bf168b700",
-      "size": 2716
+      "crc32": 458258914,
+      "sha256": "76e3d5b4cc071431c73b430dc08fbe07aff972e27ec5bb99b15efc3396afae6f",
+      "size": 3318
     },
     {
       "path": "README_R22.txt",
@@ -92,10 +92,16 @@
       "size": 3002
     },
     {
+      "path": "README_R24.txt",
+      "crc32": 1638493585,
+      "sha256": "7b9585386b8a559c5ffde02c4bb58b98815e8a7e2d3031a9ed0ed2113b3d2f8b",
+      "size": 3944
+    },
+    {
       "path": "Source/Native/+29-096.txt",
-      "crc32": 924631107,
-      "sha256": "78fe9954527ed6c4f021e5c269052ff4b65b2bba3a34105768510b995fa65fa5",
-      "size": 2463084
+      "crc32": 3350823947,
+      "sha256": "0b317947f8853ad45daedd2512ec02d550616a318b678ea1f229a1ffdccbb758",
+      "size": 2463485
     },
     {
       "path": "Source/Native/+30-096.txt",
@@ -242,10 +248,82 @@
       "size": 11503
     },
     {
+      "path": "Source/R24/Approved_Pullthrough.json",
+      "crc32": 3770307519,
+      "sha256": "a7f23e1a5a32756c0b20c2334eca5b8a04cd6b7193a6bedff6b113daa374d9c8",
+      "size": 355282
+    },
+    {
+      "path": "Source/R24/README.txt",
+      "crc32": 3067967555,
+      "sha256": "7c7e431071e13492e715c8aa1e55d330491605cafa91252b8b350d544ade0897",
+      "size": 255
+    },
+    {
+      "path": "Source/R24/South.dsf.txt",
+      "crc32": 3350823947,
+      "sha256": "0b317947f8853ad45daedd2512ec02d550616a318b678ea1f229a1ffdccbb758",
+      "size": 2463485
+    },
+    {
+      "path": "Source/R24/build_r24.py",
+      "crc32": 1964122274,
+      "sha256": "aecd21e690d2bf4ecd663db7a952a79e110c29ed495ea0136c614a896fcfc7d5",
+      "size": 24259
+    },
+    {
+      "path": "Source/R24/inspect_baseline.py",
+      "crc32": 935648079,
+      "sha256": "c7a3664f6dfe5df20c5c95e6b89e6dfaac96c5d0f02b683e0c38cac6a650eb4d",
+      "size": 1665
+    },
+    {
+      "path": "Source/R24/prepare_delivery.py",
+      "crc32": 2428511128,
+      "sha256": "23d902c6a0a2e4fe63fffa58f6b2f6f376def0a1a33579adf4c4da1b68f8cd34",
+      "size": 6096
+    },
+    {
+      "path": "Source/R24/refinements.py",
+      "crc32": 3908518156,
+      "sha256": "25b61d729aa392113e82cd160c5b3979e96ca4188627ef0b8611abe78f82bd11",
+      "size": 12021
+    },
+    {
+      "path": "Source/R24/render_r24.py",
+      "crc32": 703824622,
+      "sha256": "4434bfc6a0a1bd93a0b953377b67177dfe73dd2d4e32d1ae473584a130505a8e",
+      "size": 3922
+    },
+    {
+      "path": "Source/R24/review_r24.py",
+      "crc32": 4146732093,
+      "sha256": "d7492ce8aef972974d2adee65e933d65c0733b28f78f49f52340caa29b324851",
+      "size": 8645
+    },
+    {
+      "path": "Source/R24/seal_delivery.py",
+      "crc32": 1865549784,
+      "sha256": "27a030bf0e81801a7d0f75e35b0e1d176fc56cc249b92e2eec752f97c5513dc7",
+      "size": 2045
+    },
+    {
+      "path": "Source/R24/seed_builder.py",
+      "crc32": 412822609,
+      "sha256": "896fad635ce8abd15c811e55023f3d2b1b5aded473a846310ad0646a69c91a42",
+      "size": 5471
+    },
+    {
+      "path": "Source/R24/validate_r24.py",
+      "crc32": 2686563164,
+      "sha256": "25d62022d780bc4a38f20230c713414106b879db173b2ad5af2ee56ea3e4d479",
+      "size": 16270
+    },
+    {
       "path": "Source/README.txt",
-      "crc32": 2899637659,
-      "sha256": "4612f2ac12f90c92d98940aab2cc9ea09507abf09e82bd221b6540610e69507c",
-      "size": 692
+      "crc32": 2509227849,
+      "sha256": "0d316590adee69a45930899e446915c63765ce626ed2f12437d216a088d3181c",
+      "size": 697
     },
     {
       "path": "Source/rebuild_dsf.py",
@@ -255,9 +333,9 @@
     },
     {
       "path": "changelog.txt",
-      "crc32": 1180677002,
-      "sha256": "2219a67999b092af7cda23904717fe1fc734ea2234aee2997db59736a9195d38",
-      "size": 1085
+      "crc32": 3684700495,
+      "sha256": "e6f121f14aaa56e46c4f727b92e83ac501c031e90987d593df9a16ba7209b199",
+      "size": 2280
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -579,9 +657,9 @@
     },
     {
       "path": "objects/nrt_test/landside_security.obj",
-      "crc32": 2746877571,
-      "sha256": "e7da3c32d269da8570bf6018e0e2c764f7f7fffd8048692236900c5f6e2c6fcd",
-      "size": 2218371
+      "crc32": 1255969792,
+      "sha256": "bb377ede24d4c2d2c30ab0c1c34318c46f5850f8b996d4965f809908bf354918",
+      "size": 2003879
     },
     {
       "path": "objects/nrt_test/landside_signboards.obj",
@@ -633,9 +711,9 @@
     },
     {
       "path": "objects/nrt_test/paint.obj",
-      "crc32": 1173383748,
-      "sha256": "3eba1bb81aec0687d741954b06bd3f894071f23313045afce5e649dc79aa0c84",
-      "size": 344761
+      "crc32": 311529649,
+      "sha256": "aeee553e61876246e6855cba39dc5df98d9055f5c4d6dda21892c5cbabe4b45a",
+      "size": 332437
     },
     {
       "path": "objects/nrt_test/r21_arrival_landscape.obj",
@@ -681,9 +759,9 @@
     },
     {
       "path": "objects/nrt_test/r22_nrt_truck_doors.obj",
-      "crc32": 1872782627,
-      "sha256": "51b1eb77b56cd0ffbcc8104356740ea1c9f70c87e0b470e950c0ea6d6f2fb01b",
-      "size": 330986
+      "crc32": 1065632944,
+      "sha256": "eca4079e069738813339bad3fc21a3576734e47b30f1ceb6be5b0dfd7da6fd4a",
+      "size": 260127
     },
     {
       "path": "objects/nrt_test/r22_nrt_truck_garage.obj",
@@ -719,6 +797,54 @@
       "path": "objects/nrt_test/r23_ramp_details.obj",
       "crc32": 1571788712,
       "sha256": "96dd14ac69a9b6115540d73d3c85584dddde4314bb16f7665dff74551fcb74bf",
+      "size": 3782
+    },
+    {
+      "path": "objects/nrt_test/r24_access_ids.obj",
+      "crc32": 489391039,
+      "sha256": "6ed3b173468a8429cb808a82bebe8d6cbfb946c66459e56d96b8a1ce4d988f9d",
+      "size": 1787
+    },
+    {
+      "path": "objects/nrt_test/r24_access_paint.obj",
+      "crc32": 1031276377,
+      "sha256": "6f669a140197b84db0e1aea6b1d49200e33fd05eac49aecf8af5553edbd2828c",
+      "size": 50735
+    },
+    {
+      "path": "objects/nrt_test/r24_ground_ids.obj",
+      "crc32": 336479501,
+      "sha256": "ffe958e0810d9d616d6df059291f7f4184de5e429f0e0842d766a65932741537",
+      "size": 2305
+    },
+    {
+      "path": "objects/nrt_test/r24_heli_access_door.obj",
+      "crc32": 539983061,
+      "sha256": "4a105c61eb83d0f8fe0f0c578c6fd8a6ffa3ac6fbec74793978d99fd4ae476ff",
+      "size": 7601
+    },
+    {
+      "path": "objects/nrt_test/r24_identity.obj",
+      "crc32": 835091109,
+      "sha256": "da36595c6f4103e90351e584c4fb5e40e263593a0b8e503e7139731206846d0b",
+      "size": 3169
+    },
+    {
+      "path": "objects/nrt_test/r24_indoor_parking.obj",
+      "crc32": 824760975,
+      "sha256": "43e06332dd1cdc92aaaa5ea6fb9a552233627873dd447c5890bab54e188799b9",
+      "size": 1320667
+    },
+    {
+      "path": "objects/nrt_test/r24_jet_center.obj",
+      "crc32": 2945220378,
+      "sha256": "20ad947a3d53c1cfd686a08c80d22de7f5d83b684cbeceb6833b161e4a37d6a9",
+      "size": 3504666
+    },
+    {
+      "path": "objects/nrt_test/r24_ramp_details.obj",
+      "crc32": 1844009349,
+      "sha256": "e6fbcad05ab019291bfd0913766b3cf71943549c12fb547b525d2355837fae12",
       "size": 3782
     },
     {
@@ -783,15 +909,15 @@
     },
     {
       "path": "opensam.xml",
-      "crc32": 2418991011,
-      "sha256": "fe543500f2e866c2d7232fd53d60399812276057d1b6562b7fb7121300fc791c",
-      "size": 3428
+      "crc32": 3354977869,
+      "sha256": "ca8346bec2336bbdbce0e643cdbcbba5237d567e8e3466300434c8efcb5c7a3b",
+      "size": 2571
     },
     {
       "path": "sam.xml",
-      "crc32": 3096167291,
-      "sha256": "0f8dcff699a2f932e54777ef6a520d4b958c66b17ce62ddad9af5ddc1f88353a",
-      "size": 3381
+      "crc32": 950305868,
+      "sha256": "52150937ffed0c65cc74003a814dfbd5e56f5d3ebb2372e76feae476bc5a1feb",
+      "size": 2524
     },
     {
       "path": "textures/nrt_test/apron.dds",
@@ -1076,6 +1202,72 @@
       "size": 318111
     },
     {
+      "path": "textures/nrt_test/r24_ground_ids.dds",
+      "crc32": 2850623830,
+      "sha256": "da550b051cf35c48512c7d3af11fa87963f0c0e31a3d2ebec5508e8d587b41a4",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r24_ground_ids.png",
+      "crc32": 2094952879,
+      "sha256": "2edf7098da5ce731f0a74d50e6dda3bf859276750f0726a1f64046097e5667b0",
+      "size": 128536
+    },
+    {
+      "path": "textures/nrt_test/r24_identity.dds",
+      "crc32": 2776842137,
+      "sha256": "b7e67abdba92d76bf0d88f795bb70e5af82f75020931fc5a602b2a07de839c01",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r24_identity.png",
+      "crc32": 2366475625,
+      "sha256": "1463c4eefe6f658ae6216ea600c16e0715e3c4835b06a9e61c4162a2db7fb295",
+      "size": 137176
+    },
+    {
+      "path": "textures/nrt_test/r24_identity_LIT.dds",
+      "crc32": 2269449711,
+      "sha256": "c061edaf0c1ca778f5e5d25c7ae5b163e2554f957ad3547499509dc147ec96ef",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r24_identity_LIT.png",
+      "crc32": 3843592601,
+      "sha256": "ee6f51ed99af72ea44eec4dc547eba24a460ff6e3aa5e03b299594afeec44a08",
+      "size": 126776
+    },
+    {
+      "path": "textures/nrt_test/r24_materials.dds",
+      "crc32": 1320997712,
+      "sha256": "0fadb706634f1fba137172c8381e2c1dace8cda776f983decb5b599c1a45ac8f",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r24_materials.png",
+      "crc32": 3189910879,
+      "sha256": "a9802ac53342c0373a13024db0c878482d46195d20a2b43da4dc3849cbb72040",
+      "size": 824427
+    },
+    {
+      "path": "textures/nrt_test/r24_materials_LIT.dds",
+      "crc32": 3923422169,
+      "sha256": "802a8a6ea8f9a253c5e4ccd15d3eb5f5782b71de5172c78a971983723aad4463",
+      "size": 1398248
+    },
+    {
+      "path": "textures/nrt_test/r24_materials_LIT.png",
+      "crc32": 588403422,
+      "sha256": "7d9e43d4fabc5c1b93aefd1f3cd3457ef959419f9b296277f68203162eeecc3f",
+      "size": 7434
+    },
+    {
+      "path": "textures/nrt_test/r24_materials_NML.png",
+      "crc32": 3082667836,
+      "sha256": "0ccfd494388837bf79dd90204261f0f4db5c820b752fa4cd5dc08fda8974c710",
+      "size": 318111
+    },
+    {
       "path": "textures/nrt_test/ramp_wear.dds",
       "crc32": 825845906,
       "sha256": "ce04ac3588503b32391ea0f69481dd3465839aa85f941df5a87462d60c4936ea",
@@ -1148,6 +1340,6 @@
       "size": 107654
     }
   ],
-  "source_revision": "R23",
+  "source_revision": "R24",
   "prerelease": true
 }
