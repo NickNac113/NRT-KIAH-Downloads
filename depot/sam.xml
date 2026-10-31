@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<scenery name="NRT KIAH R22 Original Garage">
+<scenery name="NRT KIAH R23 Jet Center">
   <datarefs>
     <dataref name="nrt/kiah/r10/mx/outer_open" autoplay="false" randomize_phase="false" augment_wind_speed="false">
       <animation t="0" v="1" />

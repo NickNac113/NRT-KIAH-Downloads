@@ -1,15 +1,18 @@
-ASSET_NOTICES.txt|1525
-Build_Evidence.json|260009
+ASSET_NOTICES.txt|1828
+Build_Evidence.json|267788
 COPYING|18693
-Earth nav data/+20-100/+29-096.dsf|941738
+Check OpenSAM.cmd|97
+Check OpenSAM.ps1|3331
+Earth nav data/+20-100/+29-096.dsf|942226
 Earth nav data/+30-100/+30-096.dsf|22135
-Earth nav data/apt.dat|1510224
+Earth nav data/apt.dat|1514918
 Garage_Provenance.json|2462
 Garage_Replacement_Record.json|598
 Gateway-original-README.txt|941
-INSTALL.txt|2047
+INSTALL.txt|2716
 README_R22.txt|522
-Source/Native/+29-096.txt|2460997
+README_R23.txt|3002
+Source/Native/+29-096.txt|2463084
 Source/Native/+30-096.txt|145492
 Source/R17_Helpers/airport_geometry.py|7661
 Source/R17_Helpers/build_test.py|31820
@@ -24,9 +27,19 @@ Source/R22/build_r22.py|18826
 Source/R22/finalize_r22.py|10091
 Source/R22/render_r22.py|4324
 Source/R22/validate_r22.py|8949
-Source/README.txt|641
+Source/R23/OpenSAM_Diagnosis.json|610
+Source/R23/README.txt|337
+Source/R23/South.dsf.txt|2463084
+Source/R23/build_r23.py|18170
+Source/R23/inspect_r22.py|1590
+Source/R23/prepare_delivery.py|3762
+Source/R23/render_r23.py|4032
+Source/R23/review_r23.py|14661
+Source/R23/seal_delivery.py|1901
+Source/R23/validate_r23.py|11503
+Source/README.txt|692
 Source/rebuild_dsf.py|1082
-changelog.txt|373
+changelog.txt|1085
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733
@@ -77,7 +90,7 @@ objects/nrt_test/floor_wear_mh1.obj|1650
 objects/nrt_test/floor_wear_mh2.obj|1650
 objects/nrt_test/floor_wear_mh3.obj|1650
 objects/nrt_test/landside_curbs.obj|160155
-objects/nrt_test/landside_fence.obj|5008
+objects/nrt_test/landside_fence.obj|3716
 objects/nrt_test/landside_lights.obj|89223
 objects/nrt_test/landside_paint.obj|460108
 objects/nrt_test/landside_security.obj|2218371
@@ -89,7 +102,7 @@ objects/nrt_test/mh3_accordion_hangar.obj|684766
 objects/nrt_test/mx_7478I_proxy.obj|235738
 objects/nrt_test/mx_service_lights.obj|72385
 objects/nrt_test/mx_stepped_hangar.obj|1862461
-objects/nrt_test/paint.obj|369879
+objects/nrt_test/paint.obj|344761
 objects/nrt_test/r21_arrival_landscape.obj|86220
 objects/nrt_test/r21_arrival_paint.obj|58538
 objects/nrt_test/r21_identity.obj|2656
@@ -100,8 +113,12 @@ objects/nrt_test/r21_terminal_canopy.obj|933074
 objects/nrt_test/r22_nrt_truck_doors.obj|330986
 objects/nrt_test/r22_nrt_truck_garage.obj|771110
 objects/nrt_test/r22_nrt_truck_signs.obj|2622
-objects/nrt_test/ramp_safety.obj|86623
-objects/nrt_test/ramp_wear.obj|338834
+objects/nrt_test/r23_ground_ids.obj|1823
+objects/nrt_test/r23_identity.obj|3172
+objects/nrt_test/r23_jet_center.obj|3503644
+objects/nrt_test/r23_ramp_details.obj|3782
+objects/nrt_test/ramp_safety.obj|76706
+objects/nrt_test/ramp_wear.obj|337300
 objects/nrt_test/signs_cargo.obj|11724
 objects/nrt_test/signs_fbo.obj|1176
 objects/nrt_test/signs_mh2_accordion_hangar.obj|687
@@ -110,8 +127,8 @@ objects/nrt_test/signs_mx_stepped_hangar.obj|687
 objects/nrt_test/taxi_wear.obj|2643277
 objects/nrt_test/truck_parallel_bays.obj|8136
 objects/nrt_test/truck_parallel_ids.obj|2288
-opensam.xml|3433
-sam.xml|3386
+opensam.xml|3428
+sam.xml|3381
 textures/nrt_test/apron.dds|699192
 textures/nrt_test/apron.png|635529
 textures/nrt_test/apron_NML.png|854626
@@ -148,6 +165,17 @@ textures/nrt_test/r22_garage_signs.dds|1398248
 textures/nrt_test/r22_garage_signs.png|62551
 textures/nrt_test/r22_garage_signs_LIT.dds|1398248
 textures/nrt_test/r22_garage_signs_LIT.png|57702
+textures/nrt_test/r23_ground_ids.dds|2796368
+textures/nrt_test/r23_ground_ids.png|64702
+textures/nrt_test/r23_identity.dds|2796368
+textures/nrt_test/r23_identity.png|69373
+textures/nrt_test/r23_identity_LIT.dds|2796368
+textures/nrt_test/r23_identity_LIT.png|64461
+textures/nrt_test/r23_materials.dds|1398248
+textures/nrt_test/r23_materials.png|824427
+textures/nrt_test/r23_materials_LIT.dds|1398248
+textures/nrt_test/r23_materials_LIT.png|7434
+textures/nrt_test/r23_materials_NML.png|318111
 textures/nrt_test/ramp_wear.dds|349680
 textures/nrt_test/ramp_wear.png|32011
 textures/nrt_test/refined_markings.dds|2796368

@@ -1,0 +1,14 @@
+{
+  "input_ini_entry": "SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/",
+  "ini_entry_correct": true,
+  "openSAM_version": "5.5.0-beta-3 d45807f",
+  "observed": "NRT omitted from OpenSAM startup XML/apt scan; X-Plane subsequently loaded its DSFs and starts.",
+  "suspected": "First-launch scenery discovery timing; not proven.",
+  "restart_test": "User will test later",
+  "configuration": {
+    "door_controls": 8,
+    "native_jetway_records": 119
+  },
+  "r23_action": "Retain configurations; select explicit versioned INI entry before launch; add read-only diagnostic.",
+  "runtime_fixed": false
+}

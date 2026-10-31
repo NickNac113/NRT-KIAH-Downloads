@@ -1,7 +1,7 @@
 {
-  "name": "KIAH_NRT_R22_Original_Garage_R18",
-  "revision": "R18",
-  "layout": "R22",
+  "name": "KIAH_NRT_R23_Jet_Center_Refinement_R19",
+  "revision": "R19",
+  "layout": "R23",
   "jetways": [
     {
       "id": "9A",
@@ -361,6 +361,96 @@
       ],
       "heading": 0,
       "triangles": 8
+    },
+    {
+      "resource": "objects/nrt_test/r21_private_hangar.obj",
+      "origin": [
+        2473,
+        359
+      ],
+      "heading": 0,
+      "triangles": 5032
+    },
+    {
+      "resource": "objects/nrt_test/r21_terminal_canopy.obj",
+      "origin": [
+        2674,
+        330
+      ],
+      "heading": 0,
+      "triangles": 3650
+    },
+    {
+      "resource": "objects/nrt_test/r21_arrival_landscape.obj",
+      "origin": [
+        2711.0,
+        312.5
+      ],
+      "heading": 0,
+      "triangles": 342
+    },
+    {
+      "resource": "objects/nrt_test/r21_planting_bed.obj",
+      "origin": [
+        2711.0,
+        312.5
+      ],
+      "heading": 0,
+      "triangles": 2
+    },
+    {
+      "resource": "objects/nrt_test/r21_identity.obj",
+      "origin": [
+        2674,
+        330
+      ],
+      "heading": 0,
+      "triangles": 10
+    },
+    {
+      "resource": "objects/nrt_test/r21_arrival_paint.obj",
+      "origin": [
+        2711.0,
+        312.5
+      ],
+      "heading": 0,
+      "triangles": 233
+    },
+    {
+      "resource": "objects/nrt_test/r21_stand_ids.obj",
+      "origin": [
+        2674,
+        330
+      ],
+      "heading": 0,
+      "triangles": 4
+    },
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_garage.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 3028
+    },
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_doors.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 1032
+    },
+    {
+      "resource": "objects/nrt_test/r22_nrt_truck_signs.obj",
+      "origin": [
+        3080.0,
+        727.0
+      ],
+      "heading": 0,
+      "triangles": 10
     }
   ],
   "starts": [
@@ -9348,94 +9438,40 @@
   },
   "new_placements": [
     {
-      "resource": "objects/nrt_test/r21_private_hangar.obj",
-      "origin": [
-        2473,
-        359
-      ],
-      "heading": 0,
-      "triangles": 5032
-    },
-    {
-      "resource": "objects/nrt_test/r21_terminal_canopy.obj",
+      "resource": "objects/nrt_test/r23_jet_center.obj",
       "origin": [
         2674,
         330
       ],
       "heading": 0,
-      "triangles": 3650
+      "triangles": 13484
     },
     {
-      "resource": "objects/nrt_test/r21_arrival_landscape.obj",
-      "origin": [
-        2711.0,
-        312.5
-      ],
-      "heading": 0,
-      "triangles": 342
-    },
-    {
-      "resource": "objects/nrt_test/r21_planting_bed.obj",
-      "origin": [
-        2711.0,
-        312.5
-      ],
-      "heading": 0,
-      "triangles": 2
-    },
-    {
-      "resource": "objects/nrt_test/r21_identity.obj",
+      "resource": "objects/nrt_test/r23_identity.obj",
       "origin": [
         2674,
         330
       ],
       "heading": 0,
-      "triangles": 10
+      "triangles": 12
     },
     {
-      "resource": "objects/nrt_test/r21_arrival_paint.obj",
-      "origin": [
-        2711.0,
-        312.5
-      ],
-      "heading": 0,
-      "triangles": 233
-    },
-    {
-      "resource": "objects/nrt_test/r21_stand_ids.obj",
+      "resource": "objects/nrt_test/r23_ground_ids.obj",
       "origin": [
         2674,
         330
       ],
       "heading": 0,
-      "triangles": 4
+      "triangles": 6
     },
     {
-      "resource": "objects/nrt_test/r22_nrt_truck_garage.obj",
+      "resource": "objects/nrt_test/r23_ramp_details.obj",
       "origin": [
-        3080.0,
-        727.0
+        2674,
+        330
       ],
       "heading": 0,
-      "triangles": 3028
-    },
-    {
-      "resource": "objects/nrt_test/r22_nrt_truck_doors.obj",
-      "origin": [
-        3080.0,
-        727.0
-      ],
-      "heading": 0,
-      "triangles": 1032
-    },
-    {
-      "resource": "objects/nrt_test/r22_nrt_truck_signs.obj",
-      "origin": [
-        3080.0,
-        727.0
-      ],
-      "heading": 0,
-      "triangles": 10
+      "triangles": 14
     }
   ],
   "retired_starts": [
@@ -9446,101 +9482,80 @@
   ],
   "retired_dsf_entities": [
     {
-      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "resource": "objects/nrt_test/fbo.obj",
       "bounds": [
-        2436.87359233721,
-        422.86685821341024,
-        2436.87359233721,
-        422.86685821341024
+        2803.2537750062356,
+        376.5093705916932,
+        2803.2537750062356,
+        376.5093705916932
       ]
     },
     {
-      "resource": "objects/nrt_test/mh3_accordion_hangar.obj",
+      "resource": "objects/nrt_test/signs_fbo.obj",
       "bounds": [
-        2478.8862983108615,
-        406.8504943386777,
-        2478.8862983108615,
-        406.8504943386777
+        2803.2537750062356,
+        376.5093705916932,
+        2803.2537750062356,
+        376.5093705916932
       ]
     },
     {
-      "resource": "objects/nrt_test/floor_wear_mh3.obj",
+      "resource": "objects/nrt_test/r21_terminal_canopy.obj",
       "bounds": [
-        2478.8862983108615,
-        406.8504943386777,
-        2478.8862983108615,
-        406.8504943386777
+        2673.994540457476,
+        329.9932535254253,
+        2673.994540457476,
+        329.9932535254253
       ]
     },
     {
-      "resource": "objects/nrt_test/signs_mh3_accordion_hangar.obj",
+      "resource": "objects/nrt_test/r21_identity.obj",
       "bounds": [
-        2478.8862983108615,
-        406.8504943386777,
-        2478.8862983108615,
-        406.8504943386777
+        2673.994540457476,
+        329.9932535254253,
+        2673.994540457476,
+        329.9932535254253
       ]
     },
     {
-      "resource": "lib/airport/ground/pavement_FX/ramp/grunge_size_C.obj",
+      "resource": "objects/nrt_test/r21_stand_ids.obj",
       "bounds": [
-        2645.05042544932,
-        381.9538745627724,
-        2645.05042544932,
-        381.9538745627724
+        2673.994540457476,
+        329.9932535254253,
+        2673.994540457476,
+        329.9932535254253
       ]
     },
     {
-      "resource": "lib/airport/ground/pavement_FX/ramp/grunge_size_C.obj",
+      "resource": "lib/airport/Common_Elements/Fence_Facades/Fence.fac",
       "bounds": [
-        2651.308630734474,
-        309.64245923731687,
-        2651.308630734474,
-        309.64245923731687
-      ]
-    },
-    {
-      "resource": "lib/airport/Ramp_Equipment/towbars/15ft_blue.obj",
-      "bounds": [
-        2436.87359233721,
-        406.8504943386777,
-        2436.87359233721,
-        406.8504943386777
+        2691.8488234943907,
+        291.98747869353014,
+        2719.8265745663175,
+        291.98747869353014
       ]
     }
   ],
   "clipped_objects": [
     {
       "resource": "objects/nrt_test/paint.obj",
-      "triangles_clipped": 38
+      "triangles_clipped": 106
     },
     {
       "resource": "objects/nrt_test/ramp_safety.obj",
-      "triangles_clipped": 48
+      "triangles_clipped": 39
     },
     {
       "resource": "objects/nrt_test/ramp_wear.obj",
-      "triangles_clipped": 272
+      "triangles_clipped": 6
     },
     {
       "resource": "objects/nrt_test/taxi_wear.obj",
-      "triangles_clipped": 196
+      "triangles_clipped": 0
     },
     {
       "resource": "objects/nrt_test/landside_fence.obj",
-      "triangles_clipped": 2
-    },
-    {
-      "resource": "objects/nrt_test/landside_paint.obj",
-      "triangles_clipped": 0
-    },
-    {
-      "resource": "objects/nrt_test/landside_stencils.obj",
-      "triangles_clipped": 0
-    },
-    {
-      "resource": "objects/nrt_test/landside_curbs.obj",
-      "triangles_clipped": 0
+      "triangles_clipped": 5
     }
   ],
   "runtime_tested": false,
@@ -9885,5 +9900,423 @@
     ],
     "original": true,
     "original_donor_copied": false
+  },
+  "r23": {
+    "canopy_nosewheel": [
+      2648.0,
+      303.0
+    ],
+    "heading": 180.0,
+    "passenger_door": [
+      2673.7,
+      303.86
+    ],
+    "marshaller": [
+      2648,
+      286
+    ],
+    "helipad": [
+      2675.0,
+      480.0
+    ],
+    "canopy_clear_height_m": 14,
+    "footprint_wkt": "POLYGON ((2692 292, 2674 292, 2674 330, 2674 372, 2724.61 372, 2724.61 419.39, 2881.97 419.39, 2881.97 333.92, 2724.813903631285 333.92, 2724.813903631285 330, 2692 330, 2692 292))",
+    "columns": [
+      [
+        2621.35,
+        293.35,
+        2622.65,
+        294.65
+      ],
+      [
+        2621.35,
+        345.35,
+        2622.65,
+        346.65
+      ],
+      [
+        2671.35,
+        293.35,
+        2672.65,
+        294.65
+      ],
+      [
+        2671.35,
+        345.35,
+        2672.65,
+        346.65
+      ]
+    ],
+    "vehicle_route": [
+      [
+        2724,
+        300
+      ],
+      [
+        2706,
+        300
+      ],
+      [
+        2705.1461109703605,
+        300.0610713487144
+      ],
+      [
+        2704.3096046589512,
+        300.243042158313
+      ],
+      [
+        2703.5075099219885,
+        300.5422080278729
+      ],
+      [
+        2702.7561550952664,
+        300.9524788030129
+      ],
+      [
+        2702.0708355963284,
+        301.46550255387444
+      ],
+      [
+        2701.4655025538746,
+        302.07083559632827
+      ],
+      [
+        2700.952478803013,
+        302.7561550952664
+      ],
+      [
+        2700.5422080278727,
+        303.5075099219887
+      ],
+      [
+        2700.243042158313,
+        304.3096046589514
+      ],
+      [
+        2700.0610713487144,
+        305.14611097036027
+      ],
+      [
+        2700.0,
+        306.0
+      ],
+      [
+        2700,
+        317
+      ],
+      [
+        2700.0610713487144,
+        317.85388902963973
+      ],
+      [
+        2700.243042158313,
+        318.6903953410486
+      ],
+      [
+        2700.5422080278727,
+        319.4924900780113
+      ],
+      [
+        2700.952478803013,
+        320.2438449047336
+      ],
+      [
+        2701.4655025538746,
+        320.92916440367173
+      ],
+      [
+        2702.0708355963284,
+        321.53449744612556
+      ],
+      [
+        2702.7561550952664,
+        322.0475211969871
+      ],
+      [
+        2703.5075099219885,
+        322.4577919721271
+      ],
+      [
+        2704.3096046589512,
+        322.756957841687
+      ],
+      [
+        2705.1461109703605,
+        322.9389286512856
+      ],
+      [
+        2706.0,
+        323.0
+      ],
+      [
+        2724,
+        323
+      ],
+      [
+        2724.8538890296395,
+        322.9389286512856
+      ],
+      [
+        2725.6903953410488,
+        322.756957841687
+      ],
+      [
+        2726.4924900780115,
+        322.4577919721271
+      ],
+      [
+        2727.2438449047336,
+        322.0475211969871
+      ],
+      [
+        2727.9291644036716,
+        321.53449744612556
+      ],
+      [
+        2728.5344974461254,
+        320.92916440367173
+      ],
+      [
+        2729.047521196987,
+        320.2438449047336
+      ],
+      [
+        2729.4577919721273,
+        319.4924900780113
+      ],
+      [
+        2729.756957841687,
+        318.6903953410486
+      ],
+      [
+        2729.9389286512856,
+        317.85388902963973
+      ],
+      [
+        2730.0,
+        317.0
+      ],
+      [
+        2730,
+        310
+      ],
+      [
+        2730,
+        306
+      ],
+      [
+        2729.9389286512856,
+        305.14611097036027
+      ],
+      [
+        2729.756957841687,
+        304.3096046589514
+      ],
+      [
+        2729.4577919721273,
+        303.5075099219887
+      ],
+      [
+        2729.047521196987,
+        302.7561550952664
+      ],
+      [
+        2728.5344974461254,
+        302.07083559632827
+      ],
+      [
+        2727.9291644036716,
+        301.46550255387444
+      ],
+      [
+        2727.2438449047336,
+        300.9524788030129
+      ],
+      [
+        2726.4924900780115,
+        300.5422080278729
+      ],
+      [
+        2725.6903953410488,
+        300.243042158313
+      ],
+      [
+        2724.8538890296395,
+        300.0610713487144
+      ],
+      [
+        2724.0,
+        300.0
+      ]
+    ],
+    "vehicle_spur": [
+      [
+        2730,
+        310
+      ],
+      [
+        2744,
+        310
+      ]
+    ],
+    "canopy_approach": [
+      [
+        2569.7767070614523,
+        450
+      ],
+      [
+        2570.082063805024,
+        445.73055485180146
+      ],
+      [
+        2570.991917853017,
+        441.5480232947571
+      ],
+      [
+        2572.4877472008166,
+        437.5375496099434
+      ],
+      [
+        2574.539101076517,
+        433.78077547633205
+      ],
+      [
+        2577.1042198308246,
+        430.35417798164144
+      ],
+      [
+        2580.1308850430937,
+        427.3275127693723
+      ],
+      [
+        2583.5574825377844,
+        424.76239401506456
+      ],
+      [
+        2587.3142566713955,
+        422.71104013936446
+      ],
+      [
+        2591.3247303562093,
+        421.2152107915651
+      ],
+      [
+        2595.507261913254,
+        420.305356743572
+      ],
+      [
+        2599.7767070614523,
+        420.0
+      ],
+      [
+        2618,
+        420
+      ],
+      [
+        2622.2694451481984,
+        419.694643256428
+      ],
+      [
+        2626.451976705243,
+        418.7847892084349
+      ],
+      [
+        2630.462450390057,
+        417.28895986063554
+      ],
+      [
+        2634.219224523668,
+        415.23760598493544
+      ],
+      [
+        2637.6458220183586,
+        412.6724872306277
+      ],
+      [
+        2640.6724872306277,
+        409.64582201835856
+      ],
+      [
+        2643.2376059849353,
+        406.21922452366795
+      ],
+      [
+        2645.2889598606357,
+        402.4624503900566
+      ],
+      [
+        2646.784789208435,
+        398.4519767052429
+      ],
+      [
+        2647.694643256428,
+        394.26944514819854
+      ],
+      [
+        2648.0,
+        390.0
+      ],
+      [
+        2648,
+        303
+      ]
+    ],
+    "native_additions": [
+      {
+        "resource": "openSAM/dgs/marshaller.agp",
+        "origin": [
+          2648,
+          286
+        ],
+        "heading": 0
+      },
+      {
+        "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+        "origin": [
+          2700,
+          380
+        ],
+        "heading": 180
+      },
+      {
+        "resource": "objects/nrt_test/r23_jet_center.obj",
+        "origin": [
+          2674,
+          330
+        ],
+        "heading": 0
+      },
+      {
+        "resource": "objects/nrt_test/r23_identity.obj",
+        "origin": [
+          2674,
+          330
+        ],
+        "heading": 0
+      },
+      {
+        "resource": "objects/nrt_test/r23_ground_ids.obj",
+        "origin": [
+          2674,
+          330
+        ],
+        "heading": 0
+      },
+      {
+        "resource": "objects/nrt_test/r23_ramp_details.obj",
+        "origin": [
+          2674,
+          330
+        ],
+        "heading": 0
+      }
+    ],
+    "native_surfaces": [
+      {
+        "resource": "lib/airport/ground/pavement/concrete_L/worn.pol",
+        "wkt": "MULTIPOLYGON (((2620 376, 2674 376, 2674 372, 2674 330, 2674 292, 2620 292, 2620 376)), ((2665 439, 2705 439, 2705 399, 2665 399, 2665 439)))"
+      }
+    ],
+    "door_controls": 8
   }
 }

@@ -1,3 +1,12 @@
+0.23.0
+- Cohesive FBO/private terminal exterior and matching aircraft canopy materials.
+- Side-entry canopy start facing south, with a passenger-door alignment and native OpenSAM marshaller placement.
+- One NRT10 helipad; removed the second pad, stale labels, paint fragments and fence crossing the arrival court.
+- Corrected private-hangar ground-label orientation; native weather-aware pavement and surface details.
+- Native crew-car route from the parking aisle around the median to the passenger curb.
+- Preserved eight door controls and all 119 airport jetway records; added a read-only OpenSAM diagnostic.
+- OpenSAM restart diagnosis and all simulator operation/appearance checks remain pending.
+
 0.22.0
 - First NRT member release with GitHub and SkunkCrafts updates.
 - Original three-bay NRT truck workshop replaces the inherited T02 garage.

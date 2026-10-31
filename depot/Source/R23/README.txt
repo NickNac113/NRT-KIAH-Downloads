@@ -1,0 +1,1 @@
+R23 authoring source and exact native DSF input. Scripts use the private workspace R21/R17 helper modules and Laminar command-line tools. These are authoring records, not an automatic source build on a member PC. Native library assets are referenced, never redistributed. Original procedural R23 material generation is in build_r23.py.

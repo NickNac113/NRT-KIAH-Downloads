@@ -1,10 +1,11 @@
 # Member payload record
 
-The member payload comes from the sealed R22 scenery package. Runtime geometry, textures, placement data, starts and OpenSAM controls are unchanged during updater setup. Release documentation and editable DSF text are added for distribution.
+The 0.23.0 member payload comes from the sealed R23 scenery package. All 153 runtime and license files match that package byte for byte. Release documentation, a read-only OpenSAM checker and current editable DSF text accompany the distribution.
 
 - The inherited Scenery Gateway KIAH contribution by Dave12 retains `COPYING` and `Gateway-original-README.txt` (GPL version 2 or later).
 - NRT custom OBJ8 models, PNG source textures, animation XML, airport text and authoring scripts accompany the release. Editable DSF text is in `Source/Native`; `Source/rebuild_dsf.py` compiles that snapshot with Laminar DSFTool. Earlier authoring scripts retain their historical workspace paths and predecessor requirements.
 - R22's truck garage is original generated geometry and procedural material artwork. All 81 inherited T02 garage model/texture files are absent. `Garage_Provenance.json` records its authoring inputs.
+- R23's Jet Center, canopy, ground details and signs are original generated geometry with original procedural texture maps. Its native pavement, marshaller and vehicle-route resources reference the separately installed libraries. The matching south DSF placement text is updated in `Source/Native`.
 - The scenery references native X-Plane and MisterX library resources. It does not copy their libraries into the depot. OpenSAM and its library remain separate installations.
 - No ATS/SCS extracted assets, aircraft add-ons, fonts, simulator binaries, credentials, or the private 987 MB transfer bundle are included.
 
