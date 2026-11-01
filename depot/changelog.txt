@@ -1,3 +1,15 @@
+0.27.0
+- Cumulative member update from 0.24.0, including R25, R26 and R27. AEP is not required.
+- Native light pavement and restrained wear; cohesive headquarters/canopy materials and recessed jetway wall connections.
+- NRT11 enlarged, still nose east: maximum 66 m / 216.5 ft wingspan AND 50 m / 164 ft length. Approach-side limit markings; pushback/tow departure.
+- Secure aircraft-ramp perimeter separated from public parking. One ground-lit helipad retained.
+- Building-mounted work lights and improved canopy lighting; stock pole mast matching NRT8 added at the NRT9/NRT11 corner.
+- NRT9 stand moved 4 m east for walking clearance. Both jetways, fixed links, wall openings and red movement boxes now match that move.
+- Native paved service connections and seven local service parking positions with a holding destination; extra access nodes on long NB road segments.
+- Modeled canopy and Indoor Parking floors use the dry MH floor treatment; exterior wet surfaces retained.
+- Six default-open OpenSAM aircraft-hangar controls and 119 native airport/FBO jetway records retained. Truck doors fixed open.
+- Simulator checks remain pending for NB vehicle shortcuts, wet sheltered floors, NRT9 docking and night appearance. See README_R27.txt.
+
 0.24.0
 - Approved canopy pull-through with native yellow entry/exit guidance; stop and passenger doorway moved 11 m north. G650/Lineage turning targets; BBJ2 remains tow-only.
 - NRT11 faces east with a gentle taxi branch and straight final approach. GA planning envelope: 20 m wingspan, 22 m length; pushback/tow departure.

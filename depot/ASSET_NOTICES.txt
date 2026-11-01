@@ -1,13 +1,14 @@
 # Member payload record
 
-The 0.24.0 member payload comes from the sealed R24 scenery package, KIAH_R24_Pullthrough_Refinements_R21. All 172 runtime and license files match that package byte for byte. Release documentation, a read-only OpenSAM checker and current editable DSF text accompany the distribution.
+The 0.27.0 member payload comes from the sealed R27 scenery package, KIAH_R27_Shelter_Service_R24, and includes the R25-R27 work since 0.24.0. All 201 runtime and license files match that package byte for byte. Release documentation, a read-only OpenSAM checker and current editable DSF text accompany the distribution.
 
 - The inherited Scenery Gateway KIAH contribution by Dave12 retains `COPYING` and `Gateway-original-README.txt` (GPL version 2 or later).
 - NRT custom OBJ8 models, PNG source textures, animation XML, airport text and authoring scripts accompany the release. Editable DSF text is in `Source/Native`; `Source/rebuild_dsf.py` compiles that snapshot with Laminar DSFTool. Earlier authoring scripts retain their historical workspace paths and predecessor requirements.
 - R22's truck garage is original generated geometry and procedural material artwork. All 81 inherited T02 garage model/texture files are absent. `Garage_Provenance.json` records its authoring inputs.
-- R23's Jet Center, canopy, ground details and signs are original generated geometry with original procedural texture maps. Its native pavement, marshaller and vehicle-route resources reference the separately installed libraries. The matching south DSF placement text is updated in `Source/Native`.
-- R24's revised Indoor Parking structure, door animations, signs, walking marks and guidance use original procedural authoring and native scenery resources. The current south DSF placement text is the R24 snapshot; R24 authoring scripts and approved route inputs are included under `Source/R24`.
-- The scenery references native X-Plane and MisterX library resources. It does not copy their libraries into the depot. OpenSAM and its library remain separate installations.
+- R23/R24's headquarters, canopy, Indoor Parking structure, door animations, signs and guidance use original procedural authoring and native scenery resources. They retain six default-open aircraft-hangar controls and fixed-open truck doors.
+- R25's terminal/canopy finishes, recessed jetway portals and surface details use original generated geometry and texture maps with native/library references. R26 adds original work-light fixtures and native service roads. R27 adds modeled sheltered floors, moves the NRT9 links/portals and references a stock Laminar mast; local service vehicles and routes are native airport records.
+- The current south DSF placement text is the R27 snapshot. Original procedural scripts accompany the release under `Source/R25`, `Source/R26` and `Source/R27`; their old workspace paths describe authoring dependencies, not a portable full build environment.
+- The scenery references native X-Plane and MisterX library resources. It does not copy their libraries into the depot. OpenSAM and its library remain separate installations. AEP is not required.
 - No ATS/SCS extracted assets, aircraft add-ons, fonts, simulator binaries, credentials, or the private 987 MB transfer bundle are included.
 
 This record preserves existing notices; it does not replace upstream licenses. The public release contains the editable formats and source accompanying the scenery. Private development history, build tooling configuration and unreleased work remain in the private repository.

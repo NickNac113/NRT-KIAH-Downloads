@@ -1,19 +1,22 @@
-ASSET_NOTICES.txt|75757961
-Build_Evidence.json|1697675010
+ASSET_NOTICES.txt|3007517145
+Build_Evidence.json|790821307
 COPYING|2122558730
 Check OpenSAM.cmd|1928768293
 Check OpenSAM.ps1|1358243239
-Earth nav data/+20-100/+29-096.dsf|244440607
+Earth nav data/+20-100/+29-096.dsf|1072143126
 Earth nav data/+30-100/+30-096.dsf|2326234223
-Earth nav data/apt.dat|2192929803
+Earth nav data/apt.dat|2666922218
 Garage_Provenance.json|4094886187
 Garage_Replacement_Record.json|1166978272
 Gateway-original-README.txt|102524826
-INSTALL.txt|458258914
+INSTALL.txt|3225196234
 README_R22.txt|1615071817
 README_R23.txt|3096218289
 README_R24.txt|1638493585
-Source/Native/+29-096.txt|3350823947
+README_R25.txt|571827581
+README_R26.txt|282546264
+README_R27.txt|2208219240
+Source/Native/+29-096.txt|332364736
 Source/Native/+30-096.txt|4125969887
 Source/R17_Helpers/airport_geometry.py|4164745813
 Source/R17_Helpers/build_test.py|655054194
@@ -50,9 +53,36 @@ Source/R24/review_r24.py|4146732093
 Source/R24/seal_delivery.py|1865549784
 Source/R24/seed_builder.py|412822609
 Source/R24/validate_r24.py|2686563164
-Source/README.txt|2509227849
+Source/R25/README.txt|1788586778
+Source/R25/South.dsf.txt|1258248674
+Source/R25/build_r25.py|2944195763
+Source/R25/measure_stand.py|2843534848
+Source/R25/prepare_delivery.py|2718259089
+Source/R25/render_r25.py|3020330202
+Source/R25/review_r25.py|1596672376
+Source/R25/seal_delivery.py|3267273009
+Source/R25/validate_r25.py|4053198215
+Source/R26/README.txt|3361580095
+Source/R26/South.dsf.txt|95146554
+Source/R26/build_r26.py|2851009166
+Source/R26/inspect_routes.py|3357157133
+Source/R26/prepare_delivery.py|1317021715
+Source/R26/render_r26.py|940546577
+Source/R26/review_r26.py|3706719721
+Source/R26/seal_delivery.py|2824401031
+Source/R26/validate_r26.py|1610375435
+Source/R27/README.txt|3361580095
+Source/R27/South.dsf.txt|332364736
+Source/R27/audit_r27.py|3182658322
+Source/R27/build_r27.py|2554333615
+Source/R27/prepare_delivery.py|1226483936
+Source/R27/render_r27.py|3161844822
+Source/R27/review_r27.py|3466537280
+Source/R27/seal_delivery.py|3128416856
+Source/R27/validate_r27.py|4003850719
+Source/README.txt|1182451965
 Source/rebuild_dsf.py|3811686248
-changelog.txt|3684700495
+changelog.txt|3690689482
 objects/B_Lobby_Closed.obj|456459122
 objects/B_North.obj|1917700347
 objects/Current_Stand_Labels.obj|3817567693
@@ -115,7 +145,7 @@ objects/nrt_test/mh3_accordion_hangar.obj|1922387365
 objects/nrt_test/mx_7478I_proxy.obj|1502241099
 objects/nrt_test/mx_service_lights.obj|2642955792
 objects/nrt_test/mx_stepped_hangar.obj|4201799676
-objects/nrt_test/paint.obj|311529649
+objects/nrt_test/paint.obj|3948358757
 objects/nrt_test/r21_arrival_landscape.obj|2902597344
 objects/nrt_test/r21_arrival_paint.obj|709044525
 objects/nrt_test/r21_identity.obj|3743831805
@@ -138,7 +168,25 @@ objects/nrt_test/r24_identity.obj|835091109
 objects/nrt_test/r24_indoor_parking.obj|824760975
 objects/nrt_test/r24_jet_center.obj|2945220378
 objects/nrt_test/r24_ramp_details.obj|1844009349
-objects/nrt_test/ramp_safety.obj|3043962456
+objects/nrt_test/r25_access_ids.obj|2789836212
+objects/nrt_test/r25_access_paint.obj|356249300
+objects/nrt_test/r25_fixed_8.obj|3827841956
+objects/nrt_test/r25_fixed_9A.obj|193381337
+objects/nrt_test/r25_fixed_9B.obj|3105058908
+objects/nrt_test/r25_ground_ids.obj|511358689
+objects/nrt_test/r25_human_details.obj|1684888080
+objects/nrt_test/r25_identity.obj|3474174697
+objects/nrt_test/r25_jet_center.obj|3193044322
+objects/nrt_test/r25_jetway_portals.obj|1220442131
+objects/nrt_test/r25_ramp_details.obj|1844009349
+objects/nrt_test/r26_hangar_work_lights.obj|4162491465
+objects/nrt_test/r26_service_road_paint.obj|3595280696
+objects/nrt_test/r26_terminal_work_lights.obj|2120526209
+objects/nrt_test/r27_canopy_floor.obj|4224272504
+objects/nrt_test/r27_indoor_floor.obj|362228802
+objects/nrt_test/r27_service_road_paint.obj|36553828
+objects/nrt_test/r27_sheltered_guidance.obj|2211648644
+objects/nrt_test/ramp_safety.obj|3090076518
 objects/nrt_test/ramp_wear.obj|2243171129
 objects/nrt_test/signs_cargo.obj|4071139399
 objects/nrt_test/signs_fbo.obj|4284727420
@@ -208,6 +256,17 @@ textures/nrt_test/r24_materials.png|3189910879
 textures/nrt_test/r24_materials_LIT.dds|3923422169
 textures/nrt_test/r24_materials_LIT.png|588403422
 textures/nrt_test/r24_materials_NML.png|3082667836
+textures/nrt_test/r25_ground_ids.dds|2186092310
+textures/nrt_test/r25_ground_ids.png|98236604
+textures/nrt_test/r25_identity.dds|2776842137
+textures/nrt_test/r25_identity.png|2366475625
+textures/nrt_test/r25_identity_LIT.dds|2269449711
+textures/nrt_test/r25_identity_LIT.png|3843592601
+textures/nrt_test/r25_materials.dds|2160766583
+textures/nrt_test/r25_materials.png|1652829399
+textures/nrt_test/r25_materials_LIT.dds|4162520072
+textures/nrt_test/r25_materials_LIT.png|2291538290
+textures/nrt_test/r25_materials_NML.png|564002863
 textures/nrt_test/ramp_wear.dds|825845906
 textures/nrt_test/ramp_wear.png|3444430921
 textures/nrt_test/refined_markings.dds|1951075485

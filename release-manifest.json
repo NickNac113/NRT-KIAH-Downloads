@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.24.0",
+  "version": "0.27.0",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -9,15 +9,15 @@
   "files": [
     {
       "path": "ASSET_NOTICES.txt",
-      "crc32": 75757961,
-      "sha256": "f90378d65019a89d68f6c6b44f70ac103fbe1b9d676898d90ed1c8355c44ef8b",
-      "size": 2162
+      "crc32": 3007517145,
+      "sha256": "54ffad7a0ccefe08d9a3381be7f56ccc050c3db18eb5cd7e0f4f57369dae6f4c",
+      "size": 2525
     },
     {
       "path": "Build_Evidence.json",
-      "crc32": 1697675010,
-      "sha256": "18e1cf8f5db9c08fa3ffae6dd11d9c24a4e037e5cad1a6907ee1df44aaf7a894",
-      "size": 493719
+      "crc32": 790821307,
+      "sha256": "50636a9ac04bede2361e5f6c0c52bf05b88e566dc76396f823c1c7f4302ea993",
+      "size": 650275
     },
     {
       "path": "COPYING",
@@ -39,9 +39,9 @@
     },
     {
       "path": "Earth nav data/+20-100/+29-096.dsf",
-      "crc32": 244440607,
-      "sha256": "ad4557e36b79271894213c30a3c2b90e8412f66c2d863cbc170675ec9d1aa802",
-      "size": 942543
+      "crc32": 1072143126,
+      "sha256": "7bd1bf176ba98e5bea914f485379308fe90407fca42965c94ff08773006ec4f1",
+      "size": 943636
     },
     {
       "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -51,9 +51,9 @@
     },
     {
       "path": "Earth nav data/apt.dat",
-      "crc32": 2192929803,
-      "sha256": "87aba4a724fccd402bc215bb6ac808ad8673d8c562d10ae12bef6315a4f9f022",
-      "size": 1518559
+      "crc32": 2666922218,
+      "sha256": "93f1948011fea99f0812e79e3aa49ee9399279fa3650205069b656ef46789c5e",
+      "size": 1540549
     },
     {
       "path": "Garage_Provenance.json",
@@ -75,9 +75,9 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 458258914,
-      "sha256": "76e3d5b4cc071431c73b430dc08fbe07aff972e27ec5bb99b15efc3396afae6f",
-      "size": 3318
+      "crc32": 3225196234,
+      "sha256": "41558942e1600fc7d5d80650a9d2a647512494e9dc197b4a328a5bce04665569",
+      "size": 3509
     },
     {
       "path": "README_R22.txt",
@@ -98,10 +98,28 @@
       "size": 3944
     },
     {
+      "path": "README_R25.txt",
+      "crc32": 571827581,
+      "sha256": "27b0cf4ff45f2816bb5501cfa17bab9dff8a5537530e503772a1eb7c7ab46e5c",
+      "size": 5231
+    },
+    {
+      "path": "README_R26.txt",
+      "crc32": 282546264,
+      "sha256": "5a758333ae5ec8e60033aeb6e1775170c5589259c306450afbd9db92cb386711",
+      "size": 3583
+    },
+    {
+      "path": "README_R27.txt",
+      "crc32": 2208219240,
+      "sha256": "dfac9121775c6b4d3bbbbee2559097aeff43cb0d82a04e5d8a20ced3a3d43962",
+      "size": 3686
+    },
+    {
       "path": "Source/Native/+29-096.txt",
-      "crc32": 3350823947,
-      "sha256": "0b317947f8853ad45daedd2512ec02d550616a318b678ea1f229a1ffdccbb758",
-      "size": 2463485
+      "crc32": 332364736,
+      "sha256": "620b620cb9978114d996aef7a375b1a97a4349e48758dc4ce66348ccf2c256f6",
+      "size": 2464922
     },
     {
       "path": "Source/Native/+30-096.txt",
@@ -320,10 +338,172 @@
       "size": 16270
     },
     {
+      "path": "Source/R25/README.txt",
+      "crc32": 1788586778,
+      "sha256": "fdd94633bb2a8a2be4729c0c124487897be3bb3a62277f5413c2e423951cd896",
+      "size": 188
+    },
+    {
+      "path": "Source/R25/South.dsf.txt",
+      "crc32": 1258248674,
+      "sha256": "544a7a1658c3171d3c22ce55d655930f942d6a6368a8c3b91d4626304cf3bb5c",
+      "size": 2463920
+    },
+    {
+      "path": "Source/R25/build_r25.py",
+      "crc32": 2944195763,
+      "sha256": "4e7131f1c4201a7b1fb4d76e8742a601177478537709329a917d658240efc518",
+      "size": 21486
+    },
+    {
+      "path": "Source/R25/measure_stand.py",
+      "crc32": 2843534848,
+      "sha256": "8a2c5da716830c8db9533ac3ca1e3a19a3c6bda96902cbf0cbd70caffbce0222",
+      "size": 2332
+    },
+    {
+      "path": "Source/R25/prepare_delivery.py",
+      "crc32": 2718259089,
+      "sha256": "976ce705c1a282e3b597c4af63945c8b1e7929b974ef9fa3f4a6d1dd1c0c71f1",
+      "size": 6943
+    },
+    {
+      "path": "Source/R25/render_r25.py",
+      "crc32": 3020330202,
+      "sha256": "8c69991cefc09259ed3722b218b93013928e7dd0ea4c5a0c6c1b6034b16a92b1",
+      "size": 6258
+    },
+    {
+      "path": "Source/R25/review_r25.py",
+      "crc32": 1596672376,
+      "sha256": "0d913f59176dc539bd89f6bbd28c0a29f8e98179f37a0f4b4f2c893ff1fe99b9",
+      "size": 11025
+    },
+    {
+      "path": "Source/R25/seal_delivery.py",
+      "crc32": 3267273009,
+      "sha256": "ce522c60e94a4435f488e815e88afe9b1ba7f111b0faae9a49b1c71446d55ac3",
+      "size": 2211
+    },
+    {
+      "path": "Source/R25/validate_r25.py",
+      "crc32": 4053198215,
+      "sha256": "2e66c0d6c5a40d20f878471df2af2a9ba786150f0bda5ca7b15f30ff2f79f2d6",
+      "size": 15132
+    },
+    {
+      "path": "Source/R26/README.txt",
+      "crc32": 3361580095,
+      "sha256": "d3fa102119d5591da6ec5a4da925e9db01e820b4f0f873daa588a95a1b9c708c",
+      "size": 171
+    },
+    {
+      "path": "Source/R26/South.dsf.txt",
+      "crc32": 95146554,
+      "sha256": "9d1a9bdae7e5854764d755b32b97590ce5803b19fbe35ceca196a96dbfdbe21f",
+      "size": 2464468
+    },
+    {
+      "path": "Source/R26/build_r26.py",
+      "crc32": 2851009166,
+      "sha256": "08012a184e6525a7012a450f432275739219289a8e113133524c7d26a9444bf7",
+      "size": 14797
+    },
+    {
+      "path": "Source/R26/inspect_routes.py",
+      "crc32": 3357157133,
+      "sha256": "eef4b030cfdcddba209c6f6688135b8dd143ad59b5001728207e068e0b93a924",
+      "size": 2361
+    },
+    {
+      "path": "Source/R26/prepare_delivery.py",
+      "crc32": 1317021715,
+      "sha256": "84ace00823d1d8ce53793a78cc86c7ace1dcba6c2d3d415ae2060d0897b47276",
+      "size": 5245
+    },
+    {
+      "path": "Source/R26/render_r26.py",
+      "crc32": 940546577,
+      "sha256": "845b2ee4854185f363e92f62c0dabf71e1fdabff8aa2319f551e24d2c190f585",
+      "size": 1325
+    },
+    {
+      "path": "Source/R26/review_r26.py",
+      "crc32": 3706719721,
+      "sha256": "6f0452c733ca8b30d45aad12989f1d22137f54591e036aa26d60d328d86b9236",
+      "size": 9862
+    },
+    {
+      "path": "Source/R26/seal_delivery.py",
+      "crc32": 2824401031,
+      "sha256": "e905cab828b54ed05e2ef347bfff58f39dd44ac02c761fe90b80a9ebf68d5b8b",
+      "size": 2247
+    },
+    {
+      "path": "Source/R26/validate_r26.py",
+      "crc32": 1610375435,
+      "sha256": "ec39b2b38e021789de535f86f828bc95f0edcbca3b192511c33a77f2ead82780",
+      "size": 14615
+    },
+    {
+      "path": "Source/R27/README.txt",
+      "crc32": 3361580095,
+      "sha256": "d3fa102119d5591da6ec5a4da925e9db01e820b4f0f873daa588a95a1b9c708c",
+      "size": 171
+    },
+    {
+      "path": "Source/R27/South.dsf.txt",
+      "crc32": 332364736,
+      "sha256": "620b620cb9978114d996aef7a375b1a97a4349e48758dc4ce66348ccf2c256f6",
+      "size": 2464922
+    },
+    {
+      "path": "Source/R27/audit_r27.py",
+      "crc32": 3182658322,
+      "sha256": "68c1b06e67e3eec36e947e13afa9c72bf0bc63426d13ef689fd1997b521320e0",
+      "size": 3664
+    },
+    {
+      "path": "Source/R27/build_r27.py",
+      "crc32": 2554333615,
+      "sha256": "ddce5e7401e4a4916b6c87036c6d8cfe2785271b74ca1adf9f6c2638e6b3c825",
+      "size": 13010
+    },
+    {
+      "path": "Source/R27/prepare_delivery.py",
+      "crc32": 1226483936,
+      "sha256": "2b32a2690c1a7d1940289959375088a8638f8f7521d6028e1d5899b4cecbf13e",
+      "size": 5007
+    },
+    {
+      "path": "Source/R27/render_r27.py",
+      "crc32": 3161844822,
+      "sha256": "78d10fb89bc7c40116be7823cb32aa687ce7c22ab01b07e0f1ba4df06e548501",
+      "size": 1785
+    },
+    {
+      "path": "Source/R27/review_r27.py",
+      "crc32": 3466537280,
+      "sha256": "05d3e8f35ddd16a64d760f88fefe0fcef9607cd3f21be23ec20f28e48dab7c52",
+      "size": 9420
+    },
+    {
+      "path": "Source/R27/seal_delivery.py",
+      "crc32": 3128416856,
+      "sha256": "b5589078b8b2ccdf46dfb04d0a0f81e39c8bf43f6c73123d825075c844aa9362",
+      "size": 2193
+    },
+    {
+      "path": "Source/R27/validate_r27.py",
+      "crc32": 4003850719,
+      "sha256": "5590e38557301e3cf8c98f7e958511343989c260bbce39862b639c1984dfedcb",
+      "size": 12497
+    },
+    {
       "path": "Source/README.txt",
-      "crc32": 2509227849,
-      "sha256": "0d316590adee69a45930899e446915c63765ce626ed2f12437d216a088d3181c",
-      "size": 697
+      "crc32": 1182451965,
+      "sha256": "db67ccb23cac035c58f11ffb3448eab4b2d5278726e835f188ced30ba790aff3",
+      "size": 712
     },
     {
       "path": "Source/rebuild_dsf.py",
@@ -333,9 +513,9 @@
     },
     {
       "path": "changelog.txt",
-      "crc32": 3684700495,
-      "sha256": "e6f121f14aaa56e46c4f727b92e83ac501c031e90987d593df9a16ba7209b199",
-      "size": 2280
+      "crc32": 3690689482,
+      "sha256": "c7119a022ff9eefb7b5d85f0b641fef749cba111ed7ab018123edb181024a266",
+      "size": 3537
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -711,8 +891,8 @@
     },
     {
       "path": "objects/nrt_test/paint.obj",
-      "crc32": 311529649,
-      "sha256": "aeee553e61876246e6855cba39dc5df98d9055f5c4d6dda21892c5cbabe4b45a",
+      "crc32": 3948358757,
+      "sha256": "52d6ae7a9c3ee7ea1e72bbfcf2df710b146cab6dfab8122e1e86f5d712a12640",
       "size": 332437
     },
     {
@@ -848,9 +1028,117 @@
       "size": 3782
     },
     {
+      "path": "objects/nrt_test/r25_access_ids.obj",
+      "crc32": 2789836212,
+      "sha256": "d581fe14de6713e9316ec67922020e654ac7e491d9d153eed3815410a674e429",
+      "size": 2739
+    },
+    {
+      "path": "objects/nrt_test/r25_access_paint.obj",
+      "crc32": 356249300,
+      "sha256": "4cef2db3a714f7bf2339d5e01a055e92126e68b35329da89e911677d496cb867",
+      "size": 41158
+    },
+    {
+      "path": "objects/nrt_test/r25_fixed_8.obj",
+      "crc32": 3827841956,
+      "sha256": "7f2997d173b6e922b0da7a96681384ac120ee018a70f89d1026820d607bb4a36",
+      "size": 198619
+    },
+    {
+      "path": "objects/nrt_test/r25_fixed_9A.obj",
+      "crc32": 193381337,
+      "sha256": "76a68e166053b8c1b5a56eeb0e6411273d0137ed4da50834f29bf8af01306eac",
+      "size": 196227
+    },
+    {
+      "path": "objects/nrt_test/r25_fixed_9B.obj",
+      "crc32": 3105058908,
+      "sha256": "652cdb352d0976599c0a682a00d2a3205bfb22bdb5d516d810b6e7764faf11e8",
+      "size": 205819
+    },
+    {
+      "path": "objects/nrt_test/r25_ground_ids.obj",
+      "crc32": 511358689,
+      "sha256": "2940c53e7e8da28d9937ba837ffcf71458280f93cc15b7e86143dceb02b97899",
+      "size": 2308
+    },
+    {
+      "path": "objects/nrt_test/r25_human_details.obj",
+      "crc32": 1684888080,
+      "sha256": "695eaa2719211b75778934ba623c0ec1a2543298b3a7a46c000f707851cf2cd3",
+      "size": 45314
+    },
+    {
+      "path": "objects/nrt_test/r25_identity.obj",
+      "crc32": 3474174697,
+      "sha256": "73bd82673f50b5d1f512f5463edf78165669c2f42b456816577913d45996720c",
+      "size": 3186
+    },
+    {
+      "path": "objects/nrt_test/r25_jet_center.obj",
+      "crc32": 3193044322,
+      "sha256": "3bd5084d422c7b96220de5016a4acd4c55820fb43e1543d1eda29c81e207856f",
+      "size": 4568317
+    },
+    {
+      "path": "objects/nrt_test/r25_jetway_portals.obj",
+      "crc32": 1220442131,
+      "sha256": "ad2aad6d9ccc5e40aa636adf034cb6f11614328f1324001a93ea94361aeced1b",
+      "size": 64079
+    },
+    {
+      "path": "objects/nrt_test/r25_ramp_details.obj",
+      "crc32": 1844009349,
+      "sha256": "e6fbcad05ab019291bfd0913766b3cf71943549c12fb547b525d2355837fae12",
+      "size": 3782
+    },
+    {
+      "path": "objects/nrt_test/r26_hangar_work_lights.obj",
+      "crc32": 4162491465,
+      "sha256": "fe9756c675800115e734ab3af977398ffbdf36463975dc48736d7c4013099524",
+      "size": 37194
+    },
+    {
+      "path": "objects/nrt_test/r26_service_road_paint.obj",
+      "crc32": 3595280696,
+      "sha256": "64a6672862a3d6fe8e526c92e7355b8dd5b903d5f3b570015da7d26547d21c8b",
+      "size": 93527
+    },
+    {
+      "path": "objects/nrt_test/r26_terminal_work_lights.obj",
+      "crc32": 2120526209,
+      "sha256": "b590c1db75a0b04a3ec7d51df470846ea78031639c3449faefcdaa0f7260f921",
+      "size": 79106
+    },
+    {
+      "path": "objects/nrt_test/r27_canopy_floor.obj",
+      "crc32": 4224272504,
+      "sha256": "2604bbfa0de1d3fe422f0afd04bde1608213145934687c3c700764d2481a5e07",
+      "size": 58263
+    },
+    {
+      "path": "objects/nrt_test/r27_indoor_floor.obj",
+      "crc32": 362228802,
+      "sha256": "065ae81225d3058db82466c22bcade3a24686c627e5a0aa8071d8ffe6d609a0a",
+      "size": 185514
+    },
+    {
+      "path": "objects/nrt_test/r27_service_road_paint.obj",
+      "crc32": 36553828,
+      "sha256": "2c11b1c2bbb9eb9af78b1ad63d46532744f89555adf7a8ac76e13a2d726ab825",
+      "size": 314159
+    },
+    {
+      "path": "objects/nrt_test/r27_sheltered_guidance.obj",
+      "crc32": 2211648644,
+      "sha256": "75a34f8615a1531bbb0234d6276734bec4c1b336ba01d43e1cd077b91b0a4abb",
+      "size": 47522
+    },
+    {
       "path": "objects/nrt_test/ramp_safety.obj",
-      "crc32": 3043962456,
-      "sha256": "b229312fcfeadd4a1160973657f63212cc7cd5ef53e9d24f66e1a3f462c310ac",
+      "crc32": 3090076518,
+      "sha256": "baf3e627c1ceff80497014fd62527e996df1f933065b48e577a9fe5cd275b379",
       "size": 76706
     },
     {
@@ -1268,6 +1556,72 @@
       "size": 318111
     },
     {
+      "path": "textures/nrt_test/r25_ground_ids.dds",
+      "crc32": 2186092310,
+      "sha256": "1f5266943d3cbeda6a6911455d587f80678508cd2c22f4dd09a9c6f490749cdb",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r25_ground_ids.png",
+      "crc32": 98236604,
+      "sha256": "3c4f7335b6cc5a9d1b5e04f510e7059136e33d60c49d1730dc4f86210577f9c4",
+      "size": 120204
+    },
+    {
+      "path": "textures/nrt_test/r25_identity.dds",
+      "crc32": 2776842137,
+      "sha256": "b7e67abdba92d76bf0d88f795bb70e5af82f75020931fc5a602b2a07de839c01",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r25_identity.png",
+      "crc32": 2366475625,
+      "sha256": "1463c4eefe6f658ae6216ea600c16e0715e3c4835b06a9e61c4162a2db7fb295",
+      "size": 137176
+    },
+    {
+      "path": "textures/nrt_test/r25_identity_LIT.dds",
+      "crc32": 2269449711,
+      "sha256": "c061edaf0c1ca778f5e5d25c7ae5b163e2554f957ad3547499509dc147ec96ef",
+      "size": 5592560
+    },
+    {
+      "path": "textures/nrt_test/r25_identity_LIT.png",
+      "crc32": 3843592601,
+      "sha256": "ee6f51ed99af72ea44eec4dc547eba24a460ff6e3aa5e03b299594afeec44a08",
+      "size": 126776
+    },
+    {
+      "path": "textures/nrt_test/r25_materials.dds",
+      "crc32": 2160766583,
+      "sha256": "eb2421890f809edb5e3f83a6bffe4c513ac70bb0c4a7ac7b5aa892099607a018",
+      "size": 5592552
+    },
+    {
+      "path": "textures/nrt_test/r25_materials.png",
+      "crc32": 1652829399,
+      "sha256": "9c8baf0971e1049b0740a57aa16aaa7ccbbbb917d9b41f8694f01142c3e91f2f",
+      "size": 2819203
+    },
+    {
+      "path": "textures/nrt_test/r25_materials_LIT.dds",
+      "crc32": 4162520072,
+      "sha256": "dea04e07ed87c4aa6cd112fbd0db3f8e816cec79d274ac89ed64dc2680c7c477",
+      "size": 5592552
+    },
+    {
+      "path": "textures/nrt_test/r25_materials_LIT.png",
+      "crc32": 2291538290,
+      "sha256": "32cadcfcc7753ff800e0c74879d07b13866fdd2b6ee6307e877ef4e3480e978d",
+      "size": 26982
+    },
+    {
+      "path": "textures/nrt_test/r25_materials_NML.png",
+      "crc32": 564002863,
+      "sha256": "e492e216582b3fb862714adca713918f925be449e31f3050855032ad2ef148ae",
+      "size": 1388708
+    },
+    {
       "path": "textures/nrt_test/ramp_wear.dds",
       "crc32": 825845906,
       "sha256": "ce04ac3588503b32391ea0f69481dd3465839aa85f941df5a87462d60c4936ea",
@@ -1340,6 +1694,6 @@
       "size": 107654
     }
   ],
-  "source_revision": "R24",
+  "source_revision": "R27",
   "prerelease": true
 }
