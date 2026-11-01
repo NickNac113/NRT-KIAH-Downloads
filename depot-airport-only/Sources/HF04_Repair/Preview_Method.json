@@ -1,0 +1,9 @@
+{
+  "game_capture": false,
+  "renderer": "Blender Cycles; actual custom OBJ8 assets and stock parked jetway meshes.",
+  "scope": "Native first-wins pavement layering, including paint/light attributes attached to 110 pavement boundaries and separate 120 markings. Simplified surface materials and line widths. Blue dots illustrate edge-light paths with approximate spacing; actual lamp assets and exact spacing are not simulated. Gray retained building massing is simplified. Terrain relief, AEP effects, equipment and traffic are omitted. No docking simulation.",
+  "airport_data_inputs": {
+    "Before": "f13323d6faa7df0eedc067869f0d5cf13ec10c189bc77f29ff0531fcf994d69d",
+    "After": "8628aac7c991984c8638169e29eb3c92782858602b0fa7decf655f4baa14e104"
+  }
+}

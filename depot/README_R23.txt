@@ -1,3 +1,7 @@
+HISTORICAL NOTES - retained from the previous member release.
+For this package use README.txt and INSTALL.txt. The test installers and
+review outputs mentioned below are not included in the member ZIP.
+
 NRT KIAH Campus 0.23.0 (R23)
 
 See INSTALL.txt for the stable NRT_KIAH_Campus folder and SkunkCrafts updates.

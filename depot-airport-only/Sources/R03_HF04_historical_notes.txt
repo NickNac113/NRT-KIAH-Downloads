@@ -1,0 +1,69 @@
+KIAH R03 HF04 - B NORTH ISLAND CLEANUP
+24 October 2026
+STAGED FOR REVIEW. NOT INSTALLED. X-PLANE TEST PENDING.
+
+HF03 was reported to look good except for the old island and taxiway markings
+beside B5. HF04 addresses this local B North apron defect.
+
+CHANGES
+* Cover approximately 18,368 square metres of exposed legacy asphalt with
+  light apron concrete, including a 1 cm overlap to avoid coordinate slivers.
+* Remove obsolete island-edge paint and blue edge-light paths at the rebuilt
+  B pier tips and where this apron now joins taxiway NB. Remove six small
+  inherited marking fragments in the same local area.
+* Edit 28 edge attributes across 11 source records, removing approximately
+  1,003 metres of obsolete edge/marking paths. This is path length, not a count
+  of separate painted stripes or light fixtures.
+* Preserve all original pavement geometry and Bezier curves. Where an edited
+  painted edge crosses the repair boundary, retain its outside portion as a
+  separate line; the original pavement boundary itself is unchanged.
+
+PRESERVED
+All five runways, 988 aircraft taxi edges, 622 service edges, 1,450 shared route
+nodes, 240 aircraft starts, 119 service starts/destinations, 116 moving jetways,
+flow rules and authored stand/GSE/circulation markings remain unchanged.
+All DSFs, custom models, textures, buildings and exclusions are byte-identical
+to the sealed HF03 package. This repair does not revise the airport layout.
+
+CHECKS AND PREVIEWS
+12/12 targeted offline checks passed against the written airport file.
+They verify local surface coverage, removal of obsolete paint/light paths,
+preservation outside the cleanup area, and unchanged operational records.
+The original pavement nodes and curves were checked independently of style
+attributes. Retained painted/light paths outside the repair agree within
+4 mm at the source sampling and native output precision.
+The installed HF03 package and scenery order are unchanged.
+
+These are custom offline checks, not WED validation or simulator acceptance.
+The previews render actual custom models and stock moving-jetway meshes at
+their parked positions. Native pavement layering is resolved in file order.
+Both pavement-attached edge markings and separate line features are included.
+Materials, paint widths and lighting are approximate. Blue dots illustrate
+light paths; actual fixture geometry and exact spacing are not simulated.
+Retained buildings are simplified gray massing. AEP effects, terrain relief,
+traffic and equipment are omitted. The views are not X-Plane screenshots.
+
+AFTER AN APPROVED INSTALL
+1. Load B5 and inspect the apron from the angle in your screenshot. The dark
+   rounded islands, duplicate yellow borders and blue lights across the new
+   apron should be gone.
+2. Inspect the other B pier tip around B17/B18 and the junction with NB.
+   Stand lead-ins, ground gate numbers and the active NB centerline remain.
+3. Check the new-to-retained pavement boundary for a seam or stray lights,
+   ideally in daylight and at dusk.
+HF03's remaining docking, AI/service behavior and layout-evidence limitations
+continue to apply; this local cleanup does not expand their acceptance.
+
+INSTALLATION
+This is a complete successor airport for the existing single R03 add-on slot.
+After approval, back up HF03 and replace that slot, retaining its scenery order.
+Do not enable HF03 and HF04 as competing KIAH airports. No installation or
+simulator reload was performed while preparing this review.
+
+PROVENANCE
+HF03 and earlier source/repair records remain under Sources. HF04 records
+describe the latest local repair and take precedence for its staged status.
+Build helpers require preserved workspace inputs and are included for audit,
+not as a standalone portable build system. No third-party AEP assets are copied.
+Technical reference:
+https://developer.x-plane.com/article/airport-data-apt-dat-12-00-file-format-specification/

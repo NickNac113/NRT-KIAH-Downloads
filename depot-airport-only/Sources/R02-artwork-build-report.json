@@ -1,0 +1,520 @@
+{
+  "build_date": "2026-10-24",
+  "pack": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02",
+  "ramp_count": 240,
+  "runways": 5,
+  "new_B_north_gates": 22,
+  "new_D_west_primary_gates": 6,
+  "D_west_manual_alternates": 8,
+  "new_active_jetways": 32,
+  "removed_scenery": {
+    "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_4.agp": 8,
+    "lib/street/waste_management/Dumpster_30Y_empty_2.obj": 1,
+    "lib/airport/Modern_Airports/Terminal_kit/columns/column_9m_80a.obj": 1,
+    "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp": 7,
+    "lib/airport/Ramp_Equipment/Stair_Maint_1.obj": 1,
+    "lib/airport/Ramp_Equipment/Traffic_Stalk_1.obj": 69,
+    "stand detail replacement: lib/airport/Ramp_Equipment/Traffic_Stalk_1.obj": 8,
+    "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj": 76,
+    "stand detail replacement: lib/airport/Ramp_Equipment/Luggage_Cart_1.obj": 4,
+    "lib/airport/Ramp_Equipment/Cargo_Dolly_1.obj": 2,
+    "lib/airport/Ramp_Equipment/Cargo_Loader_1.obj": 2,
+    "lib/airport/Ramp_Equipment/Belt_Loader.obj": 15,
+    "stand detail replacement: lib/airport/Ramp_Equipment/Belt_Loader.obj": 1,
+    "lib/airport/Ramp_Equipment/Cargo_Container_6.obj": 1,
+    "lib/g10/US/industrial/light/WLoadRamp_48m.obj": 1,
+    "stand detail replacement: lib/airport/Ramp_Equipment/GPU_1.obj": 2,
+    "lib/airport/Ramp_Equipment/GPU_1.obj": 9,
+    "lib/airport/Ramp_Equipment/Lugg_Train_Straight1.obj": 5,
+    "lib/airport/Ramp_Equipment/Tow_Tractor_1.obj": 17,
+    "lib/airport/Common_Elements/vehicles/Fuel_Truck_Small.obj": 1,
+    "lib/airport/Ramp_Equipment/Tow_Tractor_2.obj": 7,
+    "lib/airport/Modern_Airports/Terminal_kit/columns/column_4m_80a.obj": 14,
+    "lib/cars/car_static_invar.obj": 10,
+    "lib/airport/Ramp_Equipment/Towbar_1.obj": 1,
+    "lib/airport/Common_Elements/Barriers/concrete/grey_3m.obj": 8,
+    "lib/street/streetlights/AreaFlood_Large.obj": 17,
+    "lib/airport/Ramp_Equipment/Air_Start_2.obj": 2,
+    "stand detail replacement: lib/airport/Ramp_Equipment/Air_Start_2.obj": 1,
+    "lib/airport/Ramp_Equipment/Luggage_Cart.obj": 4,
+    "reopened west taxiways: lib/airport/Common_Elements/Barriers/concrete/red_3m.obj": 131,
+    "lib/airport/ground/terrain_FX/lawn_tracks/spot_1.obj": 6,
+    "lib/airport/ground/terrain_FX/taxi_sign_base/light/3.6m/5.4m.obj": 5,
+    "lib/airport/ground/terrain_FX/taxi_sign_base/light/3.6m/3.6m.obj": 3,
+    "lib/airport/lines/safety_area_white.pol": 2,
+    "lib/airport/lines/safety_area_yellow.pol": 1,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac": 4,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac": 2,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_01.fac": 1,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac": 3,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac": 5,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac": 16,
+    "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac": 4,
+    "lib/airport/Modern_Airports/Terminal_kit/term_roof_level_02.fac": 5,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac": 4,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac": 7,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_03.fac": 1,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Tall_02.fac": 32,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Tall_01.fac": 3,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_bridge_02.fac": 2,
+    "lib/airport/Modern_Airports/Terminal_kit/term_bridge_02.fac": 4,
+    "lib/airport/Modern_Airports/Terminal_kit/term_roof_long_skylight_01.fac": 12,
+    "lib/airport/Modern_Airports/Terminal_kit/term_roof_elements_01.fac": 7,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_roof_pipes_01.fac": 2,
+    "lib/airport/Modern_Airports/Terminal_kit/term_roof_pipes_01.fac": 6,
+    "lib/airport/Ramp_Equipment/Jetways/Jetway_1_solid.fac": 23,
+    "stand detail replacement: lib/airport/Ramp_Equipment/Jetways/Jetway_1_solid.fac": 4,
+    "clipped lib/constructions/fencing/fence_Wall-2m_01.fac": 1,
+    "lib/constructions/fencing/fence_Wall-2m_01.fac": 1,
+    "clipped lib/airport/Modern_Airports/Facades/Garage_3.fac": 2,
+    "clipped lib/airport/Classic_Airports/Facades/Garage_1.fac": 1,
+    "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_01.fac": 1,
+    "clipped lib/airport/Modern_Airports/Terminal_kit/term_building_BigHall_01.fac": 1,
+    "lib/airport/lines/safety_area_red.pol": 1,
+    "lib/airport/signs/DrapedDirSigns.pol": 43
+  },
+  "removed_apt": {
+    "120": 188,
+    "old Terminal A remote stand markings": 12,
+    "20": 9,
+    "1400": 2,
+    "1401": 3
+  },
+  "removed_edges": {
+    "1202": 51,
+    "EA current closure": 3,
+    "1206": 15
+  },
+  "apron_route_links": [
+    {
+      "target": [
+        -660,
+        425
+      ],
+      "status": "linked",
+      "segments": 1
+    },
+    {
+      "target": [
+        -385,
+        510
+      ],
+      "status": "linked",
+      "segments": 3
+    },
+    {
+      "target": [
+        -122,
+        535
+      ],
+      "status": "linked",
+      "segments": 1
+    },
+    {
+      "target": [
+        147,
+        450
+      ],
+      "status": "linked",
+      "segments": 3
+    },
+    {
+      "target": [
+        450,
+        500
+      ],
+      "status": "linked",
+      "segments": 1
+    }
+  ],
+  "models": [
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\B_North.obj",
+      "origin": [
+        -379.69978896389034,
+        412.12412275406325
+      ],
+      "vertices": 8101,
+      "triangles": 3745,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\D_West.obj",
+      "origin": [
+        280.69544779361684,
+        472.6279862655855
+      ],
+      "vertices": 4619,
+      "triangles": 2133,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\International_Processor.obj",
+      "origin": [
+        784.7373005506632,
+        240.74389928996214
+      ],
+      "vertices": 6345,
+      "triangles": 2927,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\B_Lobby_Closed.obj",
+      "origin": [
+        -358.41834130075813,
+        248.13434742252994
+      ],
+      "vertices": 4937,
+      "triangles": 2281,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B1.obj",
+      "origin": [
+        -230.12693020027115,
+        421.23381153833134
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B2.obj",
+      "origin": [
+        -228.28881747959952,
+        461.1879863255119
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B3.obj",
+      "origin": [
+        -222.29260672821087,
+        533.9766503353543
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B4.obj",
+      "origin": [
+        -220.28959775119984,
+        555.7751401869637
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B5.obj",
+      "origin": [
+        -229.57889985219515,
+        581.2629167616667
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B6.obj",
+      "origin": [
+        -243.57009915825648,
+        585.859764625067
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B7.obj",
+      "origin": [
+        -259.9526757622357,
+        581.7775194509417
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B8.obj",
+      "origin": [
+        -281.22169756509413,
+        548.2685469806656
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B9.obj",
+      "origin": [
+        -279.1257838848494,
+        475.96861253580005
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B10.obj",
+      "origin": [
+        -327.106140465193,
+        392.607786189673
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B11.obj",
+      "origin": [
+        -386.35793373958103,
+        398.59380297503
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B12.obj",
+      "origin": [
+        -487.1052825653475,
+        422.8331380331585
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B14.obj",
+      "origin": [
+        -487.2017838570819,
+        467.2848552736774
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B15.obj",
+      "origin": [
+        -481.30207439742765,
+        534.5309111490029
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B16.obj",
+      "origin": [
+        -479.29906542041664,
+        556.1076966749953
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B17.obj",
+      "origin": [
+        -488.58836752141195,
+        581.3737689244751
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B18.obj",
+      "origin": [
+        -502.57956682610194,
+        585.9706167878754
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B19.obj",
+      "origin": [
+        -519.1551460149211,
+        581.5558151253247
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B20.obj",
+      "origin": [
+        -540.2311652343109,
+        540.9523042427883
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B21.obj",
+      "origin": [
+        -534.0047677550624,
+        484.47518554896124
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B22.obj",
+      "origin": [
+        -540.7666599429135,
+        462.74825139732366
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_B23.obj",
+      "origin": [
+        -560.9095564596058,
+        401.91936785613393
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D1.obj",
+      "origin": [
+        312.9411876248328,
+        428.3757461680692
+      ],
+      "vertices": 80,
+      "triangles": 38,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D2.obj",
+      "origin": [
+        253.07038142618745,
+        511.4967306794907
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D3.obj",
+      "origin": [
+        297.9411876248328,
+        497.7692000148987
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D4.obj",
+      "origin": [
+        254.59053850257595,
+        587.8469957485194
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D5.obj",
+      "origin": [
+        311.1937777577801,
+        569.8026898130039
+      ],
+      "vertices": 80,
+      "triangles": 38,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_D6.obj",
+      "origin": [
+        285.38755971844466,
+        601.3494001507376
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_A20.obj",
+      "origin": [
+        -787.6116360082075,
+        51.68908680629904
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_C12.obj",
+      "origin": [
+        -21.076155809510496,
+        421.5974835654865
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_C14.obj",
+      "origin": [
+        -82.37886400969127,
+        380.85745694418216
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\bridge_C15.obj",
+      "origin": [
+        -135.8405797649315,
+        380.85745694418216
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\outputs\\KIAH_2026-10-24_Review_R02\\objects\\Current_Stand_Labels.obj",
+      "origin": [
+        0,
+        0
+      ],
+      "vertices": 280,
+      "triangles": 140,
+      "draped": true
+    }
+  ],
+  "installed": false,
+  "simulator_tested": false,
+  "stale_west_barriers_removed": 131,
+  "equipment_and_light_placements": 72,
+  "equipment_bays": 31,
+  "current_EA_closure_barriers": 22,
+  "gate_decisions": {
+    "C29": {
+      "decision": "No aircraft spawn: removed stand footprint",
+      "basis": "2015 permanent gate-removal chart notice archived by NTSB; 2025 aerial shows service space and no stand/jetway. Passenger map still lists C29.",
+      "confidence": "Evidence supports omission; reopening after aerial capture not independently confirmed."
+    },
+    "E6": {
+      "decision": "No aircraft spawn: former stand within E5/E7 apron",
+      "basis": "2025 aerial and mapped aircraft lead-ins show no independent E6 stand between E5 and E7. Historical removal report is supporting evidence only. Passenger map still lists E6.",
+      "confidence": "Conservative scenery interpretation; no current airport-issued stand-allocation drawing obtained."
+    }
+  }
+}

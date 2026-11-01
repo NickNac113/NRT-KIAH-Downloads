@@ -1,3 +1,7 @@
+HISTORICAL NOTES - retained from the previous member release.
+For this package use README.txt and INSTALL.txt. The test installers and
+review outputs mentioned below are not included in the member ZIP.
+
 NRT KIAH R27 - Member release 0.27.0
 
 CURRENT REVISION. Earlier README files are historical records. This cumulative

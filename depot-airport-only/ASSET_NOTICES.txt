@@ -1,0 +1,31 @@
+NRT KIAH R28 - asset and source notices
+
+The inherited Scenery Gateway KIAH contribution by Dave12 retains COPYING and
+Gateway-original-README.txt (GPL version 2 or later). Original editable sources
+and native placement text accompany the distribution. This document does not
+replace those upstream licenses.
+
+R28 Terminal B uses references to Laminar's native terminal-kit, glass-bridge,
+roof, HVAC and skylight resources. Library textures and artwork are not copied
+into the depot. Current compiled placement sources are in Source/Native;
+Source/rebuild_dsf.py recompiles them with Laminar DSFTool. Historical scripts
+retain their original workspace paths and predecessor inputs and are not a
+portable complete build environment. Source/R28 contains the B authoring and
+variant preparation evidence.
+
+Main is the sealed cumulative R28 review plus release documentation/source.
+Airport Only starts with the public HF06 airport baseline and applies exactly
+the same R28 B airport-record changes, 22 bridge-object changes and 46 native
+facade placements. It excludes fictional campus models, surfaces, starts,
+service routes and animation XML; it retains unrelated airport runtime files.
+
+Main's NRT geometry and procedural textures are original. The former inherited
+T02 truck-garage assets are excluded from both variants. Main references native
+X-Plane and MisterX resources; OpenSAM and its library are separate installs.
+Airport Only uses native X-Plane airport resources. Neither variant needs AEP.
+
+No ATS/SCS extracted assets, aircraft add-ons, simulator binaries, shared
+plugins, credentials or private transfer bundle are part of this release.
+Private development history and release configuration stay in the private
+repository. Editable source accompanying the distributed scenery remains
+included with the public payload as required by inherited notices.

@@ -1,0 +1,89 @@
+KIAH — FULL AIRPORT REVIEW R02
+Snapshot: 24 October 2026
+NOT INSTALLED. NOT TESTED IN X-PLANE.
+
+CHANGES SINCE R01
+A20 now has a selectable aircraft start, painted lead-in/stop, fixed connector and native moving jetway definition. The position uses a mapped aircraft lead-in checked against aerial imagery, with a modeled nose-wheel stop. Four old remote starts and twelve obsolete painted lines south of Terminal A were removed from the updated apron.
+
+C29 and E6 are reconciled as directory/apron discrepancies. The passenger map still lists both. C29's aircraft-gate removal is documented in an archived chart-change notice; the checked apron shows service space without that jetway. The E6 area has no independently identifiable stand between the retained E5/E7 arrangement in the checked imagery; a historical removal report supports that interpretation. R02 contains no C29 or E6 spawn. This is a conservative scenery decision: a current airport-issued aircraft stand-allocation drawing was not obtained, so reinstatement after the imagery cannot be ruled out. These are evidence limits, not confirmed current NOTAM closures.
+
+131 obsolete red barricades beside 15L/33R removed. Source history identifies west-side closures added in 2018; WA/WB rehabilitation completed in 2022. All 123 existing route segments across WA, WB, WG, WH, WJ, WK, WL, WM and WN remain connected to the runway graph. Existing pavements, signs and lights are preserved. No blanket airport-wide barrier removal was used.
+
+The separate current EA closure for remote overnight parking works is represented: three aircraft-route edges disabled and 22 barricades placed at its ends. NB and EE remain available. The FAA Q4 2026 report supports this dated closure. Short daily NOTAMs are not simulated.
+
+C12/C14/C15 jetways and lead-ins are aligned. C12 was adjusted after clearance testing found overlap with C11. E2-wide and E20-wide are manual alternatives, preventing automatically spawned overlapping aircraft. United terminal airline codes normalized to UAL. Added detail: 31 equipment bays, 62 service equipment references, 10 apron floodlight references. These new detail positions are modeled, not surveyed.
+
+FULL AIRPORT CONTENT
+Complete five-runway Gateway airport: taxiways, cargo, maintenance, general aviation, service roads, terminal context and surrounding airport facilities across two scenery tiles. Redevelopment updates include B North's current footprint/22 mainline gates, B South's 26 published identifiers, D West's current footprint/six primary stands/eight manual split alternatives, D East renumbering, the international processor/new E check-in footprint, and the closed B ticketing core. Building heights, roof equipment and exterior treatment are interpreted. Unchanged areas retain detailed native Gateway artwork and geometry.
+
+COUNTS
+5 runways; 240 ramp starts including cargo, GA and alternatives; 32 new moving jetway definitions; 37 custom objects; 2 compiled tiles; 144 directory entries accounted for in Gate_Mapping.csv.
+
+PREVIEWS
+New terminals, signs and fixed connectors are drawn from exported custom object geometry. Moving jetways use a simplified parked representation of their exported parameters. Existing library buildings and service equipment use simplified context shapes. Aircraft silhouettes are clearance guides, not static aircraft in the package. The night image uses the authored night texture with illustrative lighting. No preview is an X-Plane screenshot.
+
+VERIFICATION AND LIMITS
+18/18 offline checks pass: both tile round-trips, object tables, library reference resolution, unique starts, routing references/connectivity, EA closure, and new/adjusted stand envelope overlaps. These checks do not establish clearance for every aircraft type at every inherited stand. Terrain fit, scenery ordering, docking, AI/service traffic and night appearance still require X-Plane testing after preview approval. The full airport is included; not every retained area has been re-surveyed to 2026 as-built precision.
+
+INSTALLATION HOLD
+No X-Plane scenery files or scenery order changed. R01 preserved. R02 is staged for preview review; installation and simulator testing require separate user approval.
+
+SOURCES
+Houston Airports current terminal map
+https://www.fly2houston.com/iah/map/
+Published asset version 2026-10-23T15:30:38. Terminal outlines and 144 passenger directory points; these are not nose-wheel stopping points.
+
+B North opening
+https://www.fly2houston.com/airport-business/newsroom/press-releases/item/united-airlines-terminal-b-north-opens-at-iah/
+22 mainline gates opened 22 October 2026. B South retains 26 published identifiers.
+
+Airport alerts
+https://www.fly2houston.com/iah/alerts/
+B ticketing lobby remains closed; access to B North is via C.
+
+D West opening
+https://www.fly2houston.com/airport-business/newsroom/press-releases/item/houston-airports-expanded-terminal-d-now-open-to-international-passengers-at-bush-airport/
+Opened 22 October 2024; six widebody positions with split use.
+
+International check-in transition
+https://www.fly2houston.com/airport-business/newsroom/press-releases/item/international-check-in-transition-begins-to-iah-terminal-e/
+International processing moved to the new Terminal E facilities.
+
+FAA airport diagram, cycle 2610
+https://aeronav.faa.gov/d-tpp/2610/05461AD.PDF
+Valid 1-29 October 2026. Five runways, 150-foot widths, 96-foot field elevation. B construction outline predates opening.
+
+FAA Q4 2026 construction report
+https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/perf_analysis/sys_cap_eval/Q4_2026_Airport_Construction_Impact_Report.pdf
+IAH pages 50-51. EA closed for RON parking works; B core and boarding bridge program continue; SA/SB rehabilitation complete.
+
+WA/WB rehabilitation contractor
+https://sunlandgrp.com/aviation/wa-and-wb-taxiway-rehabilitation
+Completion in 2022 supports removal of obsolete west-side closure objects.
+
+Gateway history and base
+https://gateway.x-plane.com/airports/KIAH/show
+Base 99761, Dave12, December 2023. Earlier upload 58312 explicitly added WA, WM, WL, WK, WJ, WH and WG closures in January 2018.
+
+A20 mapped aircraft lead-in
+https://www.openstreetmap.org/way/1362706405
+Mapped 24 February 2025. Aircraft parking line used for A20 location/orientation, checked against aerial imagery.
+
+C29 removal notice archived by NTSB
+https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=pdf&FileName=attachment17_Flight_Plan+N362FX+072616_Redacted-Rel.pdf&ID=5405444
+A 2016 record includes the 2015 permanent chart-change notice removing C29 for construction. Historical evidence, not a current operational clearance.
+
+Esri World Imagery metadata
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/0
+Terminal E reference: Vantor Vivid Advanced, capture 2025-08-24, 0.34 m nominal resolution. A20/C29/E6 apron imagery inspected; tiles not redistributed.
+
+Historical E6 removal report
+https://www.flyertalk.com/forum/united-airlines-mileageplus/1819058-consolidated-connection-time-logistics-domestic-international-iah-archive-73.html
+24 September 2016 discussion reports E6 jetway removal to avoid E5 conflict. Supporting context only; no claim of current official closure.
+
+Native scenery compiler
+https://developer.x-plane.com/tools/xptools/
+Laminar DSFTool used to compile and decode both tiles.
+
+ATTRIBUTION
+Gateway contributors: bkeith, Clahman, Dave12, Jan Vogel. Supplied GPL license and original README included. Default X-Plane artwork is referenced, not redistributed. A20 includes OpenStreetMap-derived data: © OpenStreetMap contributors, ODbL (https://www.openstreetmap.org/copyright). Full public map and aerial artwork are not redistributed. Modified scenery text, source manifests and build scripts are provided for review; rebuilding also requires the cited source downloads and dependencies.

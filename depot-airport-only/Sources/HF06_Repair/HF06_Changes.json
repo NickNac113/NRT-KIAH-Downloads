@@ -1,0 +1,780 @@
+{
+  "revision": "KIAH R03 HF06",
+  "jetway_joints": [
+    {
+      "gate": "B1",
+      "pivot": [
+        -230.12693020027115,
+        421.23381153833134
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B2",
+      "pivot": [
+        -228.28881747959952,
+        461.1879863255119
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B3",
+      "pivot": [
+        -222.29260672821087,
+        533.9766503353543
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B4",
+      "pivot": [
+        -220.28959775119984,
+        555.7751401869637
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B5",
+      "pivot": [
+        -229.57889985219515,
+        581.2629167616667
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B6",
+      "pivot": [
+        -243.57009915825648,
+        585.859764625067
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B7",
+      "pivot": [
+        -259.9526757622357,
+        581.7775194509417
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B8",
+      "pivot": [
+        -281.22169756509413,
+        548.2685469806656
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B9",
+      "pivot": [
+        -279.1257838848494,
+        475.96861253580005
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B10",
+      "pivot": [
+        -327.106140465193,
+        392.607786189673
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B11",
+      "pivot": [
+        -386.35793373958103,
+        398.59380297503
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B12",
+      "pivot": [
+        -487.1052825653475,
+        422.8331380331585
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B14",
+      "pivot": [
+        -487.2017838570819,
+        467.2848552736774
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B15",
+      "pivot": [
+        -481.30207439742765,
+        534.5309111490029
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B16",
+      "pivot": [
+        -479.29906542041664,
+        556.1076966749953
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B17",
+      "pivot": [
+        -488.58836752141195,
+        581.3737689244751
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B18",
+      "pivot": [
+        -502.57956682610194,
+        585.9706167878754
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B19",
+      "pivot": [
+        -519.1551460149211,
+        581.5558151253247
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B20",
+      "pivot": [
+        -540.2311652343109,
+        540.9523042427883
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B21",
+      "pivot": [
+        -534.0047677550624,
+        484.47518554896124
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B22",
+      "pivot": [
+        -540.7666599429135,
+        462.74825139732366
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "B23",
+      "pivot": [
+        -560.9095564596058,
+        401.91936785613393
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D1",
+      "pivot": [
+        312.9411876248328,
+        428.3757461680692
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 80,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D2",
+      "pivot": [
+        253.07038142618745,
+        511.4967306794907
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 64,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D3",
+      "pivot": [
+        297.9411876248328,
+        497.7692000148987
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 64,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D4",
+      "pivot": [
+        254.59053850257595,
+        587.8469957485194
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 64,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D5",
+      "pivot": [
+        311.1937777577801,
+        569.8026898130039
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 80,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "D6",
+      "pivot": [
+        285.38755971844466,
+        601.3494001507376
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 64,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "A20",
+      "pivot": [
+        -787.6116360082075,
+        51.68908680629904
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "C12",
+      "pivot": [
+        -21.076155809510496,
+        421.5974835654865
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 64,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "C14",
+      "pivot": [
+        -82.37886400969127,
+        380.85745694418216
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    },
+    {
+      "gate": "C15",
+      "pivot": [
+        -135.8405797649315,
+        380.85745694418216
+      ],
+      "radius_m": 1.7,
+      "height_m": [
+        3.65,
+        7.2
+      ],
+      "original_vertices_preserved": 56,
+      "added_vertices": 1188
+    }
+  ],
+  "EA_barriers": [
+    {
+      "tile": "+29-096",
+      "removed": [
+        {
+          "index": 8127,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2635.7551315013325,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8128,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2638.792220162795,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8129,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2641.829308824257,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8130,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2644.820366368037,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8131,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2647.765392796877,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8132,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2650.756353840386,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8133,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2653.7474113855374,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8134,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2656.8305311633103,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8135,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2659.8215887084616,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8136,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2662.8126462522414,
+            732.1991530994434
+          ]
+        },
+        {
+          "index": 8137,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2665.8037037973927,
+            732.1991530994434
+          ]
+        }
+      ],
+      "all_other_placements_exact": true
+    },
+    {
+      "tile": "+30-096",
+      "removed": [
+        {
+          "index": 658,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2635.8011626176435,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 659,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2638.792220162795,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 660,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2641.829308824257,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 661,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2644.820366368037,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 662,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2647.8113274115453,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 663,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2650.8023849566966,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 664,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2653.793442501848,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 665,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2656.8305311633103,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 666,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2659.8215887084616,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 667,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2662.8126462522414,
+            1796.4141682852057
+          ]
+        },
+        {
+          "index": 668,
+          "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+          "xy": [
+            2665.8037037973927,
+            1796.4141682852057
+          ]
+        }
+      ],
+      "all_other_placements_exact": true
+    }
+  ],
+  "EA_routes": [
+    "1202 264 338 twoway taxiway_E EA",
+    "1202 338 349 twoway taxiway_E EA",
+    "1202 349 345 twoway taxiway_E EA"
+  ],
+  "EA_variant": "User requested open EA for VATSIM. Category E, bidirectional simulator route between NB/EC/ED/EE. Real-world closure remains acknowledged; controller instructions govern online.",
+  "B15_B17_audit": {
+    "paint_matches_route_max_deviation_m": 0.0,
+    "route_category": "C (36m maximum wingspan)",
+    "nearest_parked_aircraft_to_centerline_m": [
+      [
+        "Gate B17",
+        20.254345523779907
+      ],
+      [
+        "Gate B16",
+        20.573800879285447
+      ],
+      [
+        "Gate B15",
+        24.743952619690912
+      ],
+      [
+        "Gate B18",
+        47.58479753259085
+      ],
+      [
+        "Gate B11",
+        57.89773118518726
+      ]
+    ],
+    "remaining_wingtip_margin_for_36m_span_m": 2.2543455237799073,
+    "real_world_paint_verified": false,
+    "action": "Superseded by HF06 straight lane and rounded connections.",
+    "previous_alignment_action": "Replaced in HF06"
+  },
+  "B15_B17_revision": {
+    "reference": "https://www.iahbunited.com/gallery?pgid=ln2798ht2-ed8e1d6d-e544-45b0-b04e-0dcfa765ef2b",
+    "reference_file": "c04-op1.jpg",
+    "reference_uploaded": "2024-10-23",
+    "reference_type": "architectural rendering, not an as-built survey",
+    "model": "Straight central category-C apron lane with two 30m rounded NB connections; NB one-way direction retained",
+    "new_node_ids": [
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458,
+      1459,
+      1460,
+      1461,
+      1462,
+      1463,
+      1464,
+      1465,
+      1466,
+      1467,
+      1468,
+      1469,
+      1470,
+      1471,
+      1472,
+      1473,
+      1474
+    ],
+    "new_route_records": [
+      "1202 856 1450 twoway taxiway_C B North apron",
+      "1202 1451 1453 oneway taxiway_C B North apron",
+      "1202 1453 1454 oneway taxiway_C B North apron",
+      "1202 1454 1455 oneway taxiway_C B North apron",
+      "1202 1455 1456 oneway taxiway_C B North apron",
+      "1202 1456 1457 oneway taxiway_C B North apron",
+      "1202 1457 1458 oneway taxiway_C B North apron",
+      "1202 1458 1459 oneway taxiway_C B North apron",
+      "1202 1459 1460 oneway taxiway_C B North apron",
+      "1202 1460 1461 oneway taxiway_C B North apron",
+      "1202 1461 1462 oneway taxiway_C B North apron",
+      "1202 1462 1463 oneway taxiway_C B North apron",
+      "1202 1463 1450 oneway taxiway_C B North apron",
+      "1202 1450 1464 oneway taxiway_C B North apron",
+      "1202 1464 1465 oneway taxiway_C B North apron",
+      "1202 1465 1466 oneway taxiway_C B North apron",
+      "1202 1466 1467 oneway taxiway_C B North apron",
+      "1202 1467 1468 oneway taxiway_C B North apron",
+      "1202 1468 1469 oneway taxiway_C B North apron",
+      "1202 1469 1470 oneway taxiway_C B North apron",
+      "1202 1470 1471 oneway taxiway_C B North apron",
+      "1202 1471 1472 oneway taxiway_C B North apron",
+      "1202 1472 1473 oneway taxiway_C B North apron",
+      "1202 1473 1474 oneway taxiway_C B North apron",
+      "1202 1474 1452 oneway taxiway_C B North apron",
+      "1202 328 1451 oneway taxiway_F NB",
+      "1202 1451 1452 oneway taxiway_F NB",
+      "1202 1452 324 oneway taxiway_F NB"
+    ],
+    "nearest_parked_aircraft_to_centerline_m": [
+      [
+        "Gate B8",
+        44.145735284893135
+      ],
+      [
+        "Gate B15",
+        49.90394431155539
+      ],
+      [
+        "Gate B11",
+        59.303518181534955
+      ],
+      [
+        "Gate B9",
+        60.166611152121575
+      ],
+      [
+        "Gate B16",
+        61.38324844148582
+      ],
+      [
+        "Gate B7",
+        61.846905503848916
+      ],
+      [
+        "Gate B14",
+        70.64734483466069
+      ],
+      [
+        "Gate B10",
+        72.18198719352145
+      ]
+    ],
+    "remaining_wingtip_margin_for_36m_span_m": 26.145735284893135,
+    "exact_as_built_verified": false,
+    "sampled_aircraft_clearance_m": 21.42412468634445
+  }
+}

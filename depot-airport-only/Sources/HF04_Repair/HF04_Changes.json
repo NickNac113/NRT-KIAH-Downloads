@@ -1,0 +1,308 @@
+{
+  "revision": "KIAH R03 HF04",
+  "status": "STAGED - NOT INSTALLED",
+  "scope": "B North legacy islands between the rebuilt pier tips and taxiway NB",
+  "replacement_surface_sqm": 18368.15582431857,
+  "cleanup_area_sqm": 70740.64339219179,
+  "edited_edge_attributes": [
+    {
+      "block": 22,
+      "node": 3,
+      "name": "110 50 0.00 0.0 Twy NB",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 130.09248385014192,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 24,
+      "node": 7,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 41.00023437587284,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 24,
+      "node": 9,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 46.52492864459767,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 24,
+      "node": 12,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 44.14039547572356,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 24,
+      "node": 14,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 77.41460367049228,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 61,
+      "node": 27,
+      "name": "110 51 0.00 0.0 Term A * B North",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 228.95414152650602,
+      "preserved_m": 50.56008335530828
+    },
+    {
+      "block": 91,
+      "node": 8,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 21.103361157914495,
+      "preserved_m": 13.599605960715786
+    },
+    {
+      "block": 91,
+      "node": 11,
+      "name": "110 50 0.00 0.0 Twy ND",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 42.00057914788841,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 2,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 74.03905545170842,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 3,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 46.41267914015681,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 5,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 15.036840361764595,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 8,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 42.839610284755636,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 10,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 68.69767536064519,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 12,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 89.44039503953084,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 14,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 4.376433076342263,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 108,
+      "node": 16,
+      "name": "110 50 0.00 0.0 Twy NG",
+      "style": [
+        "53",
+        "102"
+      ],
+      "removed_m": 17.449513572899495,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4017,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.8502360877211004,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4017,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.4089309878504537,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4152,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 159",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.0697303342960083,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4152,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 159",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.9156434407119745,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4153,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.8502360877211004,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4153,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.5818603617844929,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4154,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.8502360877209867,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4154,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.544170626500545,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4155,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.8502360881149116,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4155,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.5607984507051924,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4159,
+      "node": 1,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 0.8502360877209867,
+      "preserved_m": 0.0
+    },
+    {
+      "block": 4159,
+      "node": 2,
+      "name": "120 HF02 retained Linear Feature 152",
+      "style": [
+        "19"
+      ],
+      "removed_m": 1.4965041965361934,
+      "preserved_m": 0.0
+    }
+  ],
+  "removed_edge_total_m": 1003.3517489743244,
+  "unchanged": "All pavement geometry, aircraft/service routes, starts, flows, jetways, DSFs, objects and textures; only local surface and edge paint/light treatment changed.",
+  "outside_edges": "Clipped outside portions are retained as sampled 120 line records; original pavement geometry remains byte-equivalent without edge attributes."
+}

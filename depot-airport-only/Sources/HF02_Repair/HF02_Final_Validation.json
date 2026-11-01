@@ -1,0 +1,426 @@
+{
+  "revision": "R03 HF02",
+  "status": "STAGED - NOT INSTALLED",
+  "checks": [
+    {
+      "check": "All custom model front faces use OBJ8 clockwise winding",
+      "passed": true,
+      "detail": {
+        "models": 38,
+        "triangles": 12134
+      }
+    },
+    {
+      "check": "Airport declaration remains KIAH",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "32 new plus 84 retained animated jetways",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 32 newly authored jetways have valid extension and cabin rotation",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Restored jetways use current 0-based size codes",
+      "passed": true,
+      "detail": {
+        "exact_current_global_records": 77,
+        "additional_source_arms": 7
+      }
+    },
+    {
+      "check": "Restored jetways meet a surviving fixed base",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All new jetways meet the authored fixed tunnel bases",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Native parked headings and lengths match the designed jetway endpoints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Custom terminal footprints have continuous hard surface underneath",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "All new ground labels lie on pavement clear of terminal buildings",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Ground labels do not overlap each other",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "All terminal and garage facade outlines face outward",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Aircraft routes, service routes, stands, runways and flow rules unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Installed scenery still unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Compiled southern DSF round-trip succeeds",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Northern scenery tile unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Fixed bridges clear neighboring modeled aircraft envelopes",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Parked moving tunnels clear neighboring modeled aircraft envelopes",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Actual parked moving models clear neighboring new fixed and all moving bridges",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "passed": 19,
+  "total": 19,
+  "models": [
+    {
+      "model": "bridge_A20.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15196180999998
+    },
+    {
+      "model": "bridge_B1.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.151176705
+    },
+    {
+      "model": "bridge_B10.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B11.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B12.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B14.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B15.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15116343
+    },
+    {
+      "model": "bridge_B16.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15070383
+    },
+    {
+      "model": "bridge_B17.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150968899999995
+    },
+    {
+      "model": "bridge_B18.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15109314499999
+    },
+    {
+      "model": "bridge_B19.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15070383
+    },
+    {
+      "model": "bridge_B2.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B20.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150968899999995
+    },
+    {
+      "model": "bridge_B21.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150606469999985
+    },
+    {
+      "model": "bridge_B22.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150606469999985
+    },
+    {
+      "model": "bridge_B23.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_B3.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15116343
+    },
+    {
+      "model": "bridge_B4.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15070383
+    },
+    {
+      "model": "bridge_B5.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150968899999995
+    },
+    {
+      "model": "bridge_B6.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15109314499999
+    },
+    {
+      "model": "bridge_B7.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.15070383
+    },
+    {
+      "model": "bridge_B8.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.150968899999995
+    },
+    {
+      "model": "bridge_B9.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_C12.obj",
+      "triangles": 30,
+      "clockwise_outward": 30,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 37.33513275
+    },
+    {
+      "model": "bridge_C14.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_C15.obj",
+      "triangles": 26,
+      "clockwise_outward": 26,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35.1524
+    },
+    {
+      "model": "bridge_D1.obj",
+      "triangles": 38,
+      "clockwise_outward": 38,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 82.81999999999996
+    },
+    {
+      "model": "bridge_D2.obj",
+      "triangles": 30,
+      "clockwise_outward": 30,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 42.01500000000003
+    },
+    {
+      "model": "bridge_D3.obj",
+      "triangles": 30,
+      "clockwise_outward": 30,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 42.01500000000003
+    },
+    {
+      "model": "bridge_D4.obj",
+      "triangles": 30,
+      "clockwise_outward": 30,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 47.00393764999997
+    },
+    {
+      "model": "bridge_D5.obj",
+      "triangles": 38,
+      "clockwise_outward": 38,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 74.26378266500001
+    },
+    {
+      "model": "bridge_D6.obj",
+      "triangles": 30,
+      "clockwise_outward": 30,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 42.01500000000003
+    },
+    {
+      "model": "B_Lobby_Closed.obj",
+      "triangles": 2281,
+      "clockwise_outward": 2281,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 18730.647551260405
+    },
+    {
+      "model": "B_North.obj",
+      "triangles": 3745,
+      "clockwise_outward": 3745,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 37600.50358928567
+    },
+    {
+      "model": "Current_Stand_Labels.obj",
+      "triangles": 162,
+      "clockwise_outward": 162,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 0.0
+    },
+    {
+      "model": "D_West.obj",
+      "triangles": 2133,
+      "clockwise_outward": 2133,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 11754.176684084983
+    },
+    {
+      "model": "International_Processor.obj",
+      "triangles": 2927,
+      "clockwise_outward": 2927,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 35125.606157845476
+    },
+    {
+      "model": "United_Maintenance_Exterior.obj",
+      "triangles": 10,
+      "clockwise_outward": 10,
+      "counterclockwise_outward": 0,
+      "degenerate": 0,
+      "roof_area_m2": 4301.36757096
+    }
+  ],
+  "runtime_pending": [
+    "X-Plane roof/wall rendering including retained facades",
+    "Native jetway extension and docking at retained and rebuilt gates",
+    "Vehicle traffic, pushback and aircraft taxi maneuvers",
+    "Apron layering and terrain fit in the simulator"
+  ],
+  "sources": [
+    "https://developer.x-plane.com/article/obj8-file-format-specification/",
+    "https://developer.x-plane.com/article/dsf-usage-in-x-plane/",
+    "https://developer.x-plane.com/article/airport-data-apt-dat-12-00-file-format-specification/"
+  ]
+}

@@ -1,0 +1,2884 @@
+{
+  "status": "STAGED - NOT INSTALLED",
+  "restored_animated_jetways": 84,
+  "total_animated_jetways": 116,
+  "obsolete_jetways_not_restored": 27,
+  "facade_winding_repairs": 55,
+  "facade_repairs": [
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac",
+      "area_m2": 105.79007712217208,
+      "center": [
+        -182.47476274178447,
+        376.3368205543657
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_01.fac",
+      "area_m2": 8019.564098390963,
+      "center": [
+        -32.056407321974035,
+        362.4712129693935
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "area_m2": 191.48366671820986,
+      "center": [
+        -459.16359757323374,
+        316.06365446545163
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "area_m2": 27.35593922888802,
+      "center": [
+        -344.6229992358453,
+        309.24284415251066
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "area_m2": 15.899069887134829,
+      "center": [
+        -326.63097883220485,
+        323.169231340795
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "area_m2": 132.68239569636353,
+      "center": [
+        -182.65770940246784,
+        376.8666214857712
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 25.1872301613912,
+      "center": [
+        -250.2977936351218,
+        319.9605321158859
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 25.88151348059182,
+      "center": [
+        -272.1698422268785,
+        319.7931753463003
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 34.12837351615599,
+      "center": [
+        -449.24972607095793,
+        318.0662166465286
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 36.34728276061651,
+      "center": [
+        -482.50064614994716,
+        317.74897512967453
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 5.50782951018482,
+      "center": [
+        -512.8183117736336,
+        323.9335829246889
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 5.6699245823401725,
+      "center": [
+        -640.8493082233956,
+        323.91970972701034
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 39.59567481744307,
+      "center": [
+        -221.13356861704045,
+        317.03252426238157
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 24.257053895376885,
+      "center": [
+        -200.27070560191237,
+        319.90456311058097
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 1449.8131784119614,
+      "center": [
+        -449.5749197718339,
+        255.89258848907318
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 75.04432650192757,
+      "center": [
+        -426.2827346100126,
+        201.10060141505727
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 502.33690356844454,
+      "center": [
+        -365.0568414452221,
+        202.3386133464002
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 1356.8959500592464,
+      "center": [
+        -376.324822350816,
+        298.08820270110743
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 2637.534757676389,
+      "center": [
+        -408.9183516125187,
+        155.22252601121085
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 32.52126626894824,
+      "center": [
+        -379.7655691772872,
+        174.82796937706672
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 177.3974771596113,
+      "center": [
+        792.0362980909179,
+        324.4270550345814
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 235.33946799968544,
+      "center": [
+        740.2500232577274,
+        324.061521121088
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 3.118034310246003,
+      "center": [
+        734.9148821817839,
+        297.60346005561894
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 2606.0858946854933,
+      "center": [
+        167.2920337558495,
+        355.87363098764763
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 8422.11337082384,
+      "center": [
+        -32.34868929929659,
+        362.71504292985014
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_03.fac",
+      "area_m2": 2278.2864230843697,
+      "center": [
+        406.0154494195422,
+        355.2712407161466
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_03.fac",
+      "area_m2": 412.42220788226405,
+      "center": [
+        271.341466431818,
+        352.179806508119
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_02.fac",
+      "area_m2": 243.36172893191542,
+      "center": [
+        793.4620389482856,
+        170.06980221308055
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_02.fac",
+      "area_m2": 296.676169907907,
+      "center": [
+        759.8197041646825,
+        170.43486368656917
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_roof_pipes_01.fac",
+      "area_m2": 247.31335172631225,
+      "center": [
+        375.68441623125,
+        352.1679884032918
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_roof_pipes_01.fac",
+      "area_m2": 77.70204111806379,
+      "center": [
+        258.9490287391128,
+        352.9240294229932
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Facades/Garage_3.fac",
+      "area_m2": 4819.16342846326,
+      "center": [
+        965.6631439976775,
+        233.23037258105063
+      ]
+    },
+    {
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "area_m2": 1301.0903445791555,
+      "center": [
+        -448.8839439769713,
+        256.15377451281796
+      ]
+    },
+    {
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "area_m2": 66.79232256477553,
+      "center": [
+        -426.0386026323145,
+        201.51629263815963
+      ]
+    },
+    {
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "area_m2": 465.740216649785,
+      "center": [
+        -365.3999241235759,
+        202.64332673627624
+      ]
+    },
+    {
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "area_m2": 1347.219095171,
+      "center": [
+        -376.51173538343005,
+        297.98989084873295
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac",
+      "area_m2": 21484.137917739943,
+      "center": [
+        676.145225238811,
+        365.9102777528283
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac",
+      "area_m2": 545.6836573668807,
+      "center": [
+        168.77055611879965,
+        359.9800098661235
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 1969.4624338862777,
+      "center": [
+        488.38087683067357,
+        322.25958462732524
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 32.491308643104276,
+      "center": [
+        789.3189721328506,
+        309.0453233408339
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 38.904722328996286,
+      "center": [
+        811.3962633035176,
+        309.1799680664691
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 2161.025992754614,
+      "center": [
+        521.0102577166135,
+        330.48450710477704
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 61.09389336037566,
+      "center": [
+        810.1004103648022,
+        325.1015965766104
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 660.8565258427116,
+      "center": [
+        -749.3560752515784,
+        337.9872476939985
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 95.71869125581725,
+      "center": [
+        -290.70871678187206,
+        319.5949801295488
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 66.80951755793649,
+      "center": [
+        -350.69335790494625,
+        317.67263232492684
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 358.4900465810788,
+      "center": [
+        -481.54615407968646,
+        320.31857229024325
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 510.56290392899245,
+      "center": [
+        -705.2501733079273,
+        326.0768012235884
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 2400.512473953335,
+      "center": [
+        -35.40076513719006,
+        326.6220602224743
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 71.01272701658309,
+      "center": [
+        -350.3245087553936,
+        317.13444355342114
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "area_m2": 1749.153084029358,
+      "center": [
+        30.407164115460454,
+        337.0396867444492
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "area_m2": 7142.825095322216,
+      "center": [
+        598.6643133305422,
+        236.76011994949485
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_BigHall_01.fac",
+      "area_m2": 363.0712831032288,
+      "center": [
+        769.8375808837305,
+        318.0341605847662
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_BigHall_01.fac",
+      "area_m2": 131.25998748831626,
+      "center": [
+        811.826242564891,
+        316.86701724650965
+      ]
+    },
+    {
+      "resource": "lib/airport/Modern_Airports/Facades/Garage_3.fac",
+      "area_m2": 6970.88795207072,
+      "center": [
+        598.7991707862325,
+        239.16948067683086
+      ]
+    }
+  ],
+  "ground_identifier_count": 81,
+  "label_replacements": [
+    {
+      "old": "B19",
+      "new": "B56",
+      "center": [
+        -461.9744467876687,
+        27.98678749116011
+      ]
+    },
+    {
+      "old": "B18",
+      "new": "B55",
+      "center": [
+        -462.23304249804556,
+        -9.151634915619283
+      ]
+    },
+    {
+      "old": "B17",
+      "new": "B54",
+      "center": [
+        -437.24596576061606,
+        -36.73220135495977
+      ]
+    },
+    {
+      "old": "B16",
+      "new": "B53",
+      "center": [
+        -381.176397328564,
+        -37.66655105463386
+      ]
+    },
+    {
+      "old": "B15",
+      "new": "B52",
+      "center": [
+        -357.34240644524266,
+        -8.358714343918471
+      ]
+    },
+    {
+      "old": "B14",
+      "new": "B51",
+      "center": [
+        -356.83723616861187,
+        30.494591043370654
+      ]
+    },
+    {
+      "old": "B12",
+      "new": "B50",
+      "center": [
+        -350.37948650883476,
+        28.98823987227659
+      ]
+    },
+    {
+      "old": "B11",
+      "new": "B48",
+      "center": [
+        -322.4953584690588,
+        91.54679791839712
+      ]
+    },
+    {
+      "old": "B10",
+      "new": "B47",
+      "center": [
+        -315.97085102860746,
+        74.55096156811706
+      ]
+    },
+    {
+      "old": "B31",
+      "new": "B68",
+      "center": [
+        -612.4466884116005,
+        114.1958210303709
+      ]
+    },
+    {
+      "old": "B30",
+      "new": "B67",
+      "center": [
+        -614.5693318318245,
+        69.87289250788476
+      ]
+    },
+    {
+      "old": "B29",
+      "new": "B66",
+      "center": [
+        -611.7163837382877,
+        27.585542465905018
+      ]
+    },
+    {
+      "old": "B28",
+      "new": "B65",
+      "center": [
+        -611.5552733701479,
+        -11.266016146973339
+      ]
+    },
+    {
+      "old": "B26",
+      "new": "B64",
+      "center": [
+        -554.1616965553505,
+        -42.10725737729834
+      ]
+    },
+    {
+      "old": "B24",
+      "new": "B63",
+      "center": [
+        -501.6688733434299,
+        -0.77346279022722
+      ]
+    },
+    {
+      "old": "B23",
+      "new": "B62",
+      "center": [
+        -501.69088600950613,
+        37.79810338520179
+      ]
+    },
+    {
+      "old": "B22",
+      "new": "B61",
+      "center": [
+        -502.8873008130722,
+        73.636647432702
+      ]
+    },
+    {
+      "old": "B21",
+      "new": "B60",
+      "center": [
+        -495.66328197061233,
+        73.08618912666591
+      ]
+    },
+    {
+      "old": "B20",
+      "new": "B57",
+      "center": [
+        -469.26726799874467,
+        28.548059717807533
+      ]
+    },
+    {
+      "old": "B9",
+      "new": "B46",
+      "center": [
+        -316.246975362222,
+        36.756620449817184
+      ]
+    },
+    {
+      "old": "B8",
+      "new": "B45",
+      "center": [
+        -316.4850682630822,
+        -1.4170357484573992
+      ]
+    },
+    {
+      "old": "B7",
+      "new": "B44",
+      "center": [
+        -305.64872547237366,
+        -36.53326437765449
+      ]
+    },
+    {
+      "old": "B6",
+      "new": "B43",
+      "center": [
+        -254.9484368785299,
+        -31.742124054733488
+      ]
+    },
+    {
+      "old": "B3",
+      "new": "B40",
+      "center": [
+        -207.28081102267865,
+        68.28714678680667
+      ]
+    },
+    {
+      "old": "B4",
+      "new": "B42",
+      "center": [
+        -207.38163556432642,
+        34.82172236419267
+      ]
+    },
+    {
+      "old": "B5",
+      "new": "B41",
+      "center": [
+        -205.15110990267604,
+        -10.535052315471622
+      ]
+    },
+    {
+      "old": "D4",
+      "new": "D10",
+      "center": [
+        488.2003512370612,
+        474.5991636290553
+      ]
+    },
+    {
+      "old": "D12A",
+      "new": "D18W",
+      "center": [
+        1015.050406113046,
+        467.7506418096366
+      ]
+    },
+    {
+      "old": "D12A",
+      "new": "D18W",
+      "center": [
+        1051.1722035062394,
+        488.0141834366161
+      ]
+    },
+    {
+      "old": "D5",
+      "new": "D11",
+      "center": [
+        574.7283630667533,
+        481.19451561711156
+      ]
+    },
+    {
+      "old": "D8",
+      "new": "D15",
+      "center": [
+        746.2188697739895,
+        481.80495777917554
+      ]
+    },
+    {
+      "old": "D9B retired alternative",
+      "new": null,
+      "center": [
+        814.9669521511776,
+        481.1971016286209
+      ]
+    },
+    {
+      "old": "D9A",
+      "new": "D16A380",
+      "center": [
+        797.6188836767428,
+        481.7256984827891
+      ]
+    },
+    {
+      "old": "D9",
+      "new": "D16",
+      "center": [
+        802.8302051410855,
+        481.83396065826156
+      ]
+    },
+    {
+      "old": "D6",
+      "new": "D12",
+      "center": [
+        632.0802763178087,
+        481.76102560002863
+      ]
+    },
+    {
+      "old": "D10",
+      "new": "D17",
+      "center": [
+        864.0535873043024,
+        481.2104282042037
+      ]
+    },
+    {
+      "old": "D11",
+      "new": "D18A",
+      "center": [
+        923.306578221554,
+        480.7718545350607
+      ]
+    },
+    {
+      "old": "orphan D3 digit",
+      "new": "D9",
+      "center": [
+        461.138521309806,
+        454.08571529440786
+      ]
+    },
+    {
+      "old": "D7",
+      "new": "D14",
+      "center": [
+        690.0791949140705,
+        482.22780335370976
+      ]
+    },
+    {
+      "old": "D2",
+      "new": "D8",
+      "center": [
+        418.710764150985,
+        434.824539729816
+      ]
+    },
+    {
+      "old": "D2W",
+      "new": "D8W",
+      "center": [
+        451.3096377903567,
+        490.6276901761459
+      ]
+    }
+  ],
+  "cleanup": {
+    "obsolete apron equipment": 34,
+    "trimmed old apron surface polygons": 5
+  },
+  "old_paint_blocks_removed": 26,
+  "old_paint_blocks_clipped": 32,
+  "paint_delta": [
+    {
+      "name": "Linear Feature 135",
+      "removed_m": 31.549606515574098
+    },
+    {
+      "name": "Linear Feature 135",
+      "removed_m": 81.21321327542742
+    },
+    {
+      "name": "Linear Feature 135",
+      "removed_m": 92.9818669150544
+    },
+    {
+      "name": "Linear Feature 111",
+      "removed_m": 151.98509619194496
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 5.868381808975009
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 32.035939899238635
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 8.707479626638019
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 77.20407312602222
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 75.2979728540539
+    },
+    {
+      "name": "Linear Feature 99",
+      "removed_m": 50.58106552857316
+    },
+    {
+      "name": "Linear Feature 1",
+      "removed_m": 27.709039206662453
+    },
+    {
+      "name": "Linear Feature 6",
+      "removed_m": 44.190164063409156
+    },
+    {
+      "name": "Linear Feature 15",
+      "removed_m": 43.99617682431892
+    },
+    {
+      "name": "Linear Feature 14",
+      "removed_m": 40.49517793308246
+    },
+    {
+      "name": "Linear Feature 50",
+      "removed_m": 70.91952962248882
+    },
+    {
+      "name": "Linear Feature 38",
+      "removed_m": 117.7040174857345
+    },
+    {
+      "name": "Linear Feature 13",
+      "removed_m": 10.006924437782047
+    },
+    {
+      "name": "Linear Feature 13",
+      "removed_m": 10.57131111884884
+    },
+    {
+      "name": "Linear Feature 6",
+      "removed_m": 53.217623096267005
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 0.9212701033410666
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4169737803529854
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4200555074327994
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.1084815975419104
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 1.513010594016527
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.457958944990234
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4624756344682095
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.144308483444652
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 1.790798223654611
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.41273621959054
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4158180189998077
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.104389122582723
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 1.7680683164963304
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4244594123024257
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.1118317522772188
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 1.6165011577715918
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.445505804554711
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.130549066678603
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 19.73847023403776
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 46.807692430315754
+    },
+    {
+      "name": "Linear Feature 6",
+      "removed_m": 52.91256237092669
+    },
+    {
+      "name": "Linear Feature 18",
+      "removed_m": 35.69875401680834
+    },
+    {
+      "name": "Linear Feature 56",
+      "removed_m": 29.21241155098849
+    },
+    {
+      "name": "Linear Feature 152",
+      "removed_m": 5.919580086131873
+    },
+    {
+      "name": "Linear Feature 157",
+      "removed_m": 7.209773345952579
+    },
+    {
+      "name": "Linear Feature 156",
+      "removed_m": 7.9340464171319525
+    },
+    {
+      "name": "Linear Feature 155",
+      "removed_m": 8.560698549893925
+    },
+    {
+      "name": "Linear Feature 164",
+      "removed_m": 9.6411494212217
+    },
+    {
+      "name": "Linear Feature 163",
+      "removed_m": 6.624328829819689
+    },
+    {
+      "name": "Linear Feature 162",
+      "removed_m": 6.2574778620031815
+    },
+    {
+      "name": "Linear Feature 161",
+      "removed_m": 8.118832864483823
+    },
+    {
+      "name": "Linear Feature 160",
+      "removed_m": 8.614154920354782
+    },
+    {
+      "name": "Linear Feature 159",
+      "removed_m": 6.817527215831872
+    },
+    {
+      "name": "Linear Feature 154",
+      "removed_m": 9.9225295468929
+    },
+    {
+      "name": "Linear Feature 153",
+      "removed_m": 8.340772652587143
+    },
+    {
+      "name": "Linear Feature 152",
+      "removed_m": 5.746650712591645
+    },
+    {
+      "name": "Linear Feature 152",
+      "removed_m": 5.7832319261569864
+    },
+    {
+      "name": "Linear Feature 152",
+      "removed_m": 5.766604101558528
+    },
+    {
+      "name": "Linear Feature 152",
+      "removed_m": 5.830898356121338
+    }
+  ],
+  "foundation_m2": 101443.79955357092,
+  "hangar_shell": {
+    "origin": [
+      1767.1781723245135,
+      432.54015048687717
+    ],
+    "footprint_m2": 4301.37133331534,
+    "height": 22,
+    "open_side": "east",
+    "basis": "Existing 20m interior-only facade; interpreted 22m external shell"
+  },
+  "aircraft_routes_unchanged": true,
+  "service_routes_unchanged": true,
+  "starts_and_flows_unchanged": true,
+  "installed_files_unchanged": true,
+  "restored_records": [
+    "1500 29.9844120 -95.3387281 244.4 0 3 244.4 21.80 153.1",
+    "1500 29.9842233 -95.3387128 205.8 0 3 205.8 19.49 123.2",
+    "1500 29.9841954 -95.3384799 183.7 0 2 183.7 20.15 91.1",
+    "1500 29.9856660 -95.3375690 178.2 0 2 178.2 19.40 90.0",
+    "1500 29.9856623 -95.3371418 178.1 0 2 178.1 18.07 100.5",
+    "1500 29.9856692 -95.3367406 165.7 0 2 165.7 18.97 90.7",
+    "1500 29.9854833 -95.3358829 190.8 0 1 190.8 16.45 137.4",
+    "1500 29.9848611 -95.3355751 258.3 0 2 258.3 20.97 185.0",
+    "1500 29.9845483 -95.3355998 233.3 0 2 233.3 21.59 193.5",
+    "1500 29.98416585 -095.33576207 151.8 0 0 151.8 10.85 152.5",
+    "1500 29.9841609 -95.3357777 198.9 0 1 198.9 15.11 144.5",
+    "1500 29.9840519 -95.3355315 98.3 0 0 98.3 8.06 91.6",
+    "1500 29.9840263 -95.3355315 139.8 0 0 139.8 11.99 91.4",
+    "1500 29.98412876 -095.33505989 151.6 0 1 151.6 19.51 67.8",
+    "1500 29.9839759 -95.3350955 114.2 0 3 114.2 19.10 64.9",
+    "1500 29.9847807 -95.3349520 66.7 0 0 66.7 10.15 46.7",
+    "1500 29.9853964 -95.3347052 149.3 0 2 149.3 17.45 59.3",
+    "1500 29.9855278 -95.3342915 120.7 0 2 120.7 18.00 90.8",
+    "1500 29.9855137 -95.3334423 221.4 0 2 221.4 17.51 115.9",
+    "1500 29.9855304 -95.3333313 131.8 0 3 131.8 23.41 114.0",
+    "1500 29.9849996 -95.3325713 237.3 0 1 237.3 17.35 180.0",
+    "1500 29.9845500 -95.3325759 228.5 0 1 228.5 14.19 195.3",
+    "1500 29.9841997 -95.3325097 249.6 0 3 249.6 30.06 195.3",
+    "1500 29.9840755 -95.3325990 129.1 0 0 129.1 10.58 122.4",
+    "1500 29.98404611 -095.33262250 149.7 0 0 149.7 11.95 142.6",
+    "1500 29.9840740 -95.3320196 109.7 0 1 109.7 13.43 92.6",
+    "1500 29.98402541 -095.33205799 151.9 0 3 151.9 20.44 79.8",
+    "1500 29.9845828 -95.3319965 139.7 0 3 139.7 32.69 48.2",
+    "1500 29.9847045 -95.3319746 57.8 0 2 57.8 19.22 35.0",
+    "1500 29.9852581 -95.3319754 89.9 0 2 89.9 18.60 45.0",
+    "1500 29.9854945 -95.3319738 90.7 0 2 90.7 20.61 28.8",
+    "1500 29.9878259 -95.3508202 358.8 0 2 358.8 21.05 292.0",
+    "1500 29.9878086 -95.3503874 355.4 0 3 355.4 25.40 285.6",
+    "1500 29.9885738 -95.3496418 230.5 0 3 230.5 21.13 212.0",
+    "1500 29.9889254 -95.3496391 272.8 0 1 272.8 22.98 195.8",
+    "1500 29.9892517 -95.3496407 266.0 0 1 266.0 16.44 255.2",
+    "1500 29.9891280 -95.3493080 75.2 0 3 75.2 23.59 351.4",
+    "1500 29.9886793 -95.3493075 54.6 0 3 54.6 23.44 0.3",
+    "1500 29.9884390 -95.3493006 83.6 0 3 83.6 24.71 23.2",
+    "1500 29.9881469 -95.3493058 94.1 0 3 94.1 22.61 35.9",
+    "1500 29.9853797 -95.3492797 44.1 0 1 44.1 22.42 1.4",
+    "1500 29.9857878 -95.3517233 256.5 0 2 256.5 18.76 201.6",
+    "1500 29.9856892 -95.3517121 243.4 0 3 243.4 27.66 145.4",
+    "1500 29.9855875 -95.3515398 154.9 0 3 154.9 23.76 124.3",
+    "1500 29.9855816 -95.3511193 153.2 0 1 153.2 17.87 97.1",
+    "1500 29.9855910 -95.3508129 124.4 0 3 124.4 24.56 94.5",
+    "1500 29.9851544 -95.3496331 236.7 0 1 236.7 19.06 173.9",
+    "1500 29.9850758 -95.3493048 95.7 0 0 95.7 17.53 9.5",
+    "1500 29.9850006 -95.3493044 139.9 0 2 139.9 21.54 39.3",
+    "1500 29.9876936 -95.3493053 90.6 0 3 90.6 28.03 21.4",
+    "1500 29.98802835 -095.33167260 43.5 0 1 43.5 9.98 359.2",
+    "1500 29.9880187 -95.3317696  1.5 0 2 1.5 20.75 272.5",
+    "1500 29.9882941 -95.3322518 305.2 0 1 305.2 17.10 249.4",
+    "1500 29.9881287 -95.3328955 287.5 0 0 287.5 11.02 268.6",
+    "1500 29.98815845 -095.33287675 302.3 0 0 302.3 12.87 272.8",
+    "1500 29.9881323 -95.3334390 320.7 0 3 320.7 22.56 268.0",
+    "1500 29.9881261 -95.3340427 311.6 0 2 311.6 21.13 267.0",
+    "1500 29.9881385 -95.3346464 311.6 0 2 311.6 21.52 272.0",
+    "1500 29.9881323 -95.3352458 304.1 0 1 304.1 17.42 274.4",
+    "1500 29.9881299 -95.3357738 314.3 0 3 314.3 23.43 225.0",
+    "1500 29.9877813 -95.3366987  1.1 0 1 1.1 20.76 282.3",
+    "1500 29.9877825 -95.3369627 21.4 0 1 21.4 23.02 298.7",
+    "1500 29.9877701 -95.3372738 322.2 0 3 322.2 23.12 285.7",
+    "1500 29.9877682 -95.3401823  6.2 0 2 6.2 20.28 304.7",
+    "1500 29.9878741 -95.3405189 316.5 0 1 316.5 16.29 291.8",
+    "1500 29.9887110 -95.3412432 30.0 0 3 30.0 25.56 342.3",
+    "1500 29.9891808 -95.3412660 43.9 0 3 43.9 29.75 335.2",
+    "1500 29.98979227 -095.34140100 39.7 0 1 39.7 17.06 355.4",
+    "1500 29.9898237 -95.3415439 306.0 0 2 306.0 17.71 216.4",
+    "1500 29.9895840 -95.3417422 214.8 0 0 214.8 9.95 204.8",
+    "1500 29.9891122 -95.3417403 238.2 0 0 238.2 11.73 223.2",
+    "1500 29.9887290 -95.3417296 223.6 0 1 223.6 16.28 216.9",
+    "1500 29.9898336 -95.3414381 32.3 0 0 32.3 12.61 2.0",
+    "1500 29.9842327 -95.3382745 145.4 0 2 145.4 23.14 57.4",
+    "1500 29.9846674 -95.3383532 144.4 0 1 144.4 22.05 57.9",
+    "1500 29.9849948 -95.3383631 104.1 0 1 104.1 15.14 20.6",
+    "1500 29.9846619 -95.3350517 146.4 0 3 146.4 39.07 58.8",
+    "1500 29.9856673 -95.3406806 189.2 0 3 189.2 25.42 94.2",
+    "1500 29.9856690 -95.3404259 151.1 0 3 151.1 25.55 90.9",
+    "1500 29.9856654 -95.3400465 127.0 0 2 127.0 20.74 91.0",
+    "1500 29.9855780 -95.3394806 123.2 0 1 123.2 15.77 118.6",
+    "1500 29.9851623 -95.3386733 250.4 0 3 250.4 21.03 157.8",
+    "1500 29.9848417 -95.3386599 220.9 0 3 220.9 23.63 180.0",
+    "1500 29.9840505 -95.3321621 183.0 0 2 183.0 23.96 115.4"
+  ],
+  "restored_record_source": "Installed current Global Airports KIAH apt.dat; original compiled base selection",
+  "current_size_code_updates": [
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98441202",
+        "-095.33872806"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98422332",
+        "-095.33871280"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98419537",
+        "-095.33847992"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98566601",
+        "-095.33756902"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98566229",
+        "-095.33714179"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98566920",
+        "-095.33674061"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98548328",
+        "-095.33588291"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98486114",
+        "-095.33557511"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98454829",
+        "-095.33559978"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98416585",
+        "-095.33576207"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98416095",
+        "-095.33577773"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98405195",
+        "-095.33553146"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98402633",
+        "-095.33553146"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98412876",
+        "-095.33505989"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98397595",
+        "-095.33509546"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98478066",
+        "-095.33495196"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98539639",
+        "-095.33470516"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98552785",
+        "-095.33429155"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98551374",
+        "-095.33344232"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98553035",
+        "-095.33333135"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98499957",
+        "-095.33257127"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98454997",
+        "-095.33257587"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98419967",
+        "-095.33250969"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98407549",
+        "-095.33259897"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98404611",
+        "-095.33262250"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98407397",
+        "-095.33201965"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98402541",
+        "-095.33205799"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98458282",
+        "-095.33199647"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98470449",
+        "-095.33197459"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98525808",
+        "-095.33197543"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98549449",
+        "-095.33197375"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98782587",
+        "-095.35082023"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98780856",
+        "-095.35038742"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98857377",
+        "-095.34964184"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98892537",
+        "-095.34963914"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98925172",
+        "-095.34964073"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98912800",
+        "-095.34930802"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98867931",
+        "-095.34930753"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98843896",
+        "-095.34930059"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98814693",
+        "-095.34930580"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98537967",
+        "-095.34927966"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "2",
+      "location": [
+        "29.98578775",
+        "-095.35172331"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98568918",
+        "-095.35171211"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98558748",
+        "-095.35153984"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98558162",
+        "-095.35111932"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98559097",
+        "-095.35081287"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98515442",
+        "-095.34963307"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98507583",
+        "-095.34930476"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98500060",
+        "-095.34930439"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98769364",
+        "-095.34930531"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98802835",
+        "-095.33167260"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98801867",
+        "-095.33176961"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98829412",
+        "-095.33225180"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98812867",
+        "-095.33289551"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98815845",
+        "-095.33287675"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98813232",
+        "-095.33343898"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98812614",
+        "-095.33404268"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98813850",
+        "-095.33464638"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98813232",
+        "-095.33524579"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98812985",
+        "-095.33577385"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "1",
+      "location": [
+        "29.98778126",
+        "-095.33669866"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "1",
+      "location": [
+        "29.98778250",
+        "-095.33696268"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98777014",
+        "-095.33727381"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98776824",
+        "-095.34018227"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98787415",
+        "-095.34051888"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98871103",
+        "-095.34124320"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98918076",
+        "-095.34126603"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98979227",
+        "-095.34140100"
+      ],
+      "matched_current_global": false
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98982374",
+        "-095.34154389"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98958405",
+        "-095.34174221"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98911222",
+        "-095.34174026"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98872902",
+        "-095.34172955"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "1",
+      "current": "0",
+      "location": [
+        "29.98983364",
+        "-095.34143809"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98423272",
+        "-095.33827453"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98466738",
+        "-095.33835317"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98499478",
+        "-095.33836309"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98466186",
+        "-095.33505171"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98566733",
+        "-095.34068061"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98566896",
+        "-095.34042586"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98566544",
+        "-095.34004653"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "2",
+      "current": "1",
+      "location": [
+        "29.98557804",
+        "-095.33948061"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98516230",
+        "-095.33867328"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "4",
+      "current": "3",
+      "location": [
+        "29.98484167",
+        "-095.33865987"
+      ],
+      "matched_current_global": true
+    },
+    {
+      "old": "3",
+      "current": "2",
+      "location": [
+        "29.98405050",
+        "-095.33216212"
+      ],
+      "matched_current_global": true
+    }
+  ],
+  "new_jetway_absolute_heading_repairs": 32,
+  "jetways_not_restored": [
+    {
+      "record": "1500  29.98802850 -095.34645459 71.5 0 3 71.5 21.11 351.3",
+      "nearest_surviving_base_m": 275.4944226200794
+    },
+    {
+      "record": "1500  29.98808634 -095.34663783 347.7 0 4 347.7 26.69 291.4",
+      "nearest_surviving_base_m": 257.58691634405056
+    },
+    {
+      "record": "1500  29.98808494 -095.34659608 39.3 0 4 39.3 23.69 330.9",
+      "nearest_surviving_base_m": 261.6185198256372
+    },
+    {
+      "record": "1500  29.98810633 -095.34674097 325.3 0 4 325.3 27.50 252.3",
+      "nearest_surviving_base_m": 247.58738923256152
+    },
+    {
+      "record": "1500  29.98803493 -095.34689292 293.4 0 4 293.4 23.47 221.4",
+      "nearest_surviving_base_m": 233.21254038068022
+    },
+    {
+      "record": "1500  29.98789616 -095.34690617 236.3 0 3 236.3 20.09 208.5",
+      "nearest_surviving_base_m": 231.95980325896852
+    },
+    {
+      "record": "1500  29.98778681 -095.34640576 70.9 0 2 70.9 17.23 359.1",
+      "nearest_surviving_base_m": 279.85345182358895
+    },
+    {
+      "record": "1500  29.98787411 -095.34468067 283.8 0 2 283.8 20.61 203.3",
+      "nearest_surviving_base_m": 300.1288634341155
+    },
+    {
+      "record": "1500  29.98803549 -095.34461128 316.9 0 2 316.9 18.77 270.0",
+      "nearest_surviving_base_m": 288.51057891382965
+    },
+    {
+      "record": "1500  29.98805529 -095.34442651 18.3 0 3 18.3 25.07 298.9",
+      "nearest_surviving_base_m": 270.75247663902246
+    },
+    {
+      "record": "1500  29.98799011 -095.34424970 43.9 0 3 43.9 27.53 311.6",
+      "nearest_surviving_base_m": 256.60873830292263
+    },
+    {
+      "record": "1500  29.98795532 -095.34426801 82.3 0 4 82.3 25.78 86.0",
+      "nearest_surviving_base_m": 259.53239420640136
+    },
+    {
+      "record": "1500  29.98857649 -095.33838975 89.7 0 3 89.7 18.80 29.1",
+      "nearest_surviving_base_m": 139.95813590099146
+    },
+    {
+      "record": "1500  29.98888295 -095.33838678 75.5 0 3 75.5 19.12 65.4",
+      "nearest_surviving_base_m": 163.57184467594294
+    },
+    {
+      "record": "1500  29.98913103 -095.33836493 51.0 0 3 51.0 14.37 1.6",
+      "nearest_surviving_base_m": 183.98315177855864
+    },
+    {
+      "record": "1500  29.98959544 -095.33839471 77.2 0 3 77.2 21.05 355.7",
+      "nearest_surviving_base_m": 229.4532653195514
+    },
+    {
+      "record": "1500  29.98967441 -095.33852950 17.2 0 2 17.2 15.32 330.3",
+      "nearest_surviving_base_m": 243.41570437073213
+    },
+    {
+      "record": "1500  29.98958385 -095.33867701 354.8 0 2 354.8 18.16 266.6",
+      "nearest_surviving_base_m": 242.41543411373743
+    },
+    {
+      "record": "1500  29.98940487 -095.33867618 275.7 0 2 275.7 17.17 199.7",
+      "nearest_surviving_base_m": 226.1817358145795
+    },
+    {
+      "record": "1500  29.98926666 -095.33866826 271.7 0 2 271.7 16.42 221.5",
+      "nearest_surviving_base_m": 213.61910292033704
+    },
+    {
+      "record": "1500  29.98874388 -095.33867222 291.2 0 2 291.2 16.08 205.8",
+      "nearest_surviving_base_m": 172.8118251911209
+    },
+    {
+      "record": "1500  29.98848807 -095.33866776 261.2 0 3 261.2 17.39 198.7",
+      "nearest_surviving_base_m": 156.2969783859442
+    },
+    {
+      "record": "1500  29.98777115 -095.33958679 335.1 0 3 335.1 19.74 286.7",
+      "nearest_surviving_base_m": 57.50975929353801
+    },
+    {
+      "record": "1500  29.98833401 -095.34126318 56.4 0 3 56.4 20.13 336.8",
+      "nearest_surviving_base_m": 41.747785329543554
+    },
+    {
+      "record": "1500  29.98816967 -095.34179616 268.2 0 4 268.2 29.45 244.2",
+      "nearest_surviving_base_m": 62.31568611999771
+    },
+    {
+      "record": "1500  29.98791347 -095.34244391 323.5 0 2 323.5 15.00 293.8",
+      "nearest_surviving_base_m": 113.66955802553687
+    },
+    {
+      "record": "1500  29.98791169 -095.34301504 306.6 0 4 306.6 26.42 301.3",
+      "nearest_surviving_base_m": 153.5979670515468
+    }
+  ],
+  "ground_labels": [
+    {
+      "name": "B1",
+      "pos": [
+        -195.20661824877968,
+        421.98999485639797
+      ],
+      "heading": 282,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B2",
+      "pos": [
+        -194.28881747959952,
+        469.1879863255119
+      ],
+      "heading": 270,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B3",
+      "pos": [
+        -180.35025101700916,
+        549.4956321767968
+      ],
+      "heading": 260,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B4",
+      "pos": [
+        -191.72594313145714,
+        590.1861505581232
+      ],
+      "heading": 230,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B5",
+      "pos": [
+        -225.91826847799678,
+        625.834205479206
+      ],
+      "heading": 195,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B6",
+      "pos": [
+        -266.1365264308732,
+        624.4700787930417
+      ],
+      "heading": 160,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B7",
+      "pos": [
+        -298.800932136963,
+        603.9318187321977
+      ],
+      "heading": 130,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B8",
+      "pos": [
+        -316.13372801974265,
+        549.3409879038388
+      ],
+      "heading": 105,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B9",
+      "pos": [
+        -313.1257838848494,
+        467.96861253580005
+      ],
+      "heading": 90,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B10",
+      "pos": [
+        -335.106140465193,
+        432.607786189673
+      ],
+      "heading": 180,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B11",
+      "pos": [
+        -394.35793373958103,
+        438.59380297503
+      ],
+      "heading": 180,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B12",
+      "pos": [
+        -453.1052825653475,
+        430.8331380331585
+      ],
+      "heading": 270,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B14",
+      "pos": [
+        -453.2017838570819,
+        475.2848552736774
+      ],
+      "heading": 270,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B15",
+      "pos": [
+        -439.35971868622596,
+        550.0498929904454
+      ],
+      "heading": 260,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B16",
+      "pos": [
+        -450.7354108006739,
+        590.5187070461549
+      ],
+      "heading": 230,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B17",
+      "pos": [
+        -484.9277361472136,
+        625.9450576420145
+      ],
+      "heading": 195,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B18",
+      "pos": [
+        -525.1459940987186,
+        624.5809309558501
+      ],
+      "heading": 160,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B19",
+      "pos": [
+        -558.0034023896485,
+        603.7101144065807
+      ],
+      "heading": 130,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B20",
+      "pos": [
+        -575.1431956889594,
+        542.0247451659615
+      ],
+      "heading": 105,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B21",
+      "pos": [
+        -568.200178608234,
+        491.59374415185175
+      ],
+      "heading": 115,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B22",
+      "pos": [
+        -568.200178608234,
+        441.1287682018467
+      ],
+      "heading": 65,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B23",
+      "pos": [
+        -594.9095564596058,
+        393.91936785613393
+      ],
+      "heading": 90,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D1",
+      "pos": [
+        342.9411876248328,
+        436.3757461680692
+      ],
+      "heading": 270,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D2",
+      "pos": [
+        208.07038142618745,
+        503.4967306794907
+      ],
+      "heading": 90,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D3",
+      "pos": [
+        342.9411876248328,
+        505.7692000148987
+      ],
+      "heading": 270,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D4",
+      "pos": [
+        205.80943893746112,
+        597.0884418051902
+      ],
+      "heading": 110,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D5",
+      "pos": [
+        345.1056288218248,
+        590.6590163689931
+      ],
+      "heading": 250,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "D6",
+      "pos": [
+        277.38755971844466,
+        652.3494001507376
+      ],
+      "heading": 180,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "A20",
+      "pos": [
+        -755.3197470661879,
+        12.738708218722412
+      ],
+      "heading": 340.30560037888984,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "C12",
+      "pos": [
+        -54.33508885043358,
+        435.1194424834612
+      ],
+      "heading": 125,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "C14",
+      "pos": [
+        -90.37886400969127,
+        418.85745694418216
+      ],
+      "heading": 180,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "C15",
+      "pos": [
+        -143.8405797649315,
+        418.85745694418216
+      ],
+      "heading": 180,
+      "width": 6,
+      "height": 2.6,
+      "source": "new stand lead-in"
+    },
+    {
+      "name": "B40",
+      "pos": [
+        -207.28081102267865,
+        68.28714678680667
+      ],
+      "heading": 288.3,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B42",
+      "pos": [
+        -207.38163556432642,
+        34.82172236419267
+      ],
+      "heading": 290.1,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B41",
+      "pos": [
+        -205.15110990267604,
+        -10.535052315471622
+      ],
+      "heading": 310.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B44",
+      "pos": [
+        -305.64872547237366,
+        -36.53326437765449
+      ],
+      "heading": 26.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B45",
+      "pos": [
+        -316.4850682630822,
+        -1.4170357484573992
+      ],
+      "heading": 45.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B46",
+      "pos": [
+        -316.246975362222,
+        36.756620449817184
+      ],
+      "heading": 45.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B47",
+      "pos": [
+        -315.97085102860746,
+        74.55096156811706
+      ],
+      "heading": 45.3,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B48",
+      "pos": [
+        -322.4953584690588,
+        91.54679791839712
+      ],
+      "heading": 23.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B50",
+      "pos": [
+        -350.37948650883476,
+        28.98823987227659
+      ],
+      "heading": 294.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B51",
+      "pos": [
+        -356.83723616861187,
+        30.494591043370654
+      ],
+      "heading": 313.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B52",
+      "pos": [
+        -357.34240644524266,
+        -8.358714343918471
+      ],
+      "heading": 314.7,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B53",
+      "pos": [
+        -381.176397328564,
+        -37.66655105463386
+      ],
+      "heading": 331.9,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B54",
+      "pos": [
+        -437.24596576061606,
+        -36.73220135495977
+      ],
+      "heading": 26.4,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B55",
+      "pos": [
+        -462.23304249804556,
+        -9.151634915619283
+      ],
+      "heading": 45.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B56",
+      "pos": [
+        -461.9744467876687,
+        27.98678749116011
+      ],
+      "heading": 45.3,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B57",
+      "pos": [
+        -469.26726799874467,
+        28.548059717807533
+      ],
+      "heading": 64.1,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B60",
+      "pos": [
+        -495.66328197061233,
+        73.08618912666591
+      ],
+      "heading": 339.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B61",
+      "pos": [
+        -502.8873008130722,
+        73.636647432702
+      ],
+      "heading": 316.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B63",
+      "pos": [
+        -501.6688733434299,
+        -0.77346279022722
+      ],
+      "heading": 315.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B62",
+      "pos": [
+        -501.69088600950613,
+        37.79810338520179
+      ],
+      "heading": 313.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B64",
+      "pos": [
+        -554.1616965553505,
+        -42.10725737729834
+      ],
+      "heading": 0.8,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B65",
+      "pos": [
+        -611.5552733701479,
+        -11.266016146973339
+      ],
+      "heading": 40.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B66",
+      "pos": [
+        -611.7163837382877,
+        27.585542465905018
+      ],
+      "heading": 43.1,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B67",
+      "pos": [
+        -614.5693318318245,
+        69.87289250788476
+      ],
+      "heading": 47.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B68",
+      "pos": [
+        -612.4466884116005,
+        114.1958210303709
+      ],
+      "heading": 53.4,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D7",
+      "pos": [
+        375.24444399915876,
+        421.57944737169237
+      ],
+      "heading": 170.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D8W",
+      "pos": [
+        451.3096377903567,
+        490.6276901761459
+      ],
+      "heading": 196.1,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D9",
+      "pos": [
+        461.138521309806,
+        454.08571529440786
+      ],
+      "heading": 187.7,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D10",
+      "pos": [
+        488.2003512370612,
+        474.5991636290553
+      ],
+      "heading": 146.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D11",
+      "pos": [
+        574.7283630667533,
+        481.19451561711156
+      ],
+      "heading": 179.1,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D12",
+      "pos": [
+        632.0802763178087,
+        481.76102560002863
+      ],
+      "heading": 180.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D14",
+      "pos": [
+        690.0791949140705,
+        482.22780335370976
+      ],
+      "heading": 180.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D15",
+      "pos": [
+        746.2188697739895,
+        481.80495777917554
+      ],
+      "heading": 180.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D16",
+      "pos": [
+        802.8302051410855,
+        481.83396065826156
+      ],
+      "heading": 180.5,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D16A380",
+      "pos": [
+        797.5839775347494,
+        485.7255461750458
+      ],
+      "heading": 179.5,
+      "width": 6,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D17",
+      "pos": [
+        864.0535873043024,
+        481.2104282042037
+      ],
+      "heading": 180.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D18A",
+      "pos": [
+        923.306578221554,
+        480.7718545350607
+      ],
+      "heading": 179.8,
+      "width": 6,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D18B",
+      "pos": [
+        995.0158997041357,
+        439.2435332942841
+      ],
+      "heading": 241.9,
+      "width": 6,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "B43",
+      "pos": [
+        -254.9484368785299,
+        -31.742124054733488
+      ],
+      "heading": 4.2,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D8",
+      "pos": [
+        418.710764150985,
+        434.824539729816
+      ],
+      "heading": 180.0,
+      "width": 4.5,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D18W",
+      "pos": [
+        1015.050406113046,
+        467.7506418096366
+      ],
+      "heading": 241.0,
+      "width": 6,
+      "height": 2.0,
+      "source": "retained stand renumbering"
+    },
+    {
+      "name": "D1A",
+      "pos": [
+        335.9411876248328,
+        416.3757461680692
+      ],
+      "heading": 270,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D1B",
+      "pos": [
+        335.9411876248328,
+        456.3757461680692
+      ],
+      "heading": 270,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D2A",
+      "pos": [
+        215.07038142618745,
+        523.4967306794907
+      ],
+      "heading": 90,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D2B",
+      "pos": [
+        215.07038142618745,
+        483.4967306794907
+      ],
+      "heading": 90,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D4A",
+      "pos": [
+        219.22769014947588,
+        613.4881532176288
+      ],
+      "heading": 110,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D4B",
+      "pos": [
+        205.5468844164491,
+        575.9004483861924
+      ],
+      "heading": 110,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D5A",
+      "pos": [
+        345.3681833428368,
+        569.4710229499952
+      ],
+      "heading": 250,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    },
+    {
+      "name": "D5B",
+      "pos": [
+        331.68737760981,
+        607.0587277814317
+      ],
+      "heading": 250,
+      "width": 5,
+      "height": 2.0,
+      "source": "manual MARS alternative"
+    }
+  ]
+}

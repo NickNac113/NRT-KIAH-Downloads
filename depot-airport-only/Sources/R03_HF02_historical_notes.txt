@@ -1,0 +1,79 @@
+KIAH R03 HF02 - VISUAL AND JETWAY REPAIR REVIEW
+24 October 2026
+STAGED ONLY. NOT INSTALLED. X-PLANE ACCEPTANCE PENDING.
+
+This successor repairs the defects reported during the R03 simulator test.
+R03/HF01 and the installed airport are preserved. No simulator control or
+scenery-order change was performed for this review.
+
+REPAIRS
+* Restored 84 omitted moving jetway definitions at surviving fixed connections.
+  77 records match the installed current Global Airports exactly. Seven extra
+  source arms preserve the compiled Gateway placement with translated current
+  size codes. Those extra arms need particular docking review. Twenty-seven
+  obsolete arms whose fixed bases were removed are not restored.
+* Corrected absolute parked tunnel headings on the 32 new moving jetways.
+  The staged airport now contains 116 moving-jetway definitions. This is a
+  definition count, not a claim that all 116 have docked successfully.
+* Corrected outward-facing triangles on all 37 existing custom models and the
+  apron-facing direction/texture reading of the 32 elevated gate signs.
+* Reversed 55 incorrectly clipped retained terminal/garage/bridge outlines.
+* Added an exterior shell to the United maintenance hangar, whose retained
+  source contained only an interior framework. The original footprint is
+  preserved; the 22 m shell height/detail is interpreted. East doorway stays
+  open. The stock interior framework remains in the native scenery.
+* Added/corrected 81 ground gate identifiers. Elevated signs are supplementary;
+  ground identifiers and lead-ins remain on the apron. Separated the D16 and
+  D16A380 markings, removed stale renumbered labels and obsolete D9B marking.
+* Removed 34 inherited equipment placements in rebuilt areas, trimmed five old
+  surface polygons, removed 26 old painted-line blocks and clipped 32 others.
+  Added continuous hard surface under custom buildings and fixed tunnels.
+
+VALIDATION
+19/19 targeted offline checks pass. Native DSF compilation and decode succeed.
+38 custom models / 12,134 triangles have outward clockwise OBJ8 front faces.
+Ground identifiers are on pavement, outside terminal footprints and do not
+overlap. Native parked headings/lengths reach their designed endpoints; actual
+parked moving meshes clear neighboring new fixed and moving bridge envelopes.
+All aircraft starts, aircraft/service route records, runways and flow rules are
+unchanged. Installed package hashes and the northern DSF are unchanged.
+
+PREVIEW LIMITS
+The images render the staged custom OBJ8 files and actual stock animated
+jetway meshes evaluated at their native parked positions. Gray retained
+buildings/connections are simplified massing. Pavement and painted paths come
+from native airport data but use simplified colors/line styles. No aircraft,
+traffic, terrain relief or library hangar framework is simulated. Lighting and
+shadows are illustrative. These are offline previews, not X-Plane screenshots.
+
+FIRST SIMULATOR TESTS AFTER AN APPROVED INSTALL
+1. C30 or C40: confirm restored moving arm is visible; spawn a compatible
+   aircraft, set parking brake, engines off, then request normal jetway docking.
+2. B5: inspect roof/walls and readable sign; verify apron B5 paint and parked
+   arm direction. Dock/retract the jetway, then request ground services.
+3. B3/B4 and B15/B16: inspect the fanned stands and neighboring bridge clearance.
+4. D14-D16 and D West: inspect gate numbers, overlapping old paint, pavement
+   layering and bridge positions; test one widebody docking/pushback.
+5. United Maintenance 3: inspect shell from both sides, doorway and terrain fit.
+6. Repeat R03 aircraft taxi and service-route tests, including reopened west
+   taxiways. C14 wide's 334 m final maneuver remains a specific test item.
+
+INSTALLATION HOLD
+The review package is a full successor airport, not an additional overlay.
+Once approved it should replace the active R03 package as a single airport,
+with a backup and hash check. Do not enable both airport revisions together.
+This document does not authorize installation or simulator reload.
+
+PROVENANCE AND LIMITS
+Retains R03/HF01's airport header repair and the R02 Gateway/Houston Airports/FAA
+source attribution, route decisions and C29/E6 evidence limitations. This fix
+does not independently certify every real-world airport change as of today.
+Historical source notes are retained under Sources; current HF02 notes and
+validation take precedence for repair status. Rebuild scripts require the
+preserved original workspace inputs/dependencies and repair-stage paths.
+
+Technical references:
+https://developer.x-plane.com/article/obj8-file-format-specification/
+https://developer.x-plane.com/article/dsf-usage-in-x-plane/
+https://developer.x-plane.com/article/airport-data-apt-dat-12-00-file-format-specification/
+https://github.com/X-Plane/xptools/blob/master/src/WEDEntities/WED_FacadePlacement.cpp

@@ -1,21 +1,58 @@
-# Install NRT KIAH Campus
+NRT KIAH - installation and content channels
 
-Download the latest scenery ZIP from [NRT KIAH Downloads](https://nicknac113.github.io/NRT-KIAH-Downloads/).
+Member release: 0.28.0 / R28. Main and Airport Only share this version.
+X-Plane visual and operational acceptance of Terminal B remains pending.
 
-1. Close X-Plane. Extract the ZIP into your X-Plane 12 folder. The result must be `Custom Scenery/NRT_KIAH_Campus/skunkcrafts_updater.cfg`, with `Earth nav data` beside it. Avoid a second nested `Custom Scenery` folder.
-2. Keep **MisterX Library**, **OpenSAM**, and **openSAM_Library** installed. These are separate dependencies and are not included in this download. Use their developer distributions; keep the copies already working on your PC. **AEP is not required.**
-3. Back up `Custom Scenery/scenery_packs.ini`. Disable previous NRT/KIAH test scenery entries (R20 through R27, or any other versioned NRT airport) so only this KIAH package is active. Keep their folders for rollback. Put `SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/` above other KIAH airport packages and Global Airports, with the libraries below the airport. Keep the final slash.
-4. Run the current [SkunkCrafts standalone updater](https://updater.skunkcrafts.com/) against this X-Plane folder. It should find **NRT KIAH Campus**. Check and update when offered, with X-Plane closed.
-5. Fully restart X-Plane after updating, then load KIAH. If controls or jetways are missing, run `Check OpenSAM.cmd` in the scenery folder and enter the X-Plane root. It reads the scenery configuration and Log.txt without changing them.
+One folder, one release version, two choices:
+  Main: airport refinements plus the fictional NRT campus/ramp.
+  Airport Only: the same airport refinements without the fictional NRT campus.
+These are content variants, not different beta/stable quality levels.
 
-The current member release is **0.27.0 (R27)**, including R25-R27 changes. Follow the yellow canopy entry and forward-exit lines back to the main taxi line. G650 and Lineage are the turning targets; BBJ2 requires tow-in/tow-out. The canopy and NRT11 approach share space: one aircraft movement at a time.
+FIRST INSTALL
+Close X-Plane. Extract the first-install ZIP into the X-Plane 12 root.
+The resulting folder must be Custom Scenery/NRT_KIAH_Campus, with the updater
+configuration and Earth nav data directly inside it. Avoid double nesting.
+Main is the initial choice and preserves the existing NRT member experience.
 
-NRT11 parks nose east. Its aircraft planning limits are **66 m / 216.5 ft wingspan AND 50 m / 164 ft length**; both limits apply. Push back or tow out. Its walk approaches from the north and continues to the hold point outside the single NRT10 helipad. Use the walk with aircraft stationary and rotors stopped. Ramp fencing separates the aircraft area from public parking.
+Disable other KIAH/NRT test versions in scenery_packs.ini; retain them for
+rollback. Put this airport above other KIAH scenery and Global Airports.
+The entry must end with a slash:
+SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/
 
-Hangars are configured open by default. Six OpenSAM controls remain: MH1 Outer/Middle/Tail, MH2, and Indoor Parking Left/Right. Truck workshop doors are fixed open. Indoor Parking has a 20.6 m main roof and 16 m clear opening. Both headquarters signs read NRT VIRTUAL HEADQUARTERS. All 119 native airport/FBO jetway records remain; both NRT9 jetways and their fixed links now match the stand's 4 m eastward move.
+CHANNEL SWITCHING
+Use the current standalone SkunkCrafts Updater, at least version 4.2.3.
+With X-Plane closed, check NRT KIAH Campus to discover its public channels.
+Select Main or Airport Only in the channel selector. Run a full check and
+repair/update even when the version number is unchanged. Wait for completion
+and an up-to-date result before starting X-Plane. To switch back, select the
+other channel and repeat. Do not install a second copy of the scenery.
+The updater replaces shared airport files and removes managed files belonging
+only to the other variant. Folder name and scenery order stay the same.
+Do not hand-edit the module URL or delete SkunkCrafts' own state folder.
 
-R27 adds local service-vehicle parking and road access, a stock mast beside NRT9/NRT11, and modeled sheltered floors under the canopy and Indoor Parking. Exterior native wet surfaces remain. Recheck NB service routes, both NRT9 jetways, sheltered floors in rain, and night lighting in a fresh session. These are offline-verified changes; simulator behavior and appearance are not yet accepted. Native service AI can leave roads on its final approach. See `README_R27.txt` for the test sequence.
+DEPENDENCIES AND PRESERVATION
+Keep MisterX Library, OpenSAM and openSAM_Library installed separately for
+Main. Airport Only uses native X-Plane airport assets; its default animated
+airport jetways do not require the fictional campus's OpenSAM door controls.
+AEP is not required by either variant. This update does not install/remove
+plugins, libraries, aircraft, preferences or scenery_packs.ini.
+Personal files outside managed paths survive switching. Keep custom edits
+outside managed paths, or use the updater's user ignore file deliberately.
+Fully restart X-Plane after any scenery update.
 
-Future updates replace files inside the same `NRT_KIAH_Campus` folder. They do not manage libraries, plugins, aircraft, preferences, or `scenery_packs.ini`. Keep personal custom files outside managed paths or use SkunkCrafts' ignore file. Old versioned scenery folders are not removed automatically.
+CONTENT AND TEST STATUS
+Both variants include R28 Terminal B North native terminal materials and
+passenger window artwork, fixed glass links, roof detail and refined ND/R1/NG
+taxi guidance. Existing gate starts, B South and other terminal layouts remain.
+Main retains 119 airport/FBO jetway records, NRT11 nose-east parking, the
+canopy pull-through, one helipad and six default-open aircraft-hangar controls.
+Airport Only retains 116 airport jetway records and restores the pre-campus
+airport baseline in the fictional ramp area. It is not a claim that every
+part of KIAH depicts today's construction status.
+Main's service behavior near NB, wet shelter appearance, NRT9 docking and
+night appearance still require simulator checks. Read the historical R27/R28
+review notes and the current release status; offline checks are not in-game
+acceptance. VARIANT.txt identifies the installed content choice.
 
-For rollback, close X-Plane, disable the stable folder and re-enable your previous versioned package. Download links are public; a GitHub account is not required.
+Public download page: https://nicknac113.github.io/NRT-KIAH-Downloads/
+Updater guide: https://github.com/lzamouth/sku_client/blob/master/docs/USER_GUIDE.md

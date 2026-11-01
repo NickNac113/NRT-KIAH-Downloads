@@ -1,3 +1,12 @@
+0.28.0
+- Two synchronized content channels: Main includes the fictional NRT ramp; Airport Only omits it. Same version and installed folder.
+- Use SkunkCrafts 4.2.3 or newer. Select a channel, then perform a full check and repair/update before starting X-Plane.
+- Channel switching restores the full corresponding airport files and removes managed files exclusive to the previous choice.
+- Both channels include Terminal B North native terminal finishes with passenger window artwork, fixed glass links, roof detail and refined ND/R1/NG taxi guidance.
+- Main retains all NRT campus features and 119 native jetway records. Airport Only retains the pre-campus airport with the same B refinements and 116 native jetway records.
+- AEP is not required. Libraries, plugins, aircraft, preferences and scenery order are not managed by this update.
+- Member release. Simulator acceptance of R28 remains pending.
+
 0.27.0
 - Cumulative member update from 0.24.0, including R25, R26 and R27. AEP is not required.
 - Native light pavement and restrained wear; cohesive headquarters/canopy materials and recessed jetway wall connections.

@@ -1,0 +1,17 @@
+{
+  "revision": "R03",
+  "counts": {
+    "aircraft_segments": 988,
+    "service_segments": 588,
+    "ramps": 240,
+    "service_approaches": 33,
+    "new_vehicle_parks": 18,
+    "new_destinations": 5
+  },
+  "routing_report": "routing-build-report.json",
+  "artwork_report": "R02-artwork-build-report.json",
+  "installed": false,
+  "simulator_tested": false,
+  "hotfix": "HF01",
+  "structural_validation": "R03-HF01-validation.json"
+}

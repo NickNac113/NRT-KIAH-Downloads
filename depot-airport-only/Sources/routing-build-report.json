@@ -1,0 +1,3756 @@
+{
+  "changes": [
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 0.165,
+      "position": [
+        126.34084247596628,
+        -2834.4159725588943
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.727,
+      "position": [
+        -1551.4151796474866,
+        320.06189741765
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.611,
+      "position": [
+        -1507.182847455445,
+        236.7564971527303
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 2.026,
+      "position": [
+        -1298.2006145617302,
+        -154.78220965770586
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.925,
+      "position": [
+        -1230.468287747399,
+        -282.1823831992713
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 0.436,
+      "position": [
+        -1061.471365184757,
+        -602.6903497194925
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 2.096,
+      "position": [
+        -958.2651634389061,
+        -792.9570017683243
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.766,
+      "position": [
+        -762.8500471844668,
+        -1160.6037419529898
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.201,
+      "position": [
+        -666.692299805052,
+        -1342.370250166473
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.597,
+      "position": [
+        -646.9693657506263,
+        -1378.5612642427895
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.614,
+      "position": [
+        -357.11905017916774,
+        -1922.7999336862997
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.607,
+      "position": [
+        -344.97339757108927,
+        -1945.6221769417757
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 2.142,
+      "position": [
+        -971.1924765135986,
+        -768.5839367568235
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.813,
+      "position": [
+        -291.0706709099899,
+        -2046.4023121339926
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15L/33R",
+      "offset_m": 1.276,
+      "position": [
+        61.286426515492344,
+        -2709.1918269710895
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 0.217,
+      "position": [
+        3711.998817960831,
+        -757.19720260473
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 0.224,
+      "position": [
+        789.1281210010608,
+        -759.3299982150071
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 0.381,
+      "position": [
+        1472.3283178170302,
+        -758.9896820753387
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 0.726,
+      "position": [
+        2069.571918831296,
+        -758.9010003453282
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 1.009,
+      "position": [
+        2410.561164060572,
+        -758.93536451585
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "09/27",
+      "offset_m": 1.144,
+      "position": [
+        3020.0372688460257,
+        -758.6271955032661
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.31,
+      "position": [
+        -1508.051359083797,
+        -409.5692544810005
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.475,
+      "position": [
+        -1283.4446020056541,
+        -830.8617902799193
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.443,
+      "position": [
+        -1222.0379348806937,
+        -946.206791128566
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.325,
+      "position": [
+        -994.9250392489131,
+        -1374.188146424583
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.691,
+      "position": [
+        -909.3158480969043,
+        -1535.6786855596663
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.184,
+      "position": [
+        -626.1743023420695,
+        -2066.1284544856185
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "15R/33L",
+      "offset_m": 0.252,
+      "position": [
+        -1573.169465898132,
+        -287.4489694486826
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.147,
+      "position": [
+        -44.258966546717296,
+        996.1170905644158
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.134,
+      "position": [
+        305.2976633842405,
+        996.4152828819256
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.177,
+      "position": [
+        634.116165670191,
+        996.7500564133945
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.111,
+      "position": [
+        954.2534117301038,
+        996.9695436955742
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.148,
+      "position": [
+        1517.2776546081395,
+        997.5071766846244
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.29,
+      "position": [
+        -1261.586094359277,
+        994.5973074137569
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08R/26L",
+      "offset_m": 0.243,
+      "position": [
+        -1093.9556300902818,
+        995.2790482144186
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.329,
+      "position": [
+        1030.310905003095,
+        2520.5859620233223
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.169,
+      "position": [
+        -1631.3529898703875,
+        2518.7181030821457
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.236,
+      "position": [
+        -1529.7940651798185,
+        2518.8755131532
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.106,
+      "position": [
+        -996.337818163799,
+        2519.220263378955
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.365,
+      "position": [
+        -513.3594669563944,
+        2519.9086553095353
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.185,
+      "position": [
+        -94.8989845255554,
+        2520.1004295507173
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.245,
+      "position": [
+        355.58641666001347,
+        2520.560466026156
+      ]
+    },
+    {
+      "type": "runway centerline alignment",
+      "runway": "08L/26R",
+      "offset_m": 0.218,
+      "position": [
+        895.9299608845593,
+        2521.0138513712827
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 9,
+      "name": "",
+      "old": "E",
+      "new": "D",
+      "clearance_m": 30.92,
+      "position": [
+        445.9285136775046,
+        495.6655796460237
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 10,
+      "position": [
+        445.775559129749,
+        471.57518764934974
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 87,
+      "name": "",
+      "old": "C",
+      "new": "A",
+      "clearance_m": 10.58,
+      "position": [
+        -677.2837991071701,
+        33.932512113579335
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 88,
+      "position": [
+        -699.1833198015743,
+        34.11375539961565
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 93,
+      "position": [
+        -350.3186041330651,
+        44.940686130057856
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 94,
+      "name": "",
+      "old": "C",
+      "new": "B",
+      "clearance_m": 16.59,
+      "position": [
+        -350.42475555411005,
+        -0.889477753608114
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 127,
+      "position": [
+        -997.3616968713773,
+        366.0034677247869
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 151,
+      "position": [
+        682.36198659512,
+        -31.71524715562576
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 167,
+      "position": [
+        435.75148742615585,
+        -19.890646961088667
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 175,
+      "position": [
+        110.00317374446908,
+        3.2935286057974977
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 186,
+      "position": [
+        -495.5023853814379,
+        79.06098180741981
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 187,
+      "name": "",
+      "old": "C",
+      "new": "B",
+      "clearance_m": 17.62,
+      "position": [
+        -495.6471373190395,
+        49.14863422577048
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 188,
+      "name": "",
+      "old": "C",
+      "new": "B",
+      "clearance_m": 18.05,
+      "position": [
+        -495.85027253866144,
+        12.882794939548265
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 191,
+      "position": [
+        -469.0311159787753,
+        44.652470507031474
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 235,
+      "name": "N1",
+      "old": "E",
+      "new": "D",
+      "clearance_m": 27.98,
+      "position": [
+        1243.3963728324911,
+        518.0893093767211
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 237,
+      "name": "",
+      "old": "D",
+      "new": "C",
+      "clearance_m": 26.52,
+      "position": [
+        1471.3845351822497,
+        570.6210407558713
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 238,
+      "name": "",
+      "old": "D",
+      "new": "C",
+      "clearance_m": 22.22,
+      "position": [
+        1675.660882573786,
+        570.6986372698766
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 260,
+      "name": "NF",
+      "old": "E",
+      "new": "D",
+      "clearance_m": 28.47,
+      "position": [
+        -900.3513605784472,
+        586.1231614480454
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 534,
+      "name": "",
+      "old": "B",
+      "new": "A",
+      "clearance_m": 12.97,
+      "position": [
+        -182.94000823571594,
+        -1288.1967982576532
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 543,
+      "position": [
+        -1035.721442939317,
+        -1781.2389506212826
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 772,
+      "name": "",
+      "old": "B",
+      "new": "A",
+      "clearance_m": 13.51,
+      "position": [
+        -1020.122491597665,
+        -1823.84941343951
+      ]
+    },
+    {
+      "type": "trim ramp spur",
+      "edge": 773,
+      "position": [
+        -974.3765366415331,
+        -1913.0371837177559
+      ],
+      "reason": "Fixed taxi route entered a parked-aircraft clearance envelope; final ramp maneuver remains simulator controlled"
+    },
+    {
+      "type": "size",
+      "edge": 981,
+      "name": "N2",
+      "old": "E",
+      "new": "B",
+      "clearance_m": 18.85,
+      "position": [
+        1427.4397768407835,
+        538.8646674480276
+      ]
+    },
+    {
+      "type": "size",
+      "edge": 982,
+      "name": "N2",
+      "old": "E",
+      "new": "C",
+      "clearance_m": 26.52,
+      "position": [
+        1421.4885421644117,
+        584.5085996983171
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 60,
+      "name": "WA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -998.8917248557755,
+        -330.63697203448436
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 712,
+      "name": "WB",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        367.09564324866494,
+        -2667.5579717064684
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 933,
+      "name": "RB",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -380.4834604856379,
+        -131.78371146333686
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 967,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        28.53147548517145,
+        -162.6588100776999
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 254,
+      "name": "NB",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        425.7954491325221,
+        713.9096547764686
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 363,
+      "name": "NA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -1275.290242832843,
+        804.7890290575888
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 70,
+      "name": "WA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -208.5282908164034,
+        -1815.2084873575086
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 220,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        410.19312024502824,
+        684.707315297141
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 316,
+      "name": "ND",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -644.9143707383155,
+        575.8288753593131
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 973,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -361.4852511342767,
+        -205.1035489127707
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 972,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -318.13735328405244,
+        -201.75692212098124
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 38,
+      "name": "WH",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -969.3473718098502,
+        -709.7990348797783
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 971,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -275.66423964564933,
+        -181.0380986524038
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 37,
+      "name": "WH",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -907.4022274763537,
+        -759.878162159597
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 33,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -733.3928362017193,
+        -1198.293474945212
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 31,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -674.1861076341313,
+        -1257.940808971573
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 32,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -614.3403489074999,
+        -1301.1033155600117
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 27,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -572.71065656083,
+        -1327.9378528443967
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 26,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -546.8975259697431,
+        -1336.6253368348405
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 25,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -518.929039021927,
+        -1334.5634866086507
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 24,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -499.78221768096563,
+        -1319.2010396416072
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 23,
+      "name": "WK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -496.5624520741023,
+        -1288.5603933512475
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 16,
+      "name": "WJ",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -711.4814444512513,
+        -905.8532783430637
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 213,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        478.1353373692931,
+        643.2846334024005
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 214,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        484.87740013337526,
+        559.3307479856222
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 215,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        506.46425664264234,
+        540.3800165122057
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 217,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        494.6032828454546,
+        534.562495013908
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 216,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        456.63243698413675,
+        534.5464214501689
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 218,
+      "name": "NK",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        433.4788819999143,
+        539.5020673834872
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 364,
+      "name": "NA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -1168.289127781035,
+        813.0369842230109
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 969,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -80.03199548343629,
+        -156.86900162020282
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 968,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -184.29922893357963,
+        -156.4366781857617
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 970,
+      "name": "RA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -209.14445156626675,
+        -157.01477221419555
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 930,
+      "name": "RB",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -795.5499924772374,
+        -132.6139941618942
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 929,
+      "name": "RB",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -948.0900672128708,
+        -132.4693320896201
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 69,
+      "name": "WA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -307.7547792802397,
+        -1629.9357252379416
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 62,
+      "name": "WA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -864.400769264882,
+        -584.1475542046755
+      ]
+    },
+    {
+      "type": "direction",
+      "edge": 63,
+      "name": "WA",
+      "reason": "One-way edge stranded connected taxi nodes; retain geometry and runway protection",
+      "position": [
+        -726.2234643198613,
+        -843.168043121637
+      ]
+    },
+    {
+      "type": "new apron link",
+      "target": [
+        -660,
+        425
+      ],
+      "size": "C",
+      "path": [
+        [
+          -660,
+          425
+        ],
+        [
+          -645.1657566044903,
+          713.1946583272007
+        ]
+      ]
+    },
+    {
+      "type": "new apron link",
+      "target": [
+        -385,
+        510
+      ],
+      "size": "C",
+      "path": [
+        [
+          -385,
+          510
+        ],
+        [
+          -416,
+          604
+        ],
+        [
+          -484,
+          676
+        ],
+        [
+          -564.8776466908382,
+          713.4318819553037
+        ]
+      ]
+    },
+    {
+      "type": "new apron link",
+      "target": [
+        -122,
+        535
+      ],
+      "size": "C",
+      "path": [
+        [
+          -122,
+          535
+        ],
+        [
+          -124.43513496201243,
+          714.345303775869
+        ]
+      ]
+    },
+    {
+      "type": "new apron link",
+      "target": [
+        127,
+        490
+      ],
+      "size": "E",
+      "path": [
+        [
+          127,
+          490
+        ],
+        [
+          124,
+          636
+        ],
+        [
+          128.1820871270306,
+          713.2190458030421
+        ]
+      ]
+    },
+    {
+      "type": "new apron link",
+      "target": [
+        450,
+        500
+      ],
+      "size": "E",
+      "path": [
+        [
+          450,
+          500
+        ],
+        [
+          441.84023644366033,
+          714.1878937048148
+        ]
+      ]
+    },
+    {
+      "type": "widebody clearance connection",
+      "path": [
+        [
+          -242.90687608385792,
+          -163.04623838627646
+        ],
+        [
+          -223.96753252067415,
+          -157.6344358035349
+        ]
+      ],
+      "replaced_segments": 0
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        463.7619524356844,
+        16.140740001130318
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        461.16751520115224,
+        -58.33029715783105
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        719.4730059443966,
+        -72.62745484125745
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        1000.4452026550359,
+        -22.227964811524906
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        460.5793398262209,
+        -4.358596185070562
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        461.8468842966628,
+        -123.14223112047624
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        719.085553256931,
+        -136.59802088914324
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        1001.160759734947,
+        -108.96867359844147
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -661.7548112014767,
+        -100.78556694824456
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -683.8507120251911,
+        -69.72479096136436
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -731.3862834406787,
+        -70.23969925695405
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -782.3669509802714,
+        -69.91878224578693
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -833.3481010260216,
+        -69.59786523481671
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -866.4789245878123,
+        -69.80793008317535
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -892.9748018195656,
+        -69.46151707484188
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -932.1456412461512,
+        -68.63123437628457
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_C",
+      "new": "taxiway_D",
+      "position": [
+        -986.9878079838755,
+        -67.72058385962217
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -661.7548112014767,
+        -100.78556694824456
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -683.8507120251911,
+        -69.72479096136436
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -731.3862834406787,
+        -70.23969925695405
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -782.3669509802714,
+        -69.91878224578693
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -833.3481010260216,
+        -69.59786523481671
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -866.4789245878123,
+        -69.80793008317535
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -892.9748018195656,
+        -69.46151707484188
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -932.1456412461512,
+        -68.63123437628457
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_D",
+      "new": "taxiway_E",
+      "position": [
+        -986.9878079838755,
+        -67.72058385962217
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2750.2018037356665,
+        1287.6621582764556
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "ED",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2781.4194891837496,
+        1549.008879827651
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.2129347129148,
+        -122.25430529727426
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.31908613396,
+        -56.8432153953128
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.3972521800729,
+        -2.6769688770734987
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.4749357200285,
+        41.69050071991572
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.3195686401168,
+        83.04833409962794
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "SF",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1079.3692668058263,
+        121.51680585869265
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        442.1041674767732,
+        763.4145678534748
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1547.9867782479316,
+        861.6916612119022
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1548.0422664909534,
+        925.1628382666842
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1532.6600264195088,
+        970.2776783055772
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NR",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1093.963242140014,
+        949.1556010097247
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NR",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1093.9088269635713,
+        858.218108693959
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NG",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -188.6504721889086,
+        763.1596078794487
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1293.2780836572492,
+        659.3565342105122
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1293.178687326516,
+        568.5281519243156
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WW",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1311.312245102209,
+        516.6249523074663
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -493.49129845683876,
+        -1928.7255360431093
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -573.2901468194502,
+        -1779.5745053983496
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -664.6126969636506,
+        -1608.2109183929701
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -713.578900032803,
+        -1507.6353054411093
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -729.2536048884119,
+        -1453.5483182192559
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -735.6675632593631,
+        -1408.2591128895995
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -732.4970133113663,
+        -1336.8764169832452
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -730.0897885829909,
+        -1263.1464265317745
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -737.6685175484946,
+        -1222.3328772708337
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WJ",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -754.2930860183213,
+        -1181.4583569968117
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1042.2334932845447,
+        2502.9920943812895
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1056.59061934076,
+        2472.960547364948
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1058.6745647410025,
+        2447.1935164074202
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1058.0473063426718,
+        2386.783521825501
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1057.443690761118,
+        2299.3704946719404
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1060.3010940171348,
+        2248.8634780441616
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FK",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1071.2819760313464,
+        2226.73627784879
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FH",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1294.3278247125318,
+        2034.3556750573227
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FH",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1523.1019900856884,
+        1835.3172913743208
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1541.9337347086707,
+        1795.3146256836328
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1547.514404424042,
+        1485.496687472823
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1547.834306207019,
+        1177.2766831871427
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1547.949142744375,
+        1123.992819883906
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1548.0089735448662,
+        1070.944517426391
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1540.3993641654315,
+        1035.8969434081619
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1525.0383543786074,
+        1008.7189912848976
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2750.2432992912222,
+        1686.5487006907974
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2700.7815620882457,
+        1823.843538274598
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2123.8510005300222,
+        1823.7659417607897
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1577.5171386063912,
+        1814.0170483125476
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1552.9054491004144,
+        1789.1861638690452
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        696.5071459731735,
+        -159.4224811880565
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        635.6003555415638,
+        -158.88207689490667
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        529.4518294046429,
+        -152.12951740430202
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        448.94707409143103,
+        -144.70408528619419
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        422.84781716892553,
+        -142.6134134976819
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        359.6138980803668,
+        -141.34859032124612
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        258.9866933644827,
+        -141.49602369781684
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        188.82880657752577,
+        -139.71241240016988
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        156.60606017295763,
+        -135.30049632476363
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        132.7200603823593,
+        -133.89433664101287
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        108.78050237473866,
+        -141.1612501665448
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        83.3123639025622,
+        -154.24291388607776
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        56.6533994869002,
+        -164.61091666280004
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        28.53147548517145,
+        -162.6588100776999
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -80.03199548343629,
+        -156.86900162020282
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -184.29922893357963,
+        -156.4366781857617
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -209.14445156626675,
+        -157.01477221419555
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -275.66423964564933,
+        -181.0380986524038
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -318.13735328405244,
+        -201.75692212098124
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -361.4852511342767,
+        -205.1035489127707
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -395.2978563237343,
+        -168.773969632845
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -507.3146260259158,
+        -132.1112796040283
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -640.4275431678528,
+        -132.4599096556022
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -661.7548112014767,
+        -100.78556694824456
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -683.8507120251911,
+        -69.72479096136436
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -731.3862834406787,
+        -70.23969925695405
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -782.3669509802714,
+        -69.91878224578693
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -833.3481010260216,
+        -69.59786523481671
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -866.4789245878123,
+        -69.80793008317535
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -892.9748018195656,
+        -69.46151707484188
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -932.1456412461512,
+        -68.63123437628457
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "RC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -986.9878079838755,
+        -67.72058385962217
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1271.908966416967,
+        983.0716370244439
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1288.237821177099,
+        953.0504710967652
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.1147498586706,
+        920.1113052127749
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1293.752870013981,
+        852.0375463627292
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1305.3499127773703,
+        794.1211711805818
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1328.7847690280132,
+        788.4084049762308
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NA",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1422.7919851150111,
+        793.023180509218
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1493.3575898610543,
+        793.9354938082615
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "WB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1475.2790378215398,
+        779.3362639815068
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1538.5606202974795,
+        2507.181920576518
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1553.6101015330864,
+        2478.6716507871147
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1559.8151346077893,
+        2445.183766697872
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1559.7113957189006,
+        2383.016765337191
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1559.6568724888787,
+        2285.4796101647325
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1559.5946291555456,
+        2173.5422047972825
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "FC",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1554.117215822906,
+        2093.2442237062023
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1488.5971811274826,
+        2012.9528937450402
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1412.1725004386467,
+        1936.4111381869272
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1375.5767979886577,
+        1894.0473214308208
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1342.8556224112667,
+        1846.6114639705852
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1318.292666057314,
+        1793.1596596407546
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1301.9376270931948,
+        1741.7525234518532
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1296.1205292128004,
+        1705.1785151532438
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.513782701446,
+        1469.6076927327347
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.3810934253113,
+        1222.6806205050327
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.2464741224917,
+        1139.9039850562012
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.1046172232031,
+        1067.7281419257145
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NE",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        -1294.1321200912926,
+        992.3436829461878
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2750.063324381534,
+        886.5352936541843
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2742.820419911787,
+        731.8577284384501
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "EB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2722.348153325206,
+        711.6327513547769
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2680.2436746224903,
+        705.9632174937124
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        2224.558783824861,
+        706.2885685913602
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1694.7015524937024,
+        707.3233735300769
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NB",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1569.9856952737548,
+        710.268715492791
+      ]
+    },
+    {
+      "type": "width connection",
+      "name": "NP",
+      "old": "taxiway_E",
+      "new": "taxiway_F",
+      "position": [
+        1548.0350288937987,
+        764.5602249550001
+      ]
+    },
+    {
+      "type": "service obsolete segments removed",
+      "count": 11
+    },
+    {
+      "type": "service fragment connection",
+      "path": [
+        [
+          249.4234153287839,
+          414.6952801882998
+        ],
+        [
+          176,
+          468
+        ],
+        [
+          156,
+          492
+        ],
+        [
+          156,
+          516
+        ],
+        [
+          180,
+          540
+        ],
+        [
+          244,
+          592
+        ],
+        [
+          268,
+          616
+        ],
+        [
+          284,
+          620
+        ],
+        [
+          312,
+          588
+        ],
+        [
+          316,
+          576
+        ],
+        [
+          324,
+          576
+        ],
+        [
+          376,
+          540
+        ],
+        [
+          396,
+          516
+        ],
+        [
+          396,
+          496
+        ],
+        [
+          384,
+          484
+        ],
+        [
+          370.7400145390225,
+          481.23761641062504
+        ]
+      ]
+    },
+    {
+      "type": "service fragment connection",
+      "path": [
+        [
+          -695.8337599568891,
+          557.8808016973317
+        ],
+        [
+          -720,
+          560
+        ],
+        [
+          -767.157864858241,
+          554.1816650285438
+        ]
+      ]
+    },
+    {
+      "type": "service fragment connection",
+      "path": [
+        [
+          -423.1052825653475,
+          430.8331380331585
+        ],
+        [
+          -416,
+          444
+        ],
+        [
+          -400,
+          460
+        ],
+        [
+          -284,
+          540
+        ],
+        [
+          -276,
+          564
+        ],
+        [
+          -256,
+          584
+        ],
+        [
+          -228,
+          596
+        ],
+        [
+          -224,
+          600
+        ],
+        [
+          -200,
+          612
+        ],
+        [
+          -60,
+          648
+        ],
+        [
+          -12,
+          652
+        ],
+        [
+          32,
+          652
+        ],
+        [
+          44,
+          644
+        ],
+        [
+          192,
+          644
+        ],
+        [
+          276,
+          620
+        ],
+        [
+          284,
+          620
+        ],
+        [
+          300,
+          604
+        ],
+        [
+          316,
+          576
+        ],
+        [
+          392,
+          560
+        ],
+        [
+          940,
+          488
+        ],
+        [
+          964,
+          464
+        ],
+        [
+          952,
+          420
+        ],
+        [
+          952,
+          412
+        ],
+        [
+          1012,
+          352
+        ],
+        [
+          1008,
+          152
+        ],
+        [
+          920,
+          156
+        ],
+        [
+          900,
+          168
+        ],
+        [
+          -156,
+          180
+        ],
+        [
+          -184,
+          184
+        ],
+        [
+          -204,
+          164
+        ],
+        [
+          -308,
+          168
+        ],
+        [
+          -359.885742219391,
+          167.77984743746217
+        ]
+      ]
+    },
+    {
+      "type": "service fragment connection",
+      "path": [
+        [
+          -90.37886400969127,
+          448.85745694418216
+        ],
+        [
+          -80,
+          576
+        ],
+        [
+          -56,
+          600
+        ],
+        [
+          -48,
+          604
+        ],
+        [
+          -28,
+          592
+        ],
+        [
+          -20,
+          600
+        ],
+        [
+          -12,
+          612
+        ],
+        [
+          44,
+          644
+        ],
+        [
+          192,
+          644
+        ],
+        [
+          276,
+          620
+        ],
+        [
+          284,
+          620
+        ],
+        [
+          300,
+          604
+        ],
+        [
+          316,
+          576
+        ],
+        [
+          392,
+          560
+        ],
+        [
+          940,
+          488
+        ],
+        [
+          964,
+          464
+        ],
+        [
+          952,
+          420
+        ],
+        [
+          952,
+          412
+        ],
+        [
+          1012,
+          352
+        ],
+        [
+          1008,
+          152
+        ],
+        [
+          920,
+          156
+        ],
+        [
+          900,
+          168
+        ],
+        [
+          -156,
+          180
+        ],
+        [
+          -184,
+          184
+        ],
+        [
+          -204,
+          164
+        ],
+        [
+          -221.06284363178966,
+          161.8115669980285
+        ]
+      ]
+    },
+    {
+      "type": "service fragment connection",
+      "path": [
+        [
+          405.24595655212295,
+          612.5483055418358
+        ],
+        [
+          406.9411876248328,
+          505.7692000148987
+        ]
+      ]
+    },
+    {
+      "type": "obsolete isolated service spur retired",
+      "count": 1,
+      "positions": [
+        [
+          -253.27593990704725,
+          336.80168250612167
+        ],
+        [
+          -222.5605436837859,
+          336.84713189264863
+        ]
+      ]
+    }
+  ],
+  "node_stats": {
+    "1202_split_segments": 6,
+    "1206_split_segments": 0,
+    "duplicates_removed": 3
+  },
+  "service_node_stats": {
+    "1202_split_segments": 0,
+    "1206_split_segments": 4
+  },
+  "targets": [
+    {
+      "name": "B1",
+      "point": [
+        -169.77478062970073,
+        416.5842908951362
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -169.77478062970073,
+          416.5842908951362
+        ],
+        [
+          -79.60063470894478,
+          639.934681045455
+        ]
+      ]
+    },
+    {
+      "name": "B2",
+      "point": [
+        -164.28881747959952,
+        469.1879863255119
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -164.28881747959952,
+          469.1879863255119
+        ],
+        [
+          -169.77478062970073,
+          416.5842908951362
+        ]
+      ]
+    },
+    {
+      "name": "B3",
+      "point": [
+        -150.8060184266429,
+        554.7050775068047
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -150.8060184266429,
+          554.7050775068047
+        ],
+        [
+          -164.28881747959952,
+          469.1879863255119
+        ]
+      ]
+    },
+    {
+      "name": "B4",
+      "point": [
+        -168.7446098378878,
+        609.4697788487194
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -168.7446098378878,
+          609.4697788487194
+        ],
+        [
+          -150.8060184266429,
+          554.7050775068047
+        ]
+      ]
+    },
+    {
+      "name": "B5",
+      "point": [
+        -218.15369712492117,
+        654.8119802678781
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -218.15369712492117,
+          654.8119802678781
+        ],
+        [
+          -168.7446098378878,
+          609.4697788487194
+        ]
+      ]
+    },
+    {
+      "name": "B6",
+      "point": [
+        -276.39713073064325,
+        652.6608574166189
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -276.39713073064325,
+          652.6608574166189
+        ],
+        [
+          -218.15369712492117,
+          654.8119802678781
+        ]
+      ]
+    },
+    {
+      "name": "B7",
+      "point": [
+        -321.78226543053233,
+        623.2154470227938
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -321.78226543053233,
+          623.2154470227938
+        ],
+        [
+          -276.39713073064325,
+          652.6608574166189
+        ]
+      ]
+    },
+    {
+      "name": "B8",
+      "point": [
+        -345.1115028084147,
+        557.1055592569144
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -345.1115028084147,
+          557.1055592569144
+        ],
+        [
+          -321.78226543053233,
+          623.2154470227938
+        ]
+      ]
+    },
+    {
+      "name": "B9",
+      "point": [
+        -343.1257838848494,
+        467.96861253580005
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -343.1257838848494,
+          467.96861253580005
+        ],
+        [
+          -398.3376470209098,
+          464.93458884307535
+        ]
+      ]
+    },
+    {
+      "name": "B10",
+      "point": [
+        -335.106140465193,
+        462.607786189673
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -335.106140465193,
+          462.607786189673
+        ],
+        [
+          -343.1257838848494,
+          467.96861253580005
+        ]
+      ]
+    },
+    {
+      "name": "B11",
+      "point": [
+        -394.35793373958103,
+        468.59380297503
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -394.35793373958103,
+          468.59380297503
+        ],
+        [
+          -398.3376470209098,
+          464.93458884307535
+        ]
+      ]
+    },
+    {
+      "name": "B12",
+      "point": [
+        -423.1052825653475,
+        430.8331380331585
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -423.1052825653475,
+          430.8331380331585
+        ],
+        [
+          -410.85868965498696,
+          464.8847053696737
+        ]
+      ]
+    },
+    {
+      "name": "B14",
+      "point": [
+        -423.2017838570819,
+        475.2848552736774
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -423.2017838570819,
+          475.2848552736774
+        ],
+        [
+          -410.85868965498696,
+          464.8847053696737
+        ]
+      ]
+    },
+    {
+      "name": "B15",
+      "point": [
+        -409.81548609585974,
+        555.2593383204534
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -409.81548609585974,
+          555.2593383204534
+        ],
+        [
+          -345.1115028084147,
+          557.1055592569144
+        ]
+      ]
+    },
+    {
+      "name": "B16",
+      "point": [
+        -427.75407750710457,
+        609.8023353367511
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -427.75407750710457,
+          609.8023353367511
+        ],
+        [
+          -409.81548609585974,
+          555.2593383204534
+        ]
+      ]
+    },
+    {
+      "name": "B17",
+      "point": [
+        -477.1631647941379,
+        654.9228324306865
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -477.1631647941379,
+          654.9228324306865
+        ],
+        [
+          -427.75407750710457,
+          609.8023353367511
+        ]
+      ]
+    },
+    {
+      "name": "B18",
+      "point": [
+        -535.4065983984887,
+        652.7717095794274
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -535.4065983984887,
+          652.7717095794274
+        ],
+        [
+          -477.1631647941379,
+          654.9228324306865
+        ]
+      ]
+    },
+    {
+      "name": "B19",
+      "point": [
+        -580.9847356832179,
+        622.9937426971769
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -580.9847356832179,
+          622.9937426971769
+        ],
+        [
+          -535.4065983984887,
+          652.7717095794274
+        ]
+      ]
+    },
+    {
+      "name": "B20",
+      "point": [
+        -604.1209704776315,
+        549.789316519037
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -604.1209704776315,
+          549.789316519037
+        ],
+        [
+          -677.9414554112176,
+          543.375796208984
+        ]
+      ]
+    },
+    {
+      "name": "B21",
+      "point": [
+        -595.3894122193335,
+        504.2722920040727
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -595.3894122193335,
+          504.2722920040727
+        ],
+        [
+          -593.8193491688949,
+          465.2250215093422
+        ]
+      ]
+    },
+    {
+      "name": "B22",
+      "point": [
+        -595.3894122193335,
+        428.45022034962574
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -595.3894122193335,
+          428.45022034962574
+        ],
+        [
+          -593.8193491688949,
+          465.2250215093422
+        ]
+      ]
+    },
+    {
+      "name": "B23",
+      "point": [
+        -624.9095564596058,
+        393.91936785613393
+      ],
+      "model": "B_North",
+      "path": [
+        [
+          -624.9095564596058,
+          393.91936785613393
+        ],
+        [
+          -595.3894122193335,
+          428.45022034962574
+        ]
+      ]
+    },
+    {
+      "name": "D1",
+      "point": [
+        406.9411876248328,
+        436.3757461680692
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          406.9411876248328,
+          436.3757461680692
+        ],
+        [
+          403.59966947054613,
+          481.39170091652323
+        ]
+      ]
+    },
+    {
+      "name": "D2",
+      "point": [
+        144.07038142618745,
+        503.4967306794907
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          144.07038142618745,
+          503.4967306794907
+        ],
+        [
+          197.24902680807787,
+          443.6609503001869
+        ]
+      ]
+    },
+    {
+      "name": "D3",
+      "point": [
+        406.9411876248328,
+        505.7692000148987
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          406.9411876248328,
+          505.7692000148987
+        ],
+        [
+          403.59966947054613,
+          481.39170091652323
+        ]
+      ]
+    },
+    {
+      "name": "D4",
+      "point": [
+        145.66911120716298,
+        618.977730978033
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          145.66911120716298,
+          618.977730978033
+        ],
+        [
+          128.64432831613877,
+          653.8433018987831
+        ]
+      ]
+    },
+    {
+      "name": "D5",
+      "point": [
+        405.24595655212295,
+        612.5483055418358
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          405.24595655212295,
+          612.5483055418358
+        ],
+        [
+          370.02397495364033,
+          637.424988082338
+        ]
+      ]
+    },
+    {
+      "name": "D6",
+      "point": [
+        277.38755971844466,
+        716.3494001507376
+      ],
+      "model": "D_West",
+      "path": [
+        [
+          277.38755971844466,
+          716.3494001507376
+        ],
+        [
+          207.37008231161957,
+          654.9363042232005
+        ]
+      ]
+    },
+    {
+      "name": "A20",
+      "point": [
+        -745.2096500843927,
+        -15.506396472510325
+      ],
+      "model": "Terminal_A",
+      "path": [
+        [
+          -745.2096500843927,
+          -15.506396472510325
+        ],
+        [
+          -700.3673906547481,
+          6.687267566691955
+        ]
+      ]
+    },
+    {
+      "name": "C12",
+      "point": [
+        -78.90965017910332,
+        452.3267355739926
+      ],
+      "model": "Terminal_C",
+      "path": [
+        [
+          -78.90965017910332,
+          452.3267355739926
+        ],
+        [
+          -79.27542535481253,
+          457.8045777385745
+        ]
+      ]
+    },
+    {
+      "name": "C14",
+      "point": [
+        -90.37886400969127,
+        448.85745694418216
+      ],
+      "model": "Terminal_C",
+      "path": [
+        [
+          -90.37886400969127,
+          448.85745694418216
+        ],
+        [
+          -78.90965017910332,
+          452.3267355739926
+        ]
+      ]
+    },
+    {
+      "name": "C15",
+      "point": [
+        -143.8405797649315,
+        448.85745694418216
+      ],
+      "model": "Terminal_C",
+      "path": [
+        [
+          -143.8405797649315,
+          448.85745694418216
+        ],
+        [
+          -164.28881747959952,
+          469.1879863255119
+        ]
+      ]
+    },
+    {
+      "name": "E processor service",
+      "point": [
+        1080,
+        178
+      ],
+      "model": "International_Processor",
+      "path": [
+        [
+          1080,
+          178
+        ],
+        [
+          1060,
+          152
+        ],
+        [
+          1013.3643131188888,
+          154.96755447331358
+        ]
+      ]
+    }
+  ],
+  "parks": [
+    {
+      "name": "R03 B_North baggage_train 1",
+      "point": [
+        -129.77478062970073,
+        432.5842908951362
+      ],
+      "type": "baggage_train",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North baggage_loader 2",
+      "point": [
+        -158.8060184266429,
+        544.7050775068047
+      ],
+      "type": "baggage_loader",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North fuel_liners 3",
+      "point": [
+        -218.15369712492117,
+        664.8119802678781
+      ],
+      "type": "fuel_liners",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North food 4",
+      "point": [
+        -321.78226543053233,
+        633.2154470227938
+      ],
+      "type": "food",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North gpu 5",
+      "point": [
+        -343.1257838848494,
+        477.96861253580005
+      ],
+      "type": "gpu",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North pushback 6",
+      "point": [
+        -394.35793373958103,
+        478.59380297503
+      ],
+      "type": "pushback",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North baggage_train 7",
+      "point": [
+        -423.2017838570819,
+        485.2848552736774
+      ],
+      "type": "baggage_train",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North baggage_loader 8",
+      "point": [
+        -387.75407750710457,
+        599.8023353367511
+      ],
+      "type": "baggage_loader",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North fuel_liners 9",
+      "point": [
+        -535.4065983984887,
+        662.7717095794274
+      ],
+      "type": "fuel_liners",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North food 10",
+      "point": [
+        -604.1209704776315,
+        559.789316519037
+      ],
+      "type": "food",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North gpu 11",
+      "point": [
+        -603.3894122193335,
+        438.45022034962574
+      ],
+      "type": "gpu",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 B_North pushback 12",
+      "point": [
+        -113.77478062970073,
+        432.5842908951362
+      ],
+      "type": "pushback",
+      "model": "B_North"
+    },
+    {
+      "name": "R03 D_West baggage_train 1",
+      "point": [
+        414.9411876248328,
+        446.3757461680692
+      ],
+      "type": "baggage_train",
+      "model": "D_West"
+    },
+    {
+      "name": "R03 D_West baggage_loader 2",
+      "point": [
+        398.9411876248328,
+        489.7692000148987
+      ],
+      "type": "baggage_loader",
+      "model": "D_West"
+    },
+    {
+      "name": "R03 D_West fuel_liners 3",
+      "point": [
+        365.24595655212295,
+        622.5483055418358
+      ],
+      "type": "fuel_liners",
+      "model": "D_West"
+    },
+    {
+      "name": "R03 D_West food 4",
+      "point": [
+        398.9411876248328,
+        446.3757461680692
+      ],
+      "type": "food",
+      "model": "D_West"
+    },
+    {
+      "name": "R03 D_West gpu 5",
+      "point": [
+        350.9411876248328,
+        539.7692000148986
+      ],
+      "type": "gpu",
+      "model": "D_West"
+    },
+    {
+      "name": "R03 D_West pushback 6",
+      "point": [
+        349.24595655212295,
+        646.5483055418358
+      ],
+      "type": "pushback",
+      "model": "D_West"
+    },
+    {
+      "name": "Destination R03 B_North baggage_train 1",
+      "point": [
+        -103.77478062970073,
+        432.5842908951362
+      ],
+      "type": "destination",
+      "model": "B_North"
+    },
+    {
+      "name": "Destination R03 B_North gpu 5",
+      "point": [
+        -333.1257838848494,
+        477.96861253580005
+      ],
+      "type": "destination",
+      "model": "B_North"
+    },
+    {
+      "name": "Destination R03 B_North fuel_liners 9",
+      "point": [
+        -525.4065983984887,
+        662.7717095794274
+      ],
+      "type": "destination",
+      "model": "B_North"
+    },
+    {
+      "name": "Destination R03 D_West baggage_train 1",
+      "point": [
+        424.9411876248328,
+        446.3757461680692
+      ],
+      "type": "destination",
+      "model": "D_West"
+    },
+    {
+      "name": "Destination R03 D_West gpu 5",
+      "point": [
+        340.9411876248328,
+        539.7692000148986
+      ],
+      "type": "destination",
+      "model": "D_West"
+    }
+  ],
+  "counts": {
+    "aircraft": 988,
+    "service": 588,
+    "new_truck_records": 23
+  },
+  "installed": false,
+  "simulator_tested": false
+}

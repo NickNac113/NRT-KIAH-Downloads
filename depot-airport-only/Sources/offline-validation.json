@@ -1,0 +1,727 @@
+{
+  "checks": [
+    {
+      "name": "Every route node referenced; IDs unique and contiguous",
+      "passed": true,
+      "detail": 1416
+    },
+    {
+      "name": "Directions and aircraft size codes valid",
+      "passed": true,
+      "detail": 1576
+    },
+    {
+      "name": "No zero-length route segments",
+      "passed": true,
+      "detail": 1576
+    },
+    {
+      "name": "Aircraft intersections share junction nodes",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "One connected aircraft network",
+      "passed": true,
+      "detail": [
+        863
+      ]
+    },
+    {
+      "name": "Service intersections share junction nodes",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "All flow runway identifiers exist",
+      "passed": true,
+      "detail": [
+        "08L",
+        "08R",
+        "09",
+        "15L",
+        "15R",
+        "26L",
+        "26R",
+        "27",
+        "33L",
+        "33R"
+      ]
+    },
+    {
+      "name": "All five runways have taxi routes",
+      "passed": true,
+      "detail": {
+        "08L/26R": 7,
+        "08R/26L": 10,
+        "09/27": 5,
+        "15R/33L": 10,
+        "15L/33R": 15
+      }
+    },
+    {
+      "name": "Runway routes within pavement and on centerlines",
+      "passed": true,
+      "detail": [
+        {
+          "runway": "15L/33R",
+          "coverage_percent": 97.68,
+          "max_centerline_offset_m": 0.001
+        },
+        {
+          "runway": "09/27",
+          "coverage_percent": 95.9,
+          "max_centerline_offset_m": 0.0
+        },
+        {
+          "runway": "15R/33L",
+          "coverage_percent": 97.17,
+          "max_centerline_offset_m": 0.001
+        },
+        {
+          "runway": "08R/26L",
+          "coverage_percent": 96.96,
+          "max_centerline_offset_m": 0.0
+        },
+        {
+          "runway": "08L/26R",
+          "coverage_percent": 97.01,
+          "max_centerline_offset_m": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Runway route spans cover at least 95 percent of each runway",
+      "passed": true,
+      "detail": [
+        {
+          "runway": "15L/33R",
+          "coverage_percent": 97.68,
+          "max_centerline_offset_m": 0.001
+        },
+        {
+          "runway": "09/27",
+          "coverage_percent": 95.9,
+          "max_centerline_offset_m": 0.0
+        },
+        {
+          "runway": "15R/33L",
+          "coverage_percent": 97.17,
+          "max_centerline_offset_m": 0.001
+        },
+        {
+          "runway": "08R/26L",
+          "coverage_percent": 96.96,
+          "max_centerline_offset_m": 0.0
+        },
+        {
+          "runway": "08L/26R",
+          "coverage_percent": 97.01,
+          "max_centerline_offset_m": 0.0
+        }
+      ]
+    },
+    {
+      "name": "All aircraft route nodes can reach and be reached from a runway",
+      "passed": true,
+      "detail": {
+        "nodes": 863,
+        "cannot_depart": [],
+        "cannot_arrive": []
+      }
+    },
+    {
+      "name": "All aircraft centerlines on modeled pavement",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "All aircraft centerlines clear represented buildings",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Aircraft widths respect modeled parked-aircraft and building clearance",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Runway-proximity route segments carry arrival and departure protection",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "All preserved hot-zone references name actual runway ends",
+      "passed": true,
+      "detail": "Every 1204 record checked"
+    },
+    {
+      "name": "Every ramp has a size-compatible adjacent network with paths to all five runways",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Every automatic aircraft stand has network access within 250 metres",
+      "passed": true,
+      "detail": {
+        "automatic_stands": 226,
+        "maximum_distance_m": 228.3
+      }
+    },
+    {
+      "name": "Every rebuilt stand service approach reaches all six service vehicle types and can return",
+      "passed": true,
+      "detail": [
+        {
+          "approach": "B1",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B2",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B3",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B4",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B5",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B6",
+          "model": "B_North",
+          "route_distance_m": 0.001,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B7",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B8",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B9",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B10",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B11",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B12",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B14",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B15",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B16",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B17",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B18",
+          "model": "B_North",
+          "route_distance_m": 0.001,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B19",
+          "model": "B_North",
+          "route_distance_m": 0.001,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B20",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B21",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B22",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "B23",
+          "model": "B_North",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D1",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D2",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D3",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D4",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D5",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "D6",
+          "model": "D_West",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "A20",
+          "model": "Terminal_A",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "C12",
+          "model": "Terminal_C",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "C14",
+          "model": "Terminal_C",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "C15",
+          "model": "Terminal_C",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        },
+        {
+          "approach": "E processor service",
+          "model": "International_Processor",
+          "route_distance_m": 0.0,
+          "vehicle_types": "baggage_loader;baggage_train;crew_car;food;fuel_liners;gpu;pushback",
+          "round_trip_depots": 88
+        }
+      ]
+    },
+    {
+      "name": "Moving service vehicle parking definitions present",
+      "passed": true,
+      "detail": {
+        "baggage_train": 3,
+        "baggage_loader": 3,
+        "fuel_liners": 3,
+        "food": 3,
+        "gpu": 3,
+        "pushback": 3
+      }
+    },
+    {
+      "name": "New service routes clear modeled buildings, parked aircraft and fixed equipment",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "New service routes remain on modeled pavement",
+      "passed": true,
+      "detail": 115
+    },
+    {
+      "name": "No service route crosses a runway protection area",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "New truck parking and destinations have clear, short access to a returnable service network",
+      "passed": true,
+      "detail": [
+        {
+          "name": "R03 B_North baggage_train 1",
+          "code": 1400,
+          "distance_m": 21.51,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North baggage_loader 2",
+          "code": 1400,
+          "distance_m": 6.34,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North fuel_liners 3",
+          "code": 1400,
+          "distance_m": 10.0,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North food 4",
+          "code": 1400,
+          "distance_m": 8.39,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North gpu 5",
+          "code": 1400,
+          "distance_m": 10.0,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North pushback 6",
+          "code": 1400,
+          "distance_m": 10.0,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North baggage_train 7",
+          "code": 1400,
+          "distance_m": 10.0,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North baggage_loader 8",
+          "code": 1400,
+          "distance_m": 34.87,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North fuel_liners 9",
+          "code": 1400,
+          "distance_m": 9.99,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North food 10",
+          "code": 1400,
+          "distance_m": 10.0,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North gpu 11",
+          "code": 1400,
+          "distance_m": 8.42,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North pushback 12",
+          "code": 1400,
+          "distance_m": 28.5,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West baggage_train 1",
+          "code": 1400,
+          "distance_m": 8.72,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West baggage_loader 2",
+          "code": 1400,
+          "distance_m": 5.75,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West fuel_liners 3",
+          "code": 1400,
+          "distance_m": 14.91,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West food 4",
+          "code": 1400,
+          "distance_m": 7.24,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West gpu 5",
+          "code": 1400,
+          "distance_m": 14.45,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West pushback 6",
+          "code": 1400,
+          "distance_m": 10.13,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North service destination",
+          "code": 1401,
+          "distance_m": 21.08,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North service destination",
+          "code": 1401,
+          "distance_m": 13.87,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 B_North service destination",
+          "code": 1401,
+          "distance_m": 9.62,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West service destination",
+          "code": 1401,
+          "distance_m": 18.69,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        },
+        {
+          "name": "R03 D_West service destination",
+          "code": 1401,
+          "distance_m": 20.15,
+          "approach_clear": true,
+          "bidirectional_service_component_nodes": 445,
+          "paved": true
+        }
+      ]
+    },
+    {
+      "name": "New parked service vehicles remain outside aircraft taxi wingspan clearance",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Replaced apron guidance paint follows the new paths",
+      "passed": true,
+      "detail": "Five apron paths and the widebody connection updated"
+    },
+    {
+      "name": "EA construction closure stays excluded from aircraft routing",
+      "passed": true,
+      "detail": "No EA taxi edges"
+    },
+    {
+      "name": "All 240 ramp definitions and five runways preserved",
+      "passed": true,
+      "detail": 240
+    },
+    {
+      "name": "Compiled scenery tiles, objects and textures unchanged from validated R02",
+      "passed": true,
+      "detail": "Only airport ground routing and vehicle starts/destinations modified"
+    }
+  ],
+  "notes": [
+    "Offline checks against modeled geometry and native routing definitions; no X-Plane runtime acceptance.",
+    "Service final docking and aircraft last-leg/pushback maneuvers are generated by X-Plane and aircraft-specific.",
+    "Manual C14 wide remains a conditional start: nearest connected class D route is 321 m away; no unsafe route was added through occupied neighboring stands. Simulator maneuver/occupancy review required.",
+    "United Maintenance 3 starts inside a hangar interior; the open doorway is not modeled as a solid obstacle for apron access. Check actual doorway clearance in the simulator.",
+    "Existing library object detail and terrain are not fully represented by the offline obstacle model."
+  ],
+  "aircraft_components": [
+    863
+  ],
+  "service_components": [
+    445,
+    108
+  ],
+  "manual_access_review": [
+    {
+      "ramp": "Gate C14 wide",
+      "kind": "misc",
+      "size": "D",
+      "access_segment": 308,
+      "distance_m": 334.12,
+      "clear_terminal_approach": true,
+      "runways_reachable_both_directions": "15L/33R;09/27;15R/33L;08R/26L;08L/26R",
+      "runway_count": 5,
+      "note": "Manual alternative: final maneuver and neighboring stand occupancy require review"
+    }
+  ],
+  "hangar_interior_review": [
+    {
+      "ramp": "United Maintenance 3",
+      "kind": "gate",
+      "size": "D",
+      "access_segment": 237,
+      "distance_m": 76.0,
+      "clear_terminal_approach": true,
+      "runways_reachable_both_directions": "15L/33R;09/27;15R/33L;08R/26L;08L/26R",
+      "runway_count": 5,
+      "note": "Starts inside hangar interior; door clearance requires simulator check"
+    }
+  ],
+  "passed": true,
+  "counts": {
+    "aircraft_segments": 988,
+    "service_segments": 588,
+    "ramps": 240,
+    "service_approaches": 33,
+    "new_vehicle_parks": 18,
+    "new_destinations": 5
+  },
+  "runway_coverage": [
+    {
+      "runway": "15L/33R",
+      "coverage_percent": 97.68,
+      "max_centerline_offset_m": 0.001
+    },
+    {
+      "runway": "09/27",
+      "coverage_percent": 95.9,
+      "max_centerline_offset_m": 0.0
+    },
+    {
+      "runway": "15R/33L",
+      "coverage_percent": 97.17,
+      "max_centerline_offset_m": 0.001
+    },
+    {
+      "runway": "08R/26L",
+      "coverage_percent": 96.96,
+      "max_centerline_offset_m": 0.0
+    },
+    {
+      "runway": "08L/26R",
+      "coverage_percent": 97.01,
+      "max_centerline_offset_m": 0.0
+    }
+  ]
+}

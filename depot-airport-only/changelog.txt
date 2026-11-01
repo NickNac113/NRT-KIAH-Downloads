@@ -1,0 +1,46 @@
+0.28.0
+- Two synchronized content channels: Main includes the fictional NRT ramp; Airport Only omits it. Same version and installed folder.
+- Use SkunkCrafts 4.2.3 or newer. Select a channel, then perform a full check and repair/update before starting X-Plane.
+- Channel switching restores the full corresponding airport files and removes managed files exclusive to the previous choice.
+- Both channels include Terminal B North native terminal finishes with passenger window artwork, fixed glass links, roof detail and refined ND/R1/NG taxi guidance.
+- Main retains all NRT campus features and 119 native jetway records. Airport Only retains the pre-campus airport with the same B refinements and 116 native jetway records.
+- AEP is not required. Libraries, plugins, aircraft, preferences and scenery order are not managed by this update.
+- Member release. Simulator acceptance of R28 remains pending.
+
+0.27.0
+- Cumulative member update from 0.24.0, including R25, R26 and R27. AEP is not required.
+- Native light pavement and restrained wear; cohesive headquarters/canopy materials and recessed jetway wall connections.
+- NRT11 enlarged, still nose east: maximum 66 m / 216.5 ft wingspan AND 50 m / 164 ft length. Approach-side limit markings; pushback/tow departure.
+- Secure aircraft-ramp perimeter separated from public parking. One ground-lit helipad retained.
+- Building-mounted work lights and improved canopy lighting; stock pole mast matching NRT8 added at the NRT9/NRT11 corner.
+- NRT9 stand moved 4 m east for walking clearance. Both jetways, fixed links, wall openings and red movement boxes now match that move.
+- Native paved service connections and seven local service parking positions with a holding destination; extra access nodes on long NB road segments.
+- Modeled canopy and Indoor Parking floors use the dry MH floor treatment; exterior wet surfaces retained.
+- Six default-open OpenSAM aircraft-hangar controls and 119 native airport/FBO jetway records retained. Truck doors fixed open.
+- Simulator checks remain pending for NB vehicle shortcuts, wet sheltered floors, NRT9 docking and night appearance. See README_R27.txt.
+
+0.24.0
+- Approved canopy pull-through with native yellow entry/exit guidance; stop and passenger doorway moved 11 m north. G650/Lineage turning targets; BBJ2 remains tow-only.
+- NRT11 faces east with a gentle taxi branch and straight final approach. GA planning envelope: 20 m wingspan, 22 m length; pushback/tow departure.
+- Marked walk follows the headquarters wall, approaches NRT11 from the north, and continues to the NRT10 hold point. One ground-lit helipad; no beacon.
+- INDOOR PARKING replaces the Private Hangar name. Unified walls remove corner overlap; roof matches MH2 at 20.6 m, with a 16 m clear opening.
+- Left and right Indoor Parking doors now have independent OpenSAM controls, open by default. Six total aircraft-hangar controls; truck doors fixed open.
+- Both main building signs read NRT VIRTUAL HEADQUARTERS. Removed obsolete arrival-court fence framework and red parking marks behind the hangar.
+- Cargo blast fencing faces the apron and follows the complete south, east and northeast cargo fence sections while preserving vehicle openings.
+- Retained all 119 native airport/FBO jetway records and existing service routes. Live simulator checks remain pending.
+
+0.23.0
+- Cohesive FBO/private terminal exterior and matching aircraft canopy materials.
+- Side-entry canopy start facing south, with a passenger-door alignment and native OpenSAM marshaller placement.
+- One NRT10 helipad; removed the second pad, stale labels, paint fragments and fence crossing the arrival court.
+- Corrected private-hangar ground-label orientation; native weather-aware pavement and surface details.
+- Native crew-car route from the parking aisle around the median to the passenger curb.
+- Preserved eight door controls and all 119 airport jetway records; added a read-only OpenSAM diagnostic.
+- OpenSAM restart diagnosis and all simulator operation/appearance checks remain pending.
+
+0.22.0
+- First NRT member release with GitHub and SkunkCrafts updates.
+- Original three-bay NRT truck workshop replaces the inherited T02 garage.
+- Private terminal, BBJ2-size canopy, enlarged private hangar and landscaped arrival court.
+- Hangars open by default; main aircraft starts retained.
+- New garage has offline checks; simulator acceptance remains pending.

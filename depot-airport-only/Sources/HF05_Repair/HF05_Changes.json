@@ -1,0 +1,36 @@
+{
+  "revision": "KIAH R03 HF05",
+  "status": "STAGED - NOT INSTALLED",
+  "native_asphalt": [
+    {
+      "source_index": 231,
+      "name": "110 22 0.25 90.0 New Taxiway 2",
+      "removed_sqm": 41407.788583840535,
+      "pieces": 3,
+      "native_vertices": 3031
+    }
+  ],
+  "exclusion_syntax_repairs": [
+    {
+      "tile": "+29-096",
+      "corrected": {
+        "net": 144,
+        "obj": 1524,
+        "fac": 1170,
+        "str": 1170,
+        "lin": 366,
+        "pol": 358
+      },
+      "total": 4732
+    },
+    {
+      "tile": "+30-096",
+      "corrected": {},
+      "total": 0
+    }
+  ],
+  "source": "https://github.com/X-Plane/xptools/blob/master/src/WEDImportExport/WED_DSFExport.cpp#L1447-L1480",
+  "finding": "AEP supplies a legacy asphalt overlay over B North and replacement native pavement materials. HF04 still retained the underlying asphalt. Existing polygon exclusions used comma-only coordinates, unlike WED exporter lon/lat pairs; old offline audit accepted this malformed representation.",
+  "method": "Clip the underlying asphalt at the existing HF04 cleanup mask. Rewrite existing polygon exclusion coordinates to WED syntax and CCW orientation, without changing footprints, types or order. Leave AEP installed and enabled.",
+  "limitations": "No simulator reload or acceptance test. Curves of the one clipped native asphalt polygon are adaptively flattened at 0.5 mm geometric tolerance. Surface colour in offline previews is approximate."
+}

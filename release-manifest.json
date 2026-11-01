@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.27.0",
+  "version": "0.28.0",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "ASSET_NOTICES.txt",
-      "crc32": 3007517145,
-      "sha256": "54ffad7a0ccefe08d9a3381be7f56ccc050c3db18eb5cd7e0f4f57369dae6f4c",
-      "size": 2525
+      "crc32": 1944472361,
+      "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
+      "size": 1898
     },
     {
       "path": "Build_Evidence.json",
@@ -39,9 +39,9 @@
     },
     {
       "path": "Earth nav data/+20-100/+29-096.dsf",
-      "crc32": 1072143126,
-      "sha256": "7bd1bf176ba98e5bea914f485379308fe90407fca42965c94ff08773006ec4f1",
-      "size": 943636
+      "crc32": 3739112922,
+      "sha256": "a8844a456faae111caa33c6fa13767f5177699a9a5cce3a6c577f106c25112b2",
+      "size": 945591
     },
     {
       "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -51,9 +51,9 @@
     },
     {
       "path": "Earth nav data/apt.dat",
-      "crc32": 2666922218,
-      "sha256": "93f1948011fea99f0812e79e3aa49ee9399279fa3650205069b656ef46789c5e",
-      "size": 1540549
+      "crc32": 1408079980,
+      "sha256": "1e81ffc928a958f6355f81c26f2b546b5f03a405d33e9f807ebf7d794f1947f8",
+      "size": 1538348
     },
     {
       "path": "Garage_Provenance.json",
@@ -75,51 +75,75 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 3225196234,
-      "sha256": "41558942e1600fc7d5d80650a9d2a647512494e9dc197b4a328a5bce04665569",
-      "size": 3509
+      "crc32": 3014540565,
+      "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
+      "size": 3395
+    },
+    {
+      "path": "R28_Changes.json",
+      "crc32": 1793652328,
+      "sha256": "80d29dc0277832cc2e8e1c150e622c2fb5a297bc344eb17a0b041e7c925aedbf",
+      "size": 44862
+    },
+    {
+      "path": "README.txt",
+      "crc32": 2312806197,
+      "sha256": "72bfb369edd869b580e4130ae9d2bbe3618c4101375465a399e3e7e987bb0e94",
+      "size": 181
     },
     {
       "path": "README_R22.txt",
-      "crc32": 1615071817,
-      "sha256": "0834e063f487595ab4af1adb71ecfbd1755acf566a725737bfd25e84faab9b86",
-      "size": 522
+      "crc32": 3292491801,
+      "sha256": "f23ddae549e7917a5eb6bdf5ff4f3b8e39e7f9c91383c273c2612cda02ebdecc",
+      "size": 725
     },
     {
       "path": "README_R23.txt",
-      "crc32": 3096218289,
-      "sha256": "c1a4ed56f8b7288ee9fbc00ee4902c713467782362f009c006d8a6f45f5a544d",
-      "size": 3002
+      "crc32": 1991842827,
+      "sha256": "eda48e1912ca19e5169c0f848ea0188ad24815f82aeb887a38aef508896ea441",
+      "size": 3205
     },
     {
       "path": "README_R24.txt",
-      "crc32": 1638493585,
-      "sha256": "7b9585386b8a559c5ffde02c4bb58b98815e8a7e2d3031a9ed0ed2113b3d2f8b",
-      "size": 3944
+      "crc32": 3722393175,
+      "sha256": "95f52febb681910b63c8d7591ab316be00ad08b18dfa92d5e2894ddedfc009cd",
+      "size": 4147
     },
     {
       "path": "README_R25.txt",
-      "crc32": 571827581,
-      "sha256": "27b0cf4ff45f2816bb5501cfa17bab9dff8a5537530e503772a1eb7c7ab46e5c",
-      "size": 5231
+      "crc32": 2915305999,
+      "sha256": "32f6be3a3cefa2aa73f2715383ac11fcedcc7337e8f890b8b28ea2811b36db2a",
+      "size": 5434
     },
     {
       "path": "README_R26.txt",
-      "crc32": 282546264,
-      "sha256": "5a758333ae5ec8e60033aeb6e1775170c5589259c306450afbd9db92cb386711",
-      "size": 3583
+      "crc32": 2445265612,
+      "sha256": "f83d2b38b6fec3bf3fe21a6eedb1d61ea931b19e95ca8668af69ca6264c7ea57",
+      "size": 3786
     },
     {
       "path": "README_R27.txt",
-      "crc32": 2208219240,
-      "sha256": "dfac9121775c6b4d3bbbbee2559097aeff43cb0d82a04e5d8a20ced3a3d43962",
-      "size": 3686
+      "crc32": 2486343592,
+      "sha256": "91ae911c6b508e170e330422e7193038f00b6c26c6425ecdcf51581c9a6220e4",
+      "size": 3889
+    },
+    {
+      "path": "README_R28.txt",
+      "crc32": 3859981804,
+      "sha256": "cfddd391b00029a8a10132682a2ff9f5b3f3ef58d8a8a17818e8403a8d7cf638",
+      "size": 1716
+    },
+    {
+      "path": "README_R28_REVIEW_HISTORY.txt",
+      "crc32": 3671724453,
+      "sha256": "571464b064967ad46bbf6d78128a6d115b4d3b755e5b50bb92683b640ff810d7",
+      "size": 1778
     },
     {
       "path": "Source/Native/+29-096.txt",
-      "crc32": 332364736,
-      "sha256": "620b620cb9978114d996aef7a375b1a97a4349e48758dc4ce66348ccf2c256f6",
-      "size": 2464922
+      "crc32": 4044933031,
+      "sha256": "6f9a19c374f0dc2a1e2675f1c16c97a7c27826544db3a83f2cd19f8d5a4f6331",
+      "size": 2484795
     },
     {
       "path": "Source/Native/+30-096.txt",
@@ -500,10 +524,70 @@
       "size": 12497
     },
     {
+      "path": "Source/R28/R28_Evidence.json",
+      "crc32": 1793652328,
+      "sha256": "80d29dc0277832cc2e8e1c150e622c2fb5a297bc344eb17a0b041e7c925aedbf",
+      "size": 44862
+    },
+    {
+      "path": "Source/R28/audit_b.py",
+      "crc32": 4211768981,
+      "sha256": "921242af6f6ddae900a64ab80fa9d7f74c788e36eefff7e74a6284ea4f59a154",
+      "size": 3185
+    },
+    {
+      "path": "Source/R28/build_r28.py",
+      "crc32": 3710211498,
+      "sha256": "3b90ee75c4af4eb5a56877b71ec85efb25a8f4f583a6e0a97b589f6fc3517432",
+      "size": 9963
+    },
+    {
+      "path": "Source/R28/common.py",
+      "crc32": 1256255260,
+      "sha256": "4797ad08b3585478147eb1ce14bf2e95b53247229fd34c11cb9d3da140a2f2f7",
+      "size": 3697
+    },
+    {
+      "path": "Source/R28/finish_review.py",
+      "crc32": 235757245,
+      "sha256": "dd25b9af13108ffbf19e3a7c87dcd230d2cb21db7627152297a6cdc377d08f42",
+      "size": 20850
+    },
+    {
+      "path": "Source/R28/package_review.py",
+      "crc32": 2062123784,
+      "sha256": "84e6e5e830c3c313c4b293ecfcbe265c0401e1efcde4d7ad7aa2675879f4151a",
+      "size": 3707
+    },
+    {
+      "path": "Source/R28/prepare_r28_channels.py",
+      "crc32": 3886401758,
+      "sha256": "874d68c236d2d8f488b68a9fcaeca6d05ecdd284b08e05d1f049717a8c57c2af",
+      "size": 10549
+    },
+    {
+      "path": "Source/R28/preview_native.py",
+      "crc32": 3522679558,
+      "sha256": "152621674a30bb6b63c6210f40beb4ce62f6a07126f4b52b416ad2d2d0262dcf",
+      "size": 10681
+    },
+    {
+      "path": "Source/R28/render_r28.py",
+      "crc32": 3189657636,
+      "sha256": "ea1d9262fbe40e364c33a935836a829f25b3eff238e563cb9fb3bc52f5f29cba",
+      "size": 6020
+    },
+    {
+      "path": "Source/R28/validate_r28.py",
+      "crc32": 3776120916,
+      "sha256": "de322c3f9cd351d82609a12f68363dc080fd2070522bcd6d7c8de6ecb285bff5",
+      "size": 11574
+    },
+    {
       "path": "Source/README.txt",
-      "crc32": 1182451965,
-      "sha256": "db67ccb23cac035c58f11ffb3448eab4b2d5278726e835f188ced30ba790aff3",
-      "size": 712
+      "crc32": 3588611300,
+      "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
+      "size": 1270
     },
     {
       "path": "Source/rebuild_dsf.py",
@@ -512,10 +596,16 @@
       "size": 1082
     },
     {
+      "path": "VARIANT.txt",
+      "crc32": 347113563,
+      "sha256": "b15b19385a94af7832eba87873d3090789cd57ace184d99472a21277d5203458",
+      "size": 89
+    },
+    {
       "path": "changelog.txt",
-      "crc32": 3690689482,
-      "sha256": "c7119a022ff9eefb7b5d85f0b641fef749cba111ed7ab018123edb181024a266",
-      "size": 3537
+      "crc32": 1666555009,
+      "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
+      "size": 4449
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -561,135 +651,135 @@
     },
     {
       "path": "objects/bridge_B1.obj",
-      "crc32": 4027425967,
-      "sha256": "a01eaae30099b9fedc77143ebc90714154aa5e8df38169cf04c1f229cb44d438",
-      "size": 103578
+      "crc32": 268915415,
+      "sha256": "b89b98812862a447b881dd94ca37e111df9a0a0701941851263c1d74bacfff45",
+      "size": 103267
     },
     {
       "path": "objects/bridge_B10.obj",
-      "crc32": 2362912667,
-      "sha256": "da6a3fa2a0bfc9736e6254d68cf0c3ffba72625bc4c86f6f3de632d6a85eb894",
-      "size": 103556
+      "crc32": 575963977,
+      "sha256": "af34dae01e7defad20eb2e2b7ed130f0a7375531b26f1d19fc79eb5ca15d5f65",
+      "size": 103245
     },
     {
       "path": "objects/bridge_B11.obj",
-      "crc32": 4248706971,
-      "sha256": "05bcb2bfe8996f8ac8811ac64bf3ec70135d45b99e14cfd8988319df6638be16",
-      "size": 103556
+      "crc32": 3740269440,
+      "sha256": "58a5f1bd5872f2cb45c98ad106f1144eb0d1b2e8b5b8cef1152239b482e664ee",
+      "size": 103245
     },
     {
       "path": "objects/bridge_B12.obj",
-      "crc32": 1490032281,
-      "sha256": "9252cfe01a27cd9b9a23bb3eacc4f4e563612532987a3793b49432552d7d46a1",
-      "size": 103572
+      "crc32": 2149537140,
+      "sha256": "718058616ab1056986d422efd2a6dd6078419675098c82b35bd6d3f8b7d1a363",
+      "size": 103261
     },
     {
       "path": "objects/bridge_B14.obj",
-      "crc32": 2710219801,
-      "sha256": "1f9e930d9fb9b10b6829b587f6ed455a74380add4362c48628af1f205a58c190",
-      "size": 103572
+      "crc32": 1447372318,
+      "sha256": "4bdcf40508ac582a48e533a7a527d23bd345c0a736a4919a5d5e45db5f2baa63",
+      "size": 103261
     },
     {
       "path": "objects/bridge_B15.obj",
-      "crc32": 3547175307,
-      "sha256": "9b6a2039ced341afe7b4c72d7c7987d15de0beb86e57f9745358142a0f7b4ac2",
-      "size": 103578
+      "crc32": 1771433833,
+      "sha256": "d9a2970f677a99e6687f6b222932be502dd0550b4bf9ff17d25d609ad1446e51",
+      "size": 103267
     },
     {
       "path": "objects/bridge_B16.obj",
-      "crc32": 3638642638,
-      "sha256": "e84122ab9e8c33beb087098d14bd7d57b52a13589fecd53f3dfcdaeac9eccaef",
-      "size": 103574
+      "crc32": 2069606293,
+      "sha256": "7e8619a0e0918a317524b95d4991d0c9bff47405d65b1a4df2b388953ec59a04",
+      "size": 103263
     },
     {
       "path": "objects/bridge_B17.obj",
-      "crc32": 2794474870,
-      "sha256": "09d97c2518f3191c73ab2873055c49f18ce39a97261685cb3fdf4feaf979edf4",
-      "size": 103562
+      "crc32": 482658594,
+      "sha256": "822a941252acbf5deccbf94f2c24834988526f5047ec552d92fbb84707ffde9b",
+      "size": 103251
     },
     {
       "path": "objects/bridge_B18.obj",
-      "crc32": 3186124968,
-      "sha256": "1244cbe41dc000403c0ca3eb76de4661386af6282f491f6fefaf6b4dced1d9cc",
-      "size": 103561
+      "crc32": 3411036394,
+      "sha256": "e1a5cc2a55da81ebd86b2b927c26d1f8ed01a17d873bd00e55e55be5d49c3370",
+      "size": 103250
     },
     {
       "path": "objects/bridge_B19.obj",
-      "crc32": 2637906503,
-      "sha256": "f31e4df4449d2eb0634354e900d4b960ea204cffc3e26a261ad4d3b90904af42",
-      "size": 103560
+      "crc32": 461511546,
+      "sha256": "c972cd356638d1e34d34d832ca659926b46ba7a7c8925ccafe1262c3aab4795c",
+      "size": 103249
     },
     {
       "path": "objects/bridge_B2.obj",
-      "crc32": 1636937255,
-      "sha256": "323268894bdb9da9c7a36b51979368c0eabd8688c866ce890c466c73251a972c",
-      "size": 103572
+      "crc32": 365609030,
+      "sha256": "be2552e7c0dc391d3585f83923b53478fdc22d273eb09c4dde2b0039a50183fa",
+      "size": 103261
     },
     {
       "path": "objects/bridge_B20.obj",
-      "crc32": 266685579,
-      "sha256": "7b21f2536b3e3855da69e79aa5bad74f2d001cbe94f1701bf68773e05faf86df",
-      "size": 103548
+      "crc32": 3785562481,
+      "sha256": "d0c2b98a8871387c0f5c9f9bbd14cccf3f30951cfc3f277e9b269d702d001ded",
+      "size": 103237
     },
     {
       "path": "objects/bridge_B21.obj",
-      "crc32": 3516079957,
-      "sha256": "3d102c9116380beef6457afa3fb37e431ea8c58b72e5a64e69dceb1f06fa7eed",
-      "size": 103553
+      "crc32": 911033279,
+      "sha256": "77e463d203bfc59ba94d03480d52cf7f47523e2ead8f80eedb0ac7ee476c66ac",
+      "size": 103242
     },
     {
       "path": "objects/bridge_B22.obj",
-      "crc32": 132742287,
-      "sha256": "a6d2a27409f086ace2f032f3ca19cc285bd6542c003f6db8a2522419c8514fd7",
-      "size": 103553
+      "crc32": 3700407214,
+      "sha256": "64bba1a9cf734d8540674d7323891d73a05a14f8caabe19ad11ac2cbed7692d1",
+      "size": 103242
     },
     {
       "path": "objects/bridge_B23.obj",
-      "crc32": 3593542021,
-      "sha256": "f4b7d7e1763ba8a25bea133bf3bf7fe7a5f91d05394e3124842d17fd7adfee9c",
-      "size": 103542
+      "crc32": 1768106388,
+      "sha256": "9238be71b664e09d5c09b45417353bce46baee2b8709fb95c0655e7ce732f22f",
+      "size": 103231
     },
     {
       "path": "objects/bridge_B3.obj",
-      "crc32": 3782659519,
-      "sha256": "d04fc4d43bad67986652d3572c4bb04d6193e7436010ffea3a86d17ab7550093",
-      "size": 103578
+      "crc32": 1769310598,
+      "sha256": "9180b10370bb0e80d61bacd726a371790ca6c55df401a9ab37aae652b9b07ba5",
+      "size": 103267
     },
     {
       "path": "objects/bridge_B4.obj",
-      "crc32": 3497167311,
-      "sha256": "2704c3bbb5f6cb1f1aaeeb9aed25968b0f983d3255c704512b014ebd68fbf57e",
-      "size": 103574
+      "crc32": 3817987094,
+      "sha256": "b5fac1eb0868d9af356302ed7ff5181d9b5ea683506138e60fa3512d18691c30",
+      "size": 103263
     },
     {
       "path": "objects/bridge_B5.obj",
-      "crc32": 2293164333,
-      "sha256": "b7c60fa9cffb1b91013fadc2391d8a0ae4dc1a528fe0defd0d67ac13f1cba344",
-      "size": 103562
+      "crc32": 285452581,
+      "sha256": "5b4a787baa1095cde43a64feefab6d1db84d63c607cc70506b9204c25254111d",
+      "size": 103251
     },
     {
       "path": "objects/bridge_B6.obj",
-      "crc32": 723122178,
-      "sha256": "bb1ae808d13c6bcb915950ba33b0a5d2a08afc8c7cc102c014d3cdb54881b619",
-      "size": 103561
+      "crc32": 2633709537,
+      "sha256": "f439491a2c6dfbd80a23bb44d6521737e89b051cb69af3b9d7031327545a5c98",
+      "size": 103250
     },
     {
       "path": "objects/bridge_B7.obj",
-      "crc32": 3127793856,
-      "sha256": "c3c8192d6facad0a836e611b7820a65ba30b44fca5632a4ca4c0b4a36e6d6d88",
-      "size": 103560
+      "crc32": 2363397168,
+      "sha256": "6e2f3a23c44dfca8389f075d594675270fa9aec15c9972b75655c256b7fe3a02",
+      "size": 103249
     },
     {
       "path": "objects/bridge_B8.obj",
-      "crc32": 2810496370,
-      "sha256": "30395e264c2553125fb287c628594d2a99d56b7fabd84da022b70063e5ef5343",
-      "size": 103548
+      "crc32": 277767501,
+      "sha256": "20f783d67e96c7df4f20330dafe60b35355b3bcaeabc6b9b6a829dd8426b0b95",
+      "size": 103237
     },
     {
       "path": "objects/bridge_B9.obj",
-      "crc32": 1845594952,
-      "sha256": "ca9fbe687399f3a49acf2993a45ed1d79f5a28a2fe9f1e66e7c68307d9d12d44",
-      "size": 103542
+      "crc32": 1545899178,
+      "sha256": "55f763a1176352766ad5d895fc1d0a7c620a8ccd3ffccef72335fb5340bdd42e",
+      "size": 103231
     },
     {
       "path": "objects/bridge_C12.obj",
@@ -1694,6 +1784,4039 @@
       "size": 107654
     }
   ],
-  "source_revision": "R27",
-  "prerelease": true
+  "source_revision": "R28 - Terminal B / paired content channels",
+  "prerelease": true,
+  "public_channels": {
+    "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
+  },
+  "delete_files": [
+    "PERSONAL_TEST_ONLY.txt",
+    "R02-baseline-notes.txt",
+    "README_HF06_HISTORICAL.txt",
+    "README_R21.txt",
+    "Sources/Aircraft_Route_Audit.csv",
+    "Sources/Build/airport_geometry.py",
+    "Sources/Build/build_native.py",
+    "Sources/Build/layout_plan.py",
+    "Sources/Build/native_mesh.py",
+    "Sources/Build/r02_details.py",
+    "Sources/Build/validate_native.py",
+    "Sources/Gate_Mapping.csv",
+    "Sources/HF02_Repair/HF02_Detail_Validation.json",
+    "Sources/HF02_Repair/HF02_Final_Validation.json",
+    "Sources/HF02_Repair/Preview_Method.json",
+    "Sources/HF02_Repair/current-global-KIAH-reference.dat",
+    "Sources/HF02_Repair/package_review.py",
+    "Sources/HF02_Repair/prepare_hf02.py",
+    "Sources/HF02_Repair/prepare_previews.py",
+    "Sources/HF02_Repair/render_hf02.py",
+    "Sources/HF02_Repair/repair_airport_details.py",
+    "Sources/HF02_Repair/scene-hf02.json",
+    "Sources/HF02_Repair/sign-tiles-hf02.json",
+    "Sources/HF02_Repair/sign_groups.py",
+    "Sources/HF02_Repair/validate_hf02.py",
+    "Sources/HF02_Repair/validate_native_jetway_shapes.py",
+    "Sources/HF03_Repair/HF03_Changes.json",
+    "Sources/HF03_Repair/HF03_Validation.json",
+    "Sources/HF03_Repair/Preview_Method.json",
+    "Sources/HF03_Repair/cleanup-mask.json",
+    "Sources/HF03_Repair/jetway_repair.py",
+    "Sources/HF03_Repair/jetways.json",
+    "Sources/HF03_Repair/package_review.py",
+    "Sources/HF03_Repair/prepare_previews.py",
+    "Sources/HF03_Repair/render_hf03.py",
+    "Sources/HF03_Repair/repair_hf03.py",
+    "Sources/HF03_Repair/repair_service_paths.py",
+    "Sources/HF03_Repair/review_maps.py",
+    "Sources/HF03_Repair/scene-hf03.json",
+    "Sources/HF03_Repair/service-repair.json",
+    "Sources/HF03_Repair/setup_previews.py",
+    "Sources/HF03_Repair/validate_hf03.py",
+    "Sources/HF04_Repair/HF04_Changes.json",
+    "Sources/HF04_Repair/HF04_Validation.json",
+    "Sources/HF04_Repair/Preview_Method.json",
+    "Sources/HF04_Repair/common.py",
+    "Sources/HF04_Repair/package_review.py",
+    "Sources/HF04_Repair/prepare_previews.py",
+    "Sources/HF04_Repair/render_hf04.py",
+    "Sources/HF04_Repair/repair_hf04.py",
+    "Sources/HF04_Repair/setup_previews.py",
+    "Sources/HF04_Repair/validate_hf04.py",
+    "Sources/HF05_Repair/HF05_Changes.json",
+    "Sources/HF05_Repair/HF05_Validation.json",
+    "Sources/HF05_Repair/Preview_Method.json",
+    "Sources/HF05_Repair/aep_preview_map.py",
+    "Sources/HF05_Repair/hf05_common.py",
+    "Sources/HF05_Repair/package_hf05.py",
+    "Sources/HF05_Repair/prepare_previews.py",
+    "Sources/HF05_Repair/preserve_dsf_binary.py",
+    "Sources/HF05_Repair/render_hf05.py",
+    "Sources/HF05_Repair/repair_hf05.py",
+    "Sources/HF05_Repair/validate_hf05.py",
+    "Sources/HF06_Repair/AEP_Compatibility_Baseline.json",
+    "Sources/HF06_Repair/AEP_Compatibility_Workflow.txt",
+    "Sources/HF06_Repair/HF06_Changes.json",
+    "Sources/HF06_Repair/HF06_Long_Aircraft_Check.json",
+    "Sources/HF06_Repair/HF06_Validation.json",
+    "Sources/HF06_Repair/Preview_Method.json",
+    "Sources/HF06_Repair/compatibility_guard.py",
+    "Sources/HF06_Repair/focus_audit.py",
+    "Sources/HF06_Repair/inspect_hf06.py",
+    "Sources/HF06_Repair/long_aircraft_check.py",
+    "Sources/HF06_Repair/package_hf06.py",
+    "Sources/HF06_Repair/prepare_previews.py",
+    "Sources/HF06_Repair/preview_maps.py",
+    "Sources/HF06_Repair/render_hf06.py",
+    "Sources/HF06_Repair/repair_hf06.py",
+    "Sources/HF06_Repair/revise_b_lane.py",
+    "Sources/HF06_Repair/setup_previews.py",
+    "Sources/HF06_Repair/validate_hf06.py",
+    "Sources/R02-artwork-build-report.json",
+    "Sources/R02-artwork-validation.json",
+    "Sources/R03-HF01-validation.json",
+    "Sources/R03_Build/check_airport_structure.py",
+    "Sources/R03_Build/finish_r03.py",
+    "Sources/R03_Build/route_audit_r03.py",
+    "Sources/R03_Build/route_build_r03.py",
+    "Sources/R03_Build/route_common.py",
+    "Sources/R03_Build/route_previews_r03.py",
+    "Sources/R03_Build/route_review_template.html",
+    "Sources/R03_HF01_historical_notes.txt",
+    "Sources/R03_HF02_historical_notes.txt",
+    "Sources/R03_HF03_historical_notes.txt",
+    "Sources/R03_HF04_historical_notes.txt",
+    "Sources/R03_HF05_historical_notes.txt",
+    "Sources/Ramp_Access_Audit.csv",
+    "Sources/Service_Depot_Access.csv",
+    "Sources/Service_Stand_Coverage.csv",
+    "Sources/build-report.json",
+    "Sources/current-terminal-footprints.geojson",
+    "Sources/imagery-capture-metadata.json",
+    "Sources/modified-north-scenery.txt",
+    "Sources/modified-south-scenery.txt",
+    "Sources/offline-validation.json",
+    "Sources/references.json",
+    "Sources/routing-build-report.json",
+    "Sources/terminal-source-manifest.json",
+    "objects/nrt_test/garage_t02_m01.obj",
+    "objects/nrt_test/garage_t02_m02.obj",
+    "objects/nrt_test/garage_t02_m05.obj",
+    "objects/nrt_test/garage_t02_m06.obj",
+    "objects/nrt_test/garage_t02_m07.obj",
+    "objects/nrt_test/garage_t02_m08.obj",
+    "objects/nrt_test/garage_t02_m09.obj",
+    "objects/nrt_test/garage_t02_m10.obj",
+    "objects/nrt_test/garage_t02_m12.obj",
+    "objects/nrt_test/garage_t02_m13.obj",
+    "objects/nrt_test/garage_t02_m14.obj",
+    "objects/nrt_test/garage_t02_m20.obj",
+    "objects/nrt_test/garage_t02_m24.obj",
+    "objects/nrt_test/garage_t02_m25.obj",
+    "objects/nrt_test/garage_t02_m26.obj",
+    "objects/nrt_test/garage_t02_m27.obj",
+    "objects/nrt_test/garage_t02_m28.obj",
+    "objects/nrt_test/garage_t02_m29.obj",
+    "objects/nrt_test/garage_t02_m30.obj",
+    "objects/nrt_test/garage_t02_m37.obj",
+    "objects/nrt_test/garage_t02_m39.obj",
+    "objects/nrt_test/garage_t02_m40.obj",
+    "objects/nrt_test/garage_t02_m41.obj",
+    "objects/nrt_test/garage_t02_m42.obj",
+    "objects/nrt_test/garage_t02_m43.obj",
+    "objects/nrt_test/garage_t02_m44.obj",
+    "objects/nrt_test/garage_t02_m45.obj",
+    "textures/nrt_test/garage_t02_m01.dds",
+    "textures/nrt_test/garage_t02_m01.png",
+    "textures/nrt_test/garage_t02_m02.dds",
+    "textures/nrt_test/garage_t02_m02.png",
+    "textures/nrt_test/garage_t02_m05.dds",
+    "textures/nrt_test/garage_t02_m05.png",
+    "textures/nrt_test/garage_t02_m06.dds",
+    "textures/nrt_test/garage_t02_m06.png",
+    "textures/nrt_test/garage_t02_m07.dds",
+    "textures/nrt_test/garage_t02_m07.png",
+    "textures/nrt_test/garage_t02_m08.dds",
+    "textures/nrt_test/garage_t02_m08.png",
+    "textures/nrt_test/garage_t02_m09.dds",
+    "textures/nrt_test/garage_t02_m09.png",
+    "textures/nrt_test/garage_t02_m10.dds",
+    "textures/nrt_test/garage_t02_m10.png",
+    "textures/nrt_test/garage_t02_m12.dds",
+    "textures/nrt_test/garage_t02_m12.png",
+    "textures/nrt_test/garage_t02_m13.dds",
+    "textures/nrt_test/garage_t02_m13.png",
+    "textures/nrt_test/garage_t02_m14.dds",
+    "textures/nrt_test/garage_t02_m14.png",
+    "textures/nrt_test/garage_t02_m20.dds",
+    "textures/nrt_test/garage_t02_m20.png",
+    "textures/nrt_test/garage_t02_m24.dds",
+    "textures/nrt_test/garage_t02_m24.png",
+    "textures/nrt_test/garage_t02_m25.dds",
+    "textures/nrt_test/garage_t02_m25.png",
+    "textures/nrt_test/garage_t02_m26.dds",
+    "textures/nrt_test/garage_t02_m26.png",
+    "textures/nrt_test/garage_t02_m27.dds",
+    "textures/nrt_test/garage_t02_m27.png",
+    "textures/nrt_test/garage_t02_m28.dds",
+    "textures/nrt_test/garage_t02_m28.png",
+    "textures/nrt_test/garage_t02_m29.dds",
+    "textures/nrt_test/garage_t02_m29.png",
+    "textures/nrt_test/garage_t02_m30.dds",
+    "textures/nrt_test/garage_t02_m30.png",
+    "textures/nrt_test/garage_t02_m37.dds",
+    "textures/nrt_test/garage_t02_m37.png",
+    "textures/nrt_test/garage_t02_m39.dds",
+    "textures/nrt_test/garage_t02_m39.png",
+    "textures/nrt_test/garage_t02_m40.dds",
+    "textures/nrt_test/garage_t02_m40.png",
+    "textures/nrt_test/garage_t02_m41.dds",
+    "textures/nrt_test/garage_t02_m41.png",
+    "textures/nrt_test/garage_t02_m42.dds",
+    "textures/nrt_test/garage_t02_m42.png",
+    "textures/nrt_test/garage_t02_m43.dds",
+    "textures/nrt_test/garage_t02_m43.png",
+    "textures/nrt_test/garage_t02_m44.dds",
+    "textures/nrt_test/garage_t02_m44.png",
+    "textures/nrt_test/garage_t02_m45.dds",
+    "textures/nrt_test/garage_t02_m45.png"
+  ],
+  "schema_version": 2,
+  "channels": [
+    {
+      "id": "main",
+      "name": "Main",
+      "depot": "depot",
+      "description": "Airport refinements plus the fictional NRT ramp, headquarters, canopy and hangars.",
+      "release": {
+        "product": "NRT KIAH Campus",
+        "folder": "NRT_KIAH_Campus",
+        "version": "0.28.0",
+        "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
+        "preview_only": false,
+        "not_for_publication": false,
+        "local_only_assets": [],
+        "files": [
+          {
+            "path": "ASSET_NOTICES.txt",
+            "crc32": 1944472361,
+            "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
+            "size": 1898
+          },
+          {
+            "path": "Build_Evidence.json",
+            "crc32": 790821307,
+            "sha256": "50636a9ac04bede2361e5f6c0c52bf05b88e566dc76396f823c1c7f4302ea993",
+            "size": 650275
+          },
+          {
+            "path": "COPYING",
+            "crc32": 2122558730,
+            "sha256": "5dd184a71bedc2ed80f5da8ecb8a9814ca78832706882fc82d53c4fd7fb693c5",
+            "size": 18693
+          },
+          {
+            "path": "Check OpenSAM.cmd",
+            "crc32": 1928768293,
+            "sha256": "81ee7e4dc2cb0c497da4eaa6933389c0f7726ca62b8abd66121fe16025d9466f",
+            "size": 97
+          },
+          {
+            "path": "Check OpenSAM.ps1",
+            "crc32": 1358243239,
+            "sha256": "08e365b08151baa8101ddf3d83dd21efa31824609dcf8c0469c593e1a98ec105",
+            "size": 3331
+          },
+          {
+            "path": "Earth nav data/+20-100/+29-096.dsf",
+            "crc32": 3739112922,
+            "sha256": "a8844a456faae111caa33c6fa13767f5177699a9a5cce3a6c577f106c25112b2",
+            "size": 945591
+          },
+          {
+            "path": "Earth nav data/+30-100/+30-096.dsf",
+            "crc32": 2326234223,
+            "sha256": "9b3159b971f402b9a1d0938e53f89f1d9adcd8bc40d88379eceee8cc09a73132",
+            "size": 22135
+          },
+          {
+            "path": "Earth nav data/apt.dat",
+            "crc32": 1408079980,
+            "sha256": "1e81ffc928a958f6355f81c26f2b546b5f03a405d33e9f807ebf7d794f1947f8",
+            "size": 1538348
+          },
+          {
+            "path": "Garage_Provenance.json",
+            "crc32": 4094886187,
+            "sha256": "491244acc547d90ea3e880445f2a85ca82d7b64eaa198cb4ce81b5711efe9cf8",
+            "size": 2462
+          },
+          {
+            "path": "Garage_Replacement_Record.json",
+            "crc32": 1166978272,
+            "sha256": "4da2be0e640bb08ba33efacec7118b2ca2b70fd57c86b87617c47db31de4ce57",
+            "size": 598
+          },
+          {
+            "path": "Gateway-original-README.txt",
+            "crc32": 102524826,
+            "sha256": "169964b32600bae61cabef531de7f45a4408a9fbaac5b2c32e6e6a9ddedf1472",
+            "size": 941
+          },
+          {
+            "path": "INSTALL.txt",
+            "crc32": 3014540565,
+            "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
+            "size": 3395
+          },
+          {
+            "path": "R28_Changes.json",
+            "crc32": 1793652328,
+            "sha256": "80d29dc0277832cc2e8e1c150e622c2fb5a297bc344eb17a0b041e7c925aedbf",
+            "size": 44862
+          },
+          {
+            "path": "README.txt",
+            "crc32": 2312806197,
+            "sha256": "72bfb369edd869b580e4130ae9d2bbe3618c4101375465a399e3e7e987bb0e94",
+            "size": 181
+          },
+          {
+            "path": "README_R22.txt",
+            "crc32": 3292491801,
+            "sha256": "f23ddae549e7917a5eb6bdf5ff4f3b8e39e7f9c91383c273c2612cda02ebdecc",
+            "size": 725
+          },
+          {
+            "path": "README_R23.txt",
+            "crc32": 1991842827,
+            "sha256": "eda48e1912ca19e5169c0f848ea0188ad24815f82aeb887a38aef508896ea441",
+            "size": 3205
+          },
+          {
+            "path": "README_R24.txt",
+            "crc32": 3722393175,
+            "sha256": "95f52febb681910b63c8d7591ab316be00ad08b18dfa92d5e2894ddedfc009cd",
+            "size": 4147
+          },
+          {
+            "path": "README_R25.txt",
+            "crc32": 2915305999,
+            "sha256": "32f6be3a3cefa2aa73f2715383ac11fcedcc7337e8f890b8b28ea2811b36db2a",
+            "size": 5434
+          },
+          {
+            "path": "README_R26.txt",
+            "crc32": 2445265612,
+            "sha256": "f83d2b38b6fec3bf3fe21a6eedb1d61ea931b19e95ca8668af69ca6264c7ea57",
+            "size": 3786
+          },
+          {
+            "path": "README_R27.txt",
+            "crc32": 2486343592,
+            "sha256": "91ae911c6b508e170e330422e7193038f00b6c26c6425ecdcf51581c9a6220e4",
+            "size": 3889
+          },
+          {
+            "path": "README_R28.txt",
+            "crc32": 3859981804,
+            "sha256": "cfddd391b00029a8a10132682a2ff9f5b3f3ef58d8a8a17818e8403a8d7cf638",
+            "size": 1716
+          },
+          {
+            "path": "README_R28_REVIEW_HISTORY.txt",
+            "crc32": 3671724453,
+            "sha256": "571464b064967ad46bbf6d78128a6d115b4d3b755e5b50bb92683b640ff810d7",
+            "size": 1778
+          },
+          {
+            "path": "Source/Native/+29-096.txt",
+            "crc32": 4044933031,
+            "sha256": "6f9a19c374f0dc2a1e2675f1c16c97a7c27826544db3a83f2cd19f8d5a4f6331",
+            "size": 2484795
+          },
+          {
+            "path": "Source/Native/+30-096.txt",
+            "crc32": 4125969887,
+            "sha256": "bd74681999a106e132c4150acd389dbff0a899413795cfd1f577826a97c46f0a",
+            "size": 145492
+          },
+          {
+            "path": "Source/R17_Helpers/airport_geometry.py",
+            "crc32": 4164745813,
+            "sha256": "1beeea968c7e69e98295f25c0d789e74fd7603982b8e110500164e6462599eba",
+            "size": 7661
+          },
+          {
+            "path": "Source/R17_Helpers/build_test.py",
+            "crc32": 655054194,
+            "sha256": "57d9c2842b0999a5f2c57cbbaf9780a9c1af2a059d43365203b53196c9bc82a1",
+            "size": 31820
+          },
+          {
+            "path": "Source/R17_Helpers/materials.py",
+            "crc32": 2260496630,
+            "sha256": "5cd86bbae46d4a0bbb86012afb85af42978400f93daf0df267bd354d801d7c15",
+            "size": 5000
+          },
+          {
+            "path": "Source/R17_Helpers/obj_reader.py",
+            "crc32": 3325807387,
+            "sha256": "3c7c7010572515d48f9435d30b759d784f443b34279ec00b645395efe42406cd",
+            "size": 2714
+          },
+          {
+            "path": "Source/R21/build_r21.py",
+            "crc32": 2723046546,
+            "sha256": "036dc634eaa03ce6b70a9bf6564604f6b344ec196d7bbf50eb3313ea5b91eb45",
+            "size": 22123
+          },
+          {
+            "path": "Source/R21/finalize_r21.py",
+            "crc32": 1776834109,
+            "sha256": "2b3c6b946519a674aab025fdbcb76b806647ca5eec2586d2fc1a2972ceed365f",
+            "size": 9329
+          },
+          {
+            "path": "Source/R21/render_exports.py",
+            "crc32": 481493152,
+            "sha256": "a8463806a4b737a57057116bd6c54704446d0557e8d14567b8c5698879b110cc",
+            "size": 4899
+          },
+          {
+            "path": "Source/R21/validate_r21.py",
+            "crc32": 2876522174,
+            "sha256": "0b33a7a11af8f32ccb76d2880776b40b198ca1a3c5ccb43e0dc7a390473b4234",
+            "size": 7842
+          },
+          {
+            "path": "Source/R22/South.dsf.txt",
+            "crc32": 17082927,
+            "sha256": "3d58e277fa5c137cec546721100e813ff49400d5d262ada874b3db65a8d04875",
+            "size": 2460997
+          },
+          {
+            "path": "Source/R22/build_r22.py",
+            "crc32": 464358019,
+            "sha256": "71f37ef1d24ad286aebea2ef80e1671d2d52f1c009442af8a75bd5e1d5e48a35",
+            "size": 18826
+          },
+          {
+            "path": "Source/R22/finalize_r22.py",
+            "crc32": 1832874743,
+            "sha256": "99eb839642282cebf6ec8931d1d809ca7ce455723253211be7ae7be0d90c6ee0",
+            "size": 10091
+          },
+          {
+            "path": "Source/R22/render_r22.py",
+            "crc32": 2048204315,
+            "sha256": "0da0da304e68ad2a51a13c7f289b7edb7983f5f9d1300faebc541eb09d8f1ed1",
+            "size": 4324
+          },
+          {
+            "path": "Source/R22/validate_r22.py",
+            "crc32": 3963908501,
+            "sha256": "8fb17722c4d6a5dda990ab83e07d358e53d18b562ae6760d102447ccca40b03e",
+            "size": 8949
+          },
+          {
+            "path": "Source/R23/OpenSAM_Diagnosis.json",
+            "crc32": 3221402025,
+            "sha256": "5c3b17b95ec8b60b63b586335c36ccd61cfd0fe5aa8fa86b71d57958fc51a471",
+            "size": 610
+          },
+          {
+            "path": "Source/R23/README.txt",
+            "crc32": 636801775,
+            "sha256": "e0f5deab882b708406502f826ec7a2138632b028a5d73adf7b2bc75c389fbd4c",
+            "size": 337
+          },
+          {
+            "path": "Source/R23/South.dsf.txt",
+            "crc32": 924631107,
+            "sha256": "78fe9954527ed6c4f021e5c269052ff4b65b2bba3a34105768510b995fa65fa5",
+            "size": 2463084
+          },
+          {
+            "path": "Source/R23/build_r23.py",
+            "crc32": 1116395508,
+            "sha256": "785317e390231b94498221faa2a79df6995fa896d0274248cda5c20a011d2a49",
+            "size": 18170
+          },
+          {
+            "path": "Source/R23/inspect_r22.py",
+            "crc32": 2414154341,
+            "sha256": "3572a57d359436d240a4d580368a0b4899b7409fb9626d890749ea831e0ecb49",
+            "size": 1590
+          },
+          {
+            "path": "Source/R23/prepare_delivery.py",
+            "crc32": 1520156715,
+            "sha256": "79f6dfdfb74d2614f98cb52888806925c80acea1365bad2eedf4ca1f0289661c",
+            "size": 3762
+          },
+          {
+            "path": "Source/R23/render_r23.py",
+            "crc32": 683667589,
+            "sha256": "2a1abc0f5f7cc4a07b0d46cc7e8f4d60582bf8066afce98c2fce186596938e0d",
+            "size": 4032
+          },
+          {
+            "path": "Source/R23/review_r23.py",
+            "crc32": 896323406,
+            "sha256": "6465a7e961b88575e26ac546c4273228727f242ce323d9f39c6fd3411a5faa9e",
+            "size": 14661
+          },
+          {
+            "path": "Source/R23/seal_delivery.py",
+            "crc32": 3797326713,
+            "sha256": "816397475bf87c9015dfe906e647804b112c2a9ee8b24cf0d603246e2a5c8da8",
+            "size": 1901
+          },
+          {
+            "path": "Source/R23/validate_r23.py",
+            "crc32": 572133165,
+            "sha256": "03605b4aaab602b1552a6146cd3177d59f077db41a8657842d1682ca92880124",
+            "size": 11503
+          },
+          {
+            "path": "Source/R24/Approved_Pullthrough.json",
+            "crc32": 3770307519,
+            "sha256": "a7f23e1a5a32756c0b20c2334eca5b8a04cd6b7193a6bedff6b113daa374d9c8",
+            "size": 355282
+          },
+          {
+            "path": "Source/R24/README.txt",
+            "crc32": 3067967555,
+            "sha256": "7c7e431071e13492e715c8aa1e55d330491605cafa91252b8b350d544ade0897",
+            "size": 255
+          },
+          {
+            "path": "Source/R24/South.dsf.txt",
+            "crc32": 3350823947,
+            "sha256": "0b317947f8853ad45daedd2512ec02d550616a318b678ea1f229a1ffdccbb758",
+            "size": 2463485
+          },
+          {
+            "path": "Source/R24/build_r24.py",
+            "crc32": 1964122274,
+            "sha256": "aecd21e690d2bf4ecd663db7a952a79e110c29ed495ea0136c614a896fcfc7d5",
+            "size": 24259
+          },
+          {
+            "path": "Source/R24/inspect_baseline.py",
+            "crc32": 935648079,
+            "sha256": "c7a3664f6dfe5df20c5c95e6b89e6dfaac96c5d0f02b683e0c38cac6a650eb4d",
+            "size": 1665
+          },
+          {
+            "path": "Source/R24/prepare_delivery.py",
+            "crc32": 2428511128,
+            "sha256": "23d902c6a0a2e4fe63fffa58f6b2f6f376def0a1a33579adf4c4da1b68f8cd34",
+            "size": 6096
+          },
+          {
+            "path": "Source/R24/refinements.py",
+            "crc32": 3908518156,
+            "sha256": "25b61d729aa392113e82cd160c5b3979e96ca4188627ef0b8611abe78f82bd11",
+            "size": 12021
+          },
+          {
+            "path": "Source/R24/render_r24.py",
+            "crc32": 703824622,
+            "sha256": "4434bfc6a0a1bd93a0b953377b67177dfe73dd2d4e32d1ae473584a130505a8e",
+            "size": 3922
+          },
+          {
+            "path": "Source/R24/review_r24.py",
+            "crc32": 4146732093,
+            "sha256": "d7492ce8aef972974d2adee65e933d65c0733b28f78f49f52340caa29b324851",
+            "size": 8645
+          },
+          {
+            "path": "Source/R24/seal_delivery.py",
+            "crc32": 1865549784,
+            "sha256": "27a030bf0e81801a7d0f75e35b0e1d176fc56cc249b92e2eec752f97c5513dc7",
+            "size": 2045
+          },
+          {
+            "path": "Source/R24/seed_builder.py",
+            "crc32": 412822609,
+            "sha256": "896fad635ce8abd15c811e55023f3d2b1b5aded473a846310ad0646a69c91a42",
+            "size": 5471
+          },
+          {
+            "path": "Source/R24/validate_r24.py",
+            "crc32": 2686563164,
+            "sha256": "25d62022d780bc4a38f20230c713414106b879db173b2ad5af2ee56ea3e4d479",
+            "size": 16270
+          },
+          {
+            "path": "Source/R25/README.txt",
+            "crc32": 1788586778,
+            "sha256": "fdd94633bb2a8a2be4729c0c124487897be3bb3a62277f5413c2e423951cd896",
+            "size": 188
+          },
+          {
+            "path": "Source/R25/South.dsf.txt",
+            "crc32": 1258248674,
+            "sha256": "544a7a1658c3171d3c22ce55d655930f942d6a6368a8c3b91d4626304cf3bb5c",
+            "size": 2463920
+          },
+          {
+            "path": "Source/R25/build_r25.py",
+            "crc32": 2944195763,
+            "sha256": "4e7131f1c4201a7b1fb4d76e8742a601177478537709329a917d658240efc518",
+            "size": 21486
+          },
+          {
+            "path": "Source/R25/measure_stand.py",
+            "crc32": 2843534848,
+            "sha256": "8a2c5da716830c8db9533ac3ca1e3a19a3c6bda96902cbf0cbd70caffbce0222",
+            "size": 2332
+          },
+          {
+            "path": "Source/R25/prepare_delivery.py",
+            "crc32": 2718259089,
+            "sha256": "976ce705c1a282e3b597c4af63945c8b1e7929b974ef9fa3f4a6d1dd1c0c71f1",
+            "size": 6943
+          },
+          {
+            "path": "Source/R25/render_r25.py",
+            "crc32": 3020330202,
+            "sha256": "8c69991cefc09259ed3722b218b93013928e7dd0ea4c5a0c6c1b6034b16a92b1",
+            "size": 6258
+          },
+          {
+            "path": "Source/R25/review_r25.py",
+            "crc32": 1596672376,
+            "sha256": "0d913f59176dc539bd89f6bbd28c0a29f8e98179f37a0f4b4f2c893ff1fe99b9",
+            "size": 11025
+          },
+          {
+            "path": "Source/R25/seal_delivery.py",
+            "crc32": 3267273009,
+            "sha256": "ce522c60e94a4435f488e815e88afe9b1ba7f111b0faae9a49b1c71446d55ac3",
+            "size": 2211
+          },
+          {
+            "path": "Source/R25/validate_r25.py",
+            "crc32": 4053198215,
+            "sha256": "2e66c0d6c5a40d20f878471df2af2a9ba786150f0bda5ca7b15f30ff2f79f2d6",
+            "size": 15132
+          },
+          {
+            "path": "Source/R26/README.txt",
+            "crc32": 3361580095,
+            "sha256": "d3fa102119d5591da6ec5a4da925e9db01e820b4f0f873daa588a95a1b9c708c",
+            "size": 171
+          },
+          {
+            "path": "Source/R26/South.dsf.txt",
+            "crc32": 95146554,
+            "sha256": "9d1a9bdae7e5854764d755b32b97590ce5803b19fbe35ceca196a96dbfdbe21f",
+            "size": 2464468
+          },
+          {
+            "path": "Source/R26/build_r26.py",
+            "crc32": 2851009166,
+            "sha256": "08012a184e6525a7012a450f432275739219289a8e113133524c7d26a9444bf7",
+            "size": 14797
+          },
+          {
+            "path": "Source/R26/inspect_routes.py",
+            "crc32": 3357157133,
+            "sha256": "eef4b030cfdcddba209c6f6688135b8dd143ad59b5001728207e068e0b93a924",
+            "size": 2361
+          },
+          {
+            "path": "Source/R26/prepare_delivery.py",
+            "crc32": 1317021715,
+            "sha256": "84ace00823d1d8ce53793a78cc86c7ace1dcba6c2d3d415ae2060d0897b47276",
+            "size": 5245
+          },
+          {
+            "path": "Source/R26/render_r26.py",
+            "crc32": 940546577,
+            "sha256": "845b2ee4854185f363e92f62c0dabf71e1fdabff8aa2319f551e24d2c190f585",
+            "size": 1325
+          },
+          {
+            "path": "Source/R26/review_r26.py",
+            "crc32": 3706719721,
+            "sha256": "6f0452c733ca8b30d45aad12989f1d22137f54591e036aa26d60d328d86b9236",
+            "size": 9862
+          },
+          {
+            "path": "Source/R26/seal_delivery.py",
+            "crc32": 2824401031,
+            "sha256": "e905cab828b54ed05e2ef347bfff58f39dd44ac02c761fe90b80a9ebf68d5b8b",
+            "size": 2247
+          },
+          {
+            "path": "Source/R26/validate_r26.py",
+            "crc32": 1610375435,
+            "sha256": "ec39b2b38e021789de535f86f828bc95f0edcbca3b192511c33a77f2ead82780",
+            "size": 14615
+          },
+          {
+            "path": "Source/R27/README.txt",
+            "crc32": 3361580095,
+            "sha256": "d3fa102119d5591da6ec5a4da925e9db01e820b4f0f873daa588a95a1b9c708c",
+            "size": 171
+          },
+          {
+            "path": "Source/R27/South.dsf.txt",
+            "crc32": 332364736,
+            "sha256": "620b620cb9978114d996aef7a375b1a97a4349e48758dc4ce66348ccf2c256f6",
+            "size": 2464922
+          },
+          {
+            "path": "Source/R27/audit_r27.py",
+            "crc32": 3182658322,
+            "sha256": "68c1b06e67e3eec36e947e13afa9c72bf0bc63426d13ef689fd1997b521320e0",
+            "size": 3664
+          },
+          {
+            "path": "Source/R27/build_r27.py",
+            "crc32": 2554333615,
+            "sha256": "ddce5e7401e4a4916b6c87036c6d8cfe2785271b74ca1adf9f6c2638e6b3c825",
+            "size": 13010
+          },
+          {
+            "path": "Source/R27/prepare_delivery.py",
+            "crc32": 1226483936,
+            "sha256": "2b32a2690c1a7d1940289959375088a8638f8f7521d6028e1d5899b4cecbf13e",
+            "size": 5007
+          },
+          {
+            "path": "Source/R27/render_r27.py",
+            "crc32": 3161844822,
+            "sha256": "78d10fb89bc7c40116be7823cb32aa687ce7c22ab01b07e0f1ba4df06e548501",
+            "size": 1785
+          },
+          {
+            "path": "Source/R27/review_r27.py",
+            "crc32": 3466537280,
+            "sha256": "05d3e8f35ddd16a64d760f88fefe0fcef9607cd3f21be23ec20f28e48dab7c52",
+            "size": 9420
+          },
+          {
+            "path": "Source/R27/seal_delivery.py",
+            "crc32": 3128416856,
+            "sha256": "b5589078b8b2ccdf46dfb04d0a0f81e39c8bf43f6c73123d825075c844aa9362",
+            "size": 2193
+          },
+          {
+            "path": "Source/R27/validate_r27.py",
+            "crc32": 4003850719,
+            "sha256": "5590e38557301e3cf8c98f7e958511343989c260bbce39862b639c1984dfedcb",
+            "size": 12497
+          },
+          {
+            "path": "Source/R28/R28_Evidence.json",
+            "crc32": 1793652328,
+            "sha256": "80d29dc0277832cc2e8e1c150e622c2fb5a297bc344eb17a0b041e7c925aedbf",
+            "size": 44862
+          },
+          {
+            "path": "Source/R28/audit_b.py",
+            "crc32": 4211768981,
+            "sha256": "921242af6f6ddae900a64ab80fa9d7f74c788e36eefff7e74a6284ea4f59a154",
+            "size": 3185
+          },
+          {
+            "path": "Source/R28/build_r28.py",
+            "crc32": 3710211498,
+            "sha256": "3b90ee75c4af4eb5a56877b71ec85efb25a8f4f583a6e0a97b589f6fc3517432",
+            "size": 9963
+          },
+          {
+            "path": "Source/R28/common.py",
+            "crc32": 1256255260,
+            "sha256": "4797ad08b3585478147eb1ce14bf2e95b53247229fd34c11cb9d3da140a2f2f7",
+            "size": 3697
+          },
+          {
+            "path": "Source/R28/finish_review.py",
+            "crc32": 235757245,
+            "sha256": "dd25b9af13108ffbf19e3a7c87dcd230d2cb21db7627152297a6cdc377d08f42",
+            "size": 20850
+          },
+          {
+            "path": "Source/R28/package_review.py",
+            "crc32": 2062123784,
+            "sha256": "84e6e5e830c3c313c4b293ecfcbe265c0401e1efcde4d7ad7aa2675879f4151a",
+            "size": 3707
+          },
+          {
+            "path": "Source/R28/prepare_r28_channels.py",
+            "crc32": 3886401758,
+            "sha256": "874d68c236d2d8f488b68a9fcaeca6d05ecdd284b08e05d1f049717a8c57c2af",
+            "size": 10549
+          },
+          {
+            "path": "Source/R28/preview_native.py",
+            "crc32": 3522679558,
+            "sha256": "152621674a30bb6b63c6210f40beb4ce62f6a07126f4b52b416ad2d2d0262dcf",
+            "size": 10681
+          },
+          {
+            "path": "Source/R28/render_r28.py",
+            "crc32": 3189657636,
+            "sha256": "ea1d9262fbe40e364c33a935836a829f25b3eff238e563cb9fb3bc52f5f29cba",
+            "size": 6020
+          },
+          {
+            "path": "Source/R28/validate_r28.py",
+            "crc32": 3776120916,
+            "sha256": "de322c3f9cd351d82609a12f68363dc080fd2070522bcd6d7c8de6ecb285bff5",
+            "size": 11574
+          },
+          {
+            "path": "Source/README.txt",
+            "crc32": 3588611300,
+            "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
+            "size": 1270
+          },
+          {
+            "path": "Source/rebuild_dsf.py",
+            "crc32": 3811686248,
+            "sha256": "ac3515c89685d3962373508750e5c0f7417f05f0afa832f7698ccb0e27a1b0ab",
+            "size": 1082
+          },
+          {
+            "path": "VARIANT.txt",
+            "crc32": 347113563,
+            "sha256": "b15b19385a94af7832eba87873d3090789cd57ace184d99472a21277d5203458",
+            "size": 89
+          },
+          {
+            "path": "changelog.txt",
+            "crc32": 1666555009,
+            "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
+            "size": 4449
+          },
+          {
+            "path": "objects/B_Lobby_Closed.obj",
+            "crc32": 456459122,
+            "sha256": "b13c8985a9a3c0357f6c7815aad83bf773aa545a99fe2d6ebb4330572f623e80",
+            "size": 401921
+          },
+          {
+            "path": "objects/B_North.obj",
+            "crc32": 1917700347,
+            "sha256": "be946d77a58557b2e02696d0761a6f62f67e2a4d28238c51dc942e11e72f6950",
+            "size": 664042
+          },
+          {
+            "path": "objects/Current_Stand_Labels.obj",
+            "crc32": 3817567693,
+            "sha256": "81b6e99f53d8bafa3e08a4b9514e773fec2e16c72a8afb02933d1030c6fe498b",
+            "size": 26733
+          },
+          {
+            "path": "objects/D_West.obj",
+            "crc32": 417298393,
+            "sha256": "52c51a0f994b0c546c9555f4f06e1bc7d006ef678264bc106153a846ce97dd46",
+            "size": 377247
+          },
+          {
+            "path": "objects/International_Processor.obj",
+            "crc32": 4198524874,
+            "sha256": "a55a8a425d13427959dd18de17c3066c5ea24895cac950f6d8923dc639e46230",
+            "size": 519735
+          },
+          {
+            "path": "objects/United_Maintenance_Exterior.obj",
+            "crc32": 3508604341,
+            "sha256": "2df81caf131261a9fca5a2b7aac49fb566085123030dcc62ef117bbb23e9a7bd",
+            "size": 468819
+          },
+          {
+            "path": "objects/bridge_A20.obj",
+            "crc32": 1400591421,
+            "sha256": "7aefd3781e0c89beb4e4f5f04a4fcec7c852aba74411b6db09e14679d02fc56d",
+            "size": 103563
+          },
+          {
+            "path": "objects/bridge_B1.obj",
+            "crc32": 268915415,
+            "sha256": "b89b98812862a447b881dd94ca37e111df9a0a0701941851263c1d74bacfff45",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B10.obj",
+            "crc32": 575963977,
+            "sha256": "af34dae01e7defad20eb2e2b7ed130f0a7375531b26f1d19fc79eb5ca15d5f65",
+            "size": 103245
+          },
+          {
+            "path": "objects/bridge_B11.obj",
+            "crc32": 3740269440,
+            "sha256": "58a5f1bd5872f2cb45c98ad106f1144eb0d1b2e8b5b8cef1152239b482e664ee",
+            "size": 103245
+          },
+          {
+            "path": "objects/bridge_B12.obj",
+            "crc32": 2149537140,
+            "sha256": "718058616ab1056986d422efd2a6dd6078419675098c82b35bd6d3f8b7d1a363",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B14.obj",
+            "crc32": 1447372318,
+            "sha256": "4bdcf40508ac582a48e533a7a527d23bd345c0a736a4919a5d5e45db5f2baa63",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B15.obj",
+            "crc32": 1771433833,
+            "sha256": "d9a2970f677a99e6687f6b222932be502dd0550b4bf9ff17d25d609ad1446e51",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B16.obj",
+            "crc32": 2069606293,
+            "sha256": "7e8619a0e0918a317524b95d4991d0c9bff47405d65b1a4df2b388953ec59a04",
+            "size": 103263
+          },
+          {
+            "path": "objects/bridge_B17.obj",
+            "crc32": 482658594,
+            "sha256": "822a941252acbf5deccbf94f2c24834988526f5047ec552d92fbb84707ffde9b",
+            "size": 103251
+          },
+          {
+            "path": "objects/bridge_B18.obj",
+            "crc32": 3411036394,
+            "sha256": "e1a5cc2a55da81ebd86b2b927c26d1f8ed01a17d873bd00e55e55be5d49c3370",
+            "size": 103250
+          },
+          {
+            "path": "objects/bridge_B19.obj",
+            "crc32": 461511546,
+            "sha256": "c972cd356638d1e34d34d832ca659926b46ba7a7c8925ccafe1262c3aab4795c",
+            "size": 103249
+          },
+          {
+            "path": "objects/bridge_B2.obj",
+            "crc32": 365609030,
+            "sha256": "be2552e7c0dc391d3585f83923b53478fdc22d273eb09c4dde2b0039a50183fa",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B20.obj",
+            "crc32": 3785562481,
+            "sha256": "d0c2b98a8871387c0f5c9f9bbd14cccf3f30951cfc3f277e9b269d702d001ded",
+            "size": 103237
+          },
+          {
+            "path": "objects/bridge_B21.obj",
+            "crc32": 911033279,
+            "sha256": "77e463d203bfc59ba94d03480d52cf7f47523e2ead8f80eedb0ac7ee476c66ac",
+            "size": 103242
+          },
+          {
+            "path": "objects/bridge_B22.obj",
+            "crc32": 3700407214,
+            "sha256": "64bba1a9cf734d8540674d7323891d73a05a14f8caabe19ad11ac2cbed7692d1",
+            "size": 103242
+          },
+          {
+            "path": "objects/bridge_B23.obj",
+            "crc32": 1768106388,
+            "sha256": "9238be71b664e09d5c09b45417353bce46baee2b8709fb95c0655e7ce732f22f",
+            "size": 103231
+          },
+          {
+            "path": "objects/bridge_B3.obj",
+            "crc32": 1769310598,
+            "sha256": "9180b10370bb0e80d61bacd726a371790ca6c55df401a9ab37aae652b9b07ba5",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B4.obj",
+            "crc32": 3817987094,
+            "sha256": "b5fac1eb0868d9af356302ed7ff5181d9b5ea683506138e60fa3512d18691c30",
+            "size": 103263
+          },
+          {
+            "path": "objects/bridge_B5.obj",
+            "crc32": 285452581,
+            "sha256": "5b4a787baa1095cde43a64feefab6d1db84d63c607cc70506b9204c25254111d",
+            "size": 103251
+          },
+          {
+            "path": "objects/bridge_B6.obj",
+            "crc32": 2633709537,
+            "sha256": "f439491a2c6dfbd80a23bb44d6521737e89b051cb69af3b9d7031327545a5c98",
+            "size": 103250
+          },
+          {
+            "path": "objects/bridge_B7.obj",
+            "crc32": 2363397168,
+            "sha256": "6e2f3a23c44dfca8389f075d594675270fa9aec15c9972b75655c256b7fe3a02",
+            "size": 103249
+          },
+          {
+            "path": "objects/bridge_B8.obj",
+            "crc32": 277767501,
+            "sha256": "20f783d67e96c7df4f20330dafe60b35355b3bcaeabc6b9b6a829dd8426b0b95",
+            "size": 103237
+          },
+          {
+            "path": "objects/bridge_B9.obj",
+            "crc32": 1545899178,
+            "sha256": "55f763a1176352766ad5d895fc1d0a7c620a8ccd3ffccef72335fb5340bdd42e",
+            "size": 103231
+          },
+          {
+            "path": "objects/bridge_C12.obj",
+            "crc32": 3141302142,
+            "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
+            "size": 104230
+          },
+          {
+            "path": "objects/bridge_C14.obj",
+            "crc32": 90890705,
+            "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
+            "size": 103556
+          },
+          {
+            "path": "objects/bridge_C15.obj",
+            "crc32": 117391061,
+            "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
+            "size": 103556
+          },
+          {
+            "path": "objects/bridge_D1.obj",
+            "crc32": 2184256594,
+            "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
+            "size": 105679
+          },
+          {
+            "path": "objects/bridge_D2.obj",
+            "crc32": 3011590559,
+            "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
+            "size": 104229
+          },
+          {
+            "path": "objects/bridge_D3.obj",
+            "crc32": 769173109,
+            "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
+            "size": 104275
+          },
+          {
+            "path": "objects/bridge_D4.obj",
+            "crc32": 1149090086,
+            "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
+            "size": 104235
+          },
+          {
+            "path": "objects/bridge_D5.obj",
+            "crc32": 614651558,
+            "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
+            "size": 105656
+          },
+          {
+            "path": "objects/bridge_D6.obj",
+            "crc32": 2321882266,
+            "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
+            "size": 104251
+          },
+          {
+            "path": "objects/nrt_test/apron_material.obj",
+            "crc32": 1185826733,
+            "sha256": "b04ffd5b2d412a1765d9a8eaee190aba585f96bf431aec740354374115d05670",
+            "size": 11889
+          },
+          {
+            "path": "objects/nrt_test/cargo.obj",
+            "crc32": 330352749,
+            "sha256": "f93b41e624444e5c0e922bd84aca19cde81cbf2a24e71a2e177a66546cfe3ba7",
+            "size": 757291
+          },
+          {
+            "path": "objects/nrt_test/cargo_recess_walls.obj",
+            "crc32": 287965777,
+            "sha256": "062fb791041f714d684a0319f60484f0c242ef26a54f347856a0757684465906",
+            "size": 94491
+          },
+          {
+            "path": "objects/nrt_test/fbo.obj",
+            "crc32": 2901780316,
+            "sha256": "9d7dbddceac9146b7b281f733877fa9ec734b91810d8d74dd00aa10911e6b7bb",
+            "size": 822655
+          },
+          {
+            "path": "objects/nrt_test/fbo_ground_tower.obj",
+            "crc32": 3844490818,
+            "sha256": "40d2dbaa1a747893892fe1e8a77db724d76a5e2d1a58ce050811df98d41df950",
+            "size": 949238
+          },
+          {
+            "path": "objects/nrt_test/fixed_8.obj",
+            "crc32": 1484721516,
+            "sha256": "0eee30ce9f32b8c22d71e0c6372eca8943db67746e87483d3f3b8efd5472fa32",
+            "size": 158025
+          },
+          {
+            "path": "objects/nrt_test/fixed_9A.obj",
+            "crc32": 3205353886,
+            "sha256": "53e53b9946d06ddfb251958fc06d133bc46b392640d2c63b7467634ab92bf7d1",
+            "size": 161042
+          },
+          {
+            "path": "objects/nrt_test/fixed_9B.obj",
+            "crc32": 4081611576,
+            "sha256": "d74bd61ac50ea53f7b37a859d0be9e5a2f4013a76fd9be407a04829545ed569e",
+            "size": 157486
+          },
+          {
+            "path": "objects/nrt_test/floor_wear_mh1.obj",
+            "crc32": 2436600759,
+            "sha256": "8c9e7816d0589f8ec89f1968b9928fe2e58208730b1a780edd2e4416f41f281d",
+            "size": 1650
+          },
+          {
+            "path": "objects/nrt_test/floor_wear_mh2.obj",
+            "crc32": 824809709,
+            "sha256": "5a55a98e0b586b71c3ce2d75ca51ece758714722a4b5c35a35e7ce0bd802ee2a",
+            "size": 1650
+          },
+          {
+            "path": "objects/nrt_test/floor_wear_mh3.obj",
+            "crc32": 824809709,
+            "sha256": "5a55a98e0b586b71c3ce2d75ca51ece758714722a4b5c35a35e7ce0bd802ee2a",
+            "size": 1650
+          },
+          {
+            "path": "objects/nrt_test/landside_curbs.obj",
+            "crc32": 3054905033,
+            "sha256": "83b2dd44f4c04b10778e1829d62dac57aa6506b0d74e93b224c85b8764317b2e",
+            "size": 160155
+          },
+          {
+            "path": "objects/nrt_test/landside_fence.obj",
+            "crc32": 3829370705,
+            "sha256": "1a8542fff7dc7b3cc6c2cd3ae393b96d611323088743c6fae86677a5124b4b78",
+            "size": 3716
+          },
+          {
+            "path": "objects/nrt_test/landside_lights.obj",
+            "crc32": 3644329454,
+            "sha256": "012829b5790e74346693b3c247b2922e54b2b66f1f6dd852f9c83ffd0eaf882f",
+            "size": 89223
+          },
+          {
+            "path": "objects/nrt_test/landside_paint.obj",
+            "crc32": 4019819455,
+            "sha256": "e4107f28ed48f439f55769d001a35c0d7649deae9e3b6fe676e4df5172944a39",
+            "size": 460108
+          },
+          {
+            "path": "objects/nrt_test/landside_security.obj",
+            "crc32": 1255969792,
+            "sha256": "bb377ede24d4c2d2c30ab0c1c34318c46f5850f8b996d4965f809908bf354918",
+            "size": 2003879
+          },
+          {
+            "path": "objects/nrt_test/landside_signboards.obj",
+            "crc32": 2121102621,
+            "sha256": "672dd15344407603fb234571113f10b67d27cbd5b7beb367065002ede0e6b9ef",
+            "size": 1160
+          },
+          {
+            "path": "objects/nrt_test/landside_stencils.obj",
+            "crc32": 4278417504,
+            "sha256": "3ebd64824a96ddb6d8a0242d76a4f58e28e749110185fbaca1e1c43bc84fc80f",
+            "size": 10488
+          },
+          {
+            "path": "objects/nrt_test/landside_surface.obj",
+            "crc32": 2326156274,
+            "sha256": "e3ace3cbe03e1dca96a56cf1649826f975144539fbfbd9a8a68cd74c1ea210c6",
+            "size": 19674
+          },
+          {
+            "path": "objects/nrt_test/mh2_accordion_hangar.obj",
+            "crc32": 1536903774,
+            "sha256": "0e453fc208ca5f973664a77b4553e16986d8afb7da2aa2041718a1a3032edd6e",
+            "size": 684766
+          },
+          {
+            "path": "objects/nrt_test/mh3_accordion_hangar.obj",
+            "crc32": 1922387365,
+            "sha256": "448370c355c26c42852043a057675276b03b84b9ccb586453802bc50f517f6c9",
+            "size": 684766
+          },
+          {
+            "path": "objects/nrt_test/mx_7478I_proxy.obj",
+            "crc32": 1502241099,
+            "sha256": "0823e4432f203f49d802360f930ca0813ce39598799f83c129f000f732a43145",
+            "size": 235738
+          },
+          {
+            "path": "objects/nrt_test/mx_service_lights.obj",
+            "crc32": 2642955792,
+            "sha256": "64ff0848a132da0f7aa027a2f1dc964602f6d767d8d0ba096459b4bb2b9297a9",
+            "size": 72385
+          },
+          {
+            "path": "objects/nrt_test/mx_stepped_hangar.obj",
+            "crc32": 4201799676,
+            "sha256": "bfcefc0d91abb8d932e0aec243c27e20181e6a676564d771e7d2725f894deac3",
+            "size": 1862461
+          },
+          {
+            "path": "objects/nrt_test/paint.obj",
+            "crc32": 3948358757,
+            "sha256": "52d6ae7a9c3ee7ea1e72bbfcf2df710b146cab6dfab8122e1e86f5d712a12640",
+            "size": 332437
+          },
+          {
+            "path": "objects/nrt_test/r21_arrival_landscape.obj",
+            "crc32": 2902597344,
+            "sha256": "a9a45bd47f6df6a38dfadfb7c182ef7fcbe39c12288935952ce9a2971230df98",
+            "size": 86220
+          },
+          {
+            "path": "objects/nrt_test/r21_arrival_paint.obj",
+            "crc32": 709044525,
+            "sha256": "cdd3fd9fff315e38b0a67e9b3eae554a5e70fabf54e93486b2577dde58708cda",
+            "size": 58538
+          },
+          {
+            "path": "objects/nrt_test/r21_identity.obj",
+            "crc32": 3743831805,
+            "sha256": "d5d97ad8392e2e891037e49124b437f3520927c82826c28858813d1ff1fce6c2",
+            "size": 2656
+          },
+          {
+            "path": "objects/nrt_test/r21_planting_bed.obj",
+            "crc32": 1756791997,
+            "sha256": "2edeafa790f223b6751d0d054ff684405b586cf0fd0aa515e459ede48445fdee",
+            "size": 619
+          },
+          {
+            "path": "objects/nrt_test/r21_private_hangar.obj",
+            "crc32": 1207634765,
+            "sha256": "63fe3b079e65fc6078eb54dd7d6a5e9daaf0d4eea4de7db19f632dc848a9d867",
+            "size": 1304071
+          },
+          {
+            "path": "objects/nrt_test/r21_stand_ids.obj",
+            "crc32": 823478493,
+            "sha256": "d2c7732d9319947ab1a7f86d281bfc18d21cf9851c0ab6613fee22841b1be7c7",
+            "size": 1283
+          },
+          {
+            "path": "objects/nrt_test/r21_terminal_canopy.obj",
+            "crc32": 3795844262,
+            "sha256": "ed0606f882df8000663912b6cea1ce11bd1215c6d74165b640981adba3d8782f",
+            "size": 933074
+          },
+          {
+            "path": "objects/nrt_test/r22_nrt_truck_doors.obj",
+            "crc32": 1065632944,
+            "sha256": "eca4079e069738813339bad3fc21a3576734e47b30f1ceb6be5b0dfd7da6fd4a",
+            "size": 260127
+          },
+          {
+            "path": "objects/nrt_test/r22_nrt_truck_garage.obj",
+            "crc32": 562160799,
+            "sha256": "61ac9bee23a3027f1f757f821bc32604d7bb02c8b2cd133d3b860da8833d89cd",
+            "size": 771110
+          },
+          {
+            "path": "objects/nrt_test/r22_nrt_truck_signs.obj",
+            "crc32": 2969498779,
+            "sha256": "40bc30b53afbdc6881899eaca8782c06f8c333647024a9a46951e6958c92e061",
+            "size": 2622
+          },
+          {
+            "path": "objects/nrt_test/r23_ground_ids.obj",
+            "crc32": 2210664336,
+            "sha256": "6ecd42b418d7c662ee60a21152eadb7f64e4e9782a371fa94df9c2e05d9aaca1",
+            "size": 1823
+          },
+          {
+            "path": "objects/nrt_test/r23_identity.obj",
+            "crc32": 1608710956,
+            "sha256": "cd46081a9b7881e299cba57158524ef25d15b5b584e1d4e0edf3000d6b479aeb",
+            "size": 3172
+          },
+          {
+            "path": "objects/nrt_test/r23_jet_center.obj",
+            "crc32": 757314447,
+            "sha256": "3ef25d4f6214026987f7e5f507c2b7435dcfe8e172493ff0f5b33fe9a5a3919a",
+            "size": 3503644
+          },
+          {
+            "path": "objects/nrt_test/r23_ramp_details.obj",
+            "crc32": 1571788712,
+            "sha256": "96dd14ac69a9b6115540d73d3c85584dddde4314bb16f7665dff74551fcb74bf",
+            "size": 3782
+          },
+          {
+            "path": "objects/nrt_test/r24_access_ids.obj",
+            "crc32": 489391039,
+            "sha256": "6ed3b173468a8429cb808a82bebe8d6cbfb946c66459e56d96b8a1ce4d988f9d",
+            "size": 1787
+          },
+          {
+            "path": "objects/nrt_test/r24_access_paint.obj",
+            "crc32": 1031276377,
+            "sha256": "6f669a140197b84db0e1aea6b1d49200e33fd05eac49aecf8af5553edbd2828c",
+            "size": 50735
+          },
+          {
+            "path": "objects/nrt_test/r24_ground_ids.obj",
+            "crc32": 336479501,
+            "sha256": "ffe958e0810d9d616d6df059291f7f4184de5e429f0e0842d766a65932741537",
+            "size": 2305
+          },
+          {
+            "path": "objects/nrt_test/r24_heli_access_door.obj",
+            "crc32": 539983061,
+            "sha256": "4a105c61eb83d0f8fe0f0c578c6fd8a6ffa3ac6fbec74793978d99fd4ae476ff",
+            "size": 7601
+          },
+          {
+            "path": "objects/nrt_test/r24_identity.obj",
+            "crc32": 835091109,
+            "sha256": "da36595c6f4103e90351e584c4fb5e40e263593a0b8e503e7139731206846d0b",
+            "size": 3169
+          },
+          {
+            "path": "objects/nrt_test/r24_indoor_parking.obj",
+            "crc32": 824760975,
+            "sha256": "43e06332dd1cdc92aaaa5ea6fb9a552233627873dd447c5890bab54e188799b9",
+            "size": 1320667
+          },
+          {
+            "path": "objects/nrt_test/r24_jet_center.obj",
+            "crc32": 2945220378,
+            "sha256": "20ad947a3d53c1cfd686a08c80d22de7f5d83b684cbeceb6833b161e4a37d6a9",
+            "size": 3504666
+          },
+          {
+            "path": "objects/nrt_test/r24_ramp_details.obj",
+            "crc32": 1844009349,
+            "sha256": "e6fbcad05ab019291bfd0913766b3cf71943549c12fb547b525d2355837fae12",
+            "size": 3782
+          },
+          {
+            "path": "objects/nrt_test/r25_access_ids.obj",
+            "crc32": 2789836212,
+            "sha256": "d581fe14de6713e9316ec67922020e654ac7e491d9d153eed3815410a674e429",
+            "size": 2739
+          },
+          {
+            "path": "objects/nrt_test/r25_access_paint.obj",
+            "crc32": 356249300,
+            "sha256": "4cef2db3a714f7bf2339d5e01a055e92126e68b35329da89e911677d496cb867",
+            "size": 41158
+          },
+          {
+            "path": "objects/nrt_test/r25_fixed_8.obj",
+            "crc32": 3827841956,
+            "sha256": "7f2997d173b6e922b0da7a96681384ac120ee018a70f89d1026820d607bb4a36",
+            "size": 198619
+          },
+          {
+            "path": "objects/nrt_test/r25_fixed_9A.obj",
+            "crc32": 193381337,
+            "sha256": "76a68e166053b8c1b5a56eeb0e6411273d0137ed4da50834f29bf8af01306eac",
+            "size": 196227
+          },
+          {
+            "path": "objects/nrt_test/r25_fixed_9B.obj",
+            "crc32": 3105058908,
+            "sha256": "652cdb352d0976599c0a682a00d2a3205bfb22bdb5d516d810b6e7764faf11e8",
+            "size": 205819
+          },
+          {
+            "path": "objects/nrt_test/r25_ground_ids.obj",
+            "crc32": 511358689,
+            "sha256": "2940c53e7e8da28d9937ba837ffcf71458280f93cc15b7e86143dceb02b97899",
+            "size": 2308
+          },
+          {
+            "path": "objects/nrt_test/r25_human_details.obj",
+            "crc32": 1684888080,
+            "sha256": "695eaa2719211b75778934ba623c0ec1a2543298b3a7a46c000f707851cf2cd3",
+            "size": 45314
+          },
+          {
+            "path": "objects/nrt_test/r25_identity.obj",
+            "crc32": 3474174697,
+            "sha256": "73bd82673f50b5d1f512f5463edf78165669c2f42b456816577913d45996720c",
+            "size": 3186
+          },
+          {
+            "path": "objects/nrt_test/r25_jet_center.obj",
+            "crc32": 3193044322,
+            "sha256": "3bd5084d422c7b96220de5016a4acd4c55820fb43e1543d1eda29c81e207856f",
+            "size": 4568317
+          },
+          {
+            "path": "objects/nrt_test/r25_jetway_portals.obj",
+            "crc32": 1220442131,
+            "sha256": "ad2aad6d9ccc5e40aa636adf034cb6f11614328f1324001a93ea94361aeced1b",
+            "size": 64079
+          },
+          {
+            "path": "objects/nrt_test/r25_ramp_details.obj",
+            "crc32": 1844009349,
+            "sha256": "e6fbcad05ab019291bfd0913766b3cf71943549c12fb547b525d2355837fae12",
+            "size": 3782
+          },
+          {
+            "path": "objects/nrt_test/r26_hangar_work_lights.obj",
+            "crc32": 4162491465,
+            "sha256": "fe9756c675800115e734ab3af977398ffbdf36463975dc48736d7c4013099524",
+            "size": 37194
+          },
+          {
+            "path": "objects/nrt_test/r26_service_road_paint.obj",
+            "crc32": 3595280696,
+            "sha256": "64a6672862a3d6fe8e526c92e7355b8dd5b903d5f3b570015da7d26547d21c8b",
+            "size": 93527
+          },
+          {
+            "path": "objects/nrt_test/r26_terminal_work_lights.obj",
+            "crc32": 2120526209,
+            "sha256": "b590c1db75a0b04a3ec7d51df470846ea78031639c3449faefcdaa0f7260f921",
+            "size": 79106
+          },
+          {
+            "path": "objects/nrt_test/r27_canopy_floor.obj",
+            "crc32": 4224272504,
+            "sha256": "2604bbfa0de1d3fe422f0afd04bde1608213145934687c3c700764d2481a5e07",
+            "size": 58263
+          },
+          {
+            "path": "objects/nrt_test/r27_indoor_floor.obj",
+            "crc32": 362228802,
+            "sha256": "065ae81225d3058db82466c22bcade3a24686c627e5a0aa8071d8ffe6d609a0a",
+            "size": 185514
+          },
+          {
+            "path": "objects/nrt_test/r27_service_road_paint.obj",
+            "crc32": 36553828,
+            "sha256": "2c11b1c2bbb9eb9af78b1ad63d46532744f89555adf7a8ac76e13a2d726ab825",
+            "size": 314159
+          },
+          {
+            "path": "objects/nrt_test/r27_sheltered_guidance.obj",
+            "crc32": 2211648644,
+            "sha256": "75a34f8615a1531bbb0234d6276734bec4c1b336ba01d43e1cd077b91b0a4abb",
+            "size": 47522
+          },
+          {
+            "path": "objects/nrt_test/ramp_safety.obj",
+            "crc32": 3090076518,
+            "sha256": "baf3e627c1ceff80497014fd62527e996df1f933065b48e577a9fe5cd275b379",
+            "size": 76706
+          },
+          {
+            "path": "objects/nrt_test/ramp_wear.obj",
+            "crc32": 2243171129,
+            "sha256": "1c442d9720d14c10d32c231f7a1fd5c0f1bf4b252098d5df275457f7349134b4",
+            "size": 337300
+          },
+          {
+            "path": "objects/nrt_test/signs_cargo.obj",
+            "crc32": 4071139399,
+            "sha256": "ce003826c5dfd87f619f503507f3cc47f64a94a9869abde3e0d304af2659b986",
+            "size": 11724
+          },
+          {
+            "path": "objects/nrt_test/signs_fbo.obj",
+            "crc32": 4284727420,
+            "sha256": "d954674bab5be8d4eb26fa960e60ca18b623f28af9fec0907db0daa876c544c5",
+            "size": 1176
+          },
+          {
+            "path": "objects/nrt_test/signs_mh2_accordion_hangar.obj",
+            "crc32": 3595798624,
+            "sha256": "621708f0931c1fe0827b412e04d6f04122e559b5ebafd231555e3066b8694b96",
+            "size": 687
+          },
+          {
+            "path": "objects/nrt_test/signs_mh3_accordion_hangar.obj",
+            "crc32": 413189376,
+            "sha256": "e0c75bd9d193c0111d607d6ec168f9ffa7c2b82a142215fe9e530366989ade54",
+            "size": 687
+          },
+          {
+            "path": "objects/nrt_test/signs_mx_stepped_hangar.obj",
+            "crc32": 4231768049,
+            "sha256": "5cdfd67c3c75b6ad21e776a85584355371cf797291573e273a296bf6f00b8418",
+            "size": 687
+          },
+          {
+            "path": "objects/nrt_test/taxi_wear.obj",
+            "crc32": 451828829,
+            "sha256": "7bfee87d0e6de605c1585e16c2fed220f65e124716faa7eb213614ec469c6a25",
+            "size": 2643277
+          },
+          {
+            "path": "objects/nrt_test/truck_parallel_bays.obj",
+            "crc32": 924289102,
+            "sha256": "2e99abd927d0c262c94e59a1b0f86780546c6f3ed4db6ce74f801cc98eb6f935",
+            "size": 8136
+          },
+          {
+            "path": "objects/nrt_test/truck_parallel_ids.obj",
+            "crc32": 3963010157,
+            "sha256": "071cb3ec7ca44648560a88af965e9509c9624e5337df943ec6e3df95eb09ae1e",
+            "size": 2288
+          },
+          {
+            "path": "opensam.xml",
+            "crc32": 3354977869,
+            "sha256": "ca8346bec2336bbdbce0e643cdbcbba5237d567e8e3466300434c8efcb5c7a3b",
+            "size": 2571
+          },
+          {
+            "path": "sam.xml",
+            "crc32": 950305868,
+            "sha256": "52150937ffed0c65cc74003a814dfbd5e56f5d3ebb2372e76feae476bc5a1feb",
+            "size": 2524
+          },
+          {
+            "path": "textures/nrt_test/apron.dds",
+            "crc32": 779192630,
+            "sha256": "17c22999c80435070597b18c08b863698649777c874f0df79a093f35e62b6cd8",
+            "size": 699192
+          },
+          {
+            "path": "textures/nrt_test/apron.png",
+            "crc32": 2320942339,
+            "sha256": "e9297073c62c8eafdeb02814fefc54f5f083cbf47e4ffb71286affe82523a80c",
+            "size": 635529
+          },
+          {
+            "path": "textures/nrt_test/apron_NML.png",
+            "crc32": 2785476980,
+            "sha256": "f66de2cbd1c305cce921ed1b1d787ba05c03f69e7cba4c9ee1c9f82ce65b84b9",
+            "size": 854626
+          },
+          {
+            "path": "textures/nrt_test/atlas.png",
+            "crc32": 2567676633,
+            "sha256": "0628b097713aa133921c2a7acfe0001efe6b1555c5532a1b6473c8c0e5e17479",
+            "size": 119867
+          },
+          {
+            "path": "textures/nrt_test/buildings.dds",
+            "crc32": 4184753731,
+            "sha256": "a5c42159ab7faecfc6e0d740c399f32bc2005eb64f95c0747b49c47ccc93ab80",
+            "size": 2796344
+          },
+          {
+            "path": "textures/nrt_test/buildings.png",
+            "crc32": 832495130,
+            "sha256": "edbd27fdb1f4e4945254c39fdf5cc421ec2f7b98685ed2d2eee0eac36f9a8614",
+            "size": 1195228
+          },
+          {
+            "path": "textures/nrt_test/buildings_LIT.dds",
+            "crc32": 1320548873,
+            "sha256": "1a6500a98b31ecdffa79d8a27cc0580f0d04d9b5a774272b3fdaa1e1e1133ec3",
+            "size": 2796344
+          },
+          {
+            "path": "textures/nrt_test/buildings_LIT.png",
+            "crc32": 2915244531,
+            "sha256": "6906d84b90da5b6e2b0180c3cd629653af5ef23bc264958a7cf46b410b19d25c",
+            "size": 13639
+          },
+          {
+            "path": "textures/nrt_test/buildings_NML.png",
+            "crc32": 747225634,
+            "sha256": "b6b5558b0d1dc3faeaaed91ac6675e1152c071cc50ddbc1a9364823add8ba17c",
+            "size": 542981
+          },
+          {
+            "path": "textures/nrt_test/landside_asphalt.dds",
+            "crc32": 3550228915,
+            "sha256": "eea40937b0a8c4cd0a2ade20bcfff1873319c18f8e6801fff8814ca1b894f1f4",
+            "size": 699192
+          },
+          {
+            "path": "textures/nrt_test/landside_asphalt.png",
+            "crc32": 3024453293,
+            "sha256": "ae1968fe50c468848457ed66ed21ce3fb83dddcf9b7d3a7fed026f4a55729a19",
+            "size": 748453
+          },
+          {
+            "path": "textures/nrt_test/landside_fence.dds",
+            "crc32": 1485056384,
+            "sha256": "8f88c0a8a3fa40ceea4d4492c210d4443f4a0d32dddc6abcf760dd00358ce4a4",
+            "size": 349680
+          },
+          {
+            "path": "textures/nrt_test/landside_fence.png",
+            "crc32": 2329112956,
+            "sha256": "3d3f4ca4f4d4146b3b0c040ad00500a14d1b11822c7f0dc1f802c943ee62d8cd",
+            "size": 13070
+          },
+          {
+            "path": "textures/nrt_test/landside_stencils.dds",
+            "crc32": 552457615,
+            "sha256": "075c3cea78a696b11f2afb25171427b99fa9752e94d651ebc85b6cc6d966f0c2",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/landside_stencils.png",
+            "crc32": 1034883512,
+            "sha256": "5769e051a3c4dcde73054299376bf418b3fac7ba98da0a57bd37c2a04c7a3d19",
+            "size": 75039
+          },
+          {
+            "path": "textures/nrt_test/nrt_identity.dds",
+            "crc32": 1325858426,
+            "sha256": "2466f88f2e89fb65cc576dcb7f21e8942cb1f05e9e641044e1a5a022b07f667b",
+            "size": 174920
+          },
+          {
+            "path": "textures/nrt_test/nrt_identity.png",
+            "crc32": 1302734051,
+            "sha256": "cea84beff2552fbe3f95e9b1970c607b4734741cb2030f56f34dd1bbe86933a6",
+            "size": 10204
+          },
+          {
+            "path": "textures/nrt_test/nrt_identity_LIT.dds",
+            "crc32": 3686405433,
+            "sha256": "0302fb64d759067609a0e5d28f805a4281833db63ad9d16d27c3eae1df611aa4",
+            "size": 174920
+          },
+          {
+            "path": "textures/nrt_test/nrt_identity_LIT.png",
+            "crc32": 1917998652,
+            "sha256": "eae1e7aa34b2de420d1af06706423016e6f2c24364f74fca30a9dc973fbd69e0",
+            "size": 9757
+          },
+          {
+            "path": "textures/nrt_test/r21_ground_ids.dds",
+            "crc32": 3875985595,
+            "sha256": "f6a37f41cd8ac49a039fad0dcadd07200ccb8c620bbe4f0c7263f6c4a45644aa",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r21_ground_ids.png",
+            "crc32": 2602885163,
+            "sha256": "0b82c975f9905b94a53820305d076b7a65c0ffcc14313a288536d10101e60e4c",
+            "size": 30110
+          },
+          {
+            "path": "textures/nrt_test/r21_identity.dds",
+            "crc32": 3433337633,
+            "sha256": "b609f36bbfafde1083fac86c57776a453e406fb14c298ca5ca41061ca9252f32",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r21_identity.png",
+            "crc32": 171319201,
+            "sha256": "d87e9335eae654ec43fbb99f70f47ccfd56a75566a5a544c2d1699a8f4042e36",
+            "size": 60693
+          },
+          {
+            "path": "textures/nrt_test/r21_identity_LIT.dds",
+            "crc32": 3155787699,
+            "sha256": "99ffdaa7d276260d380bc50491bb772f7862112b5cc1a4ad1e891b446632336f",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r21_identity_LIT.png",
+            "crc32": 2648069416,
+            "sha256": "4c173733cce493e1ae4b5c750a3def5137f2253f9d7e92db19d2c32c70c72d21",
+            "size": 56911
+          },
+          {
+            "path": "textures/nrt_test/r21_planting.dds",
+            "crc32": 1553798230,
+            "sha256": "ad6c72697b8e39c9ca2521037200f2d04b56040ef996a5383a459c8613788f2e",
+            "size": 174904
+          },
+          {
+            "path": "textures/nrt_test/r21_planting.png",
+            "crc32": 3620480935,
+            "sha256": "a7de308d95fe708c19fbfb93d8e67e392bd22cc9e22b1816cc6b51018cb0cf66",
+            "size": 208500
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_materials.dds",
+            "crc32": 2794452330,
+            "sha256": "63c04d0f5a8435f44ad72c7ee504c99b61a2b94de433bea90130fb78f7c01f08",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_materials.png",
+            "crc32": 2912290344,
+            "sha256": "6e768ef178349c56d406e8edd76ec92d12bcbf8b6c78b8371a62acc59036a4bb",
+            "size": 932980
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_materials_LIT.dds",
+            "crc32": 2045463168,
+            "sha256": "a8e4522820be178ece448201ddb002ecabb8e7eb8bcf6b2541a8d2c892f89bbd",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_materials_LIT.png",
+            "crc32": 4097339392,
+            "sha256": "46222a66982436930bdd1360ef4ba6a859372ace9862fa0612777a6cdd36c1d8",
+            "size": 7436
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_materials_NML.png",
+            "crc32": 2922420823,
+            "sha256": "afd6eab61abde4a1ab04927a40f1945e56051c5ae637b59d127c72fbb8f4cee3",
+            "size": 228578
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_signs.dds",
+            "crc32": 3023839023,
+            "sha256": "84702c57aadd6f316551f7850243cbbc2daf3d2987ab9d65374468e27e86b10f",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_signs.png",
+            "crc32": 1535058770,
+            "sha256": "6d0bf2d9f9517be94e431b481e12d7ff137379fb95bfc4981e00a4f20458b0e7",
+            "size": 62551
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_signs_LIT.dds",
+            "crc32": 860397961,
+            "sha256": "63c0804db0bfd24c07e0d2d64eb291199547a01e310fc351b5a19f78f5630fae",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r22_garage_signs_LIT.png",
+            "crc32": 4065349890,
+            "sha256": "3d46b352591bfd1b8a8ef3a03005900db596303857db774ae60b972abbbcc6da",
+            "size": 57702
+          },
+          {
+            "path": "textures/nrt_test/r23_ground_ids.dds",
+            "crc32": 2085218935,
+            "sha256": "51ad4cc06ce47afde1cc7b02bc3dd6d2b14a6925ae36839b0143a0050512142a",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r23_ground_ids.png",
+            "crc32": 645821748,
+            "sha256": "0e5c4ece90d267cf5096b770ceb736204516fe8ad87f9c9a8d4b9c027e2070a4",
+            "size": 64702
+          },
+          {
+            "path": "textures/nrt_test/r23_identity.dds",
+            "crc32": 2798729834,
+            "sha256": "969087ced0dca1be872bd8884a4de1c9dc9c7b544677cf3677cfb2317d6961d5",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r23_identity.png",
+            "crc32": 3503944118,
+            "sha256": "e8ae77483bca9da15f83579a8e14aa529e5a49eef8b9986ad61fea751fab672b",
+            "size": 69373
+          },
+          {
+            "path": "textures/nrt_test/r23_identity_LIT.dds",
+            "crc32": 459154856,
+            "sha256": "13dcfbbac9d74f97417db6e34a9e4bfbd739c4f49528774909d099ce369717cf",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/r23_identity_LIT.png",
+            "crc32": 109476106,
+            "sha256": "f48ff5a9bdbced2c60d2a6bb66f5250573c7803e8f460cc1e93cf414ec5989ef",
+            "size": 64461
+          },
+          {
+            "path": "textures/nrt_test/r23_materials.dds",
+            "crc32": 1320997712,
+            "sha256": "0fadb706634f1fba137172c8381e2c1dace8cda776f983decb5b599c1a45ac8f",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r23_materials.png",
+            "crc32": 3189910879,
+            "sha256": "a9802ac53342c0373a13024db0c878482d46195d20a2b43da4dc3849cbb72040",
+            "size": 824427
+          },
+          {
+            "path": "textures/nrt_test/r23_materials_LIT.dds",
+            "crc32": 3923422169,
+            "sha256": "802a8a6ea8f9a253c5e4ccd15d3eb5f5782b71de5172c78a971983723aad4463",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r23_materials_LIT.png",
+            "crc32": 588403422,
+            "sha256": "7d9e43d4fabc5c1b93aefd1f3cd3457ef959419f9b296277f68203162eeecc3f",
+            "size": 7434
+          },
+          {
+            "path": "textures/nrt_test/r23_materials_NML.png",
+            "crc32": 3082667836,
+            "sha256": "0ccfd494388837bf79dd90204261f0f4db5c820b752fa4cd5dc08fda8974c710",
+            "size": 318111
+          },
+          {
+            "path": "textures/nrt_test/r24_ground_ids.dds",
+            "crc32": 2850623830,
+            "sha256": "da550b051cf35c48512c7d3af11fa87963f0c0e31a3d2ebec5508e8d587b41a4",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r24_ground_ids.png",
+            "crc32": 2094952879,
+            "sha256": "2edf7098da5ce731f0a74d50e6dda3bf859276750f0726a1f64046097e5667b0",
+            "size": 128536
+          },
+          {
+            "path": "textures/nrt_test/r24_identity.dds",
+            "crc32": 2776842137,
+            "sha256": "b7e67abdba92d76bf0d88f795bb70e5af82f75020931fc5a602b2a07de839c01",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r24_identity.png",
+            "crc32": 2366475625,
+            "sha256": "1463c4eefe6f658ae6216ea600c16e0715e3c4835b06a9e61c4162a2db7fb295",
+            "size": 137176
+          },
+          {
+            "path": "textures/nrt_test/r24_identity_LIT.dds",
+            "crc32": 2269449711,
+            "sha256": "c061edaf0c1ca778f5e5d25c7ae5b163e2554f957ad3547499509dc147ec96ef",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r24_identity_LIT.png",
+            "crc32": 3843592601,
+            "sha256": "ee6f51ed99af72ea44eec4dc547eba24a460ff6e3aa5e03b299594afeec44a08",
+            "size": 126776
+          },
+          {
+            "path": "textures/nrt_test/r24_materials.dds",
+            "crc32": 1320997712,
+            "sha256": "0fadb706634f1fba137172c8381e2c1dace8cda776f983decb5b599c1a45ac8f",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r24_materials.png",
+            "crc32": 3189910879,
+            "sha256": "a9802ac53342c0373a13024db0c878482d46195d20a2b43da4dc3849cbb72040",
+            "size": 824427
+          },
+          {
+            "path": "textures/nrt_test/r24_materials_LIT.dds",
+            "crc32": 3923422169,
+            "sha256": "802a8a6ea8f9a253c5e4ccd15d3eb5f5782b71de5172c78a971983723aad4463",
+            "size": 1398248
+          },
+          {
+            "path": "textures/nrt_test/r24_materials_LIT.png",
+            "crc32": 588403422,
+            "sha256": "7d9e43d4fabc5c1b93aefd1f3cd3457ef959419f9b296277f68203162eeecc3f",
+            "size": 7434
+          },
+          {
+            "path": "textures/nrt_test/r24_materials_NML.png",
+            "crc32": 3082667836,
+            "sha256": "0ccfd494388837bf79dd90204261f0f4db5c820b752fa4cd5dc08fda8974c710",
+            "size": 318111
+          },
+          {
+            "path": "textures/nrt_test/r25_ground_ids.dds",
+            "crc32": 2186092310,
+            "sha256": "1f5266943d3cbeda6a6911455d587f80678508cd2c22f4dd09a9c6f490749cdb",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r25_ground_ids.png",
+            "crc32": 98236604,
+            "sha256": "3c4f7335b6cc5a9d1b5e04f510e7059136e33d60c49d1730dc4f86210577f9c4",
+            "size": 120204
+          },
+          {
+            "path": "textures/nrt_test/r25_identity.dds",
+            "crc32": 2776842137,
+            "sha256": "b7e67abdba92d76bf0d88f795bb70e5af82f75020931fc5a602b2a07de839c01",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r25_identity.png",
+            "crc32": 2366475625,
+            "sha256": "1463c4eefe6f658ae6216ea600c16e0715e3c4835b06a9e61c4162a2db7fb295",
+            "size": 137176
+          },
+          {
+            "path": "textures/nrt_test/r25_identity_LIT.dds",
+            "crc32": 2269449711,
+            "sha256": "c061edaf0c1ca778f5e5d25c7ae5b163e2554f957ad3547499509dc147ec96ef",
+            "size": 5592560
+          },
+          {
+            "path": "textures/nrt_test/r25_identity_LIT.png",
+            "crc32": 3843592601,
+            "sha256": "ee6f51ed99af72ea44eec4dc547eba24a460ff6e3aa5e03b299594afeec44a08",
+            "size": 126776
+          },
+          {
+            "path": "textures/nrt_test/r25_materials.dds",
+            "crc32": 2160766583,
+            "sha256": "eb2421890f809edb5e3f83a6bffe4c513ac70bb0c4a7ac7b5aa892099607a018",
+            "size": 5592552
+          },
+          {
+            "path": "textures/nrt_test/r25_materials.png",
+            "crc32": 1652829399,
+            "sha256": "9c8baf0971e1049b0740a57aa16aaa7ccbbbb917d9b41f8694f01142c3e91f2f",
+            "size": 2819203
+          },
+          {
+            "path": "textures/nrt_test/r25_materials_LIT.dds",
+            "crc32": 4162520072,
+            "sha256": "dea04e07ed87c4aa6cd112fbd0db3f8e816cec79d274ac89ed64dc2680c7c477",
+            "size": 5592552
+          },
+          {
+            "path": "textures/nrt_test/r25_materials_LIT.png",
+            "crc32": 2291538290,
+            "sha256": "32cadcfcc7753ff800e0c74879d07b13866fdd2b6ee6307e877ef4e3480e978d",
+            "size": 26982
+          },
+          {
+            "path": "textures/nrt_test/r25_materials_NML.png",
+            "crc32": 564002863,
+            "sha256": "e492e216582b3fb862714adca713918f925be449e31f3050855032ad2ef148ae",
+            "size": 1388708
+          },
+          {
+            "path": "textures/nrt_test/ramp_wear.dds",
+            "crc32": 825845906,
+            "sha256": "ce04ac3588503b32391ea0f69481dd3465839aa85f941df5a87462d60c4936ea",
+            "size": 349680
+          },
+          {
+            "path": "textures/nrt_test/ramp_wear.png",
+            "crc32": 3444430921,
+            "sha256": "749ff9b1e7403dd8d2536ada205796d91f23368fb376a1155bbfa1d2412a4f9f",
+            "size": 32011
+          },
+          {
+            "path": "textures/nrt_test/refined_markings.dds",
+            "crc32": 1951075485,
+            "sha256": "8b57e6f7415627e23fe53cda0a0dc868451b18585a4c42abb3d4bde86d77a14d",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/refined_markings.png",
+            "crc32": 742829841,
+            "sha256": "a6e54ecacdb7f99f005454fcadb52e972d9cf9e4168f727748366cef558b90c3",
+            "size": 70772
+          },
+          {
+            "path": "textures/nrt_test/signs.dds",
+            "crc32": 3267936462,
+            "sha256": "d09abaf71c3b9ea9c56a0538999f249842db639809b0b05948cb1601872a11ef",
+            "size": 2796344
+          },
+          {
+            "path": "textures/nrt_test/signs.png",
+            "crc32": 3095339157,
+            "sha256": "67037741c5fb90cf69fd6a6a86053d4d7666607e4eaf4e5547e9978e2ee27bb1",
+            "size": 165391
+          },
+          {
+            "path": "textures/nrt_test/signs_LIT.dds",
+            "crc32": 2206217044,
+            "sha256": "cc6039843cf8234bf407478b94b44e720773e8466e3b687b8c5fb165e255f0fe",
+            "size": 2796344
+          },
+          {
+            "path": "textures/nrt_test/signs_LIT.png",
+            "crc32": 551549999,
+            "sha256": "405bbfa75485ba83729369d40a53ee791eb7c9c37c98b2b2a140bad13942a24c",
+            "size": 145792
+          },
+          {
+            "path": "textures/nrt_test/taxi_wear.dds",
+            "crc32": 1426076648,
+            "sha256": "558d1037aee9b8532a134a23170889a553e6727318c44b0a16b4c2325f6ff1af",
+            "size": 2796368
+          },
+          {
+            "path": "textures/nrt_test/taxi_wear.png",
+            "crc32": 555848760,
+            "sha256": "df1a590d0a710a62ce1307768e46131a28c615a878898ac3838c71d27f7fcfdd",
+            "size": 486681
+          },
+          {
+            "path": "textures/terminal_atlas.png",
+            "crc32": 3993655427,
+            "sha256": "b1410bad3c22fb135d087d7b3930ed1d413fe0f4e3b2faf44aaa66ce0f89468d",
+            "size": 117546
+          },
+          {
+            "path": "textures/terminal_atlas_LIT.png",
+            "crc32": 661616781,
+            "sha256": "d1310f799ab701ad4af790e42373e00d7e423c566e9b3782dd99befc469df1aa",
+            "size": 107654
+          }
+        ],
+        "source_revision": "R28 - Terminal B / paired content channels",
+        "prerelease": true,
+        "public_channels": {
+          "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
+        },
+        "delete_files": [
+          "PERSONAL_TEST_ONLY.txt",
+          "R02-baseline-notes.txt",
+          "README_HF06_HISTORICAL.txt",
+          "README_R21.txt",
+          "Sources/Aircraft_Route_Audit.csv",
+          "Sources/Build/airport_geometry.py",
+          "Sources/Build/build_native.py",
+          "Sources/Build/layout_plan.py",
+          "Sources/Build/native_mesh.py",
+          "Sources/Build/r02_details.py",
+          "Sources/Build/validate_native.py",
+          "Sources/Gate_Mapping.csv",
+          "Sources/HF02_Repair/HF02_Detail_Validation.json",
+          "Sources/HF02_Repair/HF02_Final_Validation.json",
+          "Sources/HF02_Repair/Preview_Method.json",
+          "Sources/HF02_Repair/current-global-KIAH-reference.dat",
+          "Sources/HF02_Repair/package_review.py",
+          "Sources/HF02_Repair/prepare_hf02.py",
+          "Sources/HF02_Repair/prepare_previews.py",
+          "Sources/HF02_Repair/render_hf02.py",
+          "Sources/HF02_Repair/repair_airport_details.py",
+          "Sources/HF02_Repair/scene-hf02.json",
+          "Sources/HF02_Repair/sign-tiles-hf02.json",
+          "Sources/HF02_Repair/sign_groups.py",
+          "Sources/HF02_Repair/validate_hf02.py",
+          "Sources/HF02_Repair/validate_native_jetway_shapes.py",
+          "Sources/HF03_Repair/HF03_Changes.json",
+          "Sources/HF03_Repair/HF03_Validation.json",
+          "Sources/HF03_Repair/Preview_Method.json",
+          "Sources/HF03_Repair/cleanup-mask.json",
+          "Sources/HF03_Repair/jetway_repair.py",
+          "Sources/HF03_Repair/jetways.json",
+          "Sources/HF03_Repair/package_review.py",
+          "Sources/HF03_Repair/prepare_previews.py",
+          "Sources/HF03_Repair/render_hf03.py",
+          "Sources/HF03_Repair/repair_hf03.py",
+          "Sources/HF03_Repair/repair_service_paths.py",
+          "Sources/HF03_Repair/review_maps.py",
+          "Sources/HF03_Repair/scene-hf03.json",
+          "Sources/HF03_Repair/service-repair.json",
+          "Sources/HF03_Repair/setup_previews.py",
+          "Sources/HF03_Repair/validate_hf03.py",
+          "Sources/HF04_Repair/HF04_Changes.json",
+          "Sources/HF04_Repair/HF04_Validation.json",
+          "Sources/HF04_Repair/Preview_Method.json",
+          "Sources/HF04_Repair/common.py",
+          "Sources/HF04_Repair/package_review.py",
+          "Sources/HF04_Repair/prepare_previews.py",
+          "Sources/HF04_Repair/render_hf04.py",
+          "Sources/HF04_Repair/repair_hf04.py",
+          "Sources/HF04_Repair/setup_previews.py",
+          "Sources/HF04_Repair/validate_hf04.py",
+          "Sources/HF05_Repair/HF05_Changes.json",
+          "Sources/HF05_Repair/HF05_Validation.json",
+          "Sources/HF05_Repair/Preview_Method.json",
+          "Sources/HF05_Repair/aep_preview_map.py",
+          "Sources/HF05_Repair/hf05_common.py",
+          "Sources/HF05_Repair/package_hf05.py",
+          "Sources/HF05_Repair/prepare_previews.py",
+          "Sources/HF05_Repair/preserve_dsf_binary.py",
+          "Sources/HF05_Repair/render_hf05.py",
+          "Sources/HF05_Repair/repair_hf05.py",
+          "Sources/HF05_Repair/validate_hf05.py",
+          "Sources/HF06_Repair/AEP_Compatibility_Baseline.json",
+          "Sources/HF06_Repair/AEP_Compatibility_Workflow.txt",
+          "Sources/HF06_Repair/HF06_Changes.json",
+          "Sources/HF06_Repair/HF06_Long_Aircraft_Check.json",
+          "Sources/HF06_Repair/HF06_Validation.json",
+          "Sources/HF06_Repair/Preview_Method.json",
+          "Sources/HF06_Repair/compatibility_guard.py",
+          "Sources/HF06_Repair/focus_audit.py",
+          "Sources/HF06_Repair/inspect_hf06.py",
+          "Sources/HF06_Repair/long_aircraft_check.py",
+          "Sources/HF06_Repair/package_hf06.py",
+          "Sources/HF06_Repair/prepare_previews.py",
+          "Sources/HF06_Repair/preview_maps.py",
+          "Sources/HF06_Repair/render_hf06.py",
+          "Sources/HF06_Repair/repair_hf06.py",
+          "Sources/HF06_Repair/revise_b_lane.py",
+          "Sources/HF06_Repair/setup_previews.py",
+          "Sources/HF06_Repair/validate_hf06.py",
+          "Sources/R02-artwork-build-report.json",
+          "Sources/R02-artwork-validation.json",
+          "Sources/R03-HF01-validation.json",
+          "Sources/R03_Build/check_airport_structure.py",
+          "Sources/R03_Build/finish_r03.py",
+          "Sources/R03_Build/route_audit_r03.py",
+          "Sources/R03_Build/route_build_r03.py",
+          "Sources/R03_Build/route_common.py",
+          "Sources/R03_Build/route_previews_r03.py",
+          "Sources/R03_Build/route_review_template.html",
+          "Sources/R03_HF01_historical_notes.txt",
+          "Sources/R03_HF02_historical_notes.txt",
+          "Sources/R03_HF03_historical_notes.txt",
+          "Sources/R03_HF04_historical_notes.txt",
+          "Sources/R03_HF05_historical_notes.txt",
+          "Sources/Ramp_Access_Audit.csv",
+          "Sources/Service_Depot_Access.csv",
+          "Sources/Service_Stand_Coverage.csv",
+          "Sources/build-report.json",
+          "Sources/current-terminal-footprints.geojson",
+          "Sources/imagery-capture-metadata.json",
+          "Sources/modified-north-scenery.txt",
+          "Sources/modified-south-scenery.txt",
+          "Sources/offline-validation.json",
+          "Sources/references.json",
+          "Sources/routing-build-report.json",
+          "Sources/terminal-source-manifest.json",
+          "objects/nrt_test/garage_t02_m01.obj",
+          "objects/nrt_test/garage_t02_m02.obj",
+          "objects/nrt_test/garage_t02_m05.obj",
+          "objects/nrt_test/garage_t02_m06.obj",
+          "objects/nrt_test/garage_t02_m07.obj",
+          "objects/nrt_test/garage_t02_m08.obj",
+          "objects/nrt_test/garage_t02_m09.obj",
+          "objects/nrt_test/garage_t02_m10.obj",
+          "objects/nrt_test/garage_t02_m12.obj",
+          "objects/nrt_test/garage_t02_m13.obj",
+          "objects/nrt_test/garage_t02_m14.obj",
+          "objects/nrt_test/garage_t02_m20.obj",
+          "objects/nrt_test/garage_t02_m24.obj",
+          "objects/nrt_test/garage_t02_m25.obj",
+          "objects/nrt_test/garage_t02_m26.obj",
+          "objects/nrt_test/garage_t02_m27.obj",
+          "objects/nrt_test/garage_t02_m28.obj",
+          "objects/nrt_test/garage_t02_m29.obj",
+          "objects/nrt_test/garage_t02_m30.obj",
+          "objects/nrt_test/garage_t02_m37.obj",
+          "objects/nrt_test/garage_t02_m39.obj",
+          "objects/nrt_test/garage_t02_m40.obj",
+          "objects/nrt_test/garage_t02_m41.obj",
+          "objects/nrt_test/garage_t02_m42.obj",
+          "objects/nrt_test/garage_t02_m43.obj",
+          "objects/nrt_test/garage_t02_m44.obj",
+          "objects/nrt_test/garage_t02_m45.obj",
+          "textures/nrt_test/garage_t02_m01.dds",
+          "textures/nrt_test/garage_t02_m01.png",
+          "textures/nrt_test/garage_t02_m02.dds",
+          "textures/nrt_test/garage_t02_m02.png",
+          "textures/nrt_test/garage_t02_m05.dds",
+          "textures/nrt_test/garage_t02_m05.png",
+          "textures/nrt_test/garage_t02_m06.dds",
+          "textures/nrt_test/garage_t02_m06.png",
+          "textures/nrt_test/garage_t02_m07.dds",
+          "textures/nrt_test/garage_t02_m07.png",
+          "textures/nrt_test/garage_t02_m08.dds",
+          "textures/nrt_test/garage_t02_m08.png",
+          "textures/nrt_test/garage_t02_m09.dds",
+          "textures/nrt_test/garage_t02_m09.png",
+          "textures/nrt_test/garage_t02_m10.dds",
+          "textures/nrt_test/garage_t02_m10.png",
+          "textures/nrt_test/garage_t02_m12.dds",
+          "textures/nrt_test/garage_t02_m12.png",
+          "textures/nrt_test/garage_t02_m13.dds",
+          "textures/nrt_test/garage_t02_m13.png",
+          "textures/nrt_test/garage_t02_m14.dds",
+          "textures/nrt_test/garage_t02_m14.png",
+          "textures/nrt_test/garage_t02_m20.dds",
+          "textures/nrt_test/garage_t02_m20.png",
+          "textures/nrt_test/garage_t02_m24.dds",
+          "textures/nrt_test/garage_t02_m24.png",
+          "textures/nrt_test/garage_t02_m25.dds",
+          "textures/nrt_test/garage_t02_m25.png",
+          "textures/nrt_test/garage_t02_m26.dds",
+          "textures/nrt_test/garage_t02_m26.png",
+          "textures/nrt_test/garage_t02_m27.dds",
+          "textures/nrt_test/garage_t02_m27.png",
+          "textures/nrt_test/garage_t02_m28.dds",
+          "textures/nrt_test/garage_t02_m28.png",
+          "textures/nrt_test/garage_t02_m29.dds",
+          "textures/nrt_test/garage_t02_m29.png",
+          "textures/nrt_test/garage_t02_m30.dds",
+          "textures/nrt_test/garage_t02_m30.png",
+          "textures/nrt_test/garage_t02_m37.dds",
+          "textures/nrt_test/garage_t02_m37.png",
+          "textures/nrt_test/garage_t02_m39.dds",
+          "textures/nrt_test/garage_t02_m39.png",
+          "textures/nrt_test/garage_t02_m40.dds",
+          "textures/nrt_test/garage_t02_m40.png",
+          "textures/nrt_test/garage_t02_m41.dds",
+          "textures/nrt_test/garage_t02_m41.png",
+          "textures/nrt_test/garage_t02_m42.dds",
+          "textures/nrt_test/garage_t02_m42.png",
+          "textures/nrt_test/garage_t02_m43.dds",
+          "textures/nrt_test/garage_t02_m43.png",
+          "textures/nrt_test/garage_t02_m44.dds",
+          "textures/nrt_test/garage_t02_m44.png",
+          "textures/nrt_test/garage_t02_m45.dds",
+          "textures/nrt_test/garage_t02_m45.png"
+        ]
+      }
+    },
+    {
+      "id": "airport-only",
+      "name": "Airport Only",
+      "depot": "depot-airport-only",
+      "description": "The same airport refinements, without the fictional NRT ramp.",
+      "release": {
+        "product": "NRT KIAH Campus",
+        "folder": "NRT_KIAH_Campus",
+        "version": "0.28.0",
+        "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
+        "preview_only": false,
+        "not_for_publication": false,
+        "local_only_assets": [],
+        "files": [
+          {
+            "path": "ASSET_NOTICES.txt",
+            "crc32": 1944472361,
+            "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
+            "size": 1898
+          },
+          {
+            "path": "COPYING",
+            "crc32": 2122558730,
+            "sha256": "5dd184a71bedc2ed80f5da8ecb8a9814ca78832706882fc82d53c4fd7fb693c5",
+            "size": 18693
+          },
+          {
+            "path": "Earth nav data/+20-100/+29-096.dsf",
+            "crc32": 2561556096,
+            "sha256": "fb1a4cfb5e77675652389a58d4a897bcc72fa938834e7804b78cb309c9978430",
+            "size": 938649
+          },
+          {
+            "path": "Earth nav data/+30-100/+30-096.dsf",
+            "crc32": 2326234223,
+            "sha256": "9b3159b971f402b9a1d0938e53f89f1d9adcd8bc40d88379eceee8cc09a73132",
+            "size": 22135
+          },
+          {
+            "path": "Earth nav data/apt.dat",
+            "crc32": 2136586912,
+            "sha256": "fff83b56d53191b1d84c9b9979a254f70b00ae29d1912f2c226bc5e5954cd871",
+            "size": 1497786
+          },
+          {
+            "path": "Gateway-original-README.txt",
+            "crc32": 102524826,
+            "sha256": "169964b32600bae61cabef531de7f45a4408a9fbaac5b2c32e6e6a9ddedf1472",
+            "size": 941
+          },
+          {
+            "path": "INSTALL.txt",
+            "crc32": 3014540565,
+            "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
+            "size": 3395
+          },
+          {
+            "path": "R02-baseline-notes.txt",
+            "crc32": 4115343437,
+            "sha256": "f4395c40040527e12c5c9062e5fe8b669baa641200f0c04e04b834ddfd8e255b",
+            "size": 7988
+          },
+          {
+            "path": "README.txt",
+            "crc32": 390906463,
+            "sha256": "a64b4f0c3d4ddfff30233e5c044c54ee4e63df72b3ab4b8da6af620ac1c348da",
+            "size": 216
+          },
+          {
+            "path": "README_HF06_HISTORICAL.txt",
+            "crc32": 2604187419,
+            "sha256": "a29bd05ba245488124ad9aac4f84ab1a3f1d431501d49634c111349dbb593c03",
+            "size": 5919
+          },
+          {
+            "path": "README_R28_REVIEW_HISTORY.txt",
+            "crc32": 3671724453,
+            "sha256": "571464b064967ad46bbf6d78128a6d115b4d3b755e5b50bb92683b640ff810d7",
+            "size": 1778
+          },
+          {
+            "path": "Source/Native/+29-096.txt",
+            "crc32": 1866544685,
+            "sha256": "a48926d47f8b4874a33c58a05f46e4b51a37deca723ec5687edb698880135afe",
+            "size": 2457451
+          },
+          {
+            "path": "Source/Native/+30-096.txt",
+            "crc32": 820702008,
+            "sha256": "d9bf342a571cc3f7b48e9524ac3ffce2149a1984b61905ff21b611e6bc708e04",
+            "size": 145528
+          },
+          {
+            "path": "Source/R28/R28_Evidence.json",
+            "crc32": 1793652328,
+            "sha256": "80d29dc0277832cc2e8e1c150e622c2fb5a297bc344eb17a0b041e7c925aedbf",
+            "size": 44862
+          },
+          {
+            "path": "Source/R28/audit_b.py",
+            "crc32": 4211768981,
+            "sha256": "921242af6f6ddae900a64ab80fa9d7f74c788e36eefff7e74a6284ea4f59a154",
+            "size": 3185
+          },
+          {
+            "path": "Source/R28/build_r28.py",
+            "crc32": 3710211498,
+            "sha256": "3b90ee75c4af4eb5a56877b71ec85efb25a8f4f583a6e0a97b589f6fc3517432",
+            "size": 9963
+          },
+          {
+            "path": "Source/R28/common.py",
+            "crc32": 1256255260,
+            "sha256": "4797ad08b3585478147eb1ce14bf2e95b53247229fd34c11cb9d3da140a2f2f7",
+            "size": 3697
+          },
+          {
+            "path": "Source/R28/finish_review.py",
+            "crc32": 235757245,
+            "sha256": "dd25b9af13108ffbf19e3a7c87dcd230d2cb21db7627152297a6cdc377d08f42",
+            "size": 20850
+          },
+          {
+            "path": "Source/R28/package_review.py",
+            "crc32": 2062123784,
+            "sha256": "84e6e5e830c3c313c4b293ecfcbe265c0401e1efcde4d7ad7aa2675879f4151a",
+            "size": 3707
+          },
+          {
+            "path": "Source/R28/prepare_r28_channels.py",
+            "crc32": 3886401758,
+            "sha256": "874d68c236d2d8f488b68a9fcaeca6d05ecdd284b08e05d1f049717a8c57c2af",
+            "size": 10549
+          },
+          {
+            "path": "Source/R28/preview_native.py",
+            "crc32": 3522679558,
+            "sha256": "152621674a30bb6b63c6210f40beb4ce62f6a07126f4b52b416ad2d2d0262dcf",
+            "size": 10681
+          },
+          {
+            "path": "Source/R28/render_r28.py",
+            "crc32": 3189657636,
+            "sha256": "ea1d9262fbe40e364c33a935836a829f25b3eff238e563cb9fb3bc52f5f29cba",
+            "size": 6020
+          },
+          {
+            "path": "Source/R28/validate_r28.py",
+            "crc32": 3776120916,
+            "sha256": "de322c3f9cd351d82609a12f68363dc080fd2070522bcd6d7c8de6ecb285bff5",
+            "size": 11574
+          },
+          {
+            "path": "Source/rebuild_dsf.py",
+            "crc32": 3811686248,
+            "sha256": "ac3515c89685d3962373508750e5c0f7417f05f0afa832f7698ccb0e27a1b0ab",
+            "size": 1082
+          },
+          {
+            "path": "Sources/Aircraft_Route_Audit.csv",
+            "crc32": 4186509218,
+            "sha256": "39414ef81364ba15533e05100f27afbc3350ce6d3b5ecdb1d70832c2ee030cd6",
+            "size": 55492
+          },
+          {
+            "path": "Sources/Build/airport_geometry.py",
+            "crc32": 1119170509,
+            "sha256": "b0358d99b6b3e74e3c8d49af4d65159dd60a18c589e110d29fd733bfb6154eb2",
+            "size": 7543
+          },
+          {
+            "path": "Sources/Build/build_native.py",
+            "crc32": 2749434757,
+            "sha256": "cf70dc182d626c97c5ca09b87f81d4610bf38fe35c9ee3c6c33186edb207b240",
+            "size": 15689
+          },
+          {
+            "path": "Sources/Build/layout_plan.py",
+            "crc32": 4116012618,
+            "sha256": "2e6cdce11c2039eff239541025690aa16de2906a1bafdb9c0204a521f0fc3b66",
+            "size": 11428
+          },
+          {
+            "path": "Sources/Build/native_mesh.py",
+            "crc32": 1195856158,
+            "sha256": "1ba3edcbe7fff4643e3676d2717b0d89afdfadeab296d141a272c070dfb4ebe2",
+            "size": 8743
+          },
+          {
+            "path": "Sources/Build/r02_details.py",
+            "crc32": 2281733410,
+            "sha256": "6ffddac4a8e6dd3fe3064ca7d7c3cdb2d3a16a49891d8c27d37974d5f67cfc23",
+            "size": 3286
+          },
+          {
+            "path": "Sources/Build/validate_native.py",
+            "crc32": 3230863972,
+            "sha256": "64de08137d7e5bb591d0e209c2f09ae82b4d55f23c8aef7376d27b35bfca31c6",
+            "size": 9114
+          },
+          {
+            "path": "Sources/Gate_Mapping.csv",
+            "crc32": 3681257382,
+            "sha256": "9dc10d9e7e5792d17ad037aed8de07aa481adc13ff1714755e4f329aeee26cf2",
+            "size": 23877
+          },
+          {
+            "path": "Sources/HF02_Repair/HF02_Detail_Validation.json",
+            "crc32": 2517022812,
+            "sha256": "2a75a790209bd6baa921c863958390ed30246bee331867ac579cc421e5ff250d",
+            "size": 66786
+          },
+          {
+            "path": "Sources/HF02_Repair/HF02_Final_Validation.json",
+            "crc32": 977030273,
+            "sha256": "b8aa18e57e43d95124fb15b4bdbb6a3f6d46ce2bec96b86415edfbfc3f2701af",
+            "size": 11152
+          },
+          {
+            "path": "Sources/HF02_Repair/Preview_Method.json",
+            "crc32": 2192248538,
+            "sha256": "7acd6d8cd5afa2d43e74ee73e359c2ae3c04d6cfb6f719a2dd401cf0996e29c8",
+            "size": 8061
+          },
+          {
+            "path": "Sources/HF02_Repair/current-global-KIAH-reference.dat",
+            "crc32": 829652847,
+            "sha256": "87ad18510e4b8a9622c898cbe9b53ef03d93d8523ff7bce0f190260863995214",
+            "size": 917142
+          },
+          {
+            "path": "Sources/HF02_Repair/package_review.py",
+            "crc32": 1653840338,
+            "sha256": "890b7286099b264e824c33b8cd4bd0b242a56120b70bc139b9985364de68f878",
+            "size": 15589
+          },
+          {
+            "path": "Sources/HF02_Repair/prepare_hf02.py",
+            "crc32": 1704894835,
+            "sha256": "f7967e1c4eff545486acd7447242d8b93d0f054c5c5edc49c7fec3746e00810a",
+            "size": 6337
+          },
+          {
+            "path": "Sources/HF02_Repair/prepare_previews.py",
+            "crc32": 2717097412,
+            "sha256": "e8418132a79d2e5925964a3a772e82268858a77c8e51233922086eaf1663c081",
+            "size": 8878
+          },
+          {
+            "path": "Sources/HF02_Repair/render_hf02.py",
+            "crc32": 480211050,
+            "sha256": "f86f78b84cecfcb27bc2383caa900fe63e6088f13dc244effecd7994e920bcf1",
+            "size": 8657
+          },
+          {
+            "path": "Sources/HF02_Repair/repair_airport_details.py",
+            "crc32": 1910281641,
+            "sha256": "09a6fa924121e8a773d14ba1db3a14030a6d7900ac8764e41e53a27d5c34ce5d",
+            "size": 19689
+          },
+          {
+            "path": "Sources/HF02_Repair/scene-hf02.json",
+            "crc32": 3887955014,
+            "sha256": "142897a8aa8987cb85dc6621a362b4d0139724d459cc6b86d34111b2569e0ae7",
+            "size": 108138
+          },
+          {
+            "path": "Sources/HF02_Repair/sign-tiles-hf02.json",
+            "crc32": 1507799731,
+            "sha256": "584b0c4082313b94d3ee0be90cac3edfdc5000dc0caf6cc71d83ffca02792681",
+            "size": 9250
+          },
+          {
+            "path": "Sources/HF02_Repair/sign_groups.py",
+            "crc32": 3059007458,
+            "sha256": "1c2c3016a1cd3d905389503edada73e0f51bcbd96d33612d2eb1db860ab11fa0",
+            "size": 2221
+          },
+          {
+            "path": "Sources/HF02_Repair/validate_hf02.py",
+            "crc32": 2556516130,
+            "sha256": "015156ac766ad1426a2358ec000ee163033e12fa033b9bb42a3a61cc96866c25",
+            "size": 6755
+          },
+          {
+            "path": "Sources/HF02_Repair/validate_native_jetway_shapes.py",
+            "crc32": 375794257,
+            "sha256": "4e5958648f485693e716e3df212b7c5516575a610d53ff2106adfa7598aadcad",
+            "size": 1754
+          },
+          {
+            "path": "Sources/HF03_Repair/HF03_Changes.json",
+            "crc32": 1988898205,
+            "sha256": "a58038c17b9750b5b65534864ec6a73b86313a2a01ea2811f02ebc9b8a75bc41",
+            "size": 30239
+          },
+          {
+            "path": "Sources/HF03_Repair/HF03_Validation.json",
+            "crc32": 1085819799,
+            "sha256": "e9a7214600d33eec0d464128e945762af666e2cd1264401a20e2b06be1b3b7ac",
+            "size": 12612
+          },
+          {
+            "path": "Sources/HF03_Repair/Preview_Method.json",
+            "crc32": 2464424061,
+            "sha256": "a12deb5175fdec085946e4979a9c291628d1f1cca748ca40566573ff1f891c5e",
+            "size": 8313
+          },
+          {
+            "path": "Sources/HF03_Repair/cleanup-mask.json",
+            "crc32": 1654446756,
+            "sha256": "b2aac1ce35035935ce7e02f9b1f47fbc94e2e67ec45d2a98da6f551ea0dce5a1",
+            "size": 575181
+          },
+          {
+            "path": "Sources/HF03_Repair/jetway_repair.py",
+            "crc32": 1790622722,
+            "sha256": "865cdc57dc6666958f1b4ff6d839660b1d26c830e4028316df013b4b77729489",
+            "size": 4601
+          },
+          {
+            "path": "Sources/HF03_Repair/jetways.json",
+            "crc32": 2025829154,
+            "sha256": "f5582897a7b569fc57ccbcaf66a9682615a0b4140869823605949592d5f487d1",
+            "size": 12862
+          },
+          {
+            "path": "Sources/HF03_Repair/package_review.py",
+            "crc32": 3018474455,
+            "sha256": "50cde3ba6c98d9d85ea0a15cbb72036e2ecc62fc4b127754821fb8ad5797950f",
+            "size": 17929
+          },
+          {
+            "path": "Sources/HF03_Repair/prepare_previews.py",
+            "crc32": 3683497575,
+            "sha256": "27ea14243928caea2a2935398b7c67ade7ba34bb036dc4143bb9b447cb79143f",
+            "size": 11703
+          },
+          {
+            "path": "Sources/HF03_Repair/render_hf03.py",
+            "crc32": 3466201721,
+            "sha256": "b010a02bf3f3b1197bb859e39b8cb8e907c4c76f307e2e4ab5e47061d1b0cbd5",
+            "size": 9230
+          },
+          {
+            "path": "Sources/HF03_Repair/repair_hf03.py",
+            "crc32": 1306037211,
+            "sha256": "845e4307e0e4526d6ace9ad244fa895e021f0eedb9433565b132743febfe20e6",
+            "size": 15663
+          },
+          {
+            "path": "Sources/HF03_Repair/repair_service_paths.py",
+            "crc32": 2105402710,
+            "sha256": "deacbd8e8cb3f148ea3c6efc598e6ef88eea73a0be0f7495703a1494fbd92282",
+            "size": 4988
+          },
+          {
+            "path": "Sources/HF03_Repair/review_maps.py",
+            "crc32": 1764911561,
+            "sha256": "ab326ac97116a00d7fc4871eea7c53f84d09b45cf2976dc767bcd9c6c8b4f409",
+            "size": 5340
+          },
+          {
+            "path": "Sources/HF03_Repair/scene-hf03.json",
+            "crc32": 2545329526,
+            "sha256": "25288bd3bfd24057b2b81306e58dea2268eaf4d4bfc05b3d0b5f9af1cc97b158",
+            "size": 108700
+          },
+          {
+            "path": "Sources/HF03_Repair/service-repair.json",
+            "crc32": 1631599436,
+            "sha256": "43535d991c8a9469b5f6ef0be770695c96d0c6c8ffb8f6327e9723e24618461d",
+            "size": 13155
+          },
+          {
+            "path": "Sources/HF03_Repair/setup_previews.py",
+            "crc32": 3956907977,
+            "sha256": "7154d8b9a34d5a25844da9f4fa4391a068ae136d9b93e41656ba95bc92bc550c",
+            "size": 5719
+          },
+          {
+            "path": "Sources/HF03_Repair/validate_hf03.py",
+            "crc32": 2526079286,
+            "sha256": "1fbddd9356a0ac4384b31cbcbf4e4cd4f0ef04d9727e3341cc9a24235ead4766",
+            "size": 10351
+          },
+          {
+            "path": "Sources/HF04_Repair/HF04_Changes.json",
+            "crc32": 3911126994,
+            "sha256": "fc601e9c11a68bba31625260dc6ff1d27d950edae2cd3a8285e4bc0da990d81a",
+            "size": 6823
+          },
+          {
+            "path": "Sources/HF04_Repair/HF04_Validation.json",
+            "crc32": 2597774957,
+            "sha256": "452d8ed2f0a7b7130aa6b53b907e95b83dabd28b7cf93e5d90f6b9dbf3da595d",
+            "size": 3625
+          },
+          {
+            "path": "Sources/HF04_Repair/Preview_Method.json",
+            "crc32": 658210191,
+            "sha256": "cf81e5ac9524c56371adde374f13e205217add37a6d264f8b49e46c8ef396d98",
+            "size": 766
+          },
+          {
+            "path": "Sources/HF04_Repair/common.py",
+            "crc32": 2764762862,
+            "sha256": "7bbe22d61e117a2893189e2242551fc97b258a822b213d8080b1074a3e9c7eee",
+            "size": 4009
+          },
+          {
+            "path": "Sources/HF04_Repair/package_review.py",
+            "crc32": 228946680,
+            "sha256": "a3337a827c8138034df4f2af527ac2a93d45b6750c7c59adcabe5e67b74d1171",
+            "size": 12277
+          },
+          {
+            "path": "Sources/HF04_Repair/prepare_previews.py",
+            "crc32": 2626357213,
+            "sha256": "3279b6b7efe29357eddd8d80159d7b7a510ddd75815b452a65bbbc24ff004f73",
+            "size": 9657
+          },
+          {
+            "path": "Sources/HF04_Repair/render_hf04.py",
+            "crc32": 1737661454,
+            "sha256": "2aedf2b9de9c9983f9cdad4b76affcebfabc3f45ecfc7ddab4ce7336191f653f",
+            "size": 7941
+          },
+          {
+            "path": "Sources/HF04_Repair/repair_hf04.py",
+            "crc32": 1130819664,
+            "sha256": "89eb51aedc0502d768571654295ed87fd06b4f98fd3e32835fe9a1e13efdc1c9",
+            "size": 4345
+          },
+          {
+            "path": "Sources/HF04_Repair/setup_previews.py",
+            "crc32": 2854299744,
+            "sha256": "b0c376b3a70124767ae043320015c43e832a3ca65febe09487c9c923540a32ff",
+            "size": 5085
+          },
+          {
+            "path": "Sources/HF04_Repair/validate_hf04.py",
+            "crc32": 2334803058,
+            "sha256": "74e505e0103925290b3807a001819a7e366a5397e218dab64af08b6d6e9ef135",
+            "size": 4520
+          },
+          {
+            "path": "Sources/HF05_Repair/HF05_Changes.json",
+            "crc32": 2762211795,
+            "sha256": "5e2d30c195ff2209f01b81958cd24123aa33a794519bfb39ba8a46ccb0aefdd6",
+            "size": 1504
+          },
+          {
+            "path": "Sources/HF05_Repair/HF05_Validation.json",
+            "crc32": 56433509,
+            "sha256": "da2c609f020132f8b3e5b78f4e5504abd6f0e78d982e432a233c27e64ab6956e",
+            "size": 3500
+          },
+          {
+            "path": "Sources/HF05_Repair/Preview_Method.json",
+            "crc32": 56264454,
+            "sha256": "97c99047110c43ae366c6d4ab19c678091eaf6f7656d2d2424fe4e9d870c23f6",
+            "size": 1621
+          },
+          {
+            "path": "Sources/HF05_Repair/aep_preview_map.py",
+            "crc32": 1782800336,
+            "sha256": "fbe13c33daf1ddcf7a5351bf04f2dcff3281b0dfb8a5da4b4be01e51e8b1953f",
+            "size": 2732
+          },
+          {
+            "path": "Sources/HF05_Repair/hf05_common.py",
+            "crc32": 1984996351,
+            "sha256": "e10d2600a51e76b1c240db0b3ab20b6464b71ced6eee27e8a75fc7cdb260e8d3",
+            "size": 3365
+          },
+          {
+            "path": "Sources/HF05_Repair/package_hf05.py",
+            "crc32": 931231922,
+            "sha256": "4dfd8f1a5520f9537ea000fcfd2966ef43fe3a1eddf395976929c4e127f71e18",
+            "size": 16062
+          },
+          {
+            "path": "Sources/HF05_Repair/prepare_previews.py",
+            "crc32": 4069231394,
+            "sha256": "ee472ad5f4344c35dee53a0f8ee5005824748dbee426a723ef7dd517b167e1f1",
+            "size": 9630
+          },
+          {
+            "path": "Sources/HF05_Repair/preserve_dsf_binary.py",
+            "crc32": 38816293,
+            "sha256": "29b798fa99c6646ace417122fa0839eb0efe72327a5dbde305463c1dde6015df",
+            "size": 2019
+          },
+          {
+            "path": "Sources/HF05_Repair/render_hf05.py",
+            "crc32": 3397592675,
+            "sha256": "976d68c4630037b59342fa0a72361bf29d64c251fbec7976e935461a7adb3ff4",
+            "size": 7659
+          },
+          {
+            "path": "Sources/HF05_Repair/repair_hf05.py",
+            "crc32": 1655724388,
+            "sha256": "dd6564d48322281189c01079de9b3300ed471e7ff1773bbe8d6fc88a386a01a0",
+            "size": 4613
+          },
+          {
+            "path": "Sources/HF05_Repair/validate_hf05.py",
+            "crc32": 1862212110,
+            "sha256": "efddc59657c2c1b2ceab4995d304b9aa68571a2d89abb3b542acb663b772e107",
+            "size": 6952
+          },
+          {
+            "path": "Sources/HF06_Repair/AEP_Compatibility_Baseline.json",
+            "crc32": 387505778,
+            "sha256": "6d0f195294dc578f5e0294b05e11bf50456f803e56e9f2cf47740252b51c7015",
+            "size": 1132621
+          },
+          {
+            "path": "Sources/HF06_Repair/AEP_Compatibility_Workflow.txt",
+            "crc32": 3370088816,
+            "sha256": "93599a2e6e94de29cba80f54f0622441c94066d1c2a1a6ac925b1edd24ecf1ac",
+            "size": 1471
+          },
+          {
+            "path": "Sources/HF06_Repair/HF06_Changes.json",
+            "crc32": 1082410853,
+            "sha256": "df9296db60d77c18d50d9604da9c872f3e858e67e2ef1fd664464e3f7f6349c5",
+            "size": 18345
+          },
+          {
+            "path": "Sources/HF06_Repair/HF06_Long_Aircraft_Check.json",
+            "crc32": 3136996845,
+            "sha256": "a06ceee15146b149a977d3bffd496423692b4fbb1b0a7fb71f1920a29b944362",
+            "size": 641
+          },
+          {
+            "path": "Sources/HF06_Repair/HF06_Validation.json",
+            "crc32": 4085867093,
+            "sha256": "659ffbf91a12fcb1d5dc064b020a8ccbbff9456926e7e7097e97535f778a3232",
+            "size": 6947
+          },
+          {
+            "path": "Sources/HF06_Repair/Preview_Method.json",
+            "crc32": 771197613,
+            "sha256": "b4b1bd15cd80ade1bd5fe014d52595881f7a25dd6e8e77be2abc4ef22f50f412",
+            "size": 5130
+          },
+          {
+            "path": "Sources/HF06_Repair/compatibility_guard.py",
+            "crc32": 3138795318,
+            "sha256": "3d7f9de3fabaf98a46df47149f679c9054e158693e913e14d4394b4ab93ccef7",
+            "size": 4212
+          },
+          {
+            "path": "Sources/HF06_Repair/focus_audit.py",
+            "crc32": 1169640273,
+            "sha256": "b7c29580fcc5cde254877db7806d5a451f24d60cce4e67d3499337810246ae70",
+            "size": 2772
+          },
+          {
+            "path": "Sources/HF06_Repair/inspect_hf06.py",
+            "crc32": 635476456,
+            "sha256": "0dee3d49a46933b77fd93012945491b5eba72d8a57394adf90cfbb2153831ffa",
+            "size": 1753
+          },
+          {
+            "path": "Sources/HF06_Repair/long_aircraft_check.py",
+            "crc32": 3467578568,
+            "sha256": "4c696c1e69627a992f85239daa601cf3e9b93a9dbecf14472d4705edbab917e3",
+            "size": 1811
+          },
+          {
+            "path": "Sources/HF06_Repair/package_hf06.py",
+            "crc32": 2548109159,
+            "sha256": "06c32cdce2d39791c7a9d7bd13372de9b1622600f857aa353cae64333f1614dd",
+            "size": 18358
+          },
+          {
+            "path": "Sources/HF06_Repair/prepare_previews.py",
+            "crc32": 4157943470,
+            "sha256": "5ddfd999109aa6b57cfb53c7fa6a6c0c235d3fedd9e50038926962bf80ce0f77",
+            "size": 10258
+          },
+          {
+            "path": "Sources/HF06_Repair/preview_maps.py",
+            "crc32": 3421130740,
+            "sha256": "0d6f9b9fb3813679c1a2050632a56c89e22f5a3c7752a9d02b7d09d804d37b74",
+            "size": 6081
+          },
+          {
+            "path": "Sources/HF06_Repair/render_hf06.py",
+            "crc32": 1131669826,
+            "sha256": "7d515bf2e23efcd7f95aeb2590d56a19bdbb688f900a09e8062a7f9fb6f50b21",
+            "size": 7851
+          },
+          {
+            "path": "Sources/HF06_Repair/repair_hf06.py",
+            "crc32": 2714374449,
+            "sha256": "fa895b370cbacd12db748aaec4ada6ea24dce13774b53f8ebf55a793ee55ee02",
+            "size": 7699
+          },
+          {
+            "path": "Sources/HF06_Repair/revise_b_lane.py",
+            "crc32": 4121779432,
+            "sha256": "e12617eed0eca5de3e5a7bb60c6a6ae9731339830a3ed6a9bd283f7816a3ff66",
+            "size": 4551
+          },
+          {
+            "path": "Sources/HF06_Repair/setup_previews.py",
+            "crc32": 1193953490,
+            "sha256": "73de7a1761bb99ce693d388a06abc9e4704b8982cc0d5f74c6b127d320736ef7",
+            "size": 2398
+          },
+          {
+            "path": "Sources/HF06_Repair/validate_hf06.py",
+            "crc32": 433321189,
+            "sha256": "9af43ceda8795d644db9354c739d883fb8d7e8b2457ef6d222646287dfcfd4b4",
+            "size": 8503
+          },
+          {
+            "path": "Sources/R02-artwork-build-report.json",
+            "crc32": 3721181959,
+            "sha256": "12f1f76b0db6efe69d3eb539f921ec35e70001d8c80be634dff020358e528b7a",
+            "size": 17814
+          },
+          {
+            "path": "Sources/R02-artwork-validation.json",
+            "crc32": 1326292129,
+            "sha256": "7e8e8789d6117c8cee9d787532fa8b01196484e592143acabdbe3e891e24e603",
+            "size": 3667
+          },
+          {
+            "path": "Sources/R03-HF01-validation.json",
+            "crc32": 95695458,
+            "sha256": "9ffd1347e5d6f44f84f49f99d8cdda32ed76a17fd382a559ca42a33edd24c523",
+            "size": 2509
+          },
+          {
+            "path": "Sources/R03_Build/check_airport_structure.py",
+            "crc32": 3651355638,
+            "sha256": "866d526862f7888796d3abc3dd23fb61cb7023a8e17df1cb429f5f6536536b77",
+            "size": 3290
+          },
+          {
+            "path": "Sources/R03_Build/finish_r03.py",
+            "crc32": 2655196120,
+            "sha256": "554628e355e4e368f46e9ce08e6ffdfbcf2a44922bfbab8d9e79f94e7b06ff23",
+            "size": 8869
+          },
+          {
+            "path": "Sources/R03_Build/route_audit_r03.py",
+            "crc32": 1639140522,
+            "sha256": "b2854613c6f2b82cc602ca9687833d93d6e5d10e4dc371f1439d5a0ad9337657",
+            "size": 15864
+          },
+          {
+            "path": "Sources/R03_Build/route_build_r03.py",
+            "crc32": 3429786707,
+            "sha256": "5745a31546ef356600c156cfab756983e2b9b02e1ee1ce6c5ec564d44f66c7a8",
+            "size": 24954
+          },
+          {
+            "path": "Sources/R03_Build/route_common.py",
+            "crc32": 73514514,
+            "sha256": "edad12f50dd2c3de347e9ff7d8f45e221a91ad8f160cd1f49cf5caa4292c4632",
+            "size": 8064
+          },
+          {
+            "path": "Sources/R03_Build/route_previews_r03.py",
+            "crc32": 71402010,
+            "sha256": "c906ee06c5b5fd6dc77fecdc0d854bbd7b9abc2d2600f6b8452e2fad1ce3e8f0",
+            "size": 7055
+          },
+          {
+            "path": "Sources/R03_Build/route_review_template.html",
+            "crc32": 1666974367,
+            "sha256": "6d8f32e975e6f29ce81c184ba6ccae26aeb644e3a590ec0124c24b9dde1880ec",
+            "size": 13725
+          },
+          {
+            "path": "Sources/R03_HF01_historical_notes.txt",
+            "crc32": 2305097405,
+            "sha256": "a416c5333769f26a223d18e4bf2cbdd384907273d7ed2802256c3c5a017d546e",
+            "size": 5683
+          },
+          {
+            "path": "Sources/R03_HF02_historical_notes.txt",
+            "crc32": 3314452810,
+            "sha256": "659494ca3b7f475785a9b425dbd7fc7b06d3bcd99c0a2fcb368068df3512c589",
+            "size": 4962
+          },
+          {
+            "path": "Sources/R03_HF03_historical_notes.txt",
+            "crc32": 1874740894,
+            "sha256": "4b400f0eee1aca922d02286875fc5d4d1d6a2ae31661c5613573d9b3a904fc5f",
+            "size": 6427
+          },
+          {
+            "path": "Sources/R03_HF04_historical_notes.txt",
+            "crc32": 673622693,
+            "sha256": "dbbfb96f134009260c06b8844ae1c006583fd2b45f1555fea5049cd6fd9b162c",
+            "size": 3980
+          },
+          {
+            "path": "Sources/R03_HF05_historical_notes.txt",
+            "crc32": 3070842398,
+            "sha256": "160bb8881c56cc3b00e48de70ce2000e02258bd4bed7d0b8efc20a859c583f3f",
+            "size": 5613
+          },
+          {
+            "path": "Sources/Ramp_Access_Audit.csv",
+            "crc32": 3057565155,
+            "sha256": "3a9b51a5192123ad5c67e2b22b573c306bc9e80cbaf86de474367668808fa431",
+            "size": 19407
+          },
+          {
+            "path": "Sources/Service_Depot_Access.csv",
+            "crc32": 10443577,
+            "sha256": "9126664c1840fe2aa5c6c55be1b6eddb8859ce735018a4546b3100189e95c7c5",
+            "size": 1252
+          },
+          {
+            "path": "Sources/Service_Stand_Coverage.csv",
+            "crc32": 3162464626,
+            "sha256": "c3646eb159af71f14a3dc831f24309c3f4c0a0ee0dbf99678ca4bb0c8c7572a2",
+            "size": 3001
+          },
+          {
+            "path": "Sources/build-report.json",
+            "crc32": 3342666,
+            "sha256": "685fc5c4764df4e7fb836d3e1c12829dc1b468c736c007069b20ad56e049aa38",
+            "size": 448
+          },
+          {
+            "path": "Sources/current-terminal-footprints.geojson",
+            "crc32": 3171522712,
+            "sha256": "cce0516acaf4dd3049460ddc8c0efad04824df5c5afb9d87a2621add4d2da5a4",
+            "size": 26477
+          },
+          {
+            "path": "Sources/imagery-capture-metadata.json",
+            "crc32": 186537188,
+            "sha256": "8442e283c0357b0e23a6165326de045e3e9d8c2cf4ad439dd307dc361bda56ed",
+            "size": 855
+          },
+          {
+            "path": "Sources/modified-north-scenery.txt",
+            "crc32": 581948236,
+            "sha256": "3bd86c621ed11ec3648b6c1744efe44ead7961541a76116b780c68873f0b9c61",
+            "size": 144121
+          },
+          {
+            "path": "Sources/modified-south-scenery.txt",
+            "crc32": 859187370,
+            "sha256": "23402b17387a182ec073375b126de304e9d010e29b2d104c1cdb656cfb5c1bba",
+            "size": 2437808
+          },
+          {
+            "path": "Sources/offline-validation.json",
+            "crc32": 1365422548,
+            "sha256": "3d42c4ae790a64943f945487737687d22b503a9e37fcf8cb3ead52cdbece0ab4",
+            "size": 22601
+          },
+          {
+            "path": "Sources/references.json",
+            "crc32": 4249218467,
+            "sha256": "13c6db2a48810a9e5f4f1c6e5380936686ec8de95170f4b92aa83162ed6c8148",
+            "size": 3968
+          },
+          {
+            "path": "Sources/routing-build-report.json",
+            "crc32": 757808543,
+            "sha256": "e67861f189d8e680fb6aff58a11e7f56cb59a94610774fa10fc0ba9694946a2d",
+            "size": 78885
+          },
+          {
+            "path": "Sources/terminal-source-manifest.json",
+            "crc32": 2985756125,
+            "sha256": "e92ad0573d948d59d3ca07dac80cedf13e753de5fe31862b1221de3e6f34f110",
+            "size": 4339
+          },
+          {
+            "path": "VARIANT.txt",
+            "crc32": 2187907654,
+            "sha256": "3c7f7af9118ec2ce9aead47483879b7d56c89649a7cf24085aee2bc091efee10",
+            "size": 100
+          },
+          {
+            "path": "changelog.txt",
+            "crc32": 1666555009,
+            "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
+            "size": 4449
+          },
+          {
+            "path": "objects/B_Lobby_Closed.obj",
+            "crc32": 456459122,
+            "sha256": "b13c8985a9a3c0357f6c7815aad83bf773aa545a99fe2d6ebb4330572f623e80",
+            "size": 401921
+          },
+          {
+            "path": "objects/B_North.obj",
+            "crc32": 1917700347,
+            "sha256": "be946d77a58557b2e02696d0761a6f62f67e2a4d28238c51dc942e11e72f6950",
+            "size": 664042
+          },
+          {
+            "path": "objects/Current_Stand_Labels.obj",
+            "crc32": 3817567693,
+            "sha256": "81b6e99f53d8bafa3e08a4b9514e773fec2e16c72a8afb02933d1030c6fe498b",
+            "size": 26733
+          },
+          {
+            "path": "objects/D_West.obj",
+            "crc32": 417298393,
+            "sha256": "52c51a0f994b0c546c9555f4f06e1bc7d006ef678264bc106153a846ce97dd46",
+            "size": 377247
+          },
+          {
+            "path": "objects/International_Processor.obj",
+            "crc32": 4198524874,
+            "sha256": "a55a8a425d13427959dd18de17c3066c5ea24895cac950f6d8923dc639e46230",
+            "size": 519735
+          },
+          {
+            "path": "objects/United_Maintenance_Exterior.obj",
+            "crc32": 3508604341,
+            "sha256": "2df81caf131261a9fca5a2b7aac49fb566085123030dcc62ef117bbb23e9a7bd",
+            "size": 468819
+          },
+          {
+            "path": "objects/bridge_A20.obj",
+            "crc32": 1400591421,
+            "sha256": "7aefd3781e0c89beb4e4f5f04a4fcec7c852aba74411b6db09e14679d02fc56d",
+            "size": 103563
+          },
+          {
+            "path": "objects/bridge_B1.obj",
+            "crc32": 268915415,
+            "sha256": "b89b98812862a447b881dd94ca37e111df9a0a0701941851263c1d74bacfff45",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B10.obj",
+            "crc32": 575963977,
+            "sha256": "af34dae01e7defad20eb2e2b7ed130f0a7375531b26f1d19fc79eb5ca15d5f65",
+            "size": 103245
+          },
+          {
+            "path": "objects/bridge_B11.obj",
+            "crc32": 3740269440,
+            "sha256": "58a5f1bd5872f2cb45c98ad106f1144eb0d1b2e8b5b8cef1152239b482e664ee",
+            "size": 103245
+          },
+          {
+            "path": "objects/bridge_B12.obj",
+            "crc32": 2149537140,
+            "sha256": "718058616ab1056986d422efd2a6dd6078419675098c82b35bd6d3f8b7d1a363",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B14.obj",
+            "crc32": 1447372318,
+            "sha256": "4bdcf40508ac582a48e533a7a527d23bd345c0a736a4919a5d5e45db5f2baa63",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B15.obj",
+            "crc32": 1771433833,
+            "sha256": "d9a2970f677a99e6687f6b222932be502dd0550b4bf9ff17d25d609ad1446e51",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B16.obj",
+            "crc32": 2069606293,
+            "sha256": "7e8619a0e0918a317524b95d4991d0c9bff47405d65b1a4df2b388953ec59a04",
+            "size": 103263
+          },
+          {
+            "path": "objects/bridge_B17.obj",
+            "crc32": 482658594,
+            "sha256": "822a941252acbf5deccbf94f2c24834988526f5047ec552d92fbb84707ffde9b",
+            "size": 103251
+          },
+          {
+            "path": "objects/bridge_B18.obj",
+            "crc32": 3411036394,
+            "sha256": "e1a5cc2a55da81ebd86b2b927c26d1f8ed01a17d873bd00e55e55be5d49c3370",
+            "size": 103250
+          },
+          {
+            "path": "objects/bridge_B19.obj",
+            "crc32": 461511546,
+            "sha256": "c972cd356638d1e34d34d832ca659926b46ba7a7c8925ccafe1262c3aab4795c",
+            "size": 103249
+          },
+          {
+            "path": "objects/bridge_B2.obj",
+            "crc32": 365609030,
+            "sha256": "be2552e7c0dc391d3585f83923b53478fdc22d273eb09c4dde2b0039a50183fa",
+            "size": 103261
+          },
+          {
+            "path": "objects/bridge_B20.obj",
+            "crc32": 3785562481,
+            "sha256": "d0c2b98a8871387c0f5c9f9bbd14cccf3f30951cfc3f277e9b269d702d001ded",
+            "size": 103237
+          },
+          {
+            "path": "objects/bridge_B21.obj",
+            "crc32": 911033279,
+            "sha256": "77e463d203bfc59ba94d03480d52cf7f47523e2ead8f80eedb0ac7ee476c66ac",
+            "size": 103242
+          },
+          {
+            "path": "objects/bridge_B22.obj",
+            "crc32": 3700407214,
+            "sha256": "64bba1a9cf734d8540674d7323891d73a05a14f8caabe19ad11ac2cbed7692d1",
+            "size": 103242
+          },
+          {
+            "path": "objects/bridge_B23.obj",
+            "crc32": 1768106388,
+            "sha256": "9238be71b664e09d5c09b45417353bce46baee2b8709fb95c0655e7ce732f22f",
+            "size": 103231
+          },
+          {
+            "path": "objects/bridge_B3.obj",
+            "crc32": 1769310598,
+            "sha256": "9180b10370bb0e80d61bacd726a371790ca6c55df401a9ab37aae652b9b07ba5",
+            "size": 103267
+          },
+          {
+            "path": "objects/bridge_B4.obj",
+            "crc32": 3817987094,
+            "sha256": "b5fac1eb0868d9af356302ed7ff5181d9b5ea683506138e60fa3512d18691c30",
+            "size": 103263
+          },
+          {
+            "path": "objects/bridge_B5.obj",
+            "crc32": 285452581,
+            "sha256": "5b4a787baa1095cde43a64feefab6d1db84d63c607cc70506b9204c25254111d",
+            "size": 103251
+          },
+          {
+            "path": "objects/bridge_B6.obj",
+            "crc32": 2633709537,
+            "sha256": "f439491a2c6dfbd80a23bb44d6521737e89b051cb69af3b9d7031327545a5c98",
+            "size": 103250
+          },
+          {
+            "path": "objects/bridge_B7.obj",
+            "crc32": 2363397168,
+            "sha256": "6e2f3a23c44dfca8389f075d594675270fa9aec15c9972b75655c256b7fe3a02",
+            "size": 103249
+          },
+          {
+            "path": "objects/bridge_B8.obj",
+            "crc32": 277767501,
+            "sha256": "20f783d67e96c7df4f20330dafe60b35355b3bcaeabc6b9b6a829dd8426b0b95",
+            "size": 103237
+          },
+          {
+            "path": "objects/bridge_B9.obj",
+            "crc32": 1545899178,
+            "sha256": "55f763a1176352766ad5d895fc1d0a7c620a8ccd3ffccef72335fb5340bdd42e",
+            "size": 103231
+          },
+          {
+            "path": "objects/bridge_C12.obj",
+            "crc32": 3141302142,
+            "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
+            "size": 104230
+          },
+          {
+            "path": "objects/bridge_C14.obj",
+            "crc32": 90890705,
+            "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
+            "size": 103556
+          },
+          {
+            "path": "objects/bridge_C15.obj",
+            "crc32": 117391061,
+            "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
+            "size": 103556
+          },
+          {
+            "path": "objects/bridge_D1.obj",
+            "crc32": 2184256594,
+            "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
+            "size": 105679
+          },
+          {
+            "path": "objects/bridge_D2.obj",
+            "crc32": 3011590559,
+            "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
+            "size": 104229
+          },
+          {
+            "path": "objects/bridge_D3.obj",
+            "crc32": 769173109,
+            "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
+            "size": 104275
+          },
+          {
+            "path": "objects/bridge_D4.obj",
+            "crc32": 1149090086,
+            "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
+            "size": 104235
+          },
+          {
+            "path": "objects/bridge_D5.obj",
+            "crc32": 614651558,
+            "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
+            "size": 105656
+          },
+          {
+            "path": "objects/bridge_D6.obj",
+            "crc32": 2321882266,
+            "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
+            "size": 104251
+          },
+          {
+            "path": "textures/terminal_atlas.png",
+            "crc32": 3993655427,
+            "sha256": "b1410bad3c22fb135d087d7b3930ed1d413fe0f4e3b2faf44aaa66ce0f89468d",
+            "size": 117546
+          },
+          {
+            "path": "textures/terminal_atlas_LIT.png",
+            "crc32": 661616781,
+            "sha256": "d1310f799ab701ad4af790e42373e00d7e423c566e9b3782dd99befc469df1aa",
+            "size": 107654
+          }
+        ],
+        "source_revision": "R28 - Terminal B / paired content channels",
+        "prerelease": true,
+        "public_channels": {
+          "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
+        },
+        "delete_files": [
+          "Build_Evidence.json",
+          "Check OpenSAM.cmd",
+          "Check OpenSAM.ps1",
+          "Garage_Provenance.json",
+          "Garage_Replacement_Record.json",
+          "PERSONAL_TEST_ONLY.txt",
+          "R28_Changes.json",
+          "README_R21.txt",
+          "README_R22.txt",
+          "README_R23.txt",
+          "README_R24.txt",
+          "README_R25.txt",
+          "README_R26.txt",
+          "README_R27.txt",
+          "README_R28.txt",
+          "Source/R17_Helpers/airport_geometry.py",
+          "Source/R17_Helpers/build_test.py",
+          "Source/R17_Helpers/materials.py",
+          "Source/R17_Helpers/obj_reader.py",
+          "Source/R21/build_r21.py",
+          "Source/R21/finalize_r21.py",
+          "Source/R21/render_exports.py",
+          "Source/R21/validate_r21.py",
+          "Source/R22/South.dsf.txt",
+          "Source/R22/build_r22.py",
+          "Source/R22/finalize_r22.py",
+          "Source/R22/render_r22.py",
+          "Source/R22/validate_r22.py",
+          "Source/R23/OpenSAM_Diagnosis.json",
+          "Source/R23/README.txt",
+          "Source/R23/South.dsf.txt",
+          "Source/R23/build_r23.py",
+          "Source/R23/inspect_r22.py",
+          "Source/R23/prepare_delivery.py",
+          "Source/R23/render_r23.py",
+          "Source/R23/review_r23.py",
+          "Source/R23/seal_delivery.py",
+          "Source/R23/validate_r23.py",
+          "Source/R24/Approved_Pullthrough.json",
+          "Source/R24/README.txt",
+          "Source/R24/South.dsf.txt",
+          "Source/R24/build_r24.py",
+          "Source/R24/inspect_baseline.py",
+          "Source/R24/prepare_delivery.py",
+          "Source/R24/refinements.py",
+          "Source/R24/render_r24.py",
+          "Source/R24/review_r24.py",
+          "Source/R24/seal_delivery.py",
+          "Source/R24/seed_builder.py",
+          "Source/R24/validate_r24.py",
+          "Source/R25/README.txt",
+          "Source/R25/South.dsf.txt",
+          "Source/R25/build_r25.py",
+          "Source/R25/measure_stand.py",
+          "Source/R25/prepare_delivery.py",
+          "Source/R25/render_r25.py",
+          "Source/R25/review_r25.py",
+          "Source/R25/seal_delivery.py",
+          "Source/R25/validate_r25.py",
+          "Source/R26/README.txt",
+          "Source/R26/South.dsf.txt",
+          "Source/R26/build_r26.py",
+          "Source/R26/inspect_routes.py",
+          "Source/R26/prepare_delivery.py",
+          "Source/R26/render_r26.py",
+          "Source/R26/review_r26.py",
+          "Source/R26/seal_delivery.py",
+          "Source/R26/validate_r26.py",
+          "Source/R27/README.txt",
+          "Source/R27/South.dsf.txt",
+          "Source/R27/audit_r27.py",
+          "Source/R27/build_r27.py",
+          "Source/R27/prepare_delivery.py",
+          "Source/R27/render_r27.py",
+          "Source/R27/review_r27.py",
+          "Source/R27/seal_delivery.py",
+          "Source/R27/validate_r27.py",
+          "Source/README.txt",
+          "objects/nrt_test/apron_material.obj",
+          "objects/nrt_test/cargo.obj",
+          "objects/nrt_test/cargo_recess_walls.obj",
+          "objects/nrt_test/fbo.obj",
+          "objects/nrt_test/fbo_ground_tower.obj",
+          "objects/nrt_test/fixed_8.obj",
+          "objects/nrt_test/fixed_9A.obj",
+          "objects/nrt_test/fixed_9B.obj",
+          "objects/nrt_test/floor_wear_mh1.obj",
+          "objects/nrt_test/floor_wear_mh2.obj",
+          "objects/nrt_test/floor_wear_mh3.obj",
+          "objects/nrt_test/garage_t02_m01.obj",
+          "objects/nrt_test/garage_t02_m02.obj",
+          "objects/nrt_test/garage_t02_m05.obj",
+          "objects/nrt_test/garage_t02_m06.obj",
+          "objects/nrt_test/garage_t02_m07.obj",
+          "objects/nrt_test/garage_t02_m08.obj",
+          "objects/nrt_test/garage_t02_m09.obj",
+          "objects/nrt_test/garage_t02_m10.obj",
+          "objects/nrt_test/garage_t02_m12.obj",
+          "objects/nrt_test/garage_t02_m13.obj",
+          "objects/nrt_test/garage_t02_m14.obj",
+          "objects/nrt_test/garage_t02_m20.obj",
+          "objects/nrt_test/garage_t02_m24.obj",
+          "objects/nrt_test/garage_t02_m25.obj",
+          "objects/nrt_test/garage_t02_m26.obj",
+          "objects/nrt_test/garage_t02_m27.obj",
+          "objects/nrt_test/garage_t02_m28.obj",
+          "objects/nrt_test/garage_t02_m29.obj",
+          "objects/nrt_test/garage_t02_m30.obj",
+          "objects/nrt_test/garage_t02_m37.obj",
+          "objects/nrt_test/garage_t02_m39.obj",
+          "objects/nrt_test/garage_t02_m40.obj",
+          "objects/nrt_test/garage_t02_m41.obj",
+          "objects/nrt_test/garage_t02_m42.obj",
+          "objects/nrt_test/garage_t02_m43.obj",
+          "objects/nrt_test/garage_t02_m44.obj",
+          "objects/nrt_test/garage_t02_m45.obj",
+          "objects/nrt_test/landside_curbs.obj",
+          "objects/nrt_test/landside_fence.obj",
+          "objects/nrt_test/landside_lights.obj",
+          "objects/nrt_test/landside_paint.obj",
+          "objects/nrt_test/landside_security.obj",
+          "objects/nrt_test/landside_signboards.obj",
+          "objects/nrt_test/landside_stencils.obj",
+          "objects/nrt_test/landside_surface.obj",
+          "objects/nrt_test/mh2_accordion_hangar.obj",
+          "objects/nrt_test/mh3_accordion_hangar.obj",
+          "objects/nrt_test/mx_7478I_proxy.obj",
+          "objects/nrt_test/mx_service_lights.obj",
+          "objects/nrt_test/mx_stepped_hangar.obj",
+          "objects/nrt_test/paint.obj",
+          "objects/nrt_test/r21_arrival_landscape.obj",
+          "objects/nrt_test/r21_arrival_paint.obj",
+          "objects/nrt_test/r21_identity.obj",
+          "objects/nrt_test/r21_planting_bed.obj",
+          "objects/nrt_test/r21_private_hangar.obj",
+          "objects/nrt_test/r21_stand_ids.obj",
+          "objects/nrt_test/r21_terminal_canopy.obj",
+          "objects/nrt_test/r22_nrt_truck_doors.obj",
+          "objects/nrt_test/r22_nrt_truck_garage.obj",
+          "objects/nrt_test/r22_nrt_truck_signs.obj",
+          "objects/nrt_test/r23_ground_ids.obj",
+          "objects/nrt_test/r23_identity.obj",
+          "objects/nrt_test/r23_jet_center.obj",
+          "objects/nrt_test/r23_ramp_details.obj",
+          "objects/nrt_test/r24_access_ids.obj",
+          "objects/nrt_test/r24_access_paint.obj",
+          "objects/nrt_test/r24_ground_ids.obj",
+          "objects/nrt_test/r24_heli_access_door.obj",
+          "objects/nrt_test/r24_identity.obj",
+          "objects/nrt_test/r24_indoor_parking.obj",
+          "objects/nrt_test/r24_jet_center.obj",
+          "objects/nrt_test/r24_ramp_details.obj",
+          "objects/nrt_test/r25_access_ids.obj",
+          "objects/nrt_test/r25_access_paint.obj",
+          "objects/nrt_test/r25_fixed_8.obj",
+          "objects/nrt_test/r25_fixed_9A.obj",
+          "objects/nrt_test/r25_fixed_9B.obj",
+          "objects/nrt_test/r25_ground_ids.obj",
+          "objects/nrt_test/r25_human_details.obj",
+          "objects/nrt_test/r25_identity.obj",
+          "objects/nrt_test/r25_jet_center.obj",
+          "objects/nrt_test/r25_jetway_portals.obj",
+          "objects/nrt_test/r25_ramp_details.obj",
+          "objects/nrt_test/r26_hangar_work_lights.obj",
+          "objects/nrt_test/r26_service_road_paint.obj",
+          "objects/nrt_test/r26_terminal_work_lights.obj",
+          "objects/nrt_test/r27_canopy_floor.obj",
+          "objects/nrt_test/r27_indoor_floor.obj",
+          "objects/nrt_test/r27_service_road_paint.obj",
+          "objects/nrt_test/r27_sheltered_guidance.obj",
+          "objects/nrt_test/ramp_safety.obj",
+          "objects/nrt_test/ramp_wear.obj",
+          "objects/nrt_test/signs_cargo.obj",
+          "objects/nrt_test/signs_fbo.obj",
+          "objects/nrt_test/signs_mh2_accordion_hangar.obj",
+          "objects/nrt_test/signs_mh3_accordion_hangar.obj",
+          "objects/nrt_test/signs_mx_stepped_hangar.obj",
+          "objects/nrt_test/taxi_wear.obj",
+          "objects/nrt_test/truck_parallel_bays.obj",
+          "objects/nrt_test/truck_parallel_ids.obj",
+          "opensam.xml",
+          "sam.xml",
+          "textures/nrt_test/apron.dds",
+          "textures/nrt_test/apron.png",
+          "textures/nrt_test/apron_NML.png",
+          "textures/nrt_test/atlas.png",
+          "textures/nrt_test/buildings.dds",
+          "textures/nrt_test/buildings.png",
+          "textures/nrt_test/buildings_LIT.dds",
+          "textures/nrt_test/buildings_LIT.png",
+          "textures/nrt_test/buildings_NML.png",
+          "textures/nrt_test/garage_t02_m01.dds",
+          "textures/nrt_test/garage_t02_m01.png",
+          "textures/nrt_test/garage_t02_m02.dds",
+          "textures/nrt_test/garage_t02_m02.png",
+          "textures/nrt_test/garage_t02_m05.dds",
+          "textures/nrt_test/garage_t02_m05.png",
+          "textures/nrt_test/garage_t02_m06.dds",
+          "textures/nrt_test/garage_t02_m06.png",
+          "textures/nrt_test/garage_t02_m07.dds",
+          "textures/nrt_test/garage_t02_m07.png",
+          "textures/nrt_test/garage_t02_m08.dds",
+          "textures/nrt_test/garage_t02_m08.png",
+          "textures/nrt_test/garage_t02_m09.dds",
+          "textures/nrt_test/garage_t02_m09.png",
+          "textures/nrt_test/garage_t02_m10.dds",
+          "textures/nrt_test/garage_t02_m10.png",
+          "textures/nrt_test/garage_t02_m12.dds",
+          "textures/nrt_test/garage_t02_m12.png",
+          "textures/nrt_test/garage_t02_m13.dds",
+          "textures/nrt_test/garage_t02_m13.png",
+          "textures/nrt_test/garage_t02_m14.dds",
+          "textures/nrt_test/garage_t02_m14.png",
+          "textures/nrt_test/garage_t02_m20.dds",
+          "textures/nrt_test/garage_t02_m20.png",
+          "textures/nrt_test/garage_t02_m24.dds",
+          "textures/nrt_test/garage_t02_m24.png",
+          "textures/nrt_test/garage_t02_m25.dds",
+          "textures/nrt_test/garage_t02_m25.png",
+          "textures/nrt_test/garage_t02_m26.dds",
+          "textures/nrt_test/garage_t02_m26.png",
+          "textures/nrt_test/garage_t02_m27.dds",
+          "textures/nrt_test/garage_t02_m27.png",
+          "textures/nrt_test/garage_t02_m28.dds",
+          "textures/nrt_test/garage_t02_m28.png",
+          "textures/nrt_test/garage_t02_m29.dds",
+          "textures/nrt_test/garage_t02_m29.png",
+          "textures/nrt_test/garage_t02_m30.dds",
+          "textures/nrt_test/garage_t02_m30.png",
+          "textures/nrt_test/garage_t02_m37.dds",
+          "textures/nrt_test/garage_t02_m37.png",
+          "textures/nrt_test/garage_t02_m39.dds",
+          "textures/nrt_test/garage_t02_m39.png",
+          "textures/nrt_test/garage_t02_m40.dds",
+          "textures/nrt_test/garage_t02_m40.png",
+          "textures/nrt_test/garage_t02_m41.dds",
+          "textures/nrt_test/garage_t02_m41.png",
+          "textures/nrt_test/garage_t02_m42.dds",
+          "textures/nrt_test/garage_t02_m42.png",
+          "textures/nrt_test/garage_t02_m43.dds",
+          "textures/nrt_test/garage_t02_m43.png",
+          "textures/nrt_test/garage_t02_m44.dds",
+          "textures/nrt_test/garage_t02_m44.png",
+          "textures/nrt_test/garage_t02_m45.dds",
+          "textures/nrt_test/garage_t02_m45.png",
+          "textures/nrt_test/landside_asphalt.dds",
+          "textures/nrt_test/landside_asphalt.png",
+          "textures/nrt_test/landside_fence.dds",
+          "textures/nrt_test/landside_fence.png",
+          "textures/nrt_test/landside_stencils.dds",
+          "textures/nrt_test/landside_stencils.png",
+          "textures/nrt_test/nrt_identity.dds",
+          "textures/nrt_test/nrt_identity.png",
+          "textures/nrt_test/nrt_identity_LIT.dds",
+          "textures/nrt_test/nrt_identity_LIT.png",
+          "textures/nrt_test/r21_ground_ids.dds",
+          "textures/nrt_test/r21_ground_ids.png",
+          "textures/nrt_test/r21_identity.dds",
+          "textures/nrt_test/r21_identity.png",
+          "textures/nrt_test/r21_identity_LIT.dds",
+          "textures/nrt_test/r21_identity_LIT.png",
+          "textures/nrt_test/r21_planting.dds",
+          "textures/nrt_test/r21_planting.png",
+          "textures/nrt_test/r22_garage_materials.dds",
+          "textures/nrt_test/r22_garage_materials.png",
+          "textures/nrt_test/r22_garage_materials_LIT.dds",
+          "textures/nrt_test/r22_garage_materials_LIT.png",
+          "textures/nrt_test/r22_garage_materials_NML.png",
+          "textures/nrt_test/r22_garage_signs.dds",
+          "textures/nrt_test/r22_garage_signs.png",
+          "textures/nrt_test/r22_garage_signs_LIT.dds",
+          "textures/nrt_test/r22_garage_signs_LIT.png",
+          "textures/nrt_test/r23_ground_ids.dds",
+          "textures/nrt_test/r23_ground_ids.png",
+          "textures/nrt_test/r23_identity.dds",
+          "textures/nrt_test/r23_identity.png",
+          "textures/nrt_test/r23_identity_LIT.dds",
+          "textures/nrt_test/r23_identity_LIT.png",
+          "textures/nrt_test/r23_materials.dds",
+          "textures/nrt_test/r23_materials.png",
+          "textures/nrt_test/r23_materials_LIT.dds",
+          "textures/nrt_test/r23_materials_LIT.png",
+          "textures/nrt_test/r23_materials_NML.png",
+          "textures/nrt_test/r24_ground_ids.dds",
+          "textures/nrt_test/r24_ground_ids.png",
+          "textures/nrt_test/r24_identity.dds",
+          "textures/nrt_test/r24_identity.png",
+          "textures/nrt_test/r24_identity_LIT.dds",
+          "textures/nrt_test/r24_identity_LIT.png",
+          "textures/nrt_test/r24_materials.dds",
+          "textures/nrt_test/r24_materials.png",
+          "textures/nrt_test/r24_materials_LIT.dds",
+          "textures/nrt_test/r24_materials_LIT.png",
+          "textures/nrt_test/r24_materials_NML.png",
+          "textures/nrt_test/r25_ground_ids.dds",
+          "textures/nrt_test/r25_ground_ids.png",
+          "textures/nrt_test/r25_identity.dds",
+          "textures/nrt_test/r25_identity.png",
+          "textures/nrt_test/r25_identity_LIT.dds",
+          "textures/nrt_test/r25_identity_LIT.png",
+          "textures/nrt_test/r25_materials.dds",
+          "textures/nrt_test/r25_materials.png",
+          "textures/nrt_test/r25_materials_LIT.dds",
+          "textures/nrt_test/r25_materials_LIT.png",
+          "textures/nrt_test/r25_materials_NML.png",
+          "textures/nrt_test/ramp_wear.dds",
+          "textures/nrt_test/ramp_wear.png",
+          "textures/nrt_test/refined_markings.dds",
+          "textures/nrt_test/refined_markings.png",
+          "textures/nrt_test/signs.dds",
+          "textures/nrt_test/signs.png",
+          "textures/nrt_test/signs_LIT.dds",
+          "textures/nrt_test/signs_LIT.png",
+          "textures/nrt_test/taxi_wear.dds",
+          "textures/nrt_test/taxi_wear.png"
+        ]
+      }
+    }
+  ],
+  "managed_history": [
+    "ASSET_NOTICES.txt",
+    "Build_Evidence.json",
+    "COPYING",
+    "Check OpenSAM.cmd",
+    "Check OpenSAM.ps1",
+    "Earth nav data/+20-100/+29-096.dsf",
+    "Earth nav data/+30-100/+30-096.dsf",
+    "Earth nav data/apt.dat",
+    "Garage_Provenance.json",
+    "Garage_Replacement_Record.json",
+    "Gateway-original-README.txt",
+    "INSTALL.txt",
+    "PERSONAL_TEST_ONLY.txt",
+    "R02-baseline-notes.txt",
+    "R28_Changes.json",
+    "README.txt",
+    "README_HF06_HISTORICAL.txt",
+    "README_R21.txt",
+    "README_R22.txt",
+    "README_R23.txt",
+    "README_R24.txt",
+    "README_R25.txt",
+    "README_R26.txt",
+    "README_R27.txt",
+    "README_R28.txt",
+    "README_R28_REVIEW_HISTORY.txt",
+    "Source/Native/+29-096.txt",
+    "Source/Native/+30-096.txt",
+    "Source/R17_Helpers/airport_geometry.py",
+    "Source/R17_Helpers/build_test.py",
+    "Source/R17_Helpers/materials.py",
+    "Source/R17_Helpers/obj_reader.py",
+    "Source/R21/build_r21.py",
+    "Source/R21/finalize_r21.py",
+    "Source/R21/render_exports.py",
+    "Source/R21/validate_r21.py",
+    "Source/R22/South.dsf.txt",
+    "Source/R22/build_r22.py",
+    "Source/R22/finalize_r22.py",
+    "Source/R22/render_r22.py",
+    "Source/R22/validate_r22.py",
+    "Source/R23/OpenSAM_Diagnosis.json",
+    "Source/R23/README.txt",
+    "Source/R23/South.dsf.txt",
+    "Source/R23/build_r23.py",
+    "Source/R23/inspect_r22.py",
+    "Source/R23/prepare_delivery.py",
+    "Source/R23/render_r23.py",
+    "Source/R23/review_r23.py",
+    "Source/R23/seal_delivery.py",
+    "Source/R23/validate_r23.py",
+    "Source/R24/Approved_Pullthrough.json",
+    "Source/R24/README.txt",
+    "Source/R24/South.dsf.txt",
+    "Source/R24/build_r24.py",
+    "Source/R24/inspect_baseline.py",
+    "Source/R24/prepare_delivery.py",
+    "Source/R24/refinements.py",
+    "Source/R24/render_r24.py",
+    "Source/R24/review_r24.py",
+    "Source/R24/seal_delivery.py",
+    "Source/R24/seed_builder.py",
+    "Source/R24/validate_r24.py",
+    "Source/R25/README.txt",
+    "Source/R25/South.dsf.txt",
+    "Source/R25/build_r25.py",
+    "Source/R25/measure_stand.py",
+    "Source/R25/prepare_delivery.py",
+    "Source/R25/render_r25.py",
+    "Source/R25/review_r25.py",
+    "Source/R25/seal_delivery.py",
+    "Source/R25/validate_r25.py",
+    "Source/R26/README.txt",
+    "Source/R26/South.dsf.txt",
+    "Source/R26/build_r26.py",
+    "Source/R26/inspect_routes.py",
+    "Source/R26/prepare_delivery.py",
+    "Source/R26/render_r26.py",
+    "Source/R26/review_r26.py",
+    "Source/R26/seal_delivery.py",
+    "Source/R26/validate_r26.py",
+    "Source/R27/README.txt",
+    "Source/R27/South.dsf.txt",
+    "Source/R27/audit_r27.py",
+    "Source/R27/build_r27.py",
+    "Source/R27/prepare_delivery.py",
+    "Source/R27/render_r27.py",
+    "Source/R27/review_r27.py",
+    "Source/R27/seal_delivery.py",
+    "Source/R27/validate_r27.py",
+    "Source/R28/R28_Evidence.json",
+    "Source/R28/audit_b.py",
+    "Source/R28/build_r28.py",
+    "Source/R28/common.py",
+    "Source/R28/finish_review.py",
+    "Source/R28/package_review.py",
+    "Source/R28/prepare_r28_channels.py",
+    "Source/R28/preview_native.py",
+    "Source/R28/render_r28.py",
+    "Source/R28/validate_r28.py",
+    "Source/README.txt",
+    "Source/rebuild_dsf.py",
+    "Sources/Aircraft_Route_Audit.csv",
+    "Sources/Build/airport_geometry.py",
+    "Sources/Build/build_native.py",
+    "Sources/Build/layout_plan.py",
+    "Sources/Build/native_mesh.py",
+    "Sources/Build/r02_details.py",
+    "Sources/Build/validate_native.py",
+    "Sources/Gate_Mapping.csv",
+    "Sources/HF02_Repair/HF02_Detail_Validation.json",
+    "Sources/HF02_Repair/HF02_Final_Validation.json",
+    "Sources/HF02_Repair/Preview_Method.json",
+    "Sources/HF02_Repair/current-global-KIAH-reference.dat",
+    "Sources/HF02_Repair/package_review.py",
+    "Sources/HF02_Repair/prepare_hf02.py",
+    "Sources/HF02_Repair/prepare_previews.py",
+    "Sources/HF02_Repair/render_hf02.py",
+    "Sources/HF02_Repair/repair_airport_details.py",
+    "Sources/HF02_Repair/scene-hf02.json",
+    "Sources/HF02_Repair/sign-tiles-hf02.json",
+    "Sources/HF02_Repair/sign_groups.py",
+    "Sources/HF02_Repair/validate_hf02.py",
+    "Sources/HF02_Repair/validate_native_jetway_shapes.py",
+    "Sources/HF03_Repair/HF03_Changes.json",
+    "Sources/HF03_Repair/HF03_Validation.json",
+    "Sources/HF03_Repair/Preview_Method.json",
+    "Sources/HF03_Repair/cleanup-mask.json",
+    "Sources/HF03_Repair/jetway_repair.py",
+    "Sources/HF03_Repair/jetways.json",
+    "Sources/HF03_Repair/package_review.py",
+    "Sources/HF03_Repair/prepare_previews.py",
+    "Sources/HF03_Repair/render_hf03.py",
+    "Sources/HF03_Repair/repair_hf03.py",
+    "Sources/HF03_Repair/repair_service_paths.py",
+    "Sources/HF03_Repair/review_maps.py",
+    "Sources/HF03_Repair/scene-hf03.json",
+    "Sources/HF03_Repair/service-repair.json",
+    "Sources/HF03_Repair/setup_previews.py",
+    "Sources/HF03_Repair/validate_hf03.py",
+    "Sources/HF04_Repair/HF04_Changes.json",
+    "Sources/HF04_Repair/HF04_Validation.json",
+    "Sources/HF04_Repair/Preview_Method.json",
+    "Sources/HF04_Repair/common.py",
+    "Sources/HF04_Repair/package_review.py",
+    "Sources/HF04_Repair/prepare_previews.py",
+    "Sources/HF04_Repair/render_hf04.py",
+    "Sources/HF04_Repair/repair_hf04.py",
+    "Sources/HF04_Repair/setup_previews.py",
+    "Sources/HF04_Repair/validate_hf04.py",
+    "Sources/HF05_Repair/HF05_Changes.json",
+    "Sources/HF05_Repair/HF05_Validation.json",
+    "Sources/HF05_Repair/Preview_Method.json",
+    "Sources/HF05_Repair/aep_preview_map.py",
+    "Sources/HF05_Repair/hf05_common.py",
+    "Sources/HF05_Repair/package_hf05.py",
+    "Sources/HF05_Repair/prepare_previews.py",
+    "Sources/HF05_Repair/preserve_dsf_binary.py",
+    "Sources/HF05_Repair/render_hf05.py",
+    "Sources/HF05_Repair/repair_hf05.py",
+    "Sources/HF05_Repair/validate_hf05.py",
+    "Sources/HF06_Repair/AEP_Compatibility_Baseline.json",
+    "Sources/HF06_Repair/AEP_Compatibility_Workflow.txt",
+    "Sources/HF06_Repair/HF06_Changes.json",
+    "Sources/HF06_Repair/HF06_Long_Aircraft_Check.json",
+    "Sources/HF06_Repair/HF06_Validation.json",
+    "Sources/HF06_Repair/Preview_Method.json",
+    "Sources/HF06_Repair/compatibility_guard.py",
+    "Sources/HF06_Repair/focus_audit.py",
+    "Sources/HF06_Repair/inspect_hf06.py",
+    "Sources/HF06_Repair/long_aircraft_check.py",
+    "Sources/HF06_Repair/package_hf06.py",
+    "Sources/HF06_Repair/prepare_previews.py",
+    "Sources/HF06_Repair/preview_maps.py",
+    "Sources/HF06_Repair/render_hf06.py",
+    "Sources/HF06_Repair/repair_hf06.py",
+    "Sources/HF06_Repair/revise_b_lane.py",
+    "Sources/HF06_Repair/setup_previews.py",
+    "Sources/HF06_Repair/validate_hf06.py",
+    "Sources/R02-artwork-build-report.json",
+    "Sources/R02-artwork-validation.json",
+    "Sources/R03-HF01-validation.json",
+    "Sources/R03_Build/check_airport_structure.py",
+    "Sources/R03_Build/finish_r03.py",
+    "Sources/R03_Build/route_audit_r03.py",
+    "Sources/R03_Build/route_build_r03.py",
+    "Sources/R03_Build/route_common.py",
+    "Sources/R03_Build/route_previews_r03.py",
+    "Sources/R03_Build/route_review_template.html",
+    "Sources/R03_HF01_historical_notes.txt",
+    "Sources/R03_HF02_historical_notes.txt",
+    "Sources/R03_HF03_historical_notes.txt",
+    "Sources/R03_HF04_historical_notes.txt",
+    "Sources/R03_HF05_historical_notes.txt",
+    "Sources/Ramp_Access_Audit.csv",
+    "Sources/Service_Depot_Access.csv",
+    "Sources/Service_Stand_Coverage.csv",
+    "Sources/build-report.json",
+    "Sources/current-terminal-footprints.geojson",
+    "Sources/imagery-capture-metadata.json",
+    "Sources/modified-north-scenery.txt",
+    "Sources/modified-south-scenery.txt",
+    "Sources/offline-validation.json",
+    "Sources/references.json",
+    "Sources/routing-build-report.json",
+    "Sources/terminal-source-manifest.json",
+    "VARIANT.txt",
+    "changelog.txt",
+    "objects/B_Lobby_Closed.obj",
+    "objects/B_North.obj",
+    "objects/Current_Stand_Labels.obj",
+    "objects/D_West.obj",
+    "objects/International_Processor.obj",
+    "objects/United_Maintenance_Exterior.obj",
+    "objects/bridge_A20.obj",
+    "objects/bridge_B1.obj",
+    "objects/bridge_B10.obj",
+    "objects/bridge_B11.obj",
+    "objects/bridge_B12.obj",
+    "objects/bridge_B14.obj",
+    "objects/bridge_B15.obj",
+    "objects/bridge_B16.obj",
+    "objects/bridge_B17.obj",
+    "objects/bridge_B18.obj",
+    "objects/bridge_B19.obj",
+    "objects/bridge_B2.obj",
+    "objects/bridge_B20.obj",
+    "objects/bridge_B21.obj",
+    "objects/bridge_B22.obj",
+    "objects/bridge_B23.obj",
+    "objects/bridge_B3.obj",
+    "objects/bridge_B4.obj",
+    "objects/bridge_B5.obj",
+    "objects/bridge_B6.obj",
+    "objects/bridge_B7.obj",
+    "objects/bridge_B8.obj",
+    "objects/bridge_B9.obj",
+    "objects/bridge_C12.obj",
+    "objects/bridge_C14.obj",
+    "objects/bridge_C15.obj",
+    "objects/bridge_D1.obj",
+    "objects/bridge_D2.obj",
+    "objects/bridge_D3.obj",
+    "objects/bridge_D4.obj",
+    "objects/bridge_D5.obj",
+    "objects/bridge_D6.obj",
+    "objects/nrt_test/apron_material.obj",
+    "objects/nrt_test/cargo.obj",
+    "objects/nrt_test/cargo_recess_walls.obj",
+    "objects/nrt_test/fbo.obj",
+    "objects/nrt_test/fbo_ground_tower.obj",
+    "objects/nrt_test/fixed_8.obj",
+    "objects/nrt_test/fixed_9A.obj",
+    "objects/nrt_test/fixed_9B.obj",
+    "objects/nrt_test/floor_wear_mh1.obj",
+    "objects/nrt_test/floor_wear_mh2.obj",
+    "objects/nrt_test/floor_wear_mh3.obj",
+    "objects/nrt_test/garage_t02_m01.obj",
+    "objects/nrt_test/garage_t02_m02.obj",
+    "objects/nrt_test/garage_t02_m05.obj",
+    "objects/nrt_test/garage_t02_m06.obj",
+    "objects/nrt_test/garage_t02_m07.obj",
+    "objects/nrt_test/garage_t02_m08.obj",
+    "objects/nrt_test/garage_t02_m09.obj",
+    "objects/nrt_test/garage_t02_m10.obj",
+    "objects/nrt_test/garage_t02_m12.obj",
+    "objects/nrt_test/garage_t02_m13.obj",
+    "objects/nrt_test/garage_t02_m14.obj",
+    "objects/nrt_test/garage_t02_m20.obj",
+    "objects/nrt_test/garage_t02_m24.obj",
+    "objects/nrt_test/garage_t02_m25.obj",
+    "objects/nrt_test/garage_t02_m26.obj",
+    "objects/nrt_test/garage_t02_m27.obj",
+    "objects/nrt_test/garage_t02_m28.obj",
+    "objects/nrt_test/garage_t02_m29.obj",
+    "objects/nrt_test/garage_t02_m30.obj",
+    "objects/nrt_test/garage_t02_m37.obj",
+    "objects/nrt_test/garage_t02_m39.obj",
+    "objects/nrt_test/garage_t02_m40.obj",
+    "objects/nrt_test/garage_t02_m41.obj",
+    "objects/nrt_test/garage_t02_m42.obj",
+    "objects/nrt_test/garage_t02_m43.obj",
+    "objects/nrt_test/garage_t02_m44.obj",
+    "objects/nrt_test/garage_t02_m45.obj",
+    "objects/nrt_test/landside_curbs.obj",
+    "objects/nrt_test/landside_fence.obj",
+    "objects/nrt_test/landside_lights.obj",
+    "objects/nrt_test/landside_paint.obj",
+    "objects/nrt_test/landside_security.obj",
+    "objects/nrt_test/landside_signboards.obj",
+    "objects/nrt_test/landside_stencils.obj",
+    "objects/nrt_test/landside_surface.obj",
+    "objects/nrt_test/mh2_accordion_hangar.obj",
+    "objects/nrt_test/mh3_accordion_hangar.obj",
+    "objects/nrt_test/mx_7478I_proxy.obj",
+    "objects/nrt_test/mx_service_lights.obj",
+    "objects/nrt_test/mx_stepped_hangar.obj",
+    "objects/nrt_test/paint.obj",
+    "objects/nrt_test/r21_arrival_landscape.obj",
+    "objects/nrt_test/r21_arrival_paint.obj",
+    "objects/nrt_test/r21_identity.obj",
+    "objects/nrt_test/r21_planting_bed.obj",
+    "objects/nrt_test/r21_private_hangar.obj",
+    "objects/nrt_test/r21_stand_ids.obj",
+    "objects/nrt_test/r21_terminal_canopy.obj",
+    "objects/nrt_test/r22_nrt_truck_doors.obj",
+    "objects/nrt_test/r22_nrt_truck_garage.obj",
+    "objects/nrt_test/r22_nrt_truck_signs.obj",
+    "objects/nrt_test/r23_ground_ids.obj",
+    "objects/nrt_test/r23_identity.obj",
+    "objects/nrt_test/r23_jet_center.obj",
+    "objects/nrt_test/r23_ramp_details.obj",
+    "objects/nrt_test/r24_access_ids.obj",
+    "objects/nrt_test/r24_access_paint.obj",
+    "objects/nrt_test/r24_ground_ids.obj",
+    "objects/nrt_test/r24_heli_access_door.obj",
+    "objects/nrt_test/r24_identity.obj",
+    "objects/nrt_test/r24_indoor_parking.obj",
+    "objects/nrt_test/r24_jet_center.obj",
+    "objects/nrt_test/r24_ramp_details.obj",
+    "objects/nrt_test/r25_access_ids.obj",
+    "objects/nrt_test/r25_access_paint.obj",
+    "objects/nrt_test/r25_fixed_8.obj",
+    "objects/nrt_test/r25_fixed_9A.obj",
+    "objects/nrt_test/r25_fixed_9B.obj",
+    "objects/nrt_test/r25_ground_ids.obj",
+    "objects/nrt_test/r25_human_details.obj",
+    "objects/nrt_test/r25_identity.obj",
+    "objects/nrt_test/r25_jet_center.obj",
+    "objects/nrt_test/r25_jetway_portals.obj",
+    "objects/nrt_test/r25_ramp_details.obj",
+    "objects/nrt_test/r26_hangar_work_lights.obj",
+    "objects/nrt_test/r26_service_road_paint.obj",
+    "objects/nrt_test/r26_terminal_work_lights.obj",
+    "objects/nrt_test/r27_canopy_floor.obj",
+    "objects/nrt_test/r27_indoor_floor.obj",
+    "objects/nrt_test/r27_service_road_paint.obj",
+    "objects/nrt_test/r27_sheltered_guidance.obj",
+    "objects/nrt_test/ramp_safety.obj",
+    "objects/nrt_test/ramp_wear.obj",
+    "objects/nrt_test/signs_cargo.obj",
+    "objects/nrt_test/signs_fbo.obj",
+    "objects/nrt_test/signs_mh2_accordion_hangar.obj",
+    "objects/nrt_test/signs_mh3_accordion_hangar.obj",
+    "objects/nrt_test/signs_mx_stepped_hangar.obj",
+    "objects/nrt_test/taxi_wear.obj",
+    "objects/nrt_test/truck_parallel_bays.obj",
+    "objects/nrt_test/truck_parallel_ids.obj",
+    "opensam.xml",
+    "sam.xml",
+    "textures/nrt_test/apron.dds",
+    "textures/nrt_test/apron.png",
+    "textures/nrt_test/apron_NML.png",
+    "textures/nrt_test/atlas.png",
+    "textures/nrt_test/buildings.dds",
+    "textures/nrt_test/buildings.png",
+    "textures/nrt_test/buildings_LIT.dds",
+    "textures/nrt_test/buildings_LIT.png",
+    "textures/nrt_test/buildings_NML.png",
+    "textures/nrt_test/garage_t02_m01.dds",
+    "textures/nrt_test/garage_t02_m01.png",
+    "textures/nrt_test/garage_t02_m02.dds",
+    "textures/nrt_test/garage_t02_m02.png",
+    "textures/nrt_test/garage_t02_m05.dds",
+    "textures/nrt_test/garage_t02_m05.png",
+    "textures/nrt_test/garage_t02_m06.dds",
+    "textures/nrt_test/garage_t02_m06.png",
+    "textures/nrt_test/garage_t02_m07.dds",
+    "textures/nrt_test/garage_t02_m07.png",
+    "textures/nrt_test/garage_t02_m08.dds",
+    "textures/nrt_test/garage_t02_m08.png",
+    "textures/nrt_test/garage_t02_m09.dds",
+    "textures/nrt_test/garage_t02_m09.png",
+    "textures/nrt_test/garage_t02_m10.dds",
+    "textures/nrt_test/garage_t02_m10.png",
+    "textures/nrt_test/garage_t02_m12.dds",
+    "textures/nrt_test/garage_t02_m12.png",
+    "textures/nrt_test/garage_t02_m13.dds",
+    "textures/nrt_test/garage_t02_m13.png",
+    "textures/nrt_test/garage_t02_m14.dds",
+    "textures/nrt_test/garage_t02_m14.png",
+    "textures/nrt_test/garage_t02_m20.dds",
+    "textures/nrt_test/garage_t02_m20.png",
+    "textures/nrt_test/garage_t02_m24.dds",
+    "textures/nrt_test/garage_t02_m24.png",
+    "textures/nrt_test/garage_t02_m25.dds",
+    "textures/nrt_test/garage_t02_m25.png",
+    "textures/nrt_test/garage_t02_m26.dds",
+    "textures/nrt_test/garage_t02_m26.png",
+    "textures/nrt_test/garage_t02_m27.dds",
+    "textures/nrt_test/garage_t02_m27.png",
+    "textures/nrt_test/garage_t02_m28.dds",
+    "textures/nrt_test/garage_t02_m28.png",
+    "textures/nrt_test/garage_t02_m29.dds",
+    "textures/nrt_test/garage_t02_m29.png",
+    "textures/nrt_test/garage_t02_m30.dds",
+    "textures/nrt_test/garage_t02_m30.png",
+    "textures/nrt_test/garage_t02_m37.dds",
+    "textures/nrt_test/garage_t02_m37.png",
+    "textures/nrt_test/garage_t02_m39.dds",
+    "textures/nrt_test/garage_t02_m39.png",
+    "textures/nrt_test/garage_t02_m40.dds",
+    "textures/nrt_test/garage_t02_m40.png",
+    "textures/nrt_test/garage_t02_m41.dds",
+    "textures/nrt_test/garage_t02_m41.png",
+    "textures/nrt_test/garage_t02_m42.dds",
+    "textures/nrt_test/garage_t02_m42.png",
+    "textures/nrt_test/garage_t02_m43.dds",
+    "textures/nrt_test/garage_t02_m43.png",
+    "textures/nrt_test/garage_t02_m44.dds",
+    "textures/nrt_test/garage_t02_m44.png",
+    "textures/nrt_test/garage_t02_m45.dds",
+    "textures/nrt_test/garage_t02_m45.png",
+    "textures/nrt_test/landside_asphalt.dds",
+    "textures/nrt_test/landside_asphalt.png",
+    "textures/nrt_test/landside_fence.dds",
+    "textures/nrt_test/landside_fence.png",
+    "textures/nrt_test/landside_stencils.dds",
+    "textures/nrt_test/landside_stencils.png",
+    "textures/nrt_test/nrt_identity.dds",
+    "textures/nrt_test/nrt_identity.png",
+    "textures/nrt_test/nrt_identity_LIT.dds",
+    "textures/nrt_test/nrt_identity_LIT.png",
+    "textures/nrt_test/r21_ground_ids.dds",
+    "textures/nrt_test/r21_ground_ids.png",
+    "textures/nrt_test/r21_identity.dds",
+    "textures/nrt_test/r21_identity.png",
+    "textures/nrt_test/r21_identity_LIT.dds",
+    "textures/nrt_test/r21_identity_LIT.png",
+    "textures/nrt_test/r21_planting.dds",
+    "textures/nrt_test/r21_planting.png",
+    "textures/nrt_test/r22_garage_materials.dds",
+    "textures/nrt_test/r22_garage_materials.png",
+    "textures/nrt_test/r22_garage_materials_LIT.dds",
+    "textures/nrt_test/r22_garage_materials_LIT.png",
+    "textures/nrt_test/r22_garage_materials_NML.png",
+    "textures/nrt_test/r22_garage_signs.dds",
+    "textures/nrt_test/r22_garage_signs.png",
+    "textures/nrt_test/r22_garage_signs_LIT.dds",
+    "textures/nrt_test/r22_garage_signs_LIT.png",
+    "textures/nrt_test/r23_ground_ids.dds",
+    "textures/nrt_test/r23_ground_ids.png",
+    "textures/nrt_test/r23_identity.dds",
+    "textures/nrt_test/r23_identity.png",
+    "textures/nrt_test/r23_identity_LIT.dds",
+    "textures/nrt_test/r23_identity_LIT.png",
+    "textures/nrt_test/r23_materials.dds",
+    "textures/nrt_test/r23_materials.png",
+    "textures/nrt_test/r23_materials_LIT.dds",
+    "textures/nrt_test/r23_materials_LIT.png",
+    "textures/nrt_test/r23_materials_NML.png",
+    "textures/nrt_test/r24_ground_ids.dds",
+    "textures/nrt_test/r24_ground_ids.png",
+    "textures/nrt_test/r24_identity.dds",
+    "textures/nrt_test/r24_identity.png",
+    "textures/nrt_test/r24_identity_LIT.dds",
+    "textures/nrt_test/r24_identity_LIT.png",
+    "textures/nrt_test/r24_materials.dds",
+    "textures/nrt_test/r24_materials.png",
+    "textures/nrt_test/r24_materials_LIT.dds",
+    "textures/nrt_test/r24_materials_LIT.png",
+    "textures/nrt_test/r24_materials_NML.png",
+    "textures/nrt_test/r25_ground_ids.dds",
+    "textures/nrt_test/r25_ground_ids.png",
+    "textures/nrt_test/r25_identity.dds",
+    "textures/nrt_test/r25_identity.png",
+    "textures/nrt_test/r25_identity_LIT.dds",
+    "textures/nrt_test/r25_identity_LIT.png",
+    "textures/nrt_test/r25_materials.dds",
+    "textures/nrt_test/r25_materials.png",
+    "textures/nrt_test/r25_materials_LIT.dds",
+    "textures/nrt_test/r25_materials_LIT.png",
+    "textures/nrt_test/r25_materials_NML.png",
+    "textures/nrt_test/ramp_wear.dds",
+    "textures/nrt_test/ramp_wear.png",
+    "textures/nrt_test/refined_markings.dds",
+    "textures/nrt_test/refined_markings.png",
+    "textures/nrt_test/signs.dds",
+    "textures/nrt_test/signs.png",
+    "textures/nrt_test/signs_LIT.dds",
+    "textures/nrt_test/signs_LIT.png",
+    "textures/nrt_test/taxi_wear.dds",
+    "textures/nrt_test/taxi_wear.png",
+    "textures/terminal_atlas.png",
+    "textures/terminal_atlas_LIT.png"
+  ],
+  "default_channel": "main"
 }

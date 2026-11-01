@@ -1,0 +1,145 @@
+﻿gate,directory_latitude,directory_longitude,native_start,status,basis,confidence_note
+A1,29.987764,-95.350359,Gate A1,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A2,29.987763,-95.350784,Gate A2,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A3,29.987765,-95.350953,,A3 walkout group: A3B-A3G retained,Gateway walkout substands,Scenery placement; not an aircraft-specific docking survey
+A7,29.987787,-95.349292,Gate A7,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A8,29.988137,-95.349291,Gate A8,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A9,29.988401,-95.349292,Gate A9,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A10,29.988552,-95.349584,Gate A10,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A11,29.988658,-95.349288,Gate A11,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A12,29.988886,-95.349587,Gate A12,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A14,29.989216,-95.349588,Gate A14,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A15,29.989104,-95.349291,Gate A15,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A17,29.985325,-95.349289,Gate A17,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A18,29.985049,-95.349288,Gate A18,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A19,29.984973,-95.349288,Gate A19,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A20,29.984946,-95.34943,Gate A20,Aircraft start present,"OSM mapped aircraft lead-in, checked against Vantor aerial; modeled nose-wheel stop",Scenery placement; not an aircraft-specific docking survey
+A24,29.98512,-95.349583,Gate A24,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A25,29.985634,-95.350809,Gate A25,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A26,29.985599,-95.35113,Gate A26,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A27,29.985605,-95.351531,Gate A27,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A29,29.985655,-95.351664,Gate A29,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+A30,29.985765,-95.351664,Gate A30,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+B1,29.98833,-95.343893,Gate B1,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B2,29.988677,-95.343893,Gate B2,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B3,29.98932,-95.343844,Gate B3,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B4,29.989467,-95.343844,Gate B4,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B5,29.989637,-95.343925,Gate B5,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B6,29.989637,-95.344018,Gate B6,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B7,29.989591,-95.344128,Gate B7,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B8,29.989302,-95.3443,Gate B8,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B9,29.988666,-95.344254,Gate B9,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B10,29.987914,-95.344917,Gate B10,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B11,29.987968,-95.345531,Gate B11,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B12,29.988331,-95.346575,Gate B12,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B14,29.988732,-95.346576,Gate B14,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B15,29.989325,-95.346528,Gate B15,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B16,29.98947,-95.346528,Gate B16,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B17,29.989638,-95.346609,Gate B17,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B18,29.989638,-95.346702,Gate B18,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B19,29.989589,-95.346814,Gate B19,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B20,29.989236,-95.346984,Gate B20,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B21,29.988719,-95.346938,Gate B21,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B22,29.988584,-95.346938,Gate B22,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B23,29.987998,-95.347174,Gate B23,Aircraft start present,modeled from current gate door and terminal footprint,Scenery placement; not an aircraft-specific docking survey
+B40,29.985039,-95.344104,Gate B40,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B41,29.984704,-95.344104,Gate B41,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B42,29.984578,-95.344081,Gate B42,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B43,29.984546,-95.344128,Gate B43,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B44,29.984578,-95.344203,Gate B44,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B45,29.984882,-95.344179,Gate B45,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B46,29.985239,-95.344205,Gate B46,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B47,29.98554,-95.344181,Gate B47,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B48,29.985755,-95.34464,Gate B48,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B50,29.985186,-95.345608,Gate B50,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B51,29.984909,-95.345586,Gate B51,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B52,29.984633,-95.345608,Gate B52,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B53,29.984518,-95.345652,Gate B53,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B54,29.984548,-95.345713,Gate B54,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B55,29.984808,-95.345685,Gate B55,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B56,29.985129,-95.345685,Gate B56,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B57,29.985304,-95.345685,Gate B57,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B60,29.98575,-95.346859,Gate B60,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B61,29.985348,-95.347113,Gate B61,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B62,29.985024,-95.347115,Gate B62,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B63,29.984675,-95.347114,Gate B63,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B64,29.984516,-95.347162,Gate B64,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B65,29.984879,-95.347189,Gate B65,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B66,29.985196,-95.347192,Gate B66,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B67,29.985543,-95.347192,Gate B67,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+B68,29.985791,-95.347132,Gate B68,Aircraft start present,2023 stand retained; renumbered to 2026 B South published gate,Scenery placement; not an aircraft-specific docking survey
+C1,29.987728,-95.339591,Gate C1,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C2,29.987729,-95.340169,Gate C2,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C3,29.98781,-95.340456,Gate C3,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C4,29.988298,-95.341288,Gate C4,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C5,29.988637,-95.341287,Gate C5,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C6,29.989145,-95.341286,Gate C6,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C7,29.989597,-95.341403,Gate C7,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C8,29.989597,-95.341517,Gate C8,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C9,29.989474,-95.341632,Gate C9,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C10,29.989098,-95.341633,Gate C10,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C11,29.988728,-95.341633,Gate C11,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C12,29.988142,-95.341634,Gate C12,Aircraft start present,position adjusted to current C connector gate door; modeled stop point,Scenery placement; not an aircraft-specific docking survey
+C14,29.987808,-95.342381,Gate C14,Aircraft start present,position adjusted to current C connector gate door; modeled stop point,Scenery placement; not an aircraft-specific docking survey
+C15,29.987808,-95.342935,Gate C15,Aircraft start present,position adjusted to current C connector gate door; modeled stop point,Scenery placement; not an aircraft-specific docking survey
+C29,29.985744,-95.340712,,No aircraft spawn: removed stand footprint,2015 permanent gate-removal chart notice archived by NTSB; 2025 aerial shows service space and no stand/jetway. Passenger map still lists C29.,Evidence supports omission; reopening after aerial capture not independently confirmed.
+C30,29.985651,-95.340652,Gate C30,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C31,29.985651,-95.340402,Gate C31,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C32,29.985653,-95.340025,Gate C32,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C33,29.985651,-95.339645,Gate C33,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C34,29.985116,-95.338617,Gate C34,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C35,29.984826,-95.338617,Gate C35,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C36,29.984518,-95.338615,Gate C36,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C37,29.984325,-95.338616,Gate C37,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C39,29.984235,-95.338363,Gate C39,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C40,29.984376,-95.338363,Gate C40,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C41,29.984665,-95.338365,Gate C41,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C42,29.984958,-95.338365,Gate C42,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C43,29.985651,-95.3375,Gate C43,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C44,29.985652,-95.337047,Gate C44,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+C45,29.985653,-95.336659,Gate C45,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+D1A,29.988342,-95.338471,Gate D1A,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D1B,29.98842,-95.338471,Gate D1B,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D2A,29.988947,-95.338708,Gate D2A,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D2B,29.989026,-95.338708,Gate D2B,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D3,29.989007,-95.338471,Gate D3,Aircraft start present,modeled MARS wide-body position from current door group,Scenery placement; not an aircraft-specific docking survey
+D4A,29.9896,-95.338708,Gate D4A,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D4B,29.989679,-95.338708,Gate D4B,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D5A,29.989542,-95.338472,Gate D5A,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D5B,29.989621,-95.338472,Gate D5B,Aircraft start present,manual-select MARS alternative; mutually exclusive with parent wide-body gate,Scenery placement; not an aircraft-specific docking survey
+D6,29.98977,-95.33857,Gate D6,Aircraft start present,modeled MARS wide-body position from current door group,Scenery placement; not an aircraft-specific docking survey
+D7,29.987716,-95.337233,Gate D7,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D8,29.987716,-95.336928,Gate D8,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D9,29.987717,-95.336728,Gate D9,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D10,29.987947,-95.335231,Gate D10,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D11,29.987972,-95.33516,Gate D11,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D12,29.987974,-95.334563,Gate D12,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D14,29.987967,-95.33396,Gate D14,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D15,29.987967,-95.333361,Gate D15,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D16,29.987973,-95.33276,Gate D16,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D17,29.987974,-95.332161,Gate D17,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D18A,29.987907,-95.332086,Gate D18A,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+D18B,29.98785,-95.332085,Gate D18B,Aircraft start present,existing D apron position; 2026 gate renumbering,Scenery placement; not an aircraft-specific docking survey
+E1,29.985541,-95.335806,Gate E1,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E2,29.984862,-95.335513,Gate E2,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E3,29.984799,-95.335517,Gate E3,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E4,29.984499,-95.335462,Gate E4,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E5,29.984166,-95.33552,Gate E5,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E6,29.984169,-95.335014,,No aircraft spawn: former stand within E5/E7 apron,2025 aerial and mapped aircraft lead-ins show no independent E6 stand between E5 and E7. Historical removal report is supporting evidence only. Passenger map still lists E6.,Conservative scenery interpretation; no current airport-issued stand-allocation drawing obtained.
+E7,29.984169,-95.334954,Gate E7,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E8,29.9846,-95.335022,Gate E8,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E9,29.984725,-95.334962,Gate E9,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E10,29.985591,-95.334597,Gate E10,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E11,29.985591,-95.33442,Gate E11,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E12,29.985585,-95.333299,Gate E12,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E14,29.985585,-95.332845,Gate E14,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E15,29.98494,-95.332499,Gate E15,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E16,29.984795,-95.33251,Gate E16,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E17,29.984501,-95.332456,Gate E17,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E18,29.984171,-95.332503,Gate E18,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E19,29.984169,-95.331973,Gate E19,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E20,29.984535,-95.332009,Gate E20,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E21,29.984697,-95.331981,Gate E21,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E22,29.98494,-95.331964,Gate E22,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E23,29.985262,-95.332079,Gate E23,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey
+E24,29.98549,-95.332081,Gate E24,Aircraft start present,retained Gateway 99761 position,Scenery placement; not an aircraft-specific docking survey

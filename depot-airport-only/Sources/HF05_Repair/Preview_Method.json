@@ -1,0 +1,17 @@
+{
+  "revision": "KIAH R03 HF05",
+  "images": {
+    "00_User_HF04_Screenshot.png": "Unmodified user-supplied X-Plane screenshot of installed HF04. Runtime before evidence.",
+    "02_B_North_After.png": "Offline Blender render of staged HF05 native pavement, actual custom OBJ8 models, stock parked jetway meshes and retained markings.",
+    "04_B5_Island_After.png": "Offline Blender render of staged HF05 pier tips and apron.",
+    "05_AEP_Overlay_Audit.png": "Geometry audit map of the installed AEP asphalt overlay footprint, HF04 cleanup boundary and retained native airport layout."
+  },
+  "renderer": "Blender Cycles for after views; matplotlib for source audit map.",
+  "scope": "After views are geometry previews, not simulator screenshots. Surface colours, line widths and lighting are approximate. Gray retained building massing is simplified. AEP material replacements and visual effects, terrain relief, equipment and traffic are not rendered. No docking or vehicle simulation. The separately decoded final DSF exclusions were checked against the installed AEP overlay primitives. Exclusions remove whole overlay primitives, not just the portion within a mask; retained native airport pavement remains outside the local asphalt cut.",
+  "airport_data_inputs": {
+    "Before": "8628aac7c991984c8638169e29eb3c92782858602b0fa7decf655f4baa14e104",
+    "After": "f89a8e83d263dee9eccbad0cec5baaf1a4c04991bb0bc9d0f45c5a31e9ddaf53"
+  },
+  "final_south_dsf_sha256": "4b9ac378a0749b6b58360833923472a735e955ca7c88295a7928262d3f745891",
+  "acceptance": "Offline checks only; X-Plane visual test pending."
+}

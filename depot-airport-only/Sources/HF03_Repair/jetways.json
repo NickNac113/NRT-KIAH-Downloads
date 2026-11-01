@@ -1,0 +1,290 @@
+[
+  {
+    "gate": "B1",
+    "old_record": "1500 29.98824440 -95.34382915 80.96 1 0 80.96 13.93 35.96",
+    "new_record": "1500 29.98824440 -95.34382915 80.96 1 0 122.960 11.150 77.960",
+    "aircraft_clearance_m": 4.9915533923024045,
+    "building_clearance_m": 4.503776535078722,
+    "neighbor_fixed_clearance_m": 38.22963990269532,
+    "neighbor_moving_clearance_m": 181.18147062720942
+  },
+  {
+    "gate": "B2",
+    "old_record": "1500 29.98860483 -95.34381010 68.96 1 0 68.96 13.93 23.96",
+    "new_record": "1500 29.98860483 -95.34381010 68.96 1 0 110.960 11.150 65.960",
+    "aircraft_clearance_m": 4.991553392302342,
+    "building_clearance_m": 6.401085260429251,
+    "neighbor_fixed_clearance_m": 27.80408190344802,
+    "neighbor_moving_clearance_m": 34.752978965071016
+  },
+  {
+    "gate": "B3",
+    "old_record": "1500 29.98926146 -95.34374796 67.74 1 1 67.74 23.54 22.74",
+    "new_record": "1500 29.98926146 -95.34374796 67.74 1 1 91.740 14.150 46.740",
+    "aircraft_clearance_m": 5.003119667526291,
+    "building_clearance_m": 7.758826938415846,
+    "neighbor_fixed_clearance_m": 18.856258401778085,
+    "neighbor_moving_clearance_m": 70.32548632402423
+  },
+  {
+    "gate": "B4",
+    "old_record": "1500 29.98945810 -95.34372721 37.74 1 1 37.74 23.54 352.74",
+    "new_record": "1500 29.98945810 -95.34372721 37.74 1 1 61.740 14.150 16.740",
+    "aircraft_clearance_m": 5.003119667526302,
+    "building_clearance_m": 9.644675593719981,
+    "neighbor_fixed_clearance_m": 16.811500585885103,
+    "neighbor_moving_clearance_m": 19.52233426965834
+  },
+  {
+    "gate": "B5",
+    "old_record": "1500 29.98968803 -95.34382347 2.74 1 1 2.74 23.54 317.74",
+    "new_record": "1500 29.98968803 -95.34382347 2.74 1 1 26.740 14.150 341.740",
+    "aircraft_clearance_m": 5.003119667526309,
+    "building_clearance_m": 4.277091488811716,
+    "neighbor_fixed_clearance_m": 12.24834846150852,
+    "neighbor_moving_clearance_m": 24.17102592434863
+  },
+  {
+    "gate": "B6",
+    "old_record": "1500 29.98972950 -95.34396845 327.74 1 1 327.74 23.54 282.74",
+    "new_record": "1500 29.98972950 -95.34396845 327.74 1 1 351.740 14.150 306.740",
+    "aircraft_clearance_m": 5.003119667526244,
+    "building_clearance_m": 8.791205347958874,
+    "neighbor_fixed_clearance_m": 8.799028061768201,
+    "neighbor_moving_clearance_m": 12.997632776799271
+  },
+  {
+    "gate": "B7",
+    "old_record": "1500 29.98969267 -95.34413822 297.74 1 1 297.74 23.54 252.74",
+    "new_record": "1500 29.98969267 -95.34413822 297.74 1 1 321.740 14.150 276.740",
+    "aircraft_clearance_m": 5.003119667526098,
+    "building_clearance_m": 6.161677084298147,
+    "neighbor_fixed_clearance_m": 10.928769698935852,
+    "neighbor_moving_clearance_m": 15.012445176879845
+  },
+  {
+    "gate": "B8",
+    "old_record": "1500 29.98939039 -95.34435862 263.96 1 0 263.96 13.93 218.96",
+    "new_record": "1500 29.98939039 -95.34435862 263.96 1 0 305.960 11.150 260.960",
+    "aircraft_clearance_m": 4.991553392302351,
+    "building_clearance_m": 4.222342831765798,
+    "neighbor_fixed_clearance_m": 28.605823782622217,
+    "neighbor_moving_clearance_m": 36.41215673206092
+  },
+  {
+    "gate": "B9",
+    "old_record": "1500 29.98873817 -95.34433690 248.96 1 0 248.96 13.93 203.96",
+    "new_record": "1500 29.98873817 -95.34433690 248.96 1 0 290.960 11.150 245.960",
+    "aircraft_clearance_m": 4.991553392302342,
+    "building_clearance_m": 6.404952771745696,
+    "neighbor_fixed_clearance_m": 41.885468216360806,
+    "neighbor_moving_clearance_m": 51.77762627144442
+  },
+  {
+    "gate": "B10",
+    "old_record": "1500 29.98798617 -95.34483410 345.26 1 0 345.26 19.65 300.26",
+    "new_record": "1500 29.98798617 -95.34483410 345.26 1 0 15.260 11.150 330.260",
+    "aircraft_clearance_m": 5.065411169121546,
+    "building_clearance_m": 7.337396695386203,
+    "neighbor_fixed_clearance_m": 57.39239381338618,
+    "neighbor_moving_clearance_m": 77.2059137776105
+  },
+  {
+    "gate": "B11",
+    "old_record": "1500 29.98804017 -95.34544810 345.26 1 0 345.26 19.65 300.26",
+    "new_record": "1500 29.98804017 -95.34544810 345.26 1 0 15.260 11.150 330.260",
+    "aircraft_clearance_m": 5.065411169121546,
+    "building_clearance_m": 6.80763124671018,
+    "neighbor_fixed_clearance_m": 49.58619636599211,
+    "neighbor_moving_clearance_m": 54.04969279845266
+  },
+  {
+    "gate": "B12",
+    "old_record": "1500 29.98825883 -95.34649210 68.96 1 0 68.96 13.93 23.96",
+    "new_record": "1500 29.98825883 -95.34649210 68.96 1 0 110.960 11.150 65.960",
+    "aircraft_clearance_m": 4.991553392302342,
+    "building_clearance_m": 6.463523285127375,
+    "neighbor_fixed_clearance_m": 42.66148937346756,
+    "neighbor_moving_clearance_m": 86.78283389007811
+  },
+  {
+    "gate": "B14",
+    "old_record": "1500 29.98865983 -95.34649310 68.96 1 0 68.96 13.93 23.96",
+    "new_record": "1500 29.98865983 -95.34649310 68.96 1 0 110.960 11.150 65.960",
+    "aircraft_clearance_m": 4.991553392302342,
+    "building_clearance_m": 6.3989884677490725,
+    "neighbor_fixed_clearance_m": 33.189783938855165,
+    "neighbor_moving_clearance_m": 38.3444571820429
+  },
+  {
+    "gate": "B15",
+    "old_record": "1500 29.98926646 -95.34643196 67.74 1 1 67.74 23.54 22.74",
+    "new_record": "1500 29.98926646 -95.34643196 67.74 1 1 91.740 14.150 46.740",
+    "aircraft_clearance_m": 5.003119667526292,
+    "building_clearance_m": 7.826876190519373,
+    "neighbor_fixed_clearance_m": 18.63636604416001,
+    "neighbor_moving_clearance_m": 64.83554843823266
+  },
+  {
+    "gate": "B16",
+    "old_record": "1500 29.98946110 -95.34641121 37.74 1 1 37.74 23.54 352.74",
+    "new_record": "1500 29.98946110 -95.34641121 37.74 1 1 61.740 14.150 16.740",
+    "aircraft_clearance_m": 5.003119667526302,
+    "building_clearance_m": 9.711451218855526,
+    "neighbor_fixed_clearance_m": 16.629891034328207,
+    "neighbor_moving_clearance_m": 19.302441912040262
+  },
+  {
+    "gate": "B17",
+    "old_record": "1500 29.98968903 -95.34650747 2.74 1 1 2.74 23.54 317.74",
+    "new_record": "1500 29.98968903 -95.34650747 2.74 1 1 26.740 14.150 341.740",
+    "aircraft_clearance_m": 5.00311966752628,
+    "building_clearance_m": 4.257203724057206,
+    "neighbor_fixed_clearance_m": 12.248348460168868,
+    "neighbor_moving_clearance_m": 23.994737098311653
+  },
+  {
+    "gate": "B18",
+    "old_record": "1500 29.98973050 -95.34665245 327.74 1 1 327.74 23.54 282.74",
+    "new_record": "1500 29.98973050 -95.34665245 327.74 1 1 351.740 14.150 306.740",
+    "aircraft_clearance_m": 5.003119667526142,
+    "building_clearance_m": 8.749024431562429,
+    "neighbor_fixed_clearance_m": 8.79902806108254,
+    "neighbor_moving_clearance_m": 12.997632775492594
+  },
+  {
+    "gate": "B19",
+    "old_record": "1500 29.98969067 -95.34682422 297.74 1 1 297.74 23.54 252.74",
+    "new_record": "1500 29.98969067 -95.34682422 297.74 1 1 321.740 14.150 276.740",
+    "aircraft_clearance_m": 5.003119667526248,
+    "building_clearance_m": 6.025556895449051,
+    "neighbor_fixed_clearance_m": 10.963144999425625,
+    "neighbor_moving_clearance_m": 15.295747964972096
+  },
+  {
+    "gate": "B20",
+    "old_record": "1500 29.98932439 -95.34704262 263.96 1 0 263.96 13.93 218.96",
+    "new_record": "1500 29.98932439 -95.34704262 263.96 1 0 305.960 11.150 260.960",
+    "aircraft_clearance_m": 4.991553392302351,
+    "building_clearance_m": 4.0428020136783775,
+    "neighbor_fixed_clearance_m": 33.51707281178738,
+    "neighbor_moving_clearance_m": 42.01341204755256
+  },
+  {
+    "gate": "B21",
+    "old_record": "1500 29.98881491 -95.34697810 273.96 1 0 273.96 13.93 228.96",
+    "new_record": "1500 29.98881491 -95.34697810 273.96 1 0 315.960 11.150 270.960",
+    "aircraft_clearance_m": 4.99155339230236,
+    "building_clearance_m": 2.246003835066214,
+    "neighbor_fixed_clearance_m": 20.59874076336602,
+    "neighbor_moving_clearance_m": 46.16951130174456
+  },
+  {
+    "gate": "B22",
+    "old_record": "1500 29.98861891 -95.34704817 223.96 1 0 223.96 13.93 178.96",
+    "new_record": "1500 29.98861891 -95.34704817 223.96 1 0 265.960 11.150 220.960",
+    "aircraft_clearance_m": 4.991553392302383,
+    "building_clearance_m": 9.148942216174076,
+    "neighbor_fixed_clearance_m": 13.329751449376024,
+    "neighbor_moving_clearance_m": 21.178972641598076
+  },
+  {
+    "gate": "B23",
+    "old_record": "1500 29.98807017 -95.34725690 248.96 1 0 248.96 13.93 203.96",
+    "new_record": "1500 29.98807017 -95.34725690 248.96 1 0 290.960 11.150 245.960",
+    "aircraft_clearance_m": 4.991553392302335,
+    "building_clearance_m": 9.704973280986609,
+    "neighbor_fixed_clearance_m": 60.223218027405935,
+    "neighbor_moving_clearance_m": 53.28064287652872
+  },
+  {
+    "gate": "D1",
+    "old_record": "1500 29.98830883 -95.33820157 60.95 1 0 60.95 11.00 15.95",
+    "new_record": "1500 29.98830883 -95.33820157 60.95 1 0 102.950 11.150 57.950",
+    "aircraft_clearance_m": 4.432211531494033,
+    "building_clearance_m": 1.8069417526888372,
+    "neighbor_fixed_clearance_m": 69.33607273429931,
+    "neighbor_moving_clearance_m": 68.74004762301554
+  },
+  {
+    "gate": "D2",
+    "old_record": "1500 29.98905867 -95.33882199 258.23 1 1 258.23 24.52 213.23",
+    "new_record": "1500 29.98905867 -95.33882199 258.23 1 1 282.230 14.150 237.230",
+    "aircraft_clearance_m": 5.175464860581658,
+    "building_clearance_m": 0.994989616933681,
+    "neighbor_fixed_clearance_m": 33.16015737712135,
+    "neighbor_moving_clearance_m": 101.01830969054622
+  },
+  {
+    "gate": "D3",
+    "old_record": "1500 29.98893483 -95.33835701 78.23 1 1 78.23 24.52 33.23",
+    "new_record": "1500 29.98893483 -95.33835701 78.23 1 1 102.230 14.150 57.230",
+    "aircraft_clearance_m": 5.1754648605816564,
+    "building_clearance_m": 2.18823252973935,
+    "neighbor_fixed_clearance_m": 33.16015737712135,
+    "neighbor_moving_clearance_m": 45.75961185035333
+  },
+  {
+    "gate": "D4",
+    "old_record": "1500 29.98974743 -95.33880624 279.88 1 1 279.88 28.44 234.88",
+    "new_record": "1500 29.98974743 -95.33880624 279.88 1 1 297.880 14.150 252.880",
+    "aircraft_clearance_m": 5.183868156422532,
+    "building_clearance_m": 1.202966959126719,
+    "neighbor_fixed_clearance_m": 21.137750769566097,
+    "neighbor_moving_clearance_m": 71.72348146181662
+  },
+  {
+    "gate": "D5",
+    "old_record": "1500 29.98958465 -95.33821968 54.48 1 0 54.48 18.68 9.48",
+    "new_record": "1500 29.98958465 -95.33821968 54.48 1 0 87.480 11.150 42.480",
+    "aircraft_clearance_m": 5.32692784078891,
+    "building_clearance_m": 1.3885648740912033,
+    "neighbor_fixed_clearance_m": 37.21472808920356,
+    "neighbor_moving_clearance_m": 58.117356680114945
+  },
+  {
+    "gate": "D6",
+    "old_record": "1500 29.98986923 -95.33848710 350.54 1 2 350.54 30.41 305.54",
+    "new_record": "1500 29.98986923 -95.33848710 350.54 1 2 8.540 17.150 323.540",
+    "aircraft_clearance_m": 5.184565364400444,
+    "building_clearance_m": 1.3828966009961214,
+    "neighbor_fixed_clearance_m": 29.804355759671736,
+    "neighbor_moving_clearance_m": 32.25869230612101
+  },
+  {
+    "gate": "A20",
+    "old_record": "1500 29.98491073 -95.34960611 132.04 1 2 132.04 30.15 87.04",
+    "new_record": "1500 29.98491073 -95.34960611 132.04 1 2 141.040 17.150 96.040",
+    "aircraft_clearance_m": 5.4540817705631275,
+    "building_clearance_m": 2.73506547077178,
+    "neighbor_fixed_clearance_m": 412.6129987863796,
+    "neighbor_moving_clearance_m": 20.412118954651067
+  },
+  {
+    "gate": "C12",
+    "old_record": "1500 29.98824768 -95.34166285 285.35 1 0 285.35 14.87 240.35",
+    "new_record": "1500 29.98824768 -95.34166285 285.35 1 0 324.350 11.150 279.350",
+    "aircraft_clearance_m": 5.042267895711301,
+    "building_clearance_m": 1.2390660646721985,
+    "neighbor_fixed_clearance_m": 70.70194899220157,
+    "neighbor_moving_clearance_m": 28.148717029106294
+  },
+  {
+    "gate": "C14",
+    "old_record": "1500 29.98788017 -95.34229810 343.61 1 0 343.61 17.72 298.61",
+    "new_record": "1500 29.98788017 -95.34229810 343.61 1 0 16.610 11.150 331.610",
+    "aircraft_clearance_m": 5.1078832738649735,
+    "building_clearance_m": 6.450464568383321,
+    "neighbor_fixed_clearance_m": 51.55822415560109,
+    "neighbor_moving_clearance_m": 59.21324094070908
+  },
+  {
+    "gate": "C15",
+    "old_record": "1500 29.98788017 -95.34285210 343.61 1 0 343.61 17.72 298.61",
+    "new_record": "1500 29.98788017 -95.34285210 343.61 1 0 16.610 11.150 331.610",
+    "aircraft_clearance_m": 5.107883273864967,
+    "building_clearance_m": 6.487112644292434,
+    "neighbor_fixed_clearance_m": 42.225990368375896,
+    "neighbor_moving_clearance_m": 47.7678418234288
+  }
+]

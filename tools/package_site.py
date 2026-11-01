@@ -18,16 +18,12 @@ def safe_path(value):
     return value
 
 
-def package(root, out):
-    root, out = Path(root).resolve(), Path(out).resolve()
-    if out.exists() or out == root or out.is_relative_to(root / 'depot'):
-        raise ValueError('Site output must be a new directory outside the depot')
-    data = json.loads((root / 'release-manifest.json').read_text())
+def validate_depot(depot, data):
     if data['preview_only'] or data['not_for_publication'] or data['local_only_assets']:
         raise ValueError('Cannot publish local-only output')
-    depot = root / 'depot'
     cfg = dict(line.split('|', 1) for line in (depot / 'skunkcrafts_updater.cfg').read_text().splitlines() if line)
     expected_cfg = dict(name=data['product'], module=data['module_url'].rstrip('/'), version=data['version'], locked='false', zone='custom')
+    expected_cfg.update({'channel.' + k: v.rstrip('/') for k, v in data.get('public_channels', {}).items()})
     if cfg != expected_cfg:
         raise ValueError('Updater configuration differs from manifest')
     crcmap = dict(s.rsplit('|', 1) for s in (depot / 'skunkcrafts_updater_whitelist.txt').read_text().splitlines() if s)
@@ -44,7 +40,10 @@ def package(root, out):
             raise ValueError('Payload mismatch: ' + rel)
         if int(crcmap[rel]) != record['crc32'] or record['crc32'] not in (-1, zlib.crc32(content) & 0xffffffff):
             raise ValueError('CRC mismatch: ' + rel)
-    for rel in (depot / 'skunkcrafts_updater_blacklist.txt').read_text().splitlines():
+    deleted = (depot / 'skunkcrafts_updater_blacklist.txt').read_text().splitlines()
+    if 'delete_files' in data and deleted != data['delete_files']:
+        raise ValueError('Blacklist differs from manifest')
+    for rel in deleted:
         safe_path(rel)
         if rel.lower() in {p.lower() for p in paths} or rel.startswith('skunkcrafts_updater_'):
             raise ValueError('Unsafe blacklist overlap')
@@ -60,8 +59,50 @@ def package(root, out):
     safe_path(data['folder'])
     if '/' in data['folder']:
         raise ValueError('Invalid scenery folder')
+    return paths
+
+
+def package(root, out):
+    root, out = Path(root).resolve(), Path(out).resolve()
+    if out.exists() or out == root or any(out.is_relative_to(root / n) for n in ('depot', 'depot-airport-only')):
+        raise ValueError('Site output must be a new directory outside the depots')
+    data = json.loads((root / 'release-manifest.json').read_text())
+    channels = data.get('channels', [])
+    if channels:
+        depots = {'main': 'depot', 'airport-only': 'depot-airport-only'}
+        if data.get('schema_version') != 2 or len(channels) != 2 or {c['id'] for c in channels} != set(depots) or data.get('default_channel') != 'main':
+            raise ValueError('Incomplete channel release')
+        main = next(c['release'] for c in channels if c['id'] == 'main')
+        if any(data[k] != main[k] for k in main):
+            raise ValueError('Main manifest differs')
+        history = set(data['managed_history'])
+        for rel in history:
+            safe_path(rel)
+        configs = []
+        for channel in channels:
+            if channel['depot'] != depots[channel['id']]:
+                raise ValueError('Unexpected channel depot')
+            if channel['name'] != {'main': 'Main', 'airport-only': 'Airport Only'}[channel['id']]:
+                raise ValueError('Unexpected channel name')
+            report = channel['release']
+            for key in ('version', 'folder', 'product', 'module_url', 'source_revision', 'public_channels', 'preview_only', 'not_for_publication'):
+                if report.get(key) != main.get(key):
+                    raise ValueError('Channel releases must share ' + key)
+            if report.get('public_channels') != {'Airport Only': main['module_url'].rstrip('/').rsplit('/', 1)[0] + '/depot-airport-only'}:
+                raise ValueError('Channel offer does not match the published depot')
+            paths = validate_depot(root / channel['depot'], report)
+            if not paths.issubset(history) or set(report['delete_files']) != history - paths:
+                raise ValueError('Channel retirement set is incomplete')
+            configs.append((root / channel['depot'] / 'skunkcrafts_updater.cfg').read_bytes())
+        if configs[0] != configs[1]:
+            raise ValueError('Channel configurations differ')
+    else:
+        validate_depot(root / 'depot', data)
+    paths = {r['path'] for r in data['files']}
+    depot = root / 'depot'
     out.mkdir(parents=True)
-    shutil.copytree(depot, out / 'depot')
+    for name in ([c['depot'] for c in channels] if channels else ['depot']):
+        shutil.copytree(root / name, out / name)
     downloads = out / 'downloads'
     downloads.mkdir()
     zipname = f'{data["folder"]}-{data["version"]}.zip'
@@ -81,9 +122,16 @@ def package(root, out):
     install = html.escape((depot / 'INSTALL.txt').read_text())
     ver = html.escape(data['version'])
     revision = html.escape(data.get('source_revision', ''))
+    channel_section = ''
+    if channels:
+        rows = ''.join('<tr><td><strong>' + html.escape(c['name']) + '</strong></td><td>' + html.escape(c['description']) + '</td></tr>' for c in channels)
+        channel_section = f'''<h2>One version, two scenery choices</h2><table>{rows}</table>
+<p>Both channels are version {ver}. They are content choices, not beta and stable builds. Existing members stay on Main.</p>
+<p>Use SkunkCrafts 4.2.3 or newer. After checking for updates, select <strong>Airport Only</strong> or <strong>Main</strong> in the channel selector, then check and repair/update before opening X-Plane. Use a full check when switching, even if the version number is unchanged.</p>
+<p>Keep one <code>Custom Scenery/NRT_KIAH_Campus</code> folder. Switching replaces airport files and removes retired files from the other variant. Do not install two copies. Your libraries, plugins and scenery order are managed separately.</p>'''
     page = f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>NRT KIAH Downloads</title><style>body{{margin:0;background:#10252e;color:#e6f1f0;font:17px/1.65 system-ui}}main{{max-width:960px;margin:auto;padding:60px 24px}}h1{{font-size:48px;line-height:1.1}}h2{{margin-top:40px}}a{{color:#80e2d1}}.button{{display:inline-block;background:#8de4c9;color:#10252e;padding:14px 24px;border-radius:8px;font-weight:700;text-decoration:none}}.muted{{color:#b9cbcc}}pre{{white-space:pre-wrap;font:16px/1.65 system-ui;background:#183540;padding:24px;border-radius:8px}}code{{overflow-wrap:anywhere}}nav{{display:flex;gap:20px;align-items:center;flex-wrap:wrap}}.requirements{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}.requirement{{background:#183540;border:1px solid #365460;border-radius:12px;padding:24px}}.requirement h3{{font-size:24px;line-height:1.2;margin:14px 0}}.requirement ul{{padding-left:20px}}.requirement li{{margin-bottom:12px}}.badge{{display:inline-block;border:1px solid #8de4c9;border-radius:20px;padding:2px 10px;color:#8de4c9;font-size:13px;font-weight:700}}.secondary{{padding:10px 16px}}li{{padding-left:4px;margin-bottom:12px}}a:focus-visible{{outline:3px solid #fff;outline-offset:5px}}@media(max-width:400px){{main{{padding:36px 16px}}h1{{font-size:40px}}.requirements{{grid-template-columns:1fr}}.requirement{{padding:18px}}}}</style><main>
-<p class="muted">NRT / X-PLANE 12 / MEMBER SCENERY</p><h1>KIAH Campus</h1><p>Version {ver} · {revision}</p>
+<p class="muted">NRT / X-PLANE 12 / MEMBER SCENERY</p><h1>KIAH</h1><p>Version {ver} · {revision}</p>
 <nav><a class="button" href="downloads/{zipname}">Download scenery ({zipfile_path.stat().st_size / 1000000:.1f} MB)</a><a href="https://github.com/NickNac113/NRT-KIAH-Downloads/releases">Version archives</a><a href="downloads/SHA256SUMS.txt">SHA-256</a></nav>
 <p class="muted">The initial scenery download includes its SkunkCrafts connection. The required downloads below are separate. AEP is not required.</p>
 <section aria-labelledby="required-downloads">
@@ -108,7 +156,7 @@ def package(root, out):
 <h2>Future updates</h2>
 <p>The scenery includes an updater configuration, but the SkunkCrafts application is a separate download. Open the updater, select your X-Plane folder and check <strong>NRT KIAH Campus</strong> for updates while X-Plane is closed.</p>
 <p><a href="https://1228098873.rsc.cdn77.org/updater/SkunkcraftsUpdater-windows.zip">Download SkunkCrafts for Windows</a> · <a href="https://github.com/lzamouth/sku_client/blob/master/docs/USER_GUIDE.md">Updater guide and other platforms</a></p>
-<h2>Install once, update in place</h2><pre>{install}</pre><h2>Update feed</h2><p>SkunkCrafts reads the configuration included with your download. Future published versions appear when you check for updates.</p><p><a href="depot/skunkcrafts_updater.cfg">View updater configuration</a> · <a href="depot/changelog.txt">Changelog</a> · <a href="depot/ASSET_NOTICES.txt">Asset notices</a></p></main></html>'''
+{channel_section}<h2>Install once, update in place</h2><pre>{install}</pre><h2>Update feed</h2><p>SkunkCrafts reads the configuration included with your download. Future published versions appear when you check for updates.</p><p><a href="depot/skunkcrafts_updater.cfg">View updater configuration</a> · <a href="depot/changelog.txt">Changelog</a> · <a href="depot/ASSET_NOTICES.txt">Asset notices</a></p></main></html>'''
     (out / 'index.html').write_text(page, encoding='utf-8')
     (out / 'release-notes.md').write_text(f'NRT KIAH Campus {data["version"]}\n\n'+(depot / 'changelog.txt').read_text()+'\n\nInstall instructions and test status: https://nicknac113.github.io/NRT-KIAH-Downloads/\n', encoding='utf-8')
     print(json.dumps(dict(version=data['version'], files=len(paths), archive=zipname, bytes=zipfile_path.stat().st_size)))

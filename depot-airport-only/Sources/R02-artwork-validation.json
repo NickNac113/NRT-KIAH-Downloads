@@ -1,0 +1,135 @@
+{
+  "checks": [
+    {
+      "name": "Unique ramp names",
+      "passed": true,
+      "detail": 240
+    },
+    {
+      "name": "Five charted runways",
+      "passed": true,
+      "detail": "08L/26R, 08R/26L, 09/27, 15L/33R, 15R/33L"
+    },
+    {
+      "name": "Charted runway width",
+      "passed": true,
+      "detail": "150 ft / 45.72m"
+    },
+    {
+      "name": "Routing references and orphans",
+      "passed": true,
+      "detail": {
+        "nodes": 1291,
+        "edges": 1471
+      }
+    },
+    {
+      "name": "Contiguous node IDs",
+      "passed": true,
+      "detail": 1291
+    },
+    {
+      "name": "New apron links reach runway graph",
+      "passed": true,
+      "detail": {
+        "apron_edges": 9,
+        "runway_reachable_nodes": 872
+      }
+    },
+    {
+      "name": "New and adjusted primary modeled aircraft envelopes",
+      "passed": true,
+      "detail": "32 primary placements; no overlaps with new buildings or retained primary stands"
+    },
+    {
+      "name": "Jetway definitions",
+      "passed": true,
+      "detail": {
+        "count": 32,
+        "invalid": []
+      }
+    },
+    {
+      "name": "Reopened 15L corridor barricades removed",
+      "passed": true,
+      "detail": {
+        "original": 131,
+        "remaining": 0
+      }
+    },
+    {
+      "name": "West taxiway routes retained and connected",
+      "passed": true,
+      "detail": {
+        "WA": 30,
+        "WB": 23,
+        "WG": 7,
+        "WH": 9,
+        "WJ": 13,
+        "WK": 18,
+        "WL": 9,
+        "WM": 8,
+        "WN": 6
+      }
+    },
+    {
+      "name": "Current EA construction closure excluded from AI routing",
+      "passed": true,
+      "detail": "Three EA edges removed; NB and EE retained"
+    },
+    {
+      "name": "Gate reconciliation",
+      "passed": true,
+      "detail": "A20 added; C29/E6 handled explicitly as directory/apron discrepancies, without speculative spawns"
+    },
+    {
+      "name": "Overlapping E wide-body variants manual only",
+      "passed": true,
+      "detail": "E2 wide and E20 wide"
+    },
+    {
+      "name": "Scenery resources resolve",
+      "passed": true,
+      "detail": {
+        "references": 254,
+        "missing": []
+      }
+    },
+    {
+      "name": "Custom OBJ8 tables",
+      "passed": true,
+      "detail": {
+        "models": 37,
+        "triangles": 12102,
+        "invalid": []
+      }
+    },
+    {
+      "name": "Compiled DSF round-trip",
+      "passed": true,
+      "detail": {
+        "entities": 13165,
+        "object_resources": 176,
+        "polygon_resources": 76
+      }
+    },
+    {
+      "name": "North DSF closure placement round-trip",
+      "passed": true,
+      "detail": 901
+    },
+    {
+      "name": "Nonempty custom models",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "warnings": [
+    "Offline build only: no X-Plane load, jetway docking, AI taxi or night-light acceptance yet.",
+    "Building heights, roof equipment, new stop points and added apron details are modeled; current map outlines are not a surveyed as-built apron drawing.",
+    "C29 and E6 remain public-directory labels; checked apron evidence supports no independent active aircraft stand. Changes after the 2025 aerial capture are not ruled out.",
+    "Surrounding Gateway cargo, GA, maintenance, roads and existing terminals remain the detailed native baseline. Offline renders simplify existing library assets.",
+    "The long-running EA closure is encoded for this dated snapshot; short-duration daily NOTAMs are not simulated."
+  ],
+  "passed": true
+}

@@ -1,0 +1,149 @@
+{
+  "revision": "KIAH R03 HF04",
+  "scope": "Offline local pavement and edge-detail checks; simulator acceptance pending",
+  "passed": 12,
+  "total": 12,
+  "checks": [
+    {
+      "check": "All DSFs, models, textures and library resources are byte-identical to HF03",
+      "passed": true,
+      "detail": 42
+    },
+    {
+      "check": "All other airport records are byte-identical, including taxi/service routes, starts, jetways and flows",
+      "passed": true,
+      "detail": {
+        "100": 5,
+        "1201": 1450,
+        "1202": 988,
+        "1206": 622,
+        "1300": 240,
+        "1400": 101,
+        "1401": 18,
+        "1500": 116
+      }
+    },
+    {
+      "check": "Every authored stand, equipment bay and R03 aircraft circulation marking is unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every original pavement node, Bezier curve and surface definition is unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Written replacement pavement is valid and confined to the reported legacy asphalt area",
+      "passed": true,
+      "detail": {
+        "pieces": 30,
+        "area_sqm": 18367.92304925696,
+        "quantization_difference_sqm": 0.9136923723379686
+      }
+    },
+    {
+      "check": "Replacement concrete is ordered before inherited pavement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Obsolete asphalt island surfaces no longer show through inside the cleanup area",
+      "passed": true,
+      "detail": 5.478029156322489e-13
+    },
+    {
+      "check": "Visible asphalt outside the local cleanup area is unchanged",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "No inherited edge paint or blue edge-light paths remain inside the cleanup area",
+      "passed": true,
+      "detail": {
+        "53": 0.0,
+        "102": 0.0,
+        "24": 0.0,
+        "74": 0.0,
+        "106": 0.0,
+        "51": 0.0,
+        "22": 0.0,
+        "32": 0.0,
+        "1": 0.0,
+        "52": 0.0,
+        "58": 0.0,
+        "70": 0.0,
+        "20": 0.0,
+        "59": 0.0,
+        "55": 0.0,
+        "101": 0.0,
+        "57": 0.0,
+        "105": 0.0,
+        "60": 0.0,
+        "10": 0.0,
+        "31": 0.0,
+        "30": 0.0,
+        "3": 0.0,
+        "2": 0.0,
+        "21": 0.0,
+        "19": 0.0,
+        "56": 0.0,
+        "23": 0.0,
+        "64": 0.0,
+        "54": 0.0,
+        "104": 0.0,
+        "75": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "check": "Paint and light paths outside the cleanup area remain within 4 mm of HF03",
+      "passed": true,
+      "detail": {
+        "53": 0.0,
+        "102": 0.0,
+        "24": 0.0,
+        "74": 0.0,
+        "106": 0.0,
+        "51": 0.0,
+        "22": 0.0,
+        "32": 0.0,
+        "1": 0.0,
+        "52": 0.0,
+        "58": 0.0,
+        "70": 0.0,
+        "20": 0.0,
+        "59": 0.0,
+        "55": 0.0,
+        "101": 0.0,
+        "57": 0.0,
+        "105": 0.0,
+        "60": 0.0,
+        "10": 0.0,
+        "31": 0.0,
+        "30": 0.0,
+        "3": 0.0,
+        "2": 0.0,
+        "21": 0.0,
+        "19": 0.0,
+        "56": 0.0,
+        "23": 0.0,
+        "64": 0.0,
+        "54": 0.0,
+        "104": 0.0,
+        "75": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "check": "Installed HF03 package is untouched",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Scenery order is untouched",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

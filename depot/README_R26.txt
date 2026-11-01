@@ -1,3 +1,7 @@
+HISTORICAL NOTES - retained from the previous member release.
+For this package use README.txt and INSTALL.txt. The test installers and
+review outputs mentioned below are not included in the member ZIP.
+
 HISTORICAL LOCAL TEST NOTES - superseded by member release 0.27.0.
 For current installation and operations use INSTALL.txt and README_R27.txt.
 The isolated test installers and review outputs mentioned below are not bundled.

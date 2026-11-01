@@ -1,0 +1,252 @@
+{
+  "revision": "KIAH R03 HF06",
+  "status": "STAGED - OFFLINE VALIDATION ONLY",
+  "passed": 20,
+  "total": 20,
+  "checks": [
+    {
+      "check": "Runways, pavement, signs, service routes, starts and all 116 moving jetways unchanged",
+      "passed": true,
+      "detail": {
+        "100": 5,
+        "110": 231,
+        "20": 556,
+        "1204": 541,
+        "1205": 0,
+        "1206": 622,
+        "1300": 240,
+        "1400": 101,
+        "1401": 18,
+        "1500": 116
+      }
+    },
+    {
+      "check": "All other airport records preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every aircraft and vehicle route references existing nodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No duplicate route-node IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "B apron arrival from NB and departure to NB remain connected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "EA is connected bidirectionally through NB, EC, ED and EE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "New B painted line matches aircraft route",
+      "passed": true,
+      "detail": {
+        "max_deviation_m": 0.0,
+        "segments": 25
+      }
+    },
+    {
+      "check": "B and EA route centerlines stay on pavement",
+      "passed": true,
+      "detail": {
+        "off_pavement_m": 0.0
+      }
+    },
+    {
+      "check": "Sampled 36 m span / 40 m length moving aircraft clears modeled parked aircraft and terminals",
+      "passed": true,
+      "detail": {
+        "minimum_parked_clearance_m": [
+          [
+            "Gate B11",
+            21.42412468634445
+          ],
+          [
+            "Gate B8",
+            26.14573528489313
+          ],
+          [
+            "Gate B9",
+            31.615343653625565
+          ],
+          [
+            "Gate B15",
+            31.90394431155539
+          ],
+          [
+            "Gate B10",
+            38.08959084949151
+          ],
+          [
+            "Gate B16",
+            43.383248441485826
+          ]
+        ],
+        "building_clearance_m": 80.4990941529291,
+        "samples": 296,
+        "scope": "Nose-wheel path and tangent at <=1.5 m spacing. Generic modeled footprints; not an aircraft-specific turning simulation."
+      }
+    },
+    {
+      "check": "Longer 45 m and 56 m aircraft models also clear modeled parked aircraft",
+      "passed": true,
+      "detail": [
+        {
+          "length_m": 45,
+          "span_m": 36,
+          "trial_shift_east_m": 0,
+          "minimum_clearances_m": [
+            [
+              "Gate B11",
+              12.940597292484089
+            ],
+            [
+              "Gate B8",
+              21.605883901334554
+            ],
+            [
+              "Gate B9",
+              26.21486780119881
+            ]
+          ]
+        },
+        {
+          "length_m": 56,
+          "span_m": 36,
+          "trial_shift_east_m": 0,
+          "minimum_clearances_m": [
+            [
+              "Gate B11",
+              6.564233735016017
+            ],
+            [
+              "Gate B8",
+              11.618210857505574
+            ],
+            [
+              "Gate B9",
+              15.233830123120525
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "check": "All 32 fixed bridge joints retain original geometry and add a closed circular connector",
+      "passed": true,
+      "detail": {
+        "count": 32,
+        "radius_m": 1.7,
+        "pitch_range_degrees": [
+          -8,
+          8
+        ],
+        "note": "Radial overlap is independent of yaw. Stock tunnel rear dimensions checked; docking and terrain alignment still require simulator testing."
+      }
+    },
+    {
+      "check": "+29-096 DSF keeps every placement except the 11 selected EA barriers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "+29-096 exclusion properties unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "+30-096 DSF keeps every placement except the 11 selected EA barriers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "+30-096 exclusion properties unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Runtime edits limited to 32 connectors, two barrier tiles and airport routes",
+      "passed": true,
+      "detail": [
+        "Earth nav data/apt.dat",
+        "Earth nav data/+20-100/+29-096.dsf",
+        "Earth nav data/+30-100/+30-096.dsf",
+        "objects/bridge_A20.obj",
+        "objects/bridge_B1.obj",
+        "objects/bridge_B10.obj",
+        "objects/bridge_B11.obj",
+        "objects/bridge_B12.obj",
+        "objects/bridge_B14.obj",
+        "objects/bridge_B15.obj",
+        "objects/bridge_B16.obj",
+        "objects/bridge_B17.obj",
+        "objects/bridge_B18.obj",
+        "objects/bridge_B19.obj",
+        "objects/bridge_B2.obj",
+        "objects/bridge_B20.obj",
+        "objects/bridge_B21.obj",
+        "objects/bridge_B22.obj",
+        "objects/bridge_B23.obj",
+        "objects/bridge_B3.obj",
+        "objects/bridge_B4.obj",
+        "objects/bridge_B5.obj",
+        "objects/bridge_B6.obj",
+        "objects/bridge_B7.obj",
+        "objects/bridge_B8.obj",
+        "objects/bridge_B9.obj",
+        "objects/bridge_C12.obj",
+        "objects/bridge_C14.obj",
+        "objects/bridge_C15.obj",
+        "objects/bridge_D1.obj",
+        "objects/bridge_D2.obj",
+        "objects/bridge_D3.obj",
+        "objects/bridge_D4.obj",
+        "objects/bridge_D5.obj",
+        "objects/bridge_D6.obj"
+      ]
+    },
+    {
+      "check": "AEP baseline, strict exclusion format and scenery priority pass",
+      "passed": true,
+      "detail": {
+        "passed": true,
+        "errors": [],
+        "exclusions": {
+          "Earth nav data/+20-100/+29-096.dsf": {
+            "total": 4741,
+            "polygon": 4732
+          },
+          "Earth nav data/+30-100/+30-096.dsf": {
+            "total": 0,
+            "polygon": 0
+          }
+        },
+        "ignored_runtime_log": "AEP/plugins/AEP-Live/AEP-Live Log.txt",
+        "scope": "Exclusion syntax and baseline coverage, AEP asset/configuration changes, installed scenery priority. A changed terminal footprint needs a fresh spatial overlay audit even if this check passes."
+      }
+    },
+    {
+      "check": "AEP has no closure objects to restore on EA",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Installed HF05 remains unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Scenery order remains unchanged",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

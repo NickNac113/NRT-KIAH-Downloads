@@ -1,0 +1,21 @@
+AEP compatibility workflow for future KIAH refinements
+
+1. Keep KIAH in its single top-priority add-on slot, above AEP and AEP Overlays.
+2. Run the read-only compatibility guard against the staged successor package:
+   python compatibility_guard.py --package "PATH TO STAGED KIAH" --xplane "X:\X-Plane 12"
+3. A red result requires investigation. The expected exclusion digest protects
+   the reviewed HF05 coverage. Changed AEP files mean a new overlay/library
+   audit is needed. Do not update the baseline simply to get a green result.
+4. For new/rebuilt footprints, decode both airport and AEP tiles. Check overlay
+   categories and the point-triggered whole-primitive exclusion behavior.
+   Extend exclusions only as necessary; check effects outside the work area.
+5. Validate library references and native surfaces too. DSF exclusions do not
+   disable AEP's material substitutions for library assets used by KIAH itself.
+6. Preserve FILTER command order, coordinate pools, and unrelated placements
+   when writing DSFs. Decode the final binary and compare it with the source.
+7. Produce previews and offline validation, obtain installation approval, then
+   verify in X-Plane with AEP enabled. Runtime feedback remains the final test.
+
+The baseline ignores only AEP/plugins/AEP-Live/AEP-Live Log.txt because the
+running simulator writes it. No other asset, configuration or plugin file is
+ignored. The guard changes no scenery or library file.

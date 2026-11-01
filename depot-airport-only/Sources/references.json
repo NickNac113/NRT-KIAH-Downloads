@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Houston Airports current terminal map",
+    "url": "https://www.fly2houston.com/iah/map/",
+    "basis": "Published asset version 2026-10-23T15:30:38. Terminal outlines and 144 passenger directory points; these are not nose-wheel stopping points."
+  },
+  {
+    "title": "B North opening",
+    "url": "https://www.fly2houston.com/airport-business/newsroom/press-releases/item/united-airlines-terminal-b-north-opens-at-iah/",
+    "basis": "22 mainline gates opened 22 October 2026. B South retains 26 published identifiers."
+  },
+  {
+    "title": "Airport alerts",
+    "url": "https://www.fly2houston.com/iah/alerts/",
+    "basis": "B ticketing lobby remains closed; access to B North is via C."
+  },
+  {
+    "title": "D West opening",
+    "url": "https://www.fly2houston.com/airport-business/newsroom/press-releases/item/houston-airports-expanded-terminal-d-now-open-to-international-passengers-at-bush-airport/",
+    "basis": "Opened 22 October 2024; six widebody positions with split use."
+  },
+  {
+    "title": "International check-in transition",
+    "url": "https://www.fly2houston.com/airport-business/newsroom/press-releases/item/international-check-in-transition-begins-to-iah-terminal-e/",
+    "basis": "International processing moved to the new Terminal E facilities."
+  },
+  {
+    "title": "FAA airport diagram, cycle 2610",
+    "url": "https://aeronav.faa.gov/d-tpp/2610/05461AD.PDF",
+    "basis": "Valid 1-29 October 2026. Five runways, 150-foot widths, 96-foot field elevation. B construction outline predates opening."
+  },
+  {
+    "title": "FAA Q4 2026 construction report",
+    "url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/perf_analysis/sys_cap_eval/Q4_2026_Airport_Construction_Impact_Report.pdf",
+    "basis": "IAH pages 50-51. EA closed for RON parking works; B core and boarding bridge program continue; SA/SB rehabilitation complete."
+  },
+  {
+    "title": "WA/WB rehabilitation contractor",
+    "url": "https://sunlandgrp.com/aviation/wa-and-wb-taxiway-rehabilitation",
+    "basis": "Completion in 2022 supports removal of obsolete west-side closure objects."
+  },
+  {
+    "title": "Gateway history and base",
+    "url": "https://gateway.x-plane.com/airports/KIAH/show",
+    "basis": "Base 99761, Dave12, December 2023. Earlier upload 58312 explicitly added WA, WM, WL, WK, WJ, WH and WG closures in January 2018."
+  },
+  {
+    "title": "A20 mapped aircraft lead-in",
+    "url": "https://www.openstreetmap.org/way/1362706405",
+    "basis": "Mapped 24 February 2025. Aircraft parking line used for A20 location/orientation, checked against aerial imagery."
+  },
+  {
+    "title": "C29 removal notice archived by NTSB",
+    "url": "https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=pdf&FileName=attachment17_Flight_Plan+N362FX+072616_Redacted-Rel.pdf&ID=5405444",
+    "basis": "A 2016 record includes the 2015 permanent chart-change notice removing C29 for construction. Historical evidence, not a current operational clearance."
+  },
+  {
+    "title": "Esri World Imagery metadata",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/0",
+    "basis": "Terminal E reference: Vantor Vivid Advanced, capture 2025-08-24, 0.34 m nominal resolution. A20/C29/E6 apron imagery inspected; tiles not redistributed."
+  },
+  {
+    "title": "Historical E6 removal report",
+    "url": "https://www.flyertalk.com/forum/united-airlines-mileageplus/1819058-consolidated-connection-time-logistics-domestic-international-iah-archive-73.html",
+    "basis": "24 September 2016 discussion reports E6 jetway removal to avoid E5 conflict. Supporting context only; no claim of current official closure."
+  },
+  {
+    "title": "Native scenery compiler",
+    "url": "https://developer.x-plane.com/tools/xptools/",
+    "basis": "Laminar DSFTool used to compile and decode both tiles."
+  }
+]

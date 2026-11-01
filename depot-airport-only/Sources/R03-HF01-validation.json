@@ -1,0 +1,89 @@
+{
+  "revision": "R03 HF01",
+  "prepared_at": "2026-10-24T14:47:52.052242-05:00",
+  "cause": "The exporter dropped the 1200 file-version block, then overwrote the remaining airport header at row 1 with the new file-version line.",
+  "original_rejected": {
+    "passed": false,
+    "errors": [
+      "Airport data precedes an airport declaration at line 3",
+      "Expected one KIAH airport; found []"
+    ],
+    "airport_ids": [],
+    "record_counts": {},
+    "b5_present": false
+  },
+  "fixed_structure": {
+    "passed": true,
+    "errors": [],
+    "airport_ids": [
+      "KIAH"
+    ],
+    "record_counts": {
+      "1302": 12,
+      "100": 5,
+      "102": 1,
+      "110": 192,
+      "111": 12881,
+      "113": 320,
+      "112": 3205,
+      "114": 57,
+      "130": 1,
+      "120": 4058,
+      "115": 3640,
+      "116": 255,
+      "21": 7,
+      "20": 556,
+      "14": 1,
+      "18": 1,
+      "19": 10,
+      "1056": 6,
+      "1055": 4,
+      "1054": 4,
+      "1053": 6,
+      "1052": 1,
+      "1051": 1,
+      "1050": 1,
+      "1000": 4,
+      "1001": 4,
+      "1002": 4,
+      "1003": 4,
+      "1101": 4,
+      "1110": 18,
+      "1400": 101,
+      "1401": 18,
+      "1300": 240,
+      "1301": 240,
+      "1500": 32,
+      "1200": 1,
+      "1201": 1416,
+      "1202": 988,
+      "1204": 541,
+      "1206": 588
+    },
+    "b5_present": true
+  },
+  "writer_regressions": {
+    "original_loses_airport": true,
+    "corrected_preserves_airport": true,
+    "missing_airport_rejected": true
+  },
+  "native_change": "Restored one airport declaration immediately after the file preamble; every other apt.dat byte is unchanged.",
+  "dsf_checks": [
+    {
+      "file": "Earth nav data\\+20-100\\+29-096.dsf",
+      "sha256": "802b8cb47d0ac8d1184d9cd407c60f3573a9b92f60c692d8a8f6e15315c3619f",
+      "filter_airport": "KIAH",
+      "decoded_successfully": true
+    },
+    {
+      "file": "Earth nav data\\+30-100\\+30-096.dsf",
+      "sha256": "9249851015c5af68c4835a204c5e6344e60ddcb7086181291b7b6197e16be3d2",
+      "filter_airport": "KIAH",
+      "decoded_successfully": true
+    }
+  ],
+  "artwork_files_unchanged": 41,
+  "apt_before_sha256": "a4babd3e11da62dc5c8fd0dd8271838ecb146e30f085654c41b56c058306f782",
+  "apt_after_sha256": "a719071026fb066c3fdeb465a68bd26f873ec4ef3430f8146ec117f55e082661",
+  "simulator_acceptance": "Pending restart and user verification; existing session still uses the pre-hotfix airport database."
+}

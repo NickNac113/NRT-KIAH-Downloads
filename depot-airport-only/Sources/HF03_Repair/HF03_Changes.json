@@ -1,0 +1,1254 @@
+{
+  "status": "STAGED - NOT INSTALLED",
+  "jetway_count": 116,
+  "new_parked_jetways": 32,
+  "cleanup": {
+    "old landside object within replacement building/core": 13,
+    "obsolete apron furnishing": 7,
+    "trimmed inherited ground polygons": 9,
+    "small disconnected terminal fragment": 7,
+    "old B processor facade fragment": 7,
+    "small disconnected B walkway fragment": 3,
+    "old fence passing into rebuilt processor": 4,
+    "clipped garage fragment at replacement processor": 6,
+    "removed old glyph polygons": 31
+  },
+  "removed_identifiers": [
+    {
+      "text": "C24W",
+      "center": [
+        363.88425837899234,
+        464.7984248902952
+      ]
+    },
+    {
+      "text": "C24",
+      "center": [
+        364.1501433359674,
+        459.17370124439304
+      ]
+    },
+    {
+      "text": "C18",
+      "center": [
+        365.18255338509255,
+        637.5018640570293
+      ]
+    },
+    {
+      "text": "C17",
+      "center": [
+        364.36936594779115,
+        588.7956059669397
+      ]
+    },
+    {
+      "text": "C16",
+      "center": [
+        363.4244516567649,
+        533.9811561454133
+      ]
+    },
+    {
+      "text": "C15",
+      "center": [
+        -160.80613566570997,
+        483.6054746927552
+      ]
+    },
+    {
+      "text": "C1",
+      "center": [
+        168.3471609624973,
+        451.4324120931104
+      ]
+    },
+    {
+      "text": "C14",
+      "center": [
+        -133.86210492094222,
+        484.13080243080816
+      ]
+    },
+    {
+      "text": "C15",
+      "center": [
+        -160.80613566570997,
+        483.6054746927552
+      ]
+    },
+    {
+      "text": "C14W",
+      "center": [
+        -114.30524959038132,
+        487.43447400954386
+      ]
+    },
+    {
+      "text": "C12",
+      "center": [
+        -118.95453011985902,
+        485.98600123857733
+      ]
+    },
+    {
+      "text": "C14",
+      "center": [
+        -133.86210492094222,
+        484.13080243080816
+      ]
+    }
+  ],
+  "deleted": [
+    {
+      "index": 14,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_4.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -277.80048874635753,
+        205.2983161623963
+      ]
+    },
+    {
+      "index": 15,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_4.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.15157118317484,
+        205.2983161623963
+      ]
+    },
+    {
+      "index": 16,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_4.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -297.0812538806959,
+        205.19256319909985
+      ]
+    },
+    {
+      "index": 23,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_4.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.15157118317484,
+        251.12726067197485
+      ]
+    },
+    {
+      "index": 351,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.1056365685067,
+        263.1262313188771
+      ]
+    },
+    {
+      "index": 355,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.1976022994857,
+        217.24441032725653
+      ]
+    },
+    {
+      "index": 356,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -278.0305478262692,
+        295.4761071056658
+      ]
+    },
+    {
+      "index": 357,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.4736924957083,
+        295.4761071056658
+      ]
+    },
+    {
+      "index": 358,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_10.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -297.72549650576275,
+        295.6876130322587
+      ]
+    },
+    {
+      "index": 2657,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        350.64140095504115,
+        408.91201200835206
+      ]
+    },
+    {
+      "index": 2668,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        350.50340410775124,
+        398.3930285859532
+      ]
+    },
+    {
+      "index": 2671,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        359.24642116165074,
+        398.3402629564768
+      ]
+    },
+    {
+      "index": 2678,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        350.3193761441505,
+        393.001401096916
+      ]
+    },
+    {
+      "index": 2681,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        359.2003900453398,
+        392.8957589857914
+      ]
+    },
+    {
+      "index": 2684,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        350.59546634037304,
+        403.5203845193149
+      ]
+    },
+    {
+      "index": 4967,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_2.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -277.70842651373573,
+        200.2238367106828
+      ]
+    },
+    {
+      "index": 4968,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_2.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.15157118317484,
+        200.2238367106828
+      ]
+    },
+    {
+      "index": 4969,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_2.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -278.16864117520186,
+        206.77830338650585
+      ]
+    },
+    {
+      "index": 4970,
+      "resource": "lib/airport/Common_Elements/Parking_Items/Row_of_Cars_2.agp",
+      "reason": "old landside object within replacement building/core",
+      "center": [
+        -258.4736924957083,
+        206.77830338650585
+      ]
+    },
+    {
+      "index": 5976,
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/grey_3m.obj",
+      "reason": "obsolete apron furnishing",
+      "center": [
+        -736.8571346856062,
+        26.792635166766914
+      ]
+    },
+    {
+      "index": 11040,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Ground_02.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        -182.49776491449515,
+        376.31836086500255
+      ]
+    },
+    {
+      "index": 11082,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -344.6317682963837,
+        309.23527465217677
+      ]
+    },
+    {
+      "index": 11083,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        -326.6542678103102,
+        323.1391165031342
+      ]
+    },
+    {
+      "index": 11084,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_02.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        -182.67177133057854,
+        376.8524889088005
+      ]
+    },
+    {
+      "index": 11102,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "reason": "small disconnected B walkway fragment",
+      "center": [
+        -449.2564815090591,
+        318.0205640794736
+      ]
+    },
+    {
+      "index": 11108,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "reason": "small disconnected B walkway fragment",
+      "center": [
+        -350.74431763272986,
+        317.6404395189236
+      ]
+    },
+    {
+      "index": 11111,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_bridge_01.fac",
+      "reason": "small disconnected B walkway fragment",
+      "center": [
+        -350.33994745930016,
+        317.1075546059873
+      ]
+    },
+    {
+      "index": 11170,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -426.30029164500655,
+        201.0814995504621
+      ]
+    },
+    {
+      "index": 11172,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -376.346816811675,
+        298.05152744760056
+      ]
+    },
+    {
+      "index": 11173,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -365.0711294499092,
+        202.3000670244847
+      ]
+    },
+    {
+      "index": 11176,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -379.82889988094837,
+        174.78687692234908
+      ]
+    },
+    {
+      "index": 11180,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        734.8980916113661,
+        297.57581377623137
+      ]
+    },
+    {
+      "index": 11182,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Levels_01.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        792.0216650882078,
+        324.3894497909594
+      ]
+    },
+    {
+      "index": 11200,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Tall_02.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -272.1583104049167,
+        315.4371772039078
+      ]
+    },
+    {
+      "index": 11202,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_Tall_02.fac",
+      "reason": "old B processor facade fragment",
+      "center": [
+        -449.2732186969531,
+        311.98463621773453
+      ]
+    },
+    {
+      "index": 11300,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_building_BigHall_01.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        811.7985633793817,
+        316.8400583220374
+      ]
+    },
+    {
+      "index": 11405,
+      "resource": "lib/airport/Modern_Airports/Terminal_kit/term_roof_pipes_01.fac",
+      "reason": "small disconnected terminal fragment",
+      "center": [
+        258.69980826314764,
+        352.91169319029916
+      ]
+    },
+    {
+      "index": 11516,
+      "resource": "lib/airport/Common_Elements/Fence_Facades/Fence.fac",
+      "reason": "old fence passing into rebuilt processor",
+      "center": [
+        -344.0866954488941,
+        172.6312923378901
+      ]
+    },
+    {
+      "index": 11557,
+      "resource": "lib/constructions/fencing/fence_Wall-2m_01.fac",
+      "reason": "old fence passing into rebuilt processor",
+      "center": [
+        -454.44226810425573,
+        174.76078073913672
+      ]
+    },
+    {
+      "index": 11558,
+      "resource": "lib/constructions/fencing/fence_Wall-2m_01.fac",
+      "reason": "old fence passing into rebuilt processor",
+      "center": [
+        -371.0546040608092,
+        174.2945129637282
+      ]
+    },
+    {
+      "index": 11573,
+      "resource": "lib/constructions/fencing/fence_Wall-2m_01.fac",
+      "reason": "old fence passing into rebuilt processor",
+      "center": [
+        -264.80858414174685,
+        169.3716105923478
+      ]
+    },
+    {
+      "index": 11604,
+      "resource": "lib/airport/Modern_Airports/Facades/Garage_3.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        965.6414203901943,
+        233.19708710697833
+      ]
+    },
+    {
+      "index": 11606,
+      "resource": "lib/airport/Modern_Airports/Facades/Garage_3.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        598.7773290031034,
+        239.13741709860727
+      ]
+    },
+    {
+      "index": 11607,
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        -376.5326098081001,
+        297.9536860299698
+      ]
+    },
+    {
+      "index": 11609,
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        -448.90809545670777,
+        256.0683562108473
+      ]
+    },
+    {
+      "index": 11610,
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        -426.0583148274533,
+        201.49821137205063
+      ]
+    },
+    {
+      "index": 11611,
+      "resource": "lib/airport/Classic_Airports/Facades/Garage_1.fac",
+      "reason": "clipped garage fragment at replacement processor",
+      "center": [
+        -365.39208012673384,
+        202.61713751892879
+      ]
+    }
+  ],
+  "paint_changes": [
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 3.055143923953326
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 1.3889637559505212
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 3.9494872235431755
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 3.4783466306560884
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 0.07098743265708474
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 2.999433788957468
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 0.15740950876198814
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 4.942320170097638
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 2.6214295573837845
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 2.245554113547061
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 1.999206372411323
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 3.6860827369356617
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 9.117232844809264
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 0.5842036502323678
+    },
+    {
+      "name": "HF02 retained Linear Feature 135",
+      "removed_m": 5.092428047975827
+    },
+    {
+      "name": "Linear Feature 8",
+      "removed_m": 53.261744835928354
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 4.904079538276826
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 5.918216305227034
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 1.9384159500813825
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 4.522794632601119
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 4.530290194066626
+    },
+    {
+      "name": "HF02 retained Linear Feature 99",
+      "removed_m": 7.21086131667989
+    },
+    {
+      "name": "HF02 retained Linear Feature 99",
+      "removed_m": 0.17835589746800617
+    },
+    {
+      "name": "HF02 retained Linear Feature 99",
+      "removed_m": 3.174322831254293
+    },
+    {
+      "name": "HF02 retained Linear Feature 99",
+      "removed_m": 0.11151672383552112
+    },
+    {
+      "name": "HF02 retained Linear Feature 1",
+      "removed_m": 10.456704279303183
+    },
+    {
+      "name": "Linear Feature 7",
+      "removed_m": 19.5950783861381
+    },
+    {
+      "name": "Linear Feature 13",
+      "removed_m": 0.9030954625681074
+    },
+    {
+      "name": "Linear Feature 11",
+      "removed_m": 28.740171722319957
+    },
+    {
+      "name": "Linear Feature 10",
+      "removed_m": 43.79399929875251
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 17.35431317812156
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 14.362079123796963
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 6.915848068026433
+    },
+    {
+      "name": "HF02 retained Linear Feature 15",
+      "removed_m": 3.8274094591689662
+    },
+    {
+      "name": "HF02 retained Linear Feature 15",
+      "removed_m": 3.6664075204931033
+    },
+    {
+      "name": "HF02 retained Linear Feature 14",
+      "removed_m": 3.060110633619106
+    },
+    {
+      "name": "HF02 retained Linear Feature 14",
+      "removed_m": 3.0949890798355377
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 4.786599285157218
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 65.27533524285462
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 7.559224219978973
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 30.328906611798104
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 14.394157424034443
+    },
+    {
+      "name": "HF02 retained Linear Feature 50",
+      "removed_m": 26.07805327805801
+    },
+    {
+      "name": "Linear Feature 6",
+      "removed_m": 2.879374477216278
+    },
+    {
+      "name": "HF02 retained Linear Feature 13",
+      "removed_m": 3.013018077218134
+    },
+    {
+      "name": "HF02 retained Linear Feature 13",
+      "removed_m": 1.7905617064657022
+    },
+    {
+      "name": "HF02 retained Linear Feature 13",
+      "removed_m": 3.010264577118571
+    },
+    {
+      "name": "HF02 retained Linear Feature 13",
+      "removed_m": 1.5015990907510512
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 4.318157942044624
+    },
+    {
+      "name": "HF02 retained Linear Feature 9",
+      "removed_m": 1.4901732051687397
+    },
+    {
+      "name": "HF02 retained Linear Feature 9",
+      "removed_m": 0.9403875355564839
+    },
+    {
+      "name": "HF02 retained Linear Feature 9",
+      "removed_m": 0.6164277233311952
+    },
+    {
+      "name": "HF02 retained Linear Feature 9",
+      "removed_m": 0.6477435999483738
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4203427651875065
+    },
+    {
+      "name": "HF02 retained Linear Feature 9",
+      "removed_m": 0.8212785811120562
+    },
+    {
+      "name": "Linear Feature 9",
+      "removed_m": 2.4416431705541384
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 20.179042557207318
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 1.3385236166689125
+    },
+    {
+      "name": "Linear Feature 13",
+      "removed_m": 77.52773112711503
+    },
+    {
+      "name": "Linear Feature 12",
+      "removed_m": 6.966706737509011
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 4.64561043803045
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 0.4516058548359766
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 3.599872231467767
+    },
+    {
+      "name": "HF02 retained Linear Feature 8",
+      "removed_m": 3.474871524724728
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 21.61105844961905
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 10.515733312961789
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 14.911937899326507
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 11.769050003896067
+    },
+    {
+      "name": "HF02 retained Linear Feature 6",
+      "removed_m": 12.747051823401721
+    },
+    {
+      "name": "Linear Feature 20",
+      "removed_m": 93.00589211727399
+    },
+    {
+      "name": "Linear Feature 53",
+      "removed_m": 93.4546417502323
+    },
+    {
+      "name": "Linear Feature 80",
+      "removed_m": 5.36199214102945
+    },
+    {
+      "name": "Linear Feature 79",
+      "removed_m": 5.4180096709369
+    },
+    {
+      "name": "Linear Feature 78",
+      "removed_m": 5.489603952706864
+    },
+    {
+      "name": "Linear Feature 77",
+      "removed_m": 5.387426469797672
+    },
+    {
+      "name": "Linear Feature 76",
+      "removed_m": 5.264252515219188
+    },
+    {
+      "name": "Linear Feature 75",
+      "removed_m": 5.567926267557214
+    },
+    {
+      "name": "Linear Feature 74",
+      "removed_m": 5.126148630259934
+    },
+    {
+      "name": "Linear Feature 73",
+      "removed_m": 5.284792595007458
+    },
+    {
+      "name": "Linear Feature 72",
+      "removed_m": 5.125258541403025
+    },
+    {
+      "name": "HF02 retained Linear Feature 18",
+      "removed_m": 31.032788996971867
+    },
+    {
+      "name": "HF02 retained Linear Feature 18",
+      "removed_m": 63.420067883362925
+    },
+    {
+      "name": "Linear Feature 17",
+      "removed_m": 120.8156051471504
+    },
+    {
+      "name": "Linear Feature 7",
+      "removed_m": 45.97834509468841
+    },
+    {
+      "name": "Linear Feature 7",
+      "removed_m": 29.900421935680427
+    },
+    {
+      "name": "Linear Feature 6",
+      "removed_m": 171.64464075434717
+    },
+    {
+      "name": "line",
+      "removed_m": 80.5658911020065
+    }
+  ],
+  "road_segments_excluded": 11,
+  "road_segments": [
+    {
+      "head": "BEGIN_SEGMENT 0 13 13366 -95.337831200 29.981514500 0.000000000",
+      "points": [
+        [
+          -95.3378312,
+          29.9815145,
+          0.0
+        ],
+        [
+          -95.337136,
+          29.981513,
+          0.0
+        ],
+        [
+          -95.3368004,
+          29.981495,
+          0.0
+        ],
+        [
+          -95.3364617,
+          29.9814542,
+          0.0
+        ],
+        [
+          -95.336145,
+          29.9814004,
+          0.0
+        ],
+        [
+          -95.335806,
+          29.981336,
+          0.0
+        ],
+        [
+          -95.3356282,
+          29.981307,
+          0.0
+        ],
+        [
+          -95.335433,
+          29.981275,
+          0.0
+        ],
+        [
+          -95.3352765,
+          29.981253,
+          0.0
+        ],
+        [
+          -95.335106,
+          29.981231,
+          0.0
+        ],
+        [
+          -95.3348329,
+          29.9812074,
+          0.0
+        ],
+        [
+          -95.3345494,
+          29.981196,
+          0.0
+        ],
+        [
+          -95.329791,
+          29.981182,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 13 223597 -95.329852000 29.981410300 0.000000000",
+      "points": [
+        [
+          -95.329852,
+          29.9814103,
+          0.0
+        ],
+        [
+          -95.3344787,
+          29.9814126,
+          0.0
+        ],
+        [
+          -95.334721,
+          29.9814191,
+          0.0
+        ],
+        [
+          -95.3349738,
+          29.9814317,
+          0.0
+        ],
+        [
+          -95.3352126,
+          29.9814534,
+          0.0
+        ],
+        [
+          -95.3354377,
+          29.9814833,
+          0.0
+        ],
+        [
+          -95.3356947,
+          29.9815312,
+          0.0
+        ],
+        [
+          -95.3359345,
+          29.9815813,
+          0.0
+        ],
+        [
+          -95.3363948,
+          29.9816937,
+          0.0
+        ],
+        [
+          -95.3366814,
+          29.9817567,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 19 454604 -95.344889400 29.987303500 0.000000000",
+      "points": [
+        [
+          -95.3448894,
+          29.9873035,
+          0.0
+        ],
+        [
+          -95.3451163,
+          29.9873029,
+          0.0
+        ],
+        [
+          -95.3452085,
+          29.9873027,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 19 454603 -95.344805100 29.987303300 0.000000000",
+      "points": [
+        [
+          -95.3448051,
+          29.9873033,
+          0.0
+        ],
+        [
+          -95.3448894,
+          29.9873035,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 19 618970 -95.331624600 29.985991200 0.000000000",
+      "points": [
+        [
+          -95.3316246,
+          29.9859912,
+          0.0
+        ],
+        [
+          -95.3300656,
+          29.9860019,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 464137 -95.331805800 29.987241700 0.000000000",
+      "points": [
+        [
+          -95.3318058,
+          29.9872417,
+          0.0
+        ],
+        [
+          -95.3321626,
+          29.987214,
+          0.0
+        ],
+        [
+          -95.3324531,
+          29.9872085,
+          0.0
+        ],
+        [
+          -95.332779,
+          29.9872207,
+          0.0
+        ],
+        [
+          -95.3328733,
+          29.9872211,
+          0.0
+        ],
+        [
+          -95.3336945,
+          29.9872254,
+          0.0
+        ],
+        [
+          -95.3338226,
+          29.9872261,
+          0.0
+        ],
+        [
+          -95.3342169,
+          29.9872304,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 8624 -95.329023800 29.986420600 0.000000000",
+      "points": [
+        [
+          -95.3290238,
+          29.9864206,
+          0.0
+        ],
+        [
+          -95.3296663,
+          29.9868803,
+          0.0
+        ],
+        [
+          -95.329842,
+          29.9869951,
+          0.0
+        ],
+        [
+          -95.3300451,
+          29.9871007,
+          0.0
+        ],
+        [
+          -95.3303007,
+          29.9872239,
+          0.0
+        ],
+        [
+          -95.3306148,
+          29.987338,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 678070 -95.346196700 29.986082200 0.000000000",
+      "points": [
+        [
+          -95.3461967,
+          29.9860822,
+          0.0
+        ],
+        [
+          -95.3456345,
+          29.9860752,
+          0.0
+        ],
+        [
+          -95.3454621,
+          29.986073,
+          0.0
+        ],
+        [
+          -95.3449258,
+          29.9860897,
+          0.0
+        ],
+        [
+          -95.3448751,
+          29.9860911,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 728610 -95.332267600 29.987354900 0.000000000",
+      "points": [
+        [
+          -95.3322676,
+          29.9873549,
+          0.0
+        ],
+        [
+          -95.3325073,
+          29.9873283,
+          0.0
+        ],
+        [
+          -95.3330912,
+          29.9873385,
+          0.0
+        ],
+        [
+          -95.3332622,
+          29.987339,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 454605 -95.345208500 29.987302700 0.000000000",
+      "points": [
+        [
+          -95.3452085,
+          29.9873027,
+          0.0
+        ],
+        [
+          -95.345867,
+          29.9872998,
+          0.0
+        ],
+        [
+          -95.3461915,
+          29.987305,
+          0.0
+        ],
+        [
+          -95.3462712,
+          29.9873067,
+          0.0
+        ]
+      ]
+    },
+    {
+      "head": "BEGIN_SEGMENT 0 55 678069 -95.344875100 29.986091100 0.000000000",
+      "points": [
+        [
+          -95.3448751,
+          29.9860911,
+          0.0
+        ],
+        [
+          -95.344461,
+          29.9861022,
+          0.0
+        ],
+        [
+          -95.3438012,
+          29.9861074,
+          0.0
+        ]
+      ]
+    }
+  ],
+  "exclusion_count": 4732,
+  "hangar_detail": "Interpreted metal battens, plinth, edge trim and roof seams; east doorway retained",
+  "ea_barriers": "Unchanged; remaining red row at -95.313975,29.99105 is EA, east side, not the reopened 15L west corridor",
+  "conflicting_aep_primitives": {
+    "obj": 1191,
+    "lin": 160,
+    "pol": 68
+  },
+  "service_paths": {
+    "rerouted_original_edges": 7,
+    "new_nodes": 34,
+    "moved_existing_nodes": {
+      "1368": [
+        242.4164541178709,
+        590.867411135011
+      ]
+    },
+    "total_service_edges": 622
+  }
+}

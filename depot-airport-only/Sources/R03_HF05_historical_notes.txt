@@ -1,0 +1,96 @@
+KIAH R03 HF05 - AEP OVERLAY AND SOURCE ASPHALT REPAIR
+24 October 2026
+STAGED FOR REVIEW. NOT INSTALLED. X-PLANE TEST PENDING.
+
+FINDINGS
+The installed AEP Houston overlay contains the old rounded asphalt footprint
+across the rebuilt B North apron, plus a matching snow layer. AEP also replaces
+native pavement materials. HF04 removed the old edge markings and lights but
+kept the original asphalt under its concrete cover.
+
+Our previous polygon exclusions used comma-only coordinate values. The actual
+WED exporter writes longitude/latitude pairs separated by commas. The earlier
+offline exclusion audit accepted the wrong representation and therefore did
+not establish that X-Plane would apply those exclusions. This repair corrects
+our airport package. No AEP assets or library mappings are changed.
+
+CHANGES
+* Remove 41,407.789 square metres from the one underlying legacy asphalt
+  polygon within the existing HF04 B North cleanup boundary. This includes
+  areas already hidden under concrete; it is not an exposed-area measurement.
+  Retain the remainder as three polygons. The former asphalt area is concrete.
+* Correct all 4,732 existing polygonal exclusion records in the southern DSF
+  to the syntax emitted by WED, with counter-clockwise point order. Their
+  footprints, categories and property order are unchanged. This restores the
+  intended exclusions authored in earlier revisions across the airport, so
+  the effect is broader than the small B North pavement cut.
+* Patch only the DSF property payload and checksum. All packed placement,
+  resource and command data is preserved exactly. Re-encoding the full DSF
+  was rejected because it slightly quantized object headings.
+
+AEP EFFECT
+Both AEP legacy asphalt and asphalt-snow overlay primitives intersecting the
+repair are covered by the corrected polygon exclusions. All 30 AEP overlay
+primitives touching that area are covered by the intended categories.
+X-Plane exclusions remove a whole primitive when a qualifying point is inside;
+they do not clip only the overlap. The native active pavement outside the
+repair is retained. AEP remains enabled and supplies its normal replacements
+where not excluded. This does not disable AEP globally.
+
+PRESERVED AND VERIFIED
+15/15 targeted offline checks pass. The only changed runtime files are apt.dat
+and the southern DSF. All other airport records, all five runways, 988 aircraft
+taxi edges, 622 service edges, 1,450 shared nodes, 240 aircraft starts, 119
+service starts/destinations, 116 animated jetways, custom models and textures
+are preserved. Both DSF tiles decode successfully and all placements compare
+exactly. The northern DSF is byte-identical to HF04.
+
+The clipped asphalt curves were flattened with a 0.5 mm geometric tolerance.
+An independent finer sampling measured maximum outside-boundary difference
+of 0.4083 mm. Removed asphalt is covered by concrete. HF04's removal of the old
+edge paint and lights is retained.
+
+The installed HF04 package, scenery order, AEP Library.txt and Houston AEP
+overlay DSFs remain untouched. These are custom offline checks, not WED
+validation or simulator acceptance.
+
+PREVIEWS
+The user screenshot is the actual HF04 before state. HF05 after views render
+native airport geometry, actual custom terminal models and stock jetway meshes
+in their parked positions. Surface appearance and lighting are approximate.
+They do not render AEP textures/effects, terrain relief, equipment or traffic.
+The AEP footprint map is a separate source-geometry audit. No image is presented
+as an HF05 X-Plane screenshot. See Preview_Method.json for exact input hashes.
+
+FIRST TESTS AFTER AN APPROVED INSTALL
+1. With AEP enabled, load B5 and inspect the same view as the submitted
+   screenshot. Look for a continuous concrete apron where the dark rounded
+   island borders remained in HF04.
+2. Inspect the other B pier tip at B17/B18 and the junction with NB. Retained
+   gate markings, active taxiway centerlines and the grass island should remain.
+3. Inspect D/E, terminal roads and the United maintenance hangar as a regression
+   check because previously intended airport exclusions now use corrected syntax.
+4. Check the local surface boundary in daylight and at dusk. Report any remaining
+   dark patch, missing pavement or stray edge lights. Docking and AI/service
+   runtime limitations from earlier revisions still apply.
+
+INSTALLATION
+This is a complete successor for the existing single R03 KIAH add-on slot.
+After approval, back up HF04 and replace that slot while retaining scenery
+priority. Do not enable both packages as competing KIAH airports. No install,
+simulator restart or scenery reload was performed to prepare this review.
+
+PROVENANCE
+Earlier revision records remain under Sources as historical material. HF05
+notes and validation supersede older claims about the exclusion check.
+Build helpers are audit copies requiring preserved local workspace inputs;
+they are not a portable build system. repair_hf05.py invokes the property-only
+DSF patch before validation. No third-party AEP resources are redistributed.
+
+PRIMARY TECHNICAL REFERENCES
+Actual WED exporter, polygon exclusion formatting:
+https://github.com/X-Plane/xptools/blob/master/src/WEDImportExport/WED_DSFExport.cpp#L1447-L1480
+The developer article's coordinate example differs from the exporter. HF05
+follows the exporter and still requires a simulator test.
+https://developer.x-plane.com/article/dsf-usage-in-x-plane/
+https://developer.x-plane.com/article/dsf-file-format-specification/

@@ -1,3 +1,7 @@
+HISTORICAL NOTES - retained from the previous member release.
+For this package use README.txt and INSTALL.txt. The test installers and
+review outputs mentioned below are not included in the member ZIP.
+
 NRT KIAH R24 - Pull-through and campus refinements (R21)
 
 CURRENT REVISION. Older README_R22/R23 files are historical records.

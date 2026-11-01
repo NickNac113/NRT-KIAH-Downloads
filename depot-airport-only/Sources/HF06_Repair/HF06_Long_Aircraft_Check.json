@@ -1,0 +1,40 @@
+[
+  {
+    "length_m": 45,
+    "span_m": 36,
+    "trial_shift_east_m": 0,
+    "minimum_clearances_m": [
+      [
+        "Gate B11",
+        12.940597292484089
+      ],
+      [
+        "Gate B8",
+        21.605883901334554
+      ],
+      [
+        "Gate B9",
+        26.21486780119881
+      ]
+    ]
+  },
+  {
+    "length_m": 56,
+    "span_m": 36,
+    "trial_shift_east_m": 0,
+    "minimum_clearances_m": [
+      [
+        "Gate B11",
+        6.564233735016017
+      ],
+      [
+        "Gate B8",
+        11.618210857505574
+      ],
+      [
+        "Gate B9",
+        15.233830123120525
+      ]
+    ]
+  }
+]

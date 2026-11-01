@@ -1,0 +1,4430 @@
+{
+  "models": [
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\B_North.obj",
+      "origin": [
+        -379.69978896389034,
+        412.12412275406325
+      ],
+      "vertices": 8101,
+      "triangles": 3745,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\D_West.obj",
+      "origin": [
+        280.69544779361684,
+        472.6279862655855
+      ],
+      "vertices": 4619,
+      "triangles": 2133,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\International_Processor.obj",
+      "origin": [
+        784.7373005506632,
+        240.74389928996214
+      ],
+      "vertices": 6345,
+      "triangles": 2927,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\B_Lobby_Closed.obj",
+      "origin": [
+        -358.41834130075813,
+        248.13434742252994
+      ],
+      "vertices": 4937,
+      "triangles": 2281,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B1.obj",
+      "origin": [
+        -230.12693020027115,
+        421.23381153833134
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B2.obj",
+      "origin": [
+        -228.28881747959952,
+        461.1879863255119
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B3.obj",
+      "origin": [
+        -222.29260672821087,
+        533.9766503353543
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B4.obj",
+      "origin": [
+        -220.28959775119984,
+        555.7751401869637
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B5.obj",
+      "origin": [
+        -229.57889985219515,
+        581.2629167616667
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B6.obj",
+      "origin": [
+        -243.57009915825648,
+        585.859764625067
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B7.obj",
+      "origin": [
+        -259.9526757622357,
+        581.7775194509417
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B8.obj",
+      "origin": [
+        -281.22169756509413,
+        548.2685469806656
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B9.obj",
+      "origin": [
+        -279.1257838848494,
+        475.96861253580005
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B10.obj",
+      "origin": [
+        -327.106140465193,
+        392.607786189673
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B11.obj",
+      "origin": [
+        -386.35793373958103,
+        398.59380297503
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B12.obj",
+      "origin": [
+        -487.1052825653475,
+        422.8331380331585
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B14.obj",
+      "origin": [
+        -487.2017838570819,
+        467.2848552736774
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B15.obj",
+      "origin": [
+        -481.30207439742765,
+        534.5309111490029
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B16.obj",
+      "origin": [
+        -479.29906542041664,
+        556.1076966749953
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B17.obj",
+      "origin": [
+        -488.58836752141195,
+        581.3737689244751
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B18.obj",
+      "origin": [
+        -502.57956682610194,
+        585.9706167878754
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B19.obj",
+      "origin": [
+        -519.1551460149211,
+        581.5558151253247
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B20.obj",
+      "origin": [
+        -540.2311652343109,
+        540.9523042427883
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B21.obj",
+      "origin": [
+        -534.0047677550624,
+        484.47518554896124
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B22.obj",
+      "origin": [
+        -540.7666599429135,
+        462.74825139732366
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_B23.obj",
+      "origin": [
+        -560.9095564596058,
+        401.91936785613393
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D1.obj",
+      "origin": [
+        312.9411876248328,
+        428.3757461680692
+      ],
+      "vertices": 80,
+      "triangles": 38,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D2.obj",
+      "origin": [
+        253.07038142618745,
+        511.4967306794907
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D3.obj",
+      "origin": [
+        297.9411876248328,
+        497.7692000148987
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D4.obj",
+      "origin": [
+        254.59053850257595,
+        587.8469957485194
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D5.obj",
+      "origin": [
+        311.1937777577801,
+        569.8026898130039
+      ],
+      "vertices": 80,
+      "triangles": 38,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_D6.obj",
+      "origin": [
+        285.38755971844466,
+        601.3494001507376
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_A20.obj",
+      "origin": [
+        -787.6116360082075,
+        51.68908680629904
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_C12.obj",
+      "origin": [
+        -21.076155809510496,
+        421.5974835654865
+      ],
+      "vertices": 64,
+      "triangles": 30,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_C14.obj",
+      "origin": [
+        -82.37886400969127,
+        380.85745694418216
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\bridge_C15.obj",
+      "origin": [
+        -135.8405797649315,
+        380.85745694418216
+      ],
+      "vertices": 56,
+      "triangles": 26,
+      "draped": false
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\Current_Stand_Labels.obj",
+      "origin": [
+        0,
+        0
+      ],
+      "vertices": 280,
+      "triangles": 140,
+      "draped": true
+    },
+    {
+      "path": "X:\\X-Plane 12\\Output\\KIAH_R03_HF02_Repair\\staged\\KIAH_2026-10-24_Review_R03_HF02\\objects\\United_Maintenance_Exterior.obj",
+      "origin": [
+        1767.1781723245135,
+        432.54015048687717
+      ],
+      "vertices": 22,
+      "triangles": 10,
+      "draped": false
+    }
+  ],
+  "jetways": [
+    {
+      "name": "B1",
+      "door": [
+        -236.28881747959952,
+        430.72228587074386
+      ],
+      "base": [
+        -230.12693020027115,
+        421.23381153833134
+      ],
+      "end": [
+        -216.3714529366429,
+        423.4216975613695
+      ],
+      "heading": 80.96248897457811,
+      "length": 13.928388277184103,
+      "size": 0,
+      "cabin_heading": 35.96248897457811
+    },
+    {
+      "name": "B2",
+      "door": [
+        -236.28881747959952,
+        469.1879863255119
+      ],
+      "base": [
+        -228.28881747959952,
+        461.1879863255119
+      ],
+      "end": [
+        -215.28881747959952,
+        466.1879863255119
+      ],
+      "heading": 68.96248897457819,
+      "length": 13.92838827718412,
+      "size": 0,
+      "cabin_heading": 23.962488974578193
+    },
+    {
+      "name": "B3",
+      "door": [
+        -231.56025417364398,
+        540.4659269381165
+      ],
+      "base": [
+        -222.29260672821087,
+        533.9766503353543
+      ],
+      "end": [
+        -200.51026929726473,
+        542.8945971867547
+      ],
+      "heading": 67.73522627210767,
+      "length": 23.53720459187964,
+      "size": 1,
+      "cabin_heading": 22.735226272107667
+    },
+    {
+      "name": "B4",
+      "door": [
+        -231.56025417364398,
+        556.7611948544231
+      ],
+      "base": [
+        -220.28959775119984,
+        555.7751401869637
+      ],
+      "end": [
+        -205.88451360789605,
+        574.389477425349
+      ],
+      "heading": 37.73522627210747,
+      "length": 23.537204591879682,
+      "size": 1,
+      "cabin_heading": 352.73522627210747
+    },
+    {
+      "name": "B5",
+      "door": [
+        -239.37685882332786,
+        575.6060625121744
+      ],
+      "base": [
+        -229.57889985219515,
+        581.2629167616667
+      ],
+      "end": [
+        -228.45569094628252,
+        604.773305991828
+      ],
+      "heading": 2.735226272107577,
+      "length": 23.53720459187977,
+      "size": 1,
+      "cabin_heading": 317.7352262721076
+    },
+    {
+      "name": "B6",
+      "door": [
+        -248.3514789779384,
+        575.6060625121744
+      ],
+      "base": [
+        -243.57009915825648,
+        585.859764625067
+      ],
+      "end": [
+        -256.1350255586764,
+        605.7625941865145
+      ],
+      "heading": 327.7352262721077,
+      "length": 23.537204591879636,
+      "size": 1,
+      "cabin_heading": 282.7352262721077
+    },
+    {
+      "name": "B7",
+      "door": [
+        -258.96662109477614,
+        570.5068630284976
+      ],
+      "base": [
+        -259.9526757622357,
+        581.7775194509417
+      ],
+      "end": [
+        -280.78563600240483,
+        592.7314122581373
+      ],
+      "heading": 297.7352262721079,
+      "length": 23.537204591879657,
+      "size": 1,
+      "cabin_heading": 252.73522627210792
+    },
+    {
+      "name": "B8",
+      "door": [
+        -275.56484331560176,
+        538.4705880095329
+      ],
+      "base": [
+        -281.22169756509413,
+        548.2685469806656
+      ],
+      "end": [
+        -295.07282853236467,
+        546.803565435553
+      ],
+      "heading": 263.9624889745778,
+      "length": 13.928388277184172,
+      "size": 0,
+      "cabin_heading": 218.9624889745778
+    },
+    {
+      "name": "B9",
+      "door": [
+        -271.1257838848494,
+        467.96861253580005
+      ],
+      "base": [
+        -279.1257838848494,
+        475.96861253580005
+      ],
+      "end": [
+        -292.1257838848494,
+        470.96861253580005
+      ],
+      "heading": 248.96248897457818,
+      "length": 13.92838827718412,
+      "size": 0,
+      "cabin_heading": 203.96248897457818
+    },
+    {
+      "name": "B10",
+      "door": [
+        -335.106140465193,
+        384.607786189673
+      ],
+      "base": [
+        -327.106140465193,
+        392.607786189673
+      ],
+      "end": [
+        -332.106140465193,
+        411.607786189673
+      ],
+      "heading": 345.25643716352926,
+      "length": 19.6468827043885,
+      "size": 0,
+      "cabin_heading": 300.25643716352926
+    },
+    {
+      "name": "B11",
+      "door": [
+        -394.35793373958103,
+        390.59380297503
+      ],
+      "base": [
+        -386.35793373958103,
+        398.59380297503
+      ],
+      "end": [
+        -391.35793373958103,
+        417.59380297503
+      ],
+      "heading": 345.25643716352926,
+      "length": 19.6468827043885,
+      "size": 0,
+      "cabin_heading": 300.25643716352926
+    },
+    {
+      "name": "B12",
+      "door": [
+        -495.1052825653475,
+        430.8331380331585
+      ],
+      "base": [
+        -487.1052825653475,
+        422.8331380331585
+      ],
+      "end": [
+        -474.1052825653475,
+        427.8331380331585
+      ],
+      "heading": 68.96248897457819,
+      "length": 13.92838827718412,
+      "size": 0,
+      "cabin_heading": 23.962488974578193
+    },
+    {
+      "name": "B14",
+      "door": [
+        -495.2017838570819,
+        475.2848552736774
+      ],
+      "base": [
+        -487.2017838570819,
+        467.2848552736774
+      ],
+      "end": [
+        -474.2017838570819,
+        472.2848552736774
+      ],
+      "heading": 68.96248897457819,
+      "length": 13.92838827718412,
+      "size": 0,
+      "cabin_heading": 23.962488974578193
+    },
+    {
+      "name": "B15",
+      "door": [
+        -490.56972184286076,
+        541.0201877517651
+      ],
+      "base": [
+        -481.30207439742765,
+        534.5309111490029
+      ],
+      "end": [
+        -459.51973696648156,
+        543.4488580004033
+      ],
+      "heading": 67.73522627210761,
+      "length": 23.537204591879586,
+      "size": 1,
+      "cabin_heading": 22.73522627210761
+    },
+    {
+      "name": "B16",
+      "door": [
+        -490.56972184286076,
+        557.0937513424548
+      ],
+      "base": [
+        -479.29906542041664,
+        556.1076966749953
+      ],
+      "end": [
+        -464.89398127711286,
+        574.7220339133806
+      ],
+      "heading": 37.73522627210747,
+      "length": 23.537204591879682,
+      "size": 1,
+      "cabin_heading": 352.73522627210747
+    },
+    {
+      "name": "B17",
+      "door": [
+        -498.38632649254464,
+        575.7169146749828
+      ],
+      "base": [
+        -488.58836752141195,
+        581.3737689244751
+      ],
+      "end": [
+        -487.46515861549926,
+        604.8841581546365
+      ],
+      "heading": 2.7352262721077154,
+      "length": 23.537204591879775,
+      "size": 1,
+      "cabin_heading": 317.7352262721077
+    },
+    {
+      "name": "B18",
+      "door": [
+        -507.3609466457838,
+        575.7169146749828
+      ],
+      "base": [
+        -502.57956682610194,
+        585.9706167878754
+      ],
+      "end": [
+        -515.1444932265217,
+        605.873446349323
+      ],
+      "heading": 327.7352262721079,
+      "length": 23.537204591879572,
+      "size": 1,
+      "cabin_heading": 282.7352262721079
+    },
+    {
+      "name": "B19",
+      "door": [
+        -518.1690913474616,
+        570.2851587028806
+      ],
+      "base": [
+        -519.1551460149211,
+        581.5558151253247
+      ],
+      "end": [
+        -539.9881062550903,
+        592.5097079325203
+      ],
+      "heading": 297.73522627210787,
+      "length": 23.537204591879707,
+      "size": 1,
+      "cabin_heading": 252.73522627210787
+    },
+    {
+      "name": "B20",
+      "door": [
+        -534.5743109848186,
+        531.1543452716555
+      ],
+      "base": [
+        -540.2311652343109,
+        540.9523042427883
+      ],
+      "end": [
+        -554.0822962015815,
+        539.4873226976756
+      ],
+      "heading": 263.9624889745778,
+      "length": 13.92838827718423,
+      "size": 0,
+      "cabin_heading": 218.9624889745778
+    },
+    {
+      "name": "B21",
+      "door": [
+        -530.1352515526947,
+        473.8437771587424
+      ],
+      "base": [
+        -534.0047677550624,
+        484.47518554896124
+      ],
+      "end": [
+        -547.8998602952423,
+        485.437684016407
+      ],
+      "heading": 273.9624889745778,
+      "length": 13.928388277184082,
+      "size": 0,
+      "cabin_heading": 228.9624889745778
+    },
+    {
+      "name": "B22",
+      "door": [
+        -530.1352515526947,
+        458.87873519495605
+      ],
+      "base": [
+        -540.7666599429135,
+        462.74825139732366
+      ],
+      "end": [
+        -550.4355698656865,
+        452.72267505951135
+      ],
+      "heading": 223.96248897457832,
+      "length": 13.928388277184107,
+      "size": 0,
+      "cabin_heading": 178.96248897457832
+    },
+    {
+      "name": "B23",
+      "door": [
+        -552.9095564596058,
+        393.91936785613393
+      ],
+      "base": [
+        -560.9095564596058,
+        401.91936785613393
+      ],
+      "end": [
+        -573.9095564596058,
+        396.91936785613393
+      ],
+      "heading": 248.96248897457818,
+      "length": 13.92838827718412,
+      "size": 0,
+      "cabin_heading": 203.96248897457818
+    },
+    {
+      "name": "D1",
+      "door": [
+        286.9411876248328,
+        436.3757461680692
+      ],
+      "base": [
+        312.9411876248328,
+        428.3757461680692
+      ],
+      "end": [
+        322.5569176621697,
+        433.71781841103416
+      ],
+      "heading": 60.94539590092286,
+      "length": 11,
+      "size": 0,
+      "cabin_heading": 15.945395900922861
+    },
+    {
+      "name": "D2",
+      "door": [
+        264.07038142618745,
+        503.4967306794907
+      ],
+      "base": [
+        253.07038142618745,
+        511.4967306794907
+      ],
+      "end": [
+        229.07038142618745,
+        506.4967306794907
+      ],
+      "heading": 258.23171106797935,
+      "length": 24.515301344262525,
+      "size": 1,
+      "cabin_heading": 213.23171106797935
+    },
+    {
+      "name": "D3",
+      "door": [
+        286.9411876248328,
+        505.7692000148987
+      ],
+      "base": [
+        297.9411876248328,
+        497.7692000148987
+      ],
+      "end": [
+        321.9411876248328,
+        502.7692000148987
+      ],
+      "heading": 78.23171106797936,
+      "length": 24.515301344262525,
+      "size": 1,
+      "cabin_heading": 33.23171106797936
+    },
+    {
+      "name": "D4",
+      "door": [
+        264.07038142618745,
+        575.8831929189987
+      ],
+      "base": [
+        254.59053850257595,
+        587.8469957485194
+      ],
+      "end": [
+        226.56904440394223,
+        592.7250966577088
+      ],
+      "heading": 279.87532834460274,
+      "length": 28.44292530665578,
+      "size": 1,
+      "cabin_heading": 234.87532834460274
+    },
+    {
+      "name": "D5",
+      "door": [
+        286.8446863330985,
+        569.4537674828016
+      ],
+      "base": [
+        311.1937777577801,
+        569.8026898130039
+      ],
+      "end": [
+        326.39814421529775,
+        580.6575154967962
+      ],
+      "heading": 54.47588900324323,
+      "length": 18.68154169226957,
+      "size": 0,
+      "cabin_heading": 9.475889003243232
+    },
+    {
+      "name": "D6",
+      "door": [
+        277.38755971844466,
+        590.3494001507376
+      ],
+      "base": [
+        285.38755971844466,
+        601.3494001507376
+      ],
+      "end": [
+        280.38755971844466,
+        631.3494001507376
+      ],
+      "heading": 350.5376777919744,
+      "length": 30.4138126514911,
+      "size": 2,
+      "cabin_heading": 305.5376777919744
+    },
+    {
+      "name": "A20",
+      "door": [
+        -782.7756339523575,
+        61.91714058577313
+      ],
+      "base": [
+        -787.6116360082075,
+        51.68908680629904
+      ],
+      "end": [
+        -765.2213254225678,
+        31.499271804405815
+      ],
+      "heading": 132.0416468431202,
+      "length": 30.14887457156702,
+      "size": 2,
+      "cabin_heading": 87.04164684312019
+    },
+    {
+      "name": "C12",
+      "door": [
+        -18.29239890171794,
+        409.88207928401516
+      ],
+      "base": [
+        -21.076155809510496,
+        421.5974835654865
+      ],
+      "end": [
+        -35.41216661131161,
+        425.5317934529562
+      ],
+      "heading": 285.3461759419467,
+      "length": 14.866068747318504,
+      "size": 0,
+      "cabin_heading": 240.34617594194668
+    },
+    {
+      "name": "C14",
+      "door": [
+        -90.37886400969127,
+        372.85745694418216
+      ],
+      "base": [
+        -82.37886400969127,
+        380.85745694418216
+      ],
+      "end": [
+        -87.37886400969127,
+        397.85745694418216
+      ],
+      "heading": 343.6104596659652,
+      "length": 17.72004514666935,
+      "size": 0,
+      "cabin_heading": 298.6104596659652
+    },
+    {
+      "name": "C15",
+      "door": [
+        -143.8405797649315,
+        372.85745694418216
+      ],
+      "base": [
+        -135.8405797649315,
+        380.85745694418216
+      ],
+      "end": [
+        -140.8405797649315,
+        397.85745694418216
+      ],
+      "heading": 343.6104596659652,
+      "length": 17.72004514666935,
+      "size": 0,
+      "cabin_heading": 298.6104596659652
+    }
+  ],
+  "preview_only": [
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B1.obj",
+      "origin": [
+        -230.12693020027115,
+        421.23381153833134
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B2.obj",
+      "origin": [
+        -228.28881747959952,
+        461.1879863255119
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B3.obj",
+      "origin": [
+        -222.29260672821087,
+        533.9766503353543
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B4.obj",
+      "origin": [
+        -220.28959775119984,
+        555.7751401869637
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B5.obj",
+      "origin": [
+        -229.57889985219515,
+        581.2629167616667
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B6.obj",
+      "origin": [
+        -243.57009915825648,
+        585.859764625067
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B7.obj",
+      "origin": [
+        -259.9526757622357,
+        581.7775194509417
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B8.obj",
+      "origin": [
+        -281.22169756509413,
+        548.2685469806656
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B9.obj",
+      "origin": [
+        -279.1257838848494,
+        475.96861253580005
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B10.obj",
+      "origin": [
+        -327.106140465193,
+        392.607786189673
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B11.obj",
+      "origin": [
+        -386.35793373958103,
+        398.59380297503
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B12.obj",
+      "origin": [
+        -487.1052825653475,
+        422.8331380331585
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B14.obj",
+      "origin": [
+        -487.2017838570819,
+        467.2848552736774
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B15.obj",
+      "origin": [
+        -481.30207439742765,
+        534.5309111490029
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B16.obj",
+      "origin": [
+        -479.29906542041664,
+        556.1076966749953
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B17.obj",
+      "origin": [
+        -488.58836752141195,
+        581.3737689244751
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B18.obj",
+      "origin": [
+        -502.57956682610194,
+        585.9706167878754
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B19.obj",
+      "origin": [
+        -519.1551460149211,
+        581.5558151253247
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B20.obj",
+      "origin": [
+        -540.2311652343109,
+        540.9523042427883
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B21.obj",
+      "origin": [
+        -534.0047677550624,
+        484.47518554896124
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B22.obj",
+      "origin": [
+        -540.7666599429135,
+        462.74825139732366
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_B23.obj",
+      "origin": [
+        -560.9095564596058,
+        401.91936785613393
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D1.obj",
+      "origin": [
+        312.9411876248328,
+        428.3757461680692
+      ],
+      "vertices": 186,
+      "triangles": 82,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D2.obj",
+      "origin": [
+        253.07038142618745,
+        511.4967306794907
+      ],
+      "vertices": 210,
+      "triangles": 94,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D3.obj",
+      "origin": [
+        297.9411876248328,
+        497.7692000148987
+      ],
+      "vertices": 210,
+      "triangles": 94,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D4.obj",
+      "origin": [
+        254.59053850257595,
+        587.8469957485194
+      ],
+      "vertices": 210,
+      "triangles": 94,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D5.obj",
+      "origin": [
+        311.1937777577801,
+        569.8026898130039
+      ],
+      "vertices": 202,
+      "triangles": 90,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_D6.obj",
+      "origin": [
+        285.38755971844466,
+        601.3494001507376
+      ],
+      "vertices": 218,
+      "triangles": 98,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_A20.obj",
+      "origin": [
+        -787.6116360082075,
+        51.68908680629904
+      ],
+      "vertices": 218,
+      "triangles": 98,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_C12.obj",
+      "origin": [
+        -21.076155809510496,
+        421.5974835654865
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_C14.obj",
+      "origin": [
+        -82.37886400969127,
+        380.85745694418216
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    },
+    {
+      "path": "C:\\Users\\Nick\\Documents\\Codex\\2026-10-24\\cou\\work\\preview-mesh\\active_C15.obj",
+      "origin": [
+        -135.8405797649315,
+        380.85745694418216
+      ],
+      "vertices": 194,
+      "triangles": 86,
+      "draped": false,
+      "preview_only": true
+    }
+  ],
+  "new_stands": [
+    {
+      "name": "B1",
+      "pos": [
+        -218.682160666391,
+        426.9798754360242
+      ],
+      "heading": 282,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -236.28881747959952,
+        430.72228587074386
+      ],
+      "model": "B_North",
+      "lat": 29.98829623962633,
+      "lon": -95.3437105500405,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B2",
+      "pos": [
+        -218.28881747959952,
+        469.1879863255119
+      ],
+      "heading": 270,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -236.28881747959952,
+        469.1879863255119
+      ],
+      "model": "B_North",
+      "lat": 29.988677,
+      "lon": -95.34370647399986,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B3",
+      "pos": [
+        -203.98563708930214,
+        545.3280759127905
+      ],
+      "heading": 260,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -231.56025417364398,
+        540.4659269381165
+      ],
+      "model": "B_North",
+      "lat": 29.98936386156171,
+      "lon": -95.34355825649834,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B4",
+      "pos": [
+        -210.1110097663126,
+        574.7592479256463
+      ],
+      "heading": 230,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -231.56025417364398,
+        556.7611948544231
+      ],
+      "model": "B_North",
+      "lat": 29.989629360865443,
+      "lon": -95.34362173101306,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B5",
+      "pos": [
+        -232.12992556045728,
+        602.6519856482684
+      ],
+      "heading": 195,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -239.37685882332786,
+        575.6060625121744
+      ],
+      "model": "B_North",
+      "lat": 29.9898809819168,
+      "lon": -95.3438499032514,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B6",
+      "pos": [
+        -257.9280429910571,
+        601.9174558941799
+      ],
+      "heading": 160,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -248.3514789779384,
+        575.6060625121744
+      ],
+      "model": "B_North",
+      "lat": 29.989874355706394,
+      "lon": -95.3441172376767,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B7",
+      "pos": [
+        -280.4158655021075,
+        588.5049160997207
+      ],
+      "heading": 130,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -258.96662109477614,
+        570.5068630284976
+      ],
+      "model": "B_North",
+      "lat": 29.989753360865443,
+      "lon": -95.34435026898694,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B8",
+      "pos": [
+        -292.951508188805,
+        543.1293308213783
+      ],
+      "heading": 105,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -275.56484331560176,
+        538.4705880095329
+      ],
+      "model": "B_North",
+      "lat": 29.98934402662987,
+      "lon": -95.3444801702808,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B9",
+      "pos": [
+        -289.1257838848494,
+        467.96861253580005
+      ],
+      "heading": 90,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -271.1257838848494,
+        467.96861253580005
+      ],
+      "model": "B_North",
+      "lat": 29.988666,
+      "lon": -95.34444052600014,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B10",
+      "pos": [
+        -335.106140465193,
+        408.607786189673
+      ],
+      "heading": 180,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -335.106140465193,
+        384.607786189673
+      ],
+      "model": "B_North",
+      "lat": 29.988130504571643,
+      "lon": -95.344917,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B11",
+      "pos": [
+        -394.35793373958103,
+        414.59380297503
+      ],
+      "heading": 180,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -394.35793373958103,
+        390.59380297503
+      ],
+      "model": "B_North",
+      "lat": 29.98818450457164,
+      "lon": -95.345531,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B12",
+      "pos": [
+        -477.1052825653475,
+        430.8331380331585
+      ],
+      "heading": 270,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -495.1052825653475,
+        430.8331380331585
+      ],
+      "model": "B_North",
+      "lat": 29.988331,
+      "lon": -95.34638847399987,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B14",
+      "pos": [
+        -477.2017838570819,
+        475.2848552736774
+      ],
+      "heading": 270,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -495.2017838570819,
+        475.2848552736774
+      ],
+      "model": "B_North",
+      "lat": 29.988732,
+      "lon": -95.34638947399986,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B15",
+      "pos": [
+        -462.99510475851895,
+        545.8823367264391
+      ],
+      "heading": 260,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -490.56972184286076,
+        541.0201877517651
+      ],
+      "model": "B_North",
+      "lat": 29.98936886156171,
+      "lon": -95.34624225649834,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B16",
+      "pos": [
+        -469.1204774355294,
+        575.0918044136779
+      ],
+      "heading": 230,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -490.56972184286076,
+        557.0937513424548
+      ],
+      "model": "B_North",
+      "lat": 29.989632360865443,
+      "lon": -95.34630573101306,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B17",
+      "pos": [
+        -491.13939322967406,
+        602.7628378110768
+      ],
+      "heading": 195,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -498.38632649254464,
+        575.7169146749828
+      ],
+      "model": "B_North",
+      "lat": 29.989881981916803,
+      "lon": -95.3465339032514,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B18",
+      "pos": [
+        -516.9375106589025,
+        602.0283080569883
+      ],
+      "heading": 160,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -507.3609466457838,
+        575.7169146749828
+      ],
+      "model": "B_North",
+      "lat": 29.989875355706396,
+      "lon": -95.34680123767669,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B19",
+      "pos": [
+        -539.6183357547931,
+        588.2832117741037
+      ],
+      "heading": 130,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -518.1690913474616,
+        570.2851587028806
+      ],
+      "model": "B_North",
+      "lat": 29.98975136086544,
+      "lon": -95.34703626898694,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B20",
+      "pos": [
+        -551.9609758580218,
+        535.8130880835009
+      ],
+      "heading": 105,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -534.5743109848186,
+        531.1543452716555
+      ],
+      "model": "B_North",
+      "lat": 29.98927802662987,
+      "lon": -95.3471641702808,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B21",
+      "pos": [
+        -546.4487917193544,
+        481.45090587007496
+      ],
+      "heading": 115,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -530.1352515526947,
+        473.8437771587424
+      ],
+      "model": "B_North",
+      "lat": 29.988787624089294,
+      "lon": -95.3471070499664,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B22",
+      "pos": [
+        -546.4487917193544,
+        451.2716064836235
+      ],
+      "heading": 65,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -530.1352515526947,
+        458.87873519495605
+      ],
+      "model": "B_North",
+      "lat": 29.988515375910705,
+      "lon": -95.3471070499664,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "B23",
+      "pos": [
+        -570.9095564596058,
+        393.91936785613393
+      ],
+      "heading": 90,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "ual",
+      "source": "modeled from current gate door and terminal footprint",
+      "door": [
+        -552.9095564596058,
+        393.91936785613393
+      ],
+      "model": "B_North",
+      "lat": 29.987998,
+      "lon": -95.34736052600013,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "airline",
+        "ual"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D1",
+      "pos": [
+        318.9411876248328,
+        436.3757461680692
+      ],
+      "heading": 270,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        286.9411876248328,
+        436.3757461680692
+      ],
+      "model": "D_West",
+      "lat": 29.988381,
+      "lon": -95.33813939822198,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D1A",
+      "pos": [
+        311.9411876248328,
+        416.3757461680692
+      ],
+      "heading": 270,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        286.9411876248328,
+        432.0525118228704
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D1",
+      "lat": 29.98820057952363,
+      "lon": -95.33821193611092,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D1B",
+      "pos": [
+        311.9411876248328,
+        456.3757461680692
+      ],
+      "heading": 270,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        286.9411876248328,
+        440.69898051326805
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D1",
+      "lat": 29.98856142047637,
+      "lon": -95.33821193611092,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D2",
+      "pos": [
+        232.07038142618745,
+        503.4967306794907
+      ],
+      "heading": 90,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        264.07038142618745,
+        503.4967306794907
+      ],
+      "model": "D_West",
+      "lat": 29.9889865,
+      "lon": -95.33903960177801,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D2A",
+      "pos": [
+        239.07038142618745,
+        523.4967306794907
+      ],
+      "heading": 90,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        264.07038142618745,
+        499.11807025308457
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D2",
+      "lat": 29.989166920476368,
+      "lon": -95.33896706388907,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D2B",
+      "pos": [
+        239.07038142618745,
+        483.4967306794907
+      ],
+      "heading": 90,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        264.07038142618745,
+        507.87539110589694
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D2",
+      "lat": 29.98880607952363,
+      "lon": -95.33896706388907,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D3",
+      "pos": [
+        318.9411876248328,
+        505.7692000148987
+      ],
+      "heading": 270,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        286.9411876248328,
+        505.7692000148987
+      ],
+      "model": "D_West",
+      "lat": 29.989007,
+      "lon": -95.33813939822198,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D4",
+      "pos": [
+        228.36206183632294,
+        588.8799583653741
+      ],
+      "heading": 110,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        264.07038142618745,
+        575.8831929189987
+      ],
+      "model": "D_West",
+      "lat": 29.989756744130656,
+      "lon": -95.3390780294458,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D4A",
+      "pos": [
+        241.7803130483377,
+        605.2796697778127
+      ],
+      "heading": 110,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        264.07038142618745,
+        571.5045324925925
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D4",
+      "lat": 29.98990468631792,
+      "lon": -95.33893898207207,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D4B",
+      "pos": [
+        228.09950731531092,
+        567.6919649463763
+      ],
+      "heading": 110,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        264.07038142618745,
+        580.2618533454048
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D4",
+      "lat": 29.989565606737354,
+      "lon": -95.33908075018161,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D5",
+      "pos": [
+        322.553005922963,
+        582.450532929177
+      ],
+      "heading": 250,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        286.8446863330985,
+        569.4537674828016
+      ],
+      "model": "D_West",
+      "lat": 29.989698744130656,
+      "lon": -95.33810197055419,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D5A",
+      "pos": [
+        322.815560443975,
+        561.2625395101792
+      ],
+      "heading": 250,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        286.8446863330985,
+        565.0751070563954
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D5",
+      "lat": 29.989507606737355,
+      "lon": -95.33809924981838,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D5B",
+      "pos": [
+        309.13475471094824,
+        598.8502443416156
+      ],
+      "heading": 250,
+      "size": "C",
+      "kind": "misc",
+      "airlines": "",
+      "source": "manual-select MARS alternative; mutually exclusive with parent wide-body gate",
+      "door": [
+        286.8446863330985,
+        573.8324279092077
+      ],
+      "model": "D_West",
+      "alternative": true,
+      "parent": "D5",
+      "lat": 29.98984668631792,
+      "lon": -95.33824101792793,
+      "equipment": "jets",
+      "rampmeta": [
+        "1301",
+        "C",
+        "none"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "D6",
+      "pos": [
+        277.38755971844466,
+        628.3494001507376
+      ],
+      "heading": 180,
+      "size": "E",
+      "kind": "gate",
+      "airlines": "",
+      "source": "modeled MARS wide-body position from current door group",
+      "door": [
+        277.38755971844466,
+        590.3494001507376
+      ],
+      "model": "D_West",
+      "lat": 29.990112798905102,
+      "lon": -95.33857,
+      "equipment": "heavy|jets",
+      "rampmeta": [
+        "1301",
+        "E",
+        "airline"
+      ],
+      "old_name": null
+    },
+    {
+      "name": "A20",
+      "pos": [
+        -763.407824651624,
+        35.3347919717086
+      ],
+      "heading": 340.30560037888984,
+      "size": "C",
+      "kind": "gate",
+      "airlines": "",
+      "door": [
+        -782.7756339523575,
+        61.91714058577313
+      ],
+      "source": "OSM mapped aircraft lead-in, checked against Vantor aerial; modeled nose-wheel stop",
+      "old_name": null,
+      "model": "Terminal_A"
+    },
+    {
+      "name": "C12",
+      "pos": [
+        -34.67543978749778,
+        421.3536080110361
+      ],
+      "heading": 125,
+      "size": "C",
+      "kind": "gate",
+      "door": [
+        -18.29239890171794,
+        409.88207928401516
+      ],
+      "model": "Terminal_C",
+      "source": "position adjusted to current C connector gate door; modeled stop point"
+    },
+    {
+      "name": "C14",
+      "pos": [
+        -90.37886400969127,
+        394.85745694418216
+      ],
+      "heading": 180,
+      "size": "C",
+      "kind": "gate",
+      "door": [
+        -90.37886400969127,
+        372.85745694418216
+      ],
+      "model": "Terminal_C",
+      "source": "position adjusted to current C connector gate door; modeled stop point"
+    },
+    {
+      "name": "C15",
+      "pos": [
+        -143.8405797649315,
+        394.85745694418216
+      ],
+      "heading": 180,
+      "size": "C",
+      "kind": "gate",
+      "door": [
+        -143.8405797649315,
+        372.85745694418216
+      ],
+      "model": "Terminal_C",
+      "source": "position adjusted to current C connector gate door; modeled stop point"
+    }
+  ],
+  "model_outlines": {
+    "B_North": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -443.53306210566745,
+            344.57685319732514
+          ],
+          [
+            -460.71125709195604,
+            344.5646594596013
+          ],
+          [
+            -460.71125709195604,
+            343.55036217090793
+          ],
+          [
+            -496.2874233918364,
+            342.8209549402818
+          ],
+          [
+            -496.28838840552174,
+            343.3508282780889
+          ],
+          [
+            -529.1499733616731,
+            343.3275493239661
+          ],
+          [
+            -529.1451482973607,
+            342.61809548270065
+          ],
+          [
+            -558.1457165622235,
+            343.2388675935618
+          ],
+          [
+            -558.1408914979111,
+            339.57963770310135
+          ],
+          [
+            -567.8846269494547,
+            339.569661008421
+          ],
+          [
+            -567.8884870014533,
+            344.3839704344243
+          ],
+          [
+            -591.6056095301451,
+            344.3684511315445
+          ],
+          [
+            -591.6152596601413,
+            360.42649541935435
+          ],
+          [
+            -570.7072897395423,
+            360.44423176567153
+          ],
+          [
+            -570.7207999201656,
+            377.482209171653
+          ],
+          [
+            -531.9803562557577,
+            416.0665214408663
+          ],
+          [
+            -531.0047281933608,
+            416.0665214408663
+          ],
+          [
+            -531.0703490718499,
+            509.0637262902429
+          ],
+          [
+            -535.4621228704204,
+            517.9230311325083
+          ],
+          [
+            -535.4833531550408,
+            547.0682817482475
+          ],
+          [
+            -514.8156714514638,
+            576.6037319766631
+          ],
+          [
+            -489.722440499129,
+            576.6225768443051
+          ],
+          [
+            -489.68094494357354,
+            517.9551782599866
+          ],
+          [
+            -494.305286855169,
+            508.6868289370092
+          ],
+          [
+            -494.23870096299464,
+            416.09423448147
+          ],
+          [
+            -493.4541454594388,
+            416.09534300318865
+          ],
+          [
+            -460.52307957142835,
+            383.20883189650283
+          ],
+          [
+            -460.5221145591144,
+            381.95398541494427
+          ],
+          [
+            -411.2533799396068,
+            387.91228915969765
+          ],
+          [
+            -411.25530996560605,
+            389.4376149181623
+          ],
+          [
+            -389.92466438682635,
+            392.01825326576034
+          ],
+          [
+            -383.1965943102102,
+            389.6316062031756
+          ],
+          [
+            -376.4704542595933,
+            392.02379587395984
+          ],
+          [
+            -355.1349836151297,
+            389.47641317516496
+          ],
+          [
+            -355.1340186028158,
+            387.95108741670026
+          ],
+          [
+            -305.70798687739716,
+            382.04820975315425
+          ],
+          [
+            -305.705091839084,
+            383.15894842310115
+          ],
+          [
+            -272.92939303098535,
+            415.9756226674185
+          ],
+          [
+            -272.00491065414036,
+            415.97894823218064
+          ],
+          [
+            -272.0686015066302,
+            508.74668910469734
+          ],
+          [
+            -276.47871055013655,
+            517.5804979497964
+          ],
+          [
+            -276.5009058470709,
+            546.9917937559609
+          ],
+          [
+            -255.86989463473682,
+            576.4496474703711
+          ],
+          [
+            -230.64735195142313,
+            576.4707093814504
+          ],
+          [
+            -230.6029613561831,
+            517.848760183659
+          ],
+          [
+            -235.39714554199907,
+            508.292195237852
+          ],
+          [
+            -235.33345468950924,
+            416.00444422974084
+          ],
+          [
+            -234.34817649848762,
+            416.00444422974084
+          ],
+          [
+            -191.9609490095087,
+            373.67665442653737
+          ],
+          [
+            -166.74902146850525,
+            373.6932822507421
+          ],
+          [
+            -166.73261624819727,
+            344.32189322329884
+          ],
+          [
+            -199.22460125771917,
+            344.2975057474573
+          ],
+          [
+            -199.22267123171991,
+            343.23221646403744
+          ],
+          [
+            -237.22294998644074,
+            342.455142803447
+          ],
+          [
+            -237.2287400644385,
+            343.2045034234338
+          ],
+          [
+            -270.135680628144,
+            343.1812244689171
+          ],
+          [
+            -270.13471561583003,
+            342.40636785176406
+          ],
+          [
+            -279.4837607827539,
+            342.6801726938262
+          ],
+          [
+            -279.4818307567547,
+            336.95133292553896
+          ],
+          [
+            -328.8567167966215,
+            336.9158602336923
+          ],
+          [
+            -328.84213125944245,
+            316.5445582953639
+          ],
+          [
+            -341.3708987596228,
+            316.5445582953639
+          ],
+          [
+            -341.3854795346957,
+            336.9092091037742
+          ],
+          [
+            -352.1096681115773,
+            336.8992324090938
+          ],
+          [
+            -352.11835322788824,
+            344.1833280198867
+          ],
+          [
+            -364.9424099191633,
+            344.171134281769
+          ],
+          [
+            -364.93951488085014,
+            343.3208981940479
+          ],
+          [
+            -401.54052490267975,
+            343.2920766317256
+          ],
+          [
+            -401.5434199409929,
+            344.14674680632135
+          ],
+          [
+            -427.4105912559447,
+            344.12679341696065
+          ],
+          [
+            -427.3999761136345,
+            329.21828605610034
+          ],
+          [
+            -359.2526937437484,
+            329.2692780508268
+          ],
+          [
+            -359.24475052702167,
+            316.5445582953639
+          ],
+          [
+            -443.5114940752015,
+            316.5445582953639
+          ],
+          [
+            -443.53306210566745,
+            344.57685319732514
+          ]
+        ]
+      ]
+    },
+    "D_West": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            312.5410503601445,
+            349.3933796663719
+          ],
+          [
+            312.55263051613997,
+            346.63870342351504
+          ],
+          [
+            291.0299473662055,
+            346.61985855587307
+          ],
+          [
+            291.0386324825164,
+            357.6984236953825
+          ],
+          [
+            256.8511197732171,
+            357.73057082286084
+          ],
+          [
+            256.84822473490385,
+            361.29003376691173
+          ],
+          [
+            264.01344566400934,
+            361.2811655939501
+          ],
+          [
+            264.0086205996969,
+            363.94161749859694
+          ],
+          [
+            260.10417832548205,
+            363.9460515850778
+          ],
+          [
+            260.13602375241265,
+            392.51819651952644
+          ],
+          [
+            256.8511197732171,
+            392.5215220842886
+          ],
+          [
+            256.85401481153025,
+            398.4809343507606
+          ],
+          [
+            255.97392302855397,
+            398.48315139419793
+          ],
+          [
+            255.99997837748683,
+            422.1811267349551
+          ],
+          [
+            263.89474907396925,
+            422.1722585619935
+          ],
+          [
+            263.9314195652123,
+            455.89902906172006
+          ],
+          [
+            261.405980754325,
+            455.90235462648224
+          ],
+          [
+            261.4416862318827,
+            489.6889852942908
+          ],
+          [
+            249.542111918824,
+            489.70117903240845
+          ],
+          [
+            249.54693698313645,
+            497.08060750273614
+          ],
+          [
+            243.76747460629883,
+            497.0817160244548
+          ],
+          [
+            239.93347827625692,
+            509.5326309382494
+          ],
+          [
+            255.28200876610535,
+            509.51600311404474
+          ],
+          [
+            255.2858688167325,
+            514.5054589566316
+          ],
+          [
+            259.71045305454754,
+            514.5010248701509
+          ],
+          [
+            259.7461585321053,
+            545.5673434652306
+          ],
+          [
+            257.1058831831764,
+            545.5739945951487
+          ],
+          [
+            257.12325341579833,
+            562.8525211943892
+          ],
+          [
+            249.61834793962328,
+            562.8591723243073
+          ],
+          [
+            249.62510302993496,
+            569.3883647069139
+          ],
+          [
+            243.84081558878492,
+            569.3950158364382
+          ],
+          [
+            240.01164432305546,
+            581.8403881424272
+          ],
+          [
+            255.29551894672875,
+            581.8270858825908
+          ],
+          [
+            255.3042040630397,
+            586.0716151924595
+          ],
+          [
+            258.2687237524155,
+            586.0671811059786
+          ],
+          [
+            258.2687237524155,
+            588.2720306216678
+          ],
+          [
+            267.49617729098617,
+            591.0954352055683
+          ],
+          [
+            267.5000373429846,
+            595.2945151285162
+          ],
+          [
+            264.69570979783305,
+            595.2978406932783
+          ],
+          [
+            264.7082549661425,
+            604.9364362395714
+          ],
+          [
+            270.74344576662475,
+            604.9353277182466
+          ],
+          [
+            270.75309589524966,
+            610.8249031219563
+          ],
+          [
+            281.4357889179471,
+            614.0917163566969
+          ],
+          [
+            281.4184186853252,
+            599.4891609649832
+          ],
+          [
+            284.8036840068823,
+            599.482509835065
+          ],
+          [
+            284.80175398088306,
+            596.3830833660589
+          ],
+          [
+            295.7430704655383,
+            599.730818679567
+          ],
+          [
+            295.72280519460327,
+            582.0831543787297
+          ],
+          [
+            301.2079386305539,
+            582.074286205768
+          ],
+          [
+            301.19925351424297,
+            575.8798673542365
+          ],
+          [
+            307.19873883716747,
+            575.8732162243183
+          ],
+          [
+            311.01729496058675,
+            563.4566654810455
+          ],
+          [
+            295.70253992366816,
+            563.4744018269689
+          ],
+          [
+            295.6581493284281,
+            518.8741426883576
+          ],
+          [
+            301.1876733596188,
+            518.8663830371145
+          ],
+          [
+            301.1847783213056,
+            512.6775067937825
+          ],
+          [
+            307.12925790667987,
+            512.6686386208208
+          ],
+          [
+            310.3736313426339,
+            502.1310320351237
+          ],
+          [
+            295.2895143941125,
+            502.1432257732414
+          ],
+          [
+            295.28565434211396,
+            498.44408910405963
+          ],
+          [
+            292.34525997567175,
+            498.44852319054047
+          ],
+          [
+            292.2931492778061,
+            448.3732757363434
+          ],
+          [
+            301.2976848319766,
+            448.36219052033823
+          ],
+          [
+            301.2889997156656,
+            442.1533608876456
+          ],
+          [
+            307.0588119638784,
+            442.14560123640257
+          ],
+          [
+            310.88219315161007,
+            429.7301590144546
+          ],
+          [
+            304.5623235402371,
+            429.7357016226541
+          ],
+          [
+            313.0303119104994,
+            398.42329122611596
+          ],
+          [
+            296.25259728819975,
+            398.4199656613538
+          ],
+          [
+            296.2535623005137,
+            395.9102726978429
+          ],
+          [
+            310.7866568721896,
+            395.91248974128024
+          ],
+          [
+            310.79630700218587,
+            363.8462846386683
+          ],
+          [
+            304.9521887591731,
+            363.84739316038696
+          ],
+          [
+            304.9541187851724,
+            361.3077701128351
+          ],
+          [
+            312.5333302575188,
+            361.31220419931594
+          ],
+          [
+            312.52754017952105,
+            357.677361784697
+          ],
+          [
+            332.3932961469204,
+            357.64717896026946
+          ],
+          [
+            332.3932961469204,
+            349.3950135488898
+          ],
+          [
+            312.5410503601445,
+            349.3933796663719
+          ]
+        ]
+      ]
+    },
+    "International_Processor": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            807.019460533047,
+            290.71834996662653
+          ],
+          [
+            926.6260568491995,
+            290.8124457690204
+          ],
+          [
+            926.6279868751988,
+            290.00211645962685
+          ],
+          [
+            944.9207717834879,
+            290.0143101977445
+          ],
+          [
+            944.9130516794909,
+            260.6772853404293
+          ],
+          [
+            935.2194968998136,
+            260.6650916027055
+          ],
+          [
+            935.2281820161245,
+            248.9469094842991
+          ],
+          [
+            941.2517926619827,
+            248.95910322202295
+          ],
+          [
+            943.3883312662479,
+            241.64507752758294
+          ],
+          [
+            943.1335678549171,
+            232.98974066422358
+          ],
+          [
+            941.182311731495,
+            227.06025848179254
+          ],
+          [
+            935.2436222241186,
+            227.05471587359307
+          ],
+          [
+            935.2494123007449,
+            214.97072161835192
+          ],
+          [
+            926.7003628439995,
+            214.9673960531959
+          ],
+          [
+            926.4214741111066,
+            184.91980883329043
+          ],
+          [
+            806.9335056780186,
+            185.06690833396001
+          ],
+          [
+            806.3557797341532,
+            183.5219630618389
+          ],
+          [
+            798.5975328158744,
+            183.5219630618389
+          ],
+          [
+            799.3183282575155,
+            185.0618837067402
+          ],
+          [
+            763.1554021806935,
+            185.03802277577554
+          ],
+          [
+            763.6490416605477,
+            183.5219630618389
+          ],
+          [
+            751.4587806730518,
+            183.5219630618389
+          ],
+          [
+            750.966258949173,
+            185.02998016593398
+          ],
+          [
+            735.6644752184499,
+            185.00516499853876
+          ],
+          [
+            735.6630953829817,
+            185.41093359294555
+          ],
+          [
+            733.5852050844065,
+            185.39430572074704
+          ],
+          [
+            733.5848723763628,
+            185.00294795549524
+          ],
+          [
+            696.3813164671519,
+            185.08578206185632
+          ],
+          [
+            696.3816942935073,
+            184.6005546047013
+          ],
+          [
+            693.6723029016791,
+            184.6010706567385
+          ],
+          [
+            693.6731165926493,
+            183.5219630618389
+          ],
+          [
+            641.7464381958164,
+            183.5219630618389
+          ],
+          [
+            641.7436277884045,
+            184.49746209352963
+          ],
+          [
+            636.4293016389884,
+            184.49413652876746
+          ],
+          [
+            636.4196515103635,
+            192.81248281722054
+          ],
+          [
+            637.1897318196105,
+            192.8135913389392
+          ],
+          [
+            637.1887668072966,
+            194.56283846606433
+          ],
+          [
+            634.0544048437004,
+            194.56394698778303
+          ],
+          [
+            634.0447547150754,
+            203.14279585885572
+          ],
+          [
+            637.1839417429842,
+            203.14168733713706
+          ],
+          [
+            637.1810467032997,
+            206.2466564143427
+          ],
+          [
+            631.5473012777489,
+            206.2401987028309
+          ],
+          [
+            631.5473012777489,
+            231.2063438017906
+          ],
+          [
+            637.162681709562,
+            231.2127804620012
+          ],
+          [
+            637.1617464460498,
+            232.44767358869262
+          ],
+          [
+            634.0225594167697,
+            232.44434802393044
+          ],
+          [
+            634.015804326458,
+            242.80791671397498
+          ],
+          [
+            637.1511313037396,
+            242.81124227913097
+          ],
+          [
+            637.1289360068052,
+            272.0972751413259
+          ],
+          [
+            633.9540434999675,
+            272.09284105484505
+          ],
+          [
+            633.9482534219698,
+            280.7370927018054
+          ],
+          [
+            637.1231459288075,
+            280.74152678828625
+          ],
+          [
+            637.122180931345,
+            282.756785226832
+          ],
+          [
+            636.3569256701875,
+            282.755710584118
+          ],
+          [
+            636.353065618189,
+            291.0352586159623
+          ],
+          [
+            641.6973071685367,
+            291.0385841807244
+          ],
+          [
+            641.6953771425374,
+            293.09378327739
+          ],
+          [
+            693.5899119166652,
+            293.13036449095534
+          ],
+          [
+            693.5908769289791,
+            290.6361908303243
+          ],
+          [
+            729.852202403739,
+            290.65946978444714
+          ],
+          [
+            729.852202403739,
+            293.8442524187016
+          ],
+          [
+            737.8484153318759,
+            293.8502255050814
+          ],
+          [
+            737.8415443659567,
+            301.70588779687205
+          ],
+          [
+            737.3619329455979,
+            301.70145371039126
+          ],
+          [
+            737.2943820411097,
+            301.08511568601097
+          ],
+          [
+            735.6278047285782,
+            301.16160367829764
+          ],
+          [
+            735.6191196122672,
+            313.3497989664291
+          ],
+          [
+            737.0579538747147,
+            313.42961252347794
+          ],
+          [
+            737.3407026609775,
+            312.789995544581
+          ],
+          [
+            737.8454044179551,
+            312.789995544581
+          ],
+          [
+            737.85505454658,
+            313.2954814065466
+          ],
+          [
+            747.3749070000383,
+            313.2788535823419
+          ],
+          [
+            747.5341341319487,
+            312.3221994182932
+          ],
+          [
+            781.6743612090661,
+            312.6525388628875
+          ],
+          [
+            784.5250093740856,
+            301.3179052276331
+          ],
+          [
+            749.2489620903473,
+            301.3090370546714
+          ],
+          [
+            748.7211000241214,
+            301.68815145094874
+          ],
+          [
+            749.6187278407774,
+            293.85901780388156
+          ],
+          [
+            798.5034889387396,
+            293.8955342027469
+          ],
+          [
+            792.5240014649281,
+            330.2924435124819
+          ],
+          [
+            800.1582186734533,
+            331.54728999443427
+          ],
+          [
+            806.3412815560489,
+            293.90138895083214
+          ],
+          [
+            807.019460533047,
+            293.90189554334626
+          ],
+          [
+            807.019460533047,
+            290.71834996662653
+          ]
+        ]
+      ]
+    },
+    "B_Lobby_Closed": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -445.0722577132192,
+            172.65069146639146
+          ],
+          [
+            -420.39012226444083,
+            172.67175337707695
+          ],
+          [
+            -420.41714262568763,
+            208.6665591257306
+          ],
+          [
+            -424.01664081670526,
+            208.6621250392498
+          ],
+          [
+            -439.4230720810458,
+            195.59376357935622
+          ],
+          [
+            -441.03560866971225,
+            197.20001141658838
+          ],
+          [
+            -439.2281394715778,
+            199.0124442765577
+          ],
+          [
+            -443.90266205503974,
+            203.68153736923065
+          ],
+          [
+            -445.7207463954844,
+            201.86356190106187
+          ],
+          [
+            -447.3583733207698,
+            203.495305736248
+          ],
+          [
+            -440.71522437989245,
+            211.57531987487945
+          ],
+          [
+            -442.7668418484188,
+            213.61832523342738
+          ],
+          [
+            -442.8141274806007,
+            282.3688365365977
+          ],
+          [
+            -440.7663700654442,
+            284.4207100681073
+          ],
+          [
+            -447.4210991595743,
+            292.4885304690149
+          ],
+          [
+            -445.790227325972,
+            294.1213828255259
+          ],
+          [
+            -443.9682829335288,
+            292.3089499651628
+          ],
+          [
+            -439.29955042669326,
+            296.98358566603525
+          ],
+          [
+            -441.1108796781976,
+            298.7915844395237
+          ],
+          [
+            -439.4993081018451,
+            300.40448340706786
+          ],
+          [
+            -425.7980546672783,
+            288.81156423223734
+          ],
+          [
+            -425.80770479590313,
+            303.19906642825225
+          ],
+          [
+            -443.5012166801082,
+            303.1868726905284
+          ],
+          [
+            -443.5114940752015,
+            316.5445582953639
+          ],
+          [
+            -359.24475052702167,
+            316.5445582953639
+          ],
+          [
+            -359.23918356312504,
+            307.6265018063414
+          ],
+          [
+            -414.92814913773844,
+            307.5865950280139
+          ],
+          [
+            -414.91174391880185,
+            286.9891546775877
+          ],
+          [
+            -341.349774057138,
+            287.0401466723142
+          ],
+          [
+            -341.3708987596228,
+            316.5445582953639
+          ],
+          [
+            -328.84213125944245,
+            316.5445582953639
+          ],
+          [
+            -328.8210113190638,
+            287.0467978022324
+          ],
+          [
+            -259.3285009401514,
+            287.0988983186775
+          ],
+          [
+            -259.27639024228574,
+            208.7796283315826
+          ],
+          [
+            -290.8622281198985,
+            208.7585664208971
+          ],
+          [
+            -290.8622281198985,
+            206.80313427103482
+          ],
+          [
+            -298.54180093460644,
+            206.79648314111665
+          ],
+          [
+            -298.54180093460644,
+            208.75080676926027
+          ],
+          [
+            -328.5778280637286,
+            208.73196190161826
+          ],
+          [
+            -328.5643178831052,
+            189.24415170020794
+          ],
+          [
+            -319.70067421453774,
+            185.1004978584674
+          ],
+          [
+            -323.4603645497796,
+            177.06039049816346
+          ],
+          [
+            -338.4470151942528,
+            184.067355702132
+          ],
+          [
+            -338.4614903871901,
+            208.72420225037527
+          ],
+          [
+            -391.44069968375845,
+            208.68983807985344
+          ],
+          [
+            -391.41367932251165,
+            172.70500902588012
+          ],
+          [
+            -366.0965653720915,
+            172.7083345910361
+          ],
+          [
+            -366.0964005607753,
+            172.4367467924113
+          ],
+          [
+            -445.0722577132192,
+            172.65069146639146
+          ]
+        ]
+      ]
+    }
+  },
+  "retained_entities": 33335,
+  "date": "2026-10-24",
+  "equipment": [
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -224.60061755877243,
+        415.9697951450807
+      ],
+      "heading": 282,
+      "purpose": "modeled service equipment B1"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -227.53506036097386,
+        416.593530217534
+      ],
+      "heading": 282,
+      "purpose": "modeled service equipment B1"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -221.78881747959952,
+        457.1879863255119
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B2"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -224.78881747959952,
+        457.1879863255119
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B2"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -205.3486860928417,
+        532.9026142548098
+      ],
+      "heading": 260,
+      "purpose": "modeled service equipment B3"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -208.3031093518783,
+        532.381669721809
+      ],
+      "heading": 260,
+      "purpose": "modeled service equipment B3"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -205.07871400099057,
+        563.3169579743155
+      ],
+      "heading": 230,
+      "purpose": "modeled service equipment B4"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -207.3768473303475,
+        561.388595145256
+      ],
+      "heading": 230,
+      "purpose": "modeled service equipment B4"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -221.44468230284727,
+        596.1654167150264
+      ],
+      "heading": 195,
+      "purpose": "modeled service equipment B5"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -222.22113943815484,
+        593.2676392361591
+      ],
+      "heading": 195,
+      "purpose": "modeled service equipment B5"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -245.45466103998638,
+        602.7327734413373
+      ],
+      "heading": 160,
+      "purpose": "modeled service equipment B6"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -244.42860061000937,
+        599.9136955789795
+      ],
+      "heading": 160,
+      "purpose": "modeled service equipment B6"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -270.0212586349526,
+        595.4476927832455
+      ],
+      "heading": 130,
+      "purpose": "modeled service equipment B7"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -267.72312530559566,
+        593.519329954186
+      ],
+      "heading": 130,
+      "purpose": "modeled service equipment B7"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -286.46493925556297,
+        553.8145740789882
+      ],
+      "heading": 105,
+      "purpose": "modeled service equipment B8"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -283.5671617766958,
+        553.0381169436807
+      ],
+      "heading": 105,
+      "purpose": "modeled service equipment B8"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -285.6257838848494,
+        479.96861253580005
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment B9"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -282.6257838848494,
+        479.96861253580005
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment B9"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -323.106140465193,
+        405.107786189673
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment B10"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -323.106140465193,
+        402.107786189673
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment B10"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -382.35793373958103,
+        411.09380297503
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment B11"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -382.35793373958103,
+        408.09380297503
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment B11"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -480.6052825653475,
+        418.8331380331585
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B12"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -483.6052825653475,
+        418.8331380331585
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B12"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -480.7017838570819,
+        463.2848552736774
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B14"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -483.7017838570819,
+        463.2848552736774
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment B14"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -464.3581537620585,
+        533.4568750684584
+      ],
+      "heading": 260,
+      "purpose": "modeled service equipment B15"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -467.31257702109514,
+        532.9359305354576
+      ],
+      "heading": 260,
+      "purpose": "modeled service equipment B15"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -464.08818167020735,
+        563.6495144623472
+      ],
+      "heading": 230,
+      "purpose": "modeled service equipment B16"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -466.38631499956426,
+        561.7211516332876
+      ],
+      "heading": 230,
+      "purpose": "modeled service equipment B16"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -480.4541499720641,
+        596.2762688778348
+      ],
+      "heading": 195,
+      "purpose": "modeled service equipment B17"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -481.2306071073716,
+        593.3784913989675
+      ],
+      "heading": 195,
+      "purpose": "modeled service equipment B17"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -504.4641287078317,
+        602.8436256041457
+      ],
+      "heading": 160,
+      "purpose": "modeled service equipment B18"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -503.43806827785477,
+        600.024547741788
+      ],
+      "heading": 160,
+      "purpose": "modeled service equipment B18"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -529.2237288876382,
+        595.2259884576285
+      ],
+      "heading": 130,
+      "purpose": "modeled service equipment B19"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -526.9255955582813,
+        593.297625628569
+      ],
+      "heading": 130,
+      "purpose": "modeled service equipment B19"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -545.4744069247798,
+        546.4983313411109
+      ],
+      "heading": 105,
+      "purpose": "modeled service equipment B20"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -542.5766294459125,
+        545.7218742058034
+      ],
+      "heading": 105,
+      "purpose": "modeled service equipment B20"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -548.3481336056145,
+        469.09604850954275
+      ],
+      "heading": 115,
+      "purpose": "modeled service equipment B21"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -545.6292102445045,
+        467.82819372432067
+      ],
+      "heading": 115,
+      "purpose": "modeled service equipment B21"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -567.4095564596058,
+        405.91936785613393
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment B23"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -564.4095564596058,
+        405.91936785613393
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment B23"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        315.4411876248328,
+        424.3757461680692
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment D1"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        312.4411876248328,
+        424.3757461680692
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment D1"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        235.57038142618745,
+        515.4967306794907
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment D2"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        238.57038142618745,
+        515.4967306794907
+      ],
+      "heading": 90,
+      "purpose": "modeled service equipment D2"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        315.4411876248328,
+        493.7692000148987
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment D3"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        312.4411876248328,
+        493.7692000148987
+      ],
+      "heading": 270,
+      "purpose": "modeled service equipment D3"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        235.75522772898165,
+        598.9591993131652
+      ],
+      "heading": 110,
+      "purpose": "modeled service equipment D4"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        238.5743055913394,
+        597.9331388831882
+      ],
+      "heading": 110,
+      "purpose": "modeled service equipment D4"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        323.36832347012034,
+        569.9771509781064
+      ],
+      "heading": 250,
+      "purpose": "modeled service equipment D5"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        320.5492456077626,
+        568.9510905481294
+      ],
+      "heading": 250,
+      "purpose": "modeled service equipment D5"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        289.38755971844466,
+        624.8494001507376
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment D6"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        289.38755971844466,
+        621.8494001507376
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment D6"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -775.8853778426599,
+        34.58601539296771
+      ],
+      "heading": 340.30560037888984,
+      "purpose": "modeled service equipment A20"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -776.8963875408394,
+        37.41052586209098
+      ],
+      "heading": 340.30560037888984,
+      "purpose": "modeled service equipment A20"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -38.69132486869887,
+        409.5162659523395
+      ],
+      "heading": 125,
+      "purpose": "modeled service equipment C12"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -36.23386873583189,
+        407.79553664328637
+      ],
+      "heading": 125,
+      "purpose": "modeled service equipment C12"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -78.37886400969127,
+        391.35745694418216
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment C14"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -78.37886400969127,
+        388.35745694418216
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment C14"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/GPU_1.obj",
+      "pos": [
+        -131.8405797649315,
+        391.35745694418216
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment C15"
+    },
+    {
+      "resource": "lib/airport/Ramp_Equipment/Luggage_Cart_1.obj",
+      "pos": [
+        -131.8405797649315,
+        388.35745694418216
+      ],
+      "heading": 180,
+      "purpose": "modeled service equipment C15"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -228.07149242284635,
+        445.33308902839593
+      ],
+      "heading": 102,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -217.44543020306446,
+        547.7184218129522
+      ],
+      "heading": 50,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -273.0814450653557,
+        561.4640899870267
+      ],
+      "heading": 310,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -351.106140465193,
+        389.607786189673
+      ],
+      "heading": 0,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -490.2017838570819,
+        491.2848552736774
+      ],
+      "heading": 90,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -512.5470444876571,
+        584.6876485280685
+      ],
+      "heading": 15,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -543.5450448379042,
+        516.9936272765431
+      ],
+      "heading": 285,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -557.9095564596058,
+        409.91936785613393
+      ],
+      "heading": 270,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        261.38755971844466,
+        595.3494001507376
+      ],
+      "heading": 0,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Lighting/Dir_Ramp_Lit_Med.obj",
+      "pos": [
+        -106.37886400969127,
+        377.85745694418216
+      ],
+      "heading": 0,
+      "purpose": "modeled apron floodlight"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2635.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2638.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2641.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2644.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2647.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2650.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2653.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2656.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2659.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2662.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2665.8368359183837,
+        732.2401683998834
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2635.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2638.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2641.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2644.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2647.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2650.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2653.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2656.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2659.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2662.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    },
+    {
+      "resource": "lib/airport/Common_Elements/Barriers/concrete/red_3m.obj",
+      "pos": [
+        2665.8368359183837,
+        1796.4209302672957
+      ],
+      "heading": 90,
+      "purpose": "EA current closure"
+    }
+  ],
+  "inactive_directory_gates": {
+    "C29": {
+      "decision": "No aircraft spawn: removed stand footprint",
+      "basis": "2015 permanent gate-removal chart notice archived by NTSB; 2025 aerial shows service space and no stand/jetway. Passenger map still lists C29.",
+      "confidence": "Evidence supports omission; reopening after aerial capture not independently confirmed."
+    },
+    "E6": {
+      "decision": "No aircraft spawn: former stand within E5/E7 apron",
+      "basis": "2025 aerial and mapped aircraft lead-ins show no independent E6 stand between E5 and E7. Historical removal report is supporting evidence only. Passenger map still lists E6.",
+      "confidence": "Conservative scenery interpretation; no current airport-issued stand-allocation drawing obtained."
+    }
+  }
+}

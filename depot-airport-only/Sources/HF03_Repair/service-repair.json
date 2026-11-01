@@ -1,0 +1,407 @@
+{
+  "moved_nodes": {
+    "1368": [
+      242.4164541178709,
+      590.867411135011
+    ]
+  },
+  "new_nodes": [
+    "1201 29.989689020 -95.339014264 both 1416 HF03 service detour",
+    "1201 29.989714464 -95.338990290 both 1417 HF03 service detour",
+    "1201 29.989799490 -95.338951504 both 1418 HF03 service detour",
+    "1201 29.989811664 -95.338957709 both 1419 HF03 service detour",
+    "1201 29.989824027 -95.338950196 both 1420 HF03 service detour",
+    "1201 29.989833072 -95.338944594 both 1421 HF03 service detour",
+    "1201 29.990041684 -95.338463024 both 1422 HF03 service detour",
+    "1201 29.990039607 -95.338447135 both 1423 HF03 service detour",
+    "1201 29.990038001 -95.338435475 both 1424 HF03 service detour",
+    "1201 29.989367663 -95.344383315 both 1425 HF03 service detour",
+    "1201 29.989404799 -95.344448669 both 1426 HF03 service detour",
+    "1201 29.989411004 -95.344458494 both 1427 HF03 service detour",
+    "1201 29.989456704 -95.344472988 both 1428 HF03 service detour",
+    "1201 29.989467949 -95.344463616 both 1429 HF03 service detour",
+    "1201 29.989476219 -95.344456609 both 1430 HF03 service detour",
+    "1201 29.989671733 -95.344118478 both 1431 HF03 service detour",
+    "1201 29.989673518 -95.344116215 both 1432 HF03 service detour",
+    "1201 29.989675488 -95.344114164 both 1433 HF03 service detour",
+    "1201 29.989677623 -95.344112345 both 1434 HF03 service detour",
+    "1201 29.989679903 -95.344110775 both 1435 HF03 service detour",
+    "1201 29.989682306 -95.344109470 both 1436 HF03 service detour",
+    "1201 29.989702541 -95.343971503 both 1437 HF03 service detour",
+    "1201 29.989702410 -95.343968453 both 1438 HF03 service detour",
+    "1201 29.989702541 -95.343965403 both 1439 HF03 service detour",
+    "1201 29.989702931 -95.343962382 both 1440 HF03 service detour",
+    "1201 29.989703577 -95.343959420 both 1441 HF03 service detour",
+    "1201 29.989704472 -95.343956545 both 1442 HF03 service detour",
+    "1201 29.989705609 -95.343953784 both 1443 HF03 service detour",
+    "1201 29.989706976 -95.343951165 both 1444 HF03 service detour",
+    "1201 29.989708559 -95.343948712 both 1445 HF03 service detour",
+    "1201 29.989796666 -95.343822751 both 1446 HF03 service detour",
+    "1201 29.990041684 -95.338463024 both 1447 HF03 service detour",
+    "1201 29.990039607 -95.338447135 both 1448 HF03 service detour",
+    "1201 29.990038001 -95.338435475 both 1449 HF03 service detour"
+  ],
+  "replacements": {
+    "1206 1367 1368 twoway Terminal service connector": [
+      "1206 1367 1416 twoway Terminal service connector",
+      "1206 1416 1417 twoway Terminal service connector",
+      "1206 1417 1368 twoway Terminal service connector"
+    ],
+    "1206 1368 1369 twoway Terminal service connector": [
+      "1206 1368 1418 twoway Terminal service connector",
+      "1206 1418 1419 twoway Terminal service connector",
+      "1206 1419 1420 twoway Terminal service connector",
+      "1206 1420 1421 twoway Terminal service connector",
+      "1206 1421 1369 twoway Terminal service connector"
+    ],
+    "1206 1370 1371 twoway Terminal service connector": [
+      "1206 1370 1422 twoway Terminal service connector",
+      "1206 1422 1423 twoway Terminal service connector",
+      "1206 1423 1424 twoway Terminal service connector",
+      "1206 1424 1371 twoway Terminal service connector"
+    ],
+    "1206 1383 1384 twoway Terminal service connector": [
+      "1206 1383 1425 twoway Terminal service connector",
+      "1206 1425 1426 twoway Terminal service connector",
+      "1206 1426 1427 twoway Terminal service connector",
+      "1206 1427 1428 twoway Terminal service connector",
+      "1206 1428 1429 twoway Terminal service connector",
+      "1206 1429 1430 twoway Terminal service connector",
+      "1206 1430 1384 twoway Terminal service connector"
+    ],
+    "1206 1384 1385 twoway Terminal service connector": [
+      "1206 1384 1431 twoway Terminal service connector",
+      "1206 1431 1432 twoway Terminal service connector",
+      "1206 1432 1433 twoway Terminal service connector",
+      "1206 1433 1434 twoway Terminal service connector",
+      "1206 1434 1435 twoway Terminal service connector",
+      "1206 1435 1436 twoway Terminal service connector",
+      "1206 1436 1385 twoway Terminal service connector"
+    ],
+    "1206 1385 1386 twoway Terminal service connector": [
+      "1206 1385 1437 twoway Terminal service connector",
+      "1206 1437 1438 twoway Terminal service connector",
+      "1206 1438 1439 twoway Terminal service connector",
+      "1206 1439 1440 twoway Terminal service connector",
+      "1206 1440 1441 twoway Terminal service connector",
+      "1206 1441 1442 twoway Terminal service connector",
+      "1206 1442 1443 twoway Terminal service connector",
+      "1206 1443 1444 twoway Terminal service connector",
+      "1206 1444 1445 twoway Terminal service connector",
+      "1206 1445 1446 twoway Terminal service connector",
+      "1206 1446 1386 twoway Terminal service connector"
+    ],
+    "1206 1370 1395 twoway Terminal service connector": [
+      "1206 1370 1447 twoway Terminal service connector",
+      "1206 1447 1448 twoway Terminal service connector",
+      "1206 1448 1449 twoway Terminal service connector",
+      "1206 1449 1395 twoway Terminal service connector"
+    ]
+  },
+  "paths": [
+    {
+      "old": "1206 1367 1368 twoway Terminal service connector",
+      "new": [
+        "1206 1367 1416 twoway Terminal service connector",
+        "1206 1416 1417 twoway Terminal service connector",
+        "1206 1417 1368 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          180.0003858803591,
+          540.0003478548722
+        ],
+        [
+          234.5155,
+          581.37261
+        ],
+        [
+          236.82903,
+          584.19316
+        ],
+        [
+          242.4164541178709,
+          590.867411135011
+        ]
+      ],
+      "clearance_m": 2.449999999999978,
+      "old_length": 82.46161979753268,
+      "new_length": 80.78886096140131
+    },
+    {
+      "old": "1206 1368 1369 twoway Terminal service connector",
+      "new": [
+        "1206 1368 1418 twoway Terminal service connector",
+        "1206 1418 1419 twoway Terminal service connector",
+        "1206 1419 1420 twoway Terminal service connector",
+        "1206 1420 1421 twoway Terminal service connector",
+        "1206 1421 1369 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          242.4164541178709,
+          590.867411135011
+        ],
+        [
+          240.57189,
+          593.61841
+        ],
+        [
+          239.97315,
+          594.96789
+        ],
+        [
+          240.6982,
+          596.33843
+        ],
+        [
+          241.2388,
+          597.34112
+        ],
+        [
+          267.9999140356498,
+          615.9994820765949
+        ]
+      ],
+      "clearance_m": 2.350001958819032,
+      "old_length": 33.94067615878483,
+      "new_length": 40.101633928459684
+    },
+    {
+      "old": "1206 1370 1371 twoway Terminal service connector",
+      "new": [
+        "1206 1370 1422 twoway Terminal service connector",
+        "1206 1422 1423 twoway Terminal service connector",
+        "1206 1423 1424 twoway Terminal service connector",
+        "1206 1424 1371 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          283.9998282447053,
+          620.0001366284424
+        ],
+        [
+          287.7109,
+          620.4662
+        ],
+        [
+          289.24421,
+          620.23595
+        ],
+        [
+          290.36935,
+          620.05792
+        ],
+        [
+          303.7642578546865,
+          597.4117914359134
+        ]
+      ],
+      "clearance_m": 2.350001275565629,
+      "old_length": 30.014430135265744,
+      "new_length": 32.74089970260299
+    },
+    {
+      "old": "1206 1383 1384 twoway Terminal service connector",
+      "new": [
+        "1206 1383 1425 twoway Terminal service connector",
+        "1206 1425 1426 twoway Terminal service connector",
+        "1206 1426 1427 twoway Terminal service connector",
+        "1206 1427 1428 twoway Terminal service connector",
+        "1206 1428 1429 twoway Terminal service connector",
+        "1206 1429 1430 twoway Terminal service connector",
+        "1206 1430 1384 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          -284.00002124661955,
+          540.0003478548722
+        ],
+        [
+          -283.60487,
+          545.74952
+        ],
+        [
+          -289.91156,
+          549.86605
+        ],
+        [
+          -290.85972,
+          550.55392
+        ],
+        [
+          -292.25837,
+          555.61982
+        ],
+        [
+          -291.35399,
+          556.86641
+        ],
+        [
+          -290.67783,
+          557.78316
+        ],
+        [
+          -276.0000641420918,
+          563.9998410782952
+        ]
+      ],
+      "clearance_m": 2.3499967207051244,
+      "old_length": 25.29772694641575,
+      "new_length": 38.340081222016934
+    },
+    {
+      "old": "1206 1384 1385 twoway Terminal service connector",
+      "new": [
+        "1206 1384 1431 twoway Terminal service connector",
+        "1206 1431 1432 twoway Terminal service connector",
+        "1206 1432 1433 twoway Terminal service connector",
+        "1206 1433 1434 twoway Terminal service connector",
+        "1206 1434 1435 twoway Terminal service connector",
+        "1206 1435 1436 twoway Terminal service connector",
+        "1206 1436 1385 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          -276.0000641420918,
+          563.9998410782952
+        ],
+        [
+          -258.0477,
+          579.4563
+        ],
+        [
+          -257.82935,
+          579.6542
+        ],
+        [
+          -257.63145,
+          579.87254
+        ],
+        [
+          -257.45591,
+          580.10923
+        ],
+        [
+          -257.30441,
+          580.36199
+        ],
+        [
+          -257.17842,
+          580.62838
+        ],
+        [
+          -256.0001713794011,
+          583.9997882715893
+        ]
+      ],
+      "clearance_m": 3.222052299337598,
+      "old_length": 28.28415807927968,
+      "new_length": 28.734222422246404
+    },
+    {
+      "old": "1206 1385 1386 twoway Terminal service connector",
+      "new": [
+        "1206 1385 1437 twoway Terminal service connector",
+        "1206 1437 1438 twoway Terminal service connector",
+        "1206 1438 1439 twoway Terminal service connector",
+        "1206 1439 1440 twoway Terminal service connector",
+        "1206 1440 1441 twoway Terminal service connector",
+        "1206 1441 1442 twoway Terminal service connector",
+        "1206 1442 1443 twoway Terminal service connector",
+        "1206 1443 1444 twoway Terminal service connector",
+        "1206 1444 1445 twoway Terminal service connector",
+        "1206 1445 1446 twoway Terminal service connector",
+        "1206 1446 1386 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          -256.0001713794011,
+          583.9997882715893
+        ],
+        [
+          -243.86443,
+          582.87139
+        ],
+        [
+          -243.5701,
+          582.85693
+        ],
+        [
+          -243.27577,
+          582.87139
+        ],
+        [
+          -242.98428,
+          582.91463
+        ],
+        [
+          -242.69842,
+          582.98623
+        ],
+        [
+          -242.42096,
+          583.08551
+        ],
+        [
+          -242.15457,
+          583.2115
+        ],
+        [
+          -241.90181,
+          583.363
+        ],
+        [
+          -241.66512,
+          583.53854
+        ],
+        [
+          -229.50973,
+          593.30535
+        ],
+        [
+          -228.00032151218258,
+          595.9995348833007
+        ]
+      ],
+      "clearance_m": 3.234104274292446,
+      "old_length": 30.46285461561434,
+      "new_length": 33.22683630434189
+    },
+    {
+      "old": "1206 1370 1395 twoway Terminal service connector",
+      "new": [
+        "1206 1370 1447 twoway Terminal service connector",
+        "1206 1447 1448 twoway Terminal service connector",
+        "1206 1448 1449 twoway Terminal service connector",
+        "1206 1449 1395 twoway Terminal service connector"
+      ],
+      "points": [
+        [
+          283.9998282447053,
+          620.0001366284424
+        ],
+        [
+          287.7109,
+          620.4662
+        ],
+        [
+          289.24421,
+          620.23595
+        ],
+        [
+          290.36935,
+          620.05792
+        ],
+        [
+          299.99974245513215,
+          603.9997354648833
+        ]
+      ],
+      "clearance_m": 2.350001275565629,
+      "old_length": 22.62764000367342,
+      "new_length": 25.154438263392358
+    }
+  ],
+  "affected_original_edges": 7
+}

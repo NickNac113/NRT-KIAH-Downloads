@@ -1,0 +1,132 @@
+{
+  "revision": "KIAH R03 HF05",
+  "status": "OFFLINE ONLY - SIMULATOR TEST PENDING",
+  "passed": 15,
+  "total": 15,
+  "checks": [
+    {
+      "check": "All airport records except the single clipped asphalt source are byte-identical",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Clipped asphalt is valid with CCW outer rings and CW holes",
+      "passed": true,
+      "detail": 3
+    },
+    {
+      "check": "No source asphalt survives inside the B North cleanup area",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "Outside asphalt agrees with an independently finer curve sampling within 1 mm",
+      "passed": true,
+      "detail": {
+        "max_boundary_distance_m": 0.00040822739020405266,
+        "symmetric_difference_sqm": 0.14728996125384627
+      }
+    },
+    {
+      "check": "Removed asphalt area remains covered by concrete apron",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All runways, routes, starts, flows and moving jetway records remain unchanged",
+      "passed": true,
+      "detail": {
+        "100": 5,
+        "1201": 1450,
+        "1202": 988,
+        "1206": 622,
+        "1300": 240,
+        "1400": 101,
+        "1401": 18,
+        "1500": 116
+      }
+    },
+    {
+      "check": "All 4732 exclusion records match WED exporter syntax after binary round-trip",
+      "passed": true,
+      "detail": {
+        "corrected": 4732,
+        "previous_invalid": 4732
+      }
+    },
+    {
+      "check": "Exclusion footprints, categories, record order and airport filters are preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All DSF placements and asset references preserved through binary round-trip",
+      "passed": true,
+      "detail": {
+        "tiles": [
+          {
+            "tile": "+29-096",
+            "placements": 12951,
+            "unchanged": true
+          },
+          {
+            "tile": "+30-096",
+            "placements": 901,
+            "unchanged": true
+          }
+        ],
+        "max_numeric_delta": 0
+      }
+    },
+    {
+      "check": "AEP overlay primitives touching the B North repair are covered by corrected exclusions",
+      "passed": true,
+      "detail": {
+        "total": 30,
+        "by_kind": {
+          "obj": 1,
+          "lin": 15,
+          "pol": 14
+        },
+        "remaining": []
+      }
+    },
+    {
+      "check": "Both AEP legacy asphalt and asphalt snow overlays are explicitly suppressed",
+      "passed": true,
+      "detail": [
+        {
+          "index": 25438,
+          "resource": "AEP/PrivateAssets/Asphalt_L_Taxi_Top_Plain.pol"
+        },
+        {
+          "index": 25564,
+          "resource": "AEP/PrivateAssets/Asphalt_Plain_Snow.pol"
+        }
+      ]
+    },
+    {
+      "check": "Runtime changes limited to airport pavement and southern DSF exclusions",
+      "passed": true,
+      "detail": [
+        "Earth nav data/apt.dat",
+        "Earth nav data/+20-100/+29-096.dsf"
+      ]
+    },
+    {
+      "check": "All custom models and textures preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Installed HF04 package remains untouched",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Scenery order and AEP installation remain untouched",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}
