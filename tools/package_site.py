@@ -82,10 +82,32 @@ def package(root, out):
     ver = html.escape(data['version'])
     revision = html.escape(data.get('source_revision', ''))
     page = f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>NRT KIAH Downloads</title><style>body{{margin:0;background:#10252e;color:#e6f1f0;font:17px/1.65 system-ui}}main{{max-width:960px;margin:auto;padding:60px 24px}}h1{{font-size:48px;line-height:1.1}}h2{{margin-top:40px}}a{{color:#80e2d1}}.button{{display:inline-block;background:#8de4c9;color:#10252e;padding:14px 24px;border-radius:8px;font-weight:700;text-decoration:none}}.muted{{color:#b9cbcc}}pre{{white-space:pre-wrap;font:16px/1.65 system-ui;background:#183540;padding:24px;border-radius:8px}}code{{overflow-wrap:anywhere}}nav{{display:flex;gap:20px;align-items:center;flex-wrap:wrap}}</style><main>
+<title>NRT KIAH Downloads</title><style>body{{margin:0;background:#10252e;color:#e6f1f0;font:17px/1.65 system-ui}}main{{max-width:960px;margin:auto;padding:60px 24px}}h1{{font-size:48px;line-height:1.1}}h2{{margin-top:40px}}a{{color:#80e2d1}}.button{{display:inline-block;background:#8de4c9;color:#10252e;padding:14px 24px;border-radius:8px;font-weight:700;text-decoration:none}}.muted{{color:#b9cbcc}}pre{{white-space:pre-wrap;font:16px/1.65 system-ui;background:#183540;padding:24px;border-radius:8px}}code{{overflow-wrap:anywhere}}nav{{display:flex;gap:20px;align-items:center;flex-wrap:wrap}}.requirements{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}}.requirement{{background:#183540;border:1px solid #365460;border-radius:12px;padding:24px}}.requirement h3{{font-size:24px;line-height:1.2;margin:14px 0}}.requirement ul{{padding-left:20px}}.requirement li{{margin-bottom:12px}}.badge{{display:inline-block;border:1px solid #8de4c9;border-radius:20px;padding:2px 10px;color:#8de4c9;font-size:13px;font-weight:700}}.secondary{{padding:10px 16px}}li{{padding-left:4px;margin-bottom:12px}}a:focus-visible{{outline:3px solid #fff;outline-offset:5px}}@media(max-width:400px){{main{{padding:36px 16px}}h1{{font-size:40px}}.requirements{{grid-template-columns:1fr}}.requirement{{padding:18px}}}}</style><main>
 <p class="muted">NRT / X-PLANE 12 / MEMBER SCENERY</p><h1>KIAH Campus</h1><p>Version {ver} · {revision}</p>
 <nav><a class="button" href="downloads/{zipname}">Download scenery ({zipfile_path.stat().st_size / 1000000:.1f} MB)</a><a href="https://github.com/NickNac113/NRT-KIAH-Downloads/releases">Version archives</a><a href="downloads/SHA256SUMS.txt">SHA-256</a></nav>
-<p class="muted">Includes the SkunkCrafts connection. Libraries and plugins are installed separately. Read the installation notes for this build's test status.</p><p>Need the updater? <a href="https://1228098873.rsc.cdn77.org/updater/SkunkcraftsUpdater-windows.zip">SkunkCrafts for Windows (developer download)</a> · <a href="https://github.com/lzamouth/sku_client/blob/master/docs/USER_GUIDE.md">Updater guide</a></p>
+<p class="muted">The initial scenery download includes its SkunkCrafts connection. The required downloads below are separate. AEP is not required.</p>
+<section aria-labelledby="required-downloads">
+<h2 id="required-downloads">Required downloads</h2>
+<p>Install <strong>both</strong> before loading the NRT campus in X-Plane 12.</p>
+<div class="requirements">
+<article class="requirement"><span class="badge">Required</span><h3>OpenSAM + openSAM_Library</h3>
+<p>OpenSAM provides the hangar door controls. Its scenery library is also required. Install both folders from the release download.</p>
+<p><a class="button secondary" href="https://github.com/hotbso/openSAM/releases/latest">Download OpenSAM</a></p>
+<ul><li><code>openSAM</code> → <code>X-Plane 12/Resources/plugins/</code></li><li><code>openSAM_Library</code> → <code>X-Plane 12/Custom Scenery/</code></li></ul>
+<p><a href="https://github.com/hotbso/openSAM#installation">Official installation guide</a></p></article>
+<article class="requirement"><span class="badge">Required</span><h3>MisterX Library</h3>
+<p>Supplies scenery objects and materials used around the NRT campus. Download it from the author's X-Plane.org page.</p>
+<p><a class="button secondary" href="https://forums.x-plane.org/files/file/28167-misterx-library-and-static-aircraft-extension/">Download MisterX Library</a></p>
+<p>Place <code>MisterX_Library</code> directly inside <code>X-Plane 12/Custom Scenery/</code>.</p>
+<p class="muted">X-Plane.org requires an account to download the library.</p></article>
+</div></section>
+<h2>First installation</h2>
+<ol><li>Close X-Plane and extract the scenery ZIP into your X-Plane 12 folder. It should create <code>Custom Scenery/NRT_KIAH_Campus/</code>.</li>
+<li>Install OpenSAM, openSAM_Library and MisterX Library in the folders shown above. Follow OpenSAM's installation guide, including its first-launch restart.</li>
+<li>Keep one active NRT KIAH scenery package. Place it above other KIAH scenery and Global Airports in <code>scenery_packs.ini</code>, with the required libraries installed separately.</li></ol>
+<h2>Future updates</h2>
+<p>The scenery includes an updater configuration, but the SkunkCrafts application is a separate download. Open the updater, select your X-Plane folder and check <strong>NRT KIAH Campus</strong> for updates while X-Plane is closed.</p>
+<p><a href="https://1228098873.rsc.cdn77.org/updater/SkunkcraftsUpdater-windows.zip">Download SkunkCrafts for Windows</a> · <a href="https://github.com/lzamouth/sku_client/blob/master/docs/USER_GUIDE.md">Updater guide and other platforms</a></p>
 <h2>Install once, update in place</h2><pre>{install}</pre><h2>Update feed</h2><p>SkunkCrafts reads the configuration included with your download. Future published versions appear when you check for updates.</p><p><a href="depot/skunkcrafts_updater.cfg">View updater configuration</a> · <a href="depot/changelog.txt">Changelog</a> · <a href="depot/ASSET_NOTICES.txt">Asset notices</a></p></main></html>'''
     (out / 'index.html').write_text(page, encoding='utf-8')
     (out / 'release-notes.md').write_text(f'NRT KIAH Campus {data["version"]}\n\n'+(depot / 'changelog.txt').read_text()+'\n\nInstall instructions and test status: https://nicknac113.github.io/NRT-KIAH-Downloads/\n', encoding='utf-8')
