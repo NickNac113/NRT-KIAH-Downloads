@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.28.1",
+  "version": "0.28.2",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -75,9 +75,15 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 2635393147,
-      "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
-      "size": 3488
+      "crc32": 1239573270,
+      "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
+      "size": 4228
+    },
+    {
+      "path": "JETWAYS.txt",
+      "crc32": 3774668667,
+      "sha256": "4b9906d15d359632a8b9f928fdf3f55d42879c4675128abc6b8d624acd5f7e79",
+      "size": 2978
     },
     {
       "path": "R28_Changes.json",
@@ -132,6 +138,12 @@
       "crc32": 3859981804,
       "sha256": "cfddd391b00029a8a10132682a2ff9f5b3f3ef58d8a8a17818e8403a8d7cf638",
       "size": 1716
+    },
+    {
+      "path": "README_R28_2.txt",
+      "crc32": 1453628802,
+      "sha256": "6811a1b9eb2b2a5085f37b7b6446db90e0a2009e5852f9540dcbd32505cbc0a0",
+      "size": 1322
     },
     {
       "path": "README_R28_REVIEW_HISTORY.txt",
@@ -584,6 +596,12 @@
       "size": 11574
     },
     {
+      "path": "Source/R28_2/build_night_materials.py",
+      "crc32": 1045014913,
+      "sha256": "d7762f5c3f46fef7bd2c83e26f1076f527cfd532b069622603ee5ef242480407",
+      "size": 2114
+    },
+    {
       "path": "Source/README.txt",
       "crc32": 3588611300,
       "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
@@ -597,15 +615,15 @@
     },
     {
       "path": "VARIANT.txt",
-      "crc32": 2238320840,
-      "sha256": "098955d2de280d33e327623052e639034754cd3ab045ffdc43cdc2018ec82e8b",
+      "crc32": 2886132277,
+      "sha256": "c397423a6378defb527cf5b8c66361b44baf9da20c8171968922bc28f84aef08",
       "size": 86
     },
     {
       "path": "changelog.txt",
-      "crc32": 4073927696,
-      "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
-      "size": 4797
+      "crc32": 2774473960,
+      "sha256": "b38059b587d7c9e0539fea3888efb5d9d776872968c8cd9afa44c185fa5ff9d7",
+      "size": 5295
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -1695,15 +1713,15 @@
     },
     {
       "path": "textures/nrt_test/r25_materials_LIT.dds",
-      "crc32": 4162520072,
-      "sha256": "dea04e07ed87c4aa6cd112fbd0db3f8e816cec79d274ac89ed64dc2680c7c477",
+      "crc32": 3264187882,
+      "sha256": "cc073ed6ea967af9d3ff37e76ca31d0ff14eaf4f79311027c6c700af3f95754e",
       "size": 5592552
     },
     {
       "path": "textures/nrt_test/r25_materials_LIT.png",
-      "crc32": 2291538290,
-      "sha256": "32cadcfcc7753ff800e0c74879d07b13866fdd2b6ee6307e877ef4e3480e978d",
-      "size": 26982
+      "crc32": 3630998040,
+      "sha256": "e0c431f67647291cfa3b6eddac8c6f3509d8707e2b1c01bf2d7b8d8f6ea9db2b",
+      "size": 26598
     },
     {
       "path": "textures/nrt_test/r25_materials_NML.png",
@@ -1784,7 +1802,7 @@
       "size": 107654
     }
   ],
-  "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
+  "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
   "prerelease": true,
   "public_channels": {
     "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -1990,7 +2008,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.1",
+        "version": "0.28.2",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -2064,9 +2082,15 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 2635393147,
-            "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
-            "size": 3488
+            "crc32": 1239573270,
+            "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
+            "size": 4228
+          },
+          {
+            "path": "JETWAYS.txt",
+            "crc32": 3774668667,
+            "sha256": "4b9906d15d359632a8b9f928fdf3f55d42879c4675128abc6b8d624acd5f7e79",
+            "size": 2978
           },
           {
             "path": "R28_Changes.json",
@@ -2121,6 +2145,12 @@
             "crc32": 3859981804,
             "sha256": "cfddd391b00029a8a10132682a2ff9f5b3f3ef58d8a8a17818e8403a8d7cf638",
             "size": 1716
+          },
+          {
+            "path": "README_R28_2.txt",
+            "crc32": 1453628802,
+            "sha256": "6811a1b9eb2b2a5085f37b7b6446db90e0a2009e5852f9540dcbd32505cbc0a0",
+            "size": 1322
           },
           {
             "path": "README_R28_REVIEW_HISTORY.txt",
@@ -2573,6 +2603,12 @@
             "size": 11574
           },
           {
+            "path": "Source/R28_2/build_night_materials.py",
+            "crc32": 1045014913,
+            "sha256": "d7762f5c3f46fef7bd2c83e26f1076f527cfd532b069622603ee5ef242480407",
+            "size": 2114
+          },
+          {
             "path": "Source/README.txt",
             "crc32": 3588611300,
             "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
@@ -2586,15 +2622,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 2238320840,
-            "sha256": "098955d2de280d33e327623052e639034754cd3ab045ffdc43cdc2018ec82e8b",
+            "crc32": 2886132277,
+            "sha256": "c397423a6378defb527cf5b8c66361b44baf9da20c8171968922bc28f84aef08",
             "size": 86
           },
           {
             "path": "changelog.txt",
-            "crc32": 4073927696,
-            "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
-            "size": 4797
+            "crc32": 2774473960,
+            "sha256": "b38059b587d7c9e0539fea3888efb5d9d776872968c8cd9afa44c185fa5ff9d7",
+            "size": 5295
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -3684,15 +3720,15 @@
           },
           {
             "path": "textures/nrt_test/r25_materials_LIT.dds",
-            "crc32": 4162520072,
-            "sha256": "dea04e07ed87c4aa6cd112fbd0db3f8e816cec79d274ac89ed64dc2680c7c477",
+            "crc32": 3264187882,
+            "sha256": "cc073ed6ea967af9d3ff37e76ca31d0ff14eaf4f79311027c6c700af3f95754e",
             "size": 5592552
           },
           {
             "path": "textures/nrt_test/r25_materials_LIT.png",
-            "crc32": 2291538290,
-            "sha256": "32cadcfcc7753ff800e0c74879d07b13866fdd2b6ee6307e877ef4e3480e978d",
-            "size": 26982
+            "crc32": 3630998040,
+            "sha256": "e0c431f67647291cfa3b6eddac8c6f3509d8707e2b1c01bf2d7b8d8f6ea9db2b",
+            "size": 26598
           },
           {
             "path": "textures/nrt_test/r25_materials_NML.png",
@@ -3773,7 +3809,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
+        "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -3979,7 +4015,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.1",
+        "version": "0.28.2",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -4023,9 +4059,15 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 2635393147,
-            "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
-            "size": 3488
+            "crc32": 1239573270,
+            "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
+            "size": 4228
+          },
+          {
+            "path": "JETWAYS.txt",
+            "crc32": 3774668667,
+            "sha256": "4b9906d15d359632a8b9f928fdf3f55d42879c4675128abc6b8d624acd5f7e79",
+            "size": 2978
           },
           {
             "path": "R02-baseline-notes.txt",
@@ -4044,6 +4086,12 @@
             "crc32": 2604187419,
             "sha256": "a29bd05ba245488124ad9aac4f84ab1a3f1d431501d49634c111349dbb593c03",
             "size": 5919
+          },
+          {
+            "path": "README_R28_2.txt",
+            "crc32": 1453628802,
+            "sha256": "6811a1b9eb2b2a5085f37b7b6446db90e0a2009e5852f9540dcbd32505cbc0a0",
+            "size": 1322
           },
           {
             "path": "README_R28_REVIEW_HISTORY.txt",
@@ -4755,15 +4803,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 1591117478,
-            "sha256": "1822493dba59d85ea87ada14e3ab9465a9033ca266440379277eb1d10a2f14ff",
+            "crc32": 1414986660,
+            "sha256": "ea0cc7328e53ff7aba81c79b4e5f243e1aedd2024d45dc424125afe1380633dd",
             "size": 97
           },
           {
             "path": "changelog.txt",
-            "crc32": 4073927696,
-            "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
-            "size": 4797
+            "crc32": 3716460022,
+            "sha256": "9adb21908c5d3a97e52ebc0c6293a0cf9aee7a7490d1fbcdf2feb313ad7aedac",
+            "size": 5235
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -5006,7 +5054,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
+        "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -5089,6 +5137,7 @@
           "Source/R27/review_r27.py",
           "Source/R27/seal_delivery.py",
           "Source/R27/validate_r27.py",
+          "Source/R28_2/build_night_materials.py",
           "Source/README.txt",
           "objects/nrt_test/apron_material.obj",
           "objects/nrt_test/cargo.obj",
@@ -5344,6 +5393,7 @@
     "Garage_Replacement_Record.json",
     "Gateway-original-README.txt",
     "INSTALL.txt",
+    "JETWAYS.txt",
     "PERSONAL_TEST_ONLY.txt",
     "R02-baseline-notes.txt",
     "R28_Changes.json",
@@ -5357,6 +5407,7 @@
     "README_R26.txt",
     "README_R27.txt",
     "README_R28.txt",
+    "README_R28_2.txt",
     "README_R28_REVIEW_HISTORY.txt",
     "Source/Native/+29-096.txt",
     "Source/Native/+30-096.txt",
@@ -5432,6 +5483,7 @@
     "Source/R28/preview_native.py",
     "Source/R28/render_r28.py",
     "Source/R28/validate_r28.py",
+    "Source/R28_2/build_night_materials.py",
     "Source/README.txt",
     "Source/rebuild_dsf.py",
     "Sources/Aircraft_Route_Audit.csv",

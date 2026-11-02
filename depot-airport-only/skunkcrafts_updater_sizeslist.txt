@@ -4,10 +4,12 @@ Earth nav data/+20-100/+29-096.dsf|938649
 Earth nav data/+30-100/+30-096.dsf|22135
 Earth nav data/apt.dat|1497774
 Gateway-original-README.txt|941
-INSTALL.txt|3488
+INSTALL.txt|4228
+JETWAYS.txt|2978
 R02-baseline-notes.txt|7988
 README.txt|216
 README_HF06_HISTORICAL.txt|5919
+README_R28_2.txt|1322
 README_R28_REVIEW_HISTORY.txt|1778
 Source/Native/+29-096.txt|2457451
 Source/Native/+30-096.txt|145528
@@ -127,7 +129,7 @@ Sources/references.json|3968
 Sources/routing-build-report.json|78885
 Sources/terminal-source-manifest.json|4339
 VARIANT.txt|97
-changelog.txt|4797
+changelog.txt|5235
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733

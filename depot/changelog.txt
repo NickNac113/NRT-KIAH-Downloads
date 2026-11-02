@@ -1,3 +1,8 @@
+0.28.2
+- Corrected the repeating lit/dark checkerboard on the FBO night glazing using consistent, subdued illumination. Daytime textures and scenery geometry are unchanged.
+- Added instructions for native X-Plane 12 jetway control: OpenSAM > Settings > disable Manage XP12 Jetways, then fully restart. Global setting; hangar controls remain in OpenSAM.
+- Both content channels share this version. No plugin preferences are changed. Night appearance and native docking need simulator confirmation.
+
 0.28.1
 - Corrected taxi/service route node ordering that caused X-Plane loading warnings and rejected service-road connections.
 - Route geometry, parking positions, jetways and other airport records are unchanged. Both content channels use the corrected route format.

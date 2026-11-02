@@ -1,3 +1,8 @@
+0.28.2
+- Added instructions for native X-Plane 12 jetway control: OpenSAM > Settings > disable Manage XP12 Jetways, then fully restart. Terminal B already uses native animated jetways.
+- Shares the version with Main's FBO night-glazing repair. Airport Only has no fictional FBO; its airport geometry and materials are unchanged.
+- No plugin preferences are changed. Native docking and camera-view visibility need simulator confirmation.
+
 0.28.1
 - Corrected taxi/service route node ordering that caused X-Plane loading warnings and rejected service-road connections.
 - Route geometry, parking positions, jetways and other airport records are unchanged. Both content channels use the corrected route format.

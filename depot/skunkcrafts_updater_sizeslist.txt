@@ -9,7 +9,8 @@ Earth nav data/apt.dat|1538336
 Garage_Provenance.json|2462
 Garage_Replacement_Record.json|598
 Gateway-original-README.txt|941
-INSTALL.txt|3488
+INSTALL.txt|4228
+JETWAYS.txt|2978
 R28_Changes.json|44862
 README.txt|181
 README_R22.txt|725
@@ -19,6 +20,7 @@ README_R25.txt|5434
 README_R26.txt|3786
 README_R27.txt|3889
 README_R28.txt|1716
+README_R28_2.txt|1322
 README_R28_REVIEW_HISTORY.txt|1778
 Source/Native/+29-096.txt|2484795
 Source/Native/+30-096.txt|145492
@@ -94,10 +96,11 @@ Source/R28/prepare_r28_channels.py|10549
 Source/R28/preview_native.py|10681
 Source/R28/render_r28.py|6020
 Source/R28/validate_r28.py|11574
+Source/R28_2/build_night_materials.py|2114
 Source/README.txt|1270
 Source/rebuild_dsf.py|1082
 VARIANT.txt|86
-changelog.txt|4797
+changelog.txt|5295
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733
@@ -280,7 +283,7 @@ textures/nrt_test/r25_identity_LIT.png|126776
 textures/nrt_test/r25_materials.dds|5592552
 textures/nrt_test/r25_materials.png|2819203
 textures/nrt_test/r25_materials_LIT.dds|5592552
-textures/nrt_test/r25_materials_LIT.png|26982
+textures/nrt_test/r25_materials_LIT.png|26598
 textures/nrt_test/r25_materials_NML.png|1388708
 textures/nrt_test/ramp_wear.dds|349680
 textures/nrt_test/ramp_wear.png|32011

@@ -1,6 +1,6 @@
 NRT KIAH - installation and content channels
 
-Member release: 0.28.1 / R28.1. Main and Airport Only share this version.
+Member release: 0.28.2 / R28.2. Main and Airport Only share this version.
 X-Plane visual and operational acceptance of Terminal B remains pending.
 
 One folder, one release version, two choices:
@@ -40,7 +40,19 @@ Personal files outside managed paths survive switching. Keep custom edits
 outside managed paths, or use the updater's user ignore file deliberately.
 Fully restart X-Plane after any scenery update.
 
+NATIVE JETWAY CONTROL
+Terminal B already uses native X-Plane 12 animated jetways. To let X-Plane
+control them, open OpenSAM > Settings, turn off Manage XP12 Jetways, and fully
+restart X-Plane. This is a global preference. Keep OpenSAM installed for the
+NRT hangar doors. Use Toggle jetway attachment in X-Plane's Ground Handling
+window. See JETWAYS.txt for the camera-distance diagnosis and docking checks.
+The updater does not change plugin preferences.
+
 CONTENT AND TEST STATUS
+R28.2 removes the repeating checkerboard from Main's FBO night glazing.
+Airport Only receives the same version and native-jetway instructions, with
+no airport geometry or material changes. Dusk/night appearance and docking
+under native X-Plane control still require simulator checks.
 R28.1 corrects route-node ordering that caused scenery loading warnings.
 Taxi/service route geometry and all parking/jetway positions are unchanged.
 Both variants include R28 Terminal B North native terminal materials and

@@ -1,0 +1,47 @@
+# X-Plane 12 native jetways
+
+Terminal B already uses X-Plane 12's built-in animated jetways. There are 22
+native jetway records at the rebuilt B North gates. They do not need a new
+model, a second set of static bridges, or a conversion to use X-Plane control.
+
+To let X-Plane control its default jetways while retaining OpenSAM for the
+NRT aircraft-hangar doors:
+
+1. Open the OpenSAM window and expand **Settings**.
+2. Turn off **Manage XP12 Jetways**.
+3. Fully quit and restart X-Plane. Reloading scenery alone is insufficient.
+4. Use X-Plane's **Toggle jetway attachment** ground-handling button to dock
+   or undock the native jetway at your parking position.
+
+This is a global OpenSAM preference, not a per-airport choice. Keep OpenSAM
+and openSAM_Library installed for the Main channel's hangar doors. The scenery
+updater does not change this preference or replace any plugin files. Native
+and OpenSAM docking can behave differently; check NRT9's dual-bridge operation
+with the intended aircraft before relying on it. To return to OpenSAM jetway
+management, enable the setting and restart X-Plane again.
+
+## Why Terminal B disappeared in the camera view
+
+The supplied log identifies OpenSAM 5.5.0-beta-3, commit
+`d45807f748eff7dbfd0af14030ff853322f5e7dc`, with native-jetway management enabled.
+That version creates native jetway instances inside a box extending 3,000 m
+east/west and north/south of the **aircraft**, and removes instances outside it.
+Moving the free camera does not move that box. B North's jetways are about
+3,300-3,640 m west of the NRT aircraft position recorded in the log. The 65
+native jetways inside the box match the log's instance count.
+
+That is a strong explanation for this camera-only symptom, not a claim of
+simulator acceptance. Other visible jetways may be static facades or use a
+different implementation. Test with the aircraft at a B gate and, separately,
+from NRT after turning off OpenSAM's native-jetway management. Do not duplicate
+the jetways as a workaround. If B is still missing, retain the new session log
+for further diagnosis.
+
+## Sources checked for this release
+
+- [Laminar Research: Ground Operations dialog, page 39](https://x-plane.com/manuals/X-Plane_ATC_System_Manual.pdf)
+- [Laminar Research: animated jetways in WED](https://developer.x-plane.com/manuals/wed/#addinganimatedjetways)
+- [OpenSAM setting and mandatory restart](https://github.com/hotbso/openSAM/blob/d45807f748eff7dbfd0af14030ff853322f5e7dc/src/ui.cpp#L156-L165)
+- [OpenSAM aircraft-centered 3 km instancing](https://github.com/hotbso/openSAM/blob/d45807f748eff7dbfd0af14030ff853322f5e7dc/src/opensam.cpp#L369)
+- [OpenSAM instance selection and removal](https://github.com/hotbso/openSAM/blob/d45807f748eff7dbfd0af14030ff853322f5e7dc/src/xp12_jw_instance_2.cpp#L225-L258)
+- [OpenSAM: native jetway collection is separate from custom animations](https://github.com/hotbso/openSAM/blob/d45807f748eff7dbfd0af14030ff853322f5e7dc/src/scenery.cpp#L675-L762)
