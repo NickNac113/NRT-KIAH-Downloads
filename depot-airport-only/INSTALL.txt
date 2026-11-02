@@ -1,6 +1,6 @@
 NRT KIAH - installation and content channels
 
-Member release: 0.29.0 / R29. Main and Airport Only share this version.
+Member release: 0.29.1 / R29.1. Main and Airport Only share this version.
 In-simulator visual and operational checks remain separate from offline validation.
 
 One folder, one release version, two choices:
@@ -17,7 +17,7 @@ Main is the initial choice and preserves the existing NRT member experience.
 Disable other KIAH/NRT test versions in scenery_packs.ini; retain them for
 rollback. Put this airport ABOVE AEP, AEP Overlays, other KIAH scenery and
 Global Airports. Higher entries take priority. See SCENERY_ORDER.txt for
-the optional manual Windows helper if old rounded pavement returns.
+priority instructions and an optional manual Windows order helper.
 The entry must end with a slash:
 SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/
 
@@ -51,14 +51,16 @@ window. See JETWAYS.txt for the camera-distance diagnosis and docking checks.
 The updater does not change plugin preferences.
 
 CONTENT AND TEST STATUS
-R29 applies stock terminal materials to the modified D West and International
-Processor buildings and the C12/C14/C15 and D1-D6 fixed boarding links.
-Passenger window artwork, subdued night glazing, service cladding, skylights
-and HVAC match the native airport family. No AEP assets are required.
-Gate starts, animated jetways, taxi/service routes and pavement are unchanged.
-The previously confirmed B pavement/exclusion fix is verified in both
-variants. AEP above NRT can still draw its old pavement over this airport;
-correct scenery order and fully restart rather than removing AEP.
+R29.1 removes redundant former-island pavement contours from Terminal B
+North. It removes 30 old concrete cover patches, locally clips four legacy
+concrete surfaces, and adds two bounded overlay exclusions. The current
+continuous apron, taxi guidance, starts, jetways and service routes remain.
+The member confirmed circles persisted after correcting scenery order;
+run a full SkunkCrafts check/update to receive the scenery repair itself.
+Offline geometry and export checks passed; simulator confirmation is pending.
+R29's native terminal materials remain on the modified D West/International
+Processor buildings and C12/C14/C15 and D1-D6 fixed boarding links, including
+passenger window artwork, night glazing and roof detail. No AEP is required.
 R28.2's Main FBO night-glazing correction and native-jetway guidance remain.
 R28.1 corrects route-node ordering that caused scenery loading warnings.
 Taxi/service route geometry and all parking/jetway positions are unchanged.

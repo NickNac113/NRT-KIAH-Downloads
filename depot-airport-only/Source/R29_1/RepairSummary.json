@@ -1,0 +1,200 @@
+{
+  "version": "0.29.1",
+  "mask_area_m2": 70740.64339219179,
+  "rectangle_local_m": [
+    -645.0,
+    578.0,
+    -208.0,
+    704.0
+  ],
+  "new_exclusions": [
+    [
+      "sim/exclude_pol",
+      "-95.348128292/29.989658596/-95.343599856/29.990795245"
+    ],
+    [
+      "sim/exclude_lin",
+      "-95.348128292/29.989658596/-95.343599856/29.990795245"
+    ]
+  ],
+  "purpose": "Remove redundant former-island contours from the rebuilt Terminal B North apron while retaining current airport operations.",
+  "validation": {
+    "independent_checks": 66,
+    "status": "PASS",
+    "simulator_confirmation": "Pending member test"
+  },
+  "channels": {
+    "scenery": {
+      "changed_native_surfaces": [
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy ND",
+          "legacy_sha256": "77d91633dbffe434f9acfe93e235928fdc9b878124e44bafd800e83b2e6b56f7",
+          "reference_index": 54,
+          "removed_m2": 9036.299963897613,
+          "remaining_m2": 2175.4681441087387,
+          "preserved_edges": 4
+        },
+        {
+          "legacy_header": "110 51 0.00 0.0 Term A * B North",
+          "legacy_sha256": "379f00916b2e637a1a534ec56195085957b4ef0951a7013118a3e8745083c675",
+          "reference_index": 91,
+          "removed_m2": 5740.440276210196,
+          "remaining_m2": 304951.694370661,
+          "preserved_edges": 2
+        },
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy ND",
+          "legacy_sha256": "10e6a741a99c907a01e95af7c3ea9c99c218aa24bacac38ec7e115f785fc7867",
+          "reference_index": 121,
+          "removed_m2": 4129.001844691121,
+          "remaining_m2": 915.5495143193544,
+          "preserved_edges": 3
+        },
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy NG",
+          "legacy_sha256": "9c2b7502783da5b1fe21856ac3e62ee7cac0f3cc1769f0dc042cdc48b6d1fdf9",
+          "reference_index": 138,
+          "removed_m2": 4892.14174224599,
+          "remaining_m2": 10198.037331105737,
+          "preserved_edges": 0
+        }
+      ],
+      "new_clipped_surface_count": 5,
+      "superseded_cover_count": 30,
+      "superseded_cover_hashes": [
+        "b468e2c96c57fe272db8895865168dfd80d89385a02ba72698a6166997917ad0",
+        "0b48de22924c9ea8f5f0e5a661f081069fa7cefbc4bae260d09b420b94482107",
+        "ea275fbf21c1c3d04fdfc9125897a871388de40a8956339643cd043f08a6c8a0",
+        "8d6e9e16b212117717a3915dc8054975135b3bc773e199dec8c3ff138201cc39",
+        "7719ba628540c89ccf75a0bfaa939062b385458c9a327a9fee87b551b20b7e41",
+        "ed213ab6a034cf36044f232017216db88fccb9d31afb6de590076f7a1a0135aa",
+        "7232e5c6f1b08085c5e778e00e74ff25d66b9a7d55a83cface2f54601366f0d1",
+        "b8ed4256e00dee80781a661d22d451689675d643d520456aee30ec7b50714078",
+        "006e10eb9aa97c51e86d466098500b791aacb0ac658de2f45d96f27863572ccf",
+        "27d3fbe24982c1130e480dbb2785dacc2d617b9f9431f670c1ca32b2dc740612",
+        "6824c4bb9755d282637e8f9a06686ccabd965ae473d89df9c0447a0a27448d2d",
+        "221852aa8ecc185deb7dbb9a266fb2bab3dc9cfdb7fdee813100fd0d9c57ee7a",
+        "39f62ddcf6feafc9f55a1133cc129334c75e6650f956bc250992ba08d2f9cea1",
+        "f70179c7f2712f8f50b503c417eaecd446e5312949681f0c7a10302ec62b3c4b",
+        "c9a3cb9097d3f2381fdd1b8bafafb595005ab48969fe623870b9ea62031854f3",
+        "13cef6598e657323f587df41cc9dc4c92779c6b3d0b56a8d0d1528fe31920c20",
+        "e0a10aef8779d049c92800a0c64cf4cf4f7afaaf055a887d73af94f0f9d8571e",
+        "b3639267f20566ca56c644b9310c96d571cbd0ebedf878eed90ae683877d3e3c",
+        "4cca0d7706f646c7db636d046224e2164e11677f51e17dd06e74a01a1d9fc84a",
+        "729fe77fc5c46a2603149acac005c369c4a1569a799c4c58bde363866f3cd4c3",
+        "cd45bf3fef577c08a7fc5594a67c6e14bff6391c5e359b3115bd199facbab753",
+        "e125f12cf9d0c46f82cc000d7324e6ec1cfbe4091400cb837159158a1b0744c3",
+        "70e2cf474cf511975ff46abc3c95b232a1bd2696d5e27d99aea51ea9671de55e",
+        "74079bc8de7c68863352919b76f10ab6d812a04c64c90f644a0b4906acf5563e",
+        "aa8672ef64e5e3d257aa9724b6dd419b58a54b8d81bd329e3e723c25c2930db7",
+        "4cf1804e17d6a8151701a7f861c3888f2f653113067b7cecd31b4ee9858220c2",
+        "99310592a550606326c7fb3c96986ffef8abbe913dcedab3e51474844e8c60a9",
+        "b805acae3b1b650e92e54506dff25ee51300e74a4999d83765276f22e4f8ddd2",
+        "b057e644d2b599518a77b95844bc93de7814261889a0c26455da6bd0c2eb9a2f",
+        "178a3ffe17cbf32d9a6b350acdf6690c6d18f5f73c6ef90a84aeb9ec8c317e6e"
+      ],
+      "superseded_cover_area_m2": 18367.92304925695,
+      "outside_roundtrip_error_m2": 0.013840659789200061,
+      "files": {
+        "Earth nav data/apt.dat": {
+          "before": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
+          "after": "0bb66245b49236a4e0f2d567a735587a8618ab7e793fa4a64378fdd1b270e879"
+        },
+        "Earth nav data/+20-100/+29-096.dsf": {
+          "before": "c4f8c7fae7b1b756c39290d782499d8b0cf50e4544427bea9e4d661f08952420",
+          "after": "766753ce862cfecc04e9583764acc9cd7c1a61b53b71c33829a4dba31787b454"
+        },
+        "Source/Native/+29-096.txt": {
+          "before": "09b4fa9bb45d71d3227047cc38bb931c8eec63162086f029732d19a572ad6a80",
+          "after": "b515a9f6e2a58ab6e9171fb6794bb16ec9a5d68c9453d6ba554125058a649ba4"
+        }
+      }
+    },
+    "scenery_airport_only": {
+      "changed_native_surfaces": [
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy ND",
+          "legacy_sha256": "77d91633dbffe434f9acfe93e235928fdc9b878124e44bafd800e83b2e6b56f7",
+          "reference_index": 54,
+          "removed_m2": 9036.299963897613,
+          "remaining_m2": 2175.4681441087387,
+          "preserved_edges": 4
+        },
+        {
+          "legacy_header": "110 51 0.00 0.0 Term A * B North",
+          "legacy_sha256": "379f00916b2e637a1a534ec56195085957b4ef0951a7013118a3e8745083c675",
+          "reference_index": 91,
+          "removed_m2": 5740.440276210196,
+          "remaining_m2": 304951.694370661,
+          "preserved_edges": 2
+        },
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy ND",
+          "legacy_sha256": "10e6a741a99c907a01e95af7c3ea9c99c218aa24bacac38ec7e115f785fc7867",
+          "reference_index": 121,
+          "removed_m2": 4129.001844691121,
+          "remaining_m2": 915.5495143193544,
+          "preserved_edges": 3
+        },
+        {
+          "legacy_header": "110 50 0.00 0.0 Twy NG",
+          "legacy_sha256": "9c2b7502783da5b1fe21856ac3e62ee7cac0f3cc1769f0dc042cdc48b6d1fdf9",
+          "reference_index": 138,
+          "removed_m2": 4892.14174224599,
+          "remaining_m2": 10198.037331105737,
+          "preserved_edges": 0
+        }
+      ],
+      "new_clipped_surface_count": 5,
+      "superseded_cover_count": 30,
+      "superseded_cover_hashes": [
+        "b468e2c96c57fe272db8895865168dfd80d89385a02ba72698a6166997917ad0",
+        "0b48de22924c9ea8f5f0e5a661f081069fa7cefbc4bae260d09b420b94482107",
+        "ea275fbf21c1c3d04fdfc9125897a871388de40a8956339643cd043f08a6c8a0",
+        "8d6e9e16b212117717a3915dc8054975135b3bc773e199dec8c3ff138201cc39",
+        "7719ba628540c89ccf75a0bfaa939062b385458c9a327a9fee87b551b20b7e41",
+        "ed213ab6a034cf36044f232017216db88fccb9d31afb6de590076f7a1a0135aa",
+        "7232e5c6f1b08085c5e778e00e74ff25d66b9a7d55a83cface2f54601366f0d1",
+        "b8ed4256e00dee80781a661d22d451689675d643d520456aee30ec7b50714078",
+        "006e10eb9aa97c51e86d466098500b791aacb0ac658de2f45d96f27863572ccf",
+        "27d3fbe24982c1130e480dbb2785dacc2d617b9f9431f670c1ca32b2dc740612",
+        "6824c4bb9755d282637e8f9a06686ccabd965ae473d89df9c0447a0a27448d2d",
+        "221852aa8ecc185deb7dbb9a266fb2bab3dc9cfdb7fdee813100fd0d9c57ee7a",
+        "39f62ddcf6feafc9f55a1133cc129334c75e6650f956bc250992ba08d2f9cea1",
+        "f70179c7f2712f8f50b503c417eaecd446e5312949681f0c7a10302ec62b3c4b",
+        "c9a3cb9097d3f2381fdd1b8bafafb595005ab48969fe623870b9ea62031854f3",
+        "13cef6598e657323f587df41cc9dc4c92779c6b3d0b56a8d0d1528fe31920c20",
+        "e0a10aef8779d049c92800a0c64cf4cf4f7afaaf055a887d73af94f0f9d8571e",
+        "b3639267f20566ca56c644b9310c96d571cbd0ebedf878eed90ae683877d3e3c",
+        "4cca0d7706f646c7db636d046224e2164e11677f51e17dd06e74a01a1d9fc84a",
+        "729fe77fc5c46a2603149acac005c369c4a1569a799c4c58bde363866f3cd4c3",
+        "cd45bf3fef577c08a7fc5594a67c6e14bff6391c5e359b3115bd199facbab753",
+        "e125f12cf9d0c46f82cc000d7324e6ec1cfbe4091400cb837159158a1b0744c3",
+        "70e2cf474cf511975ff46abc3c95b232a1bd2696d5e27d99aea51ea9671de55e",
+        "74079bc8de7c68863352919b76f10ab6d812a04c64c90f644a0b4906acf5563e",
+        "aa8672ef64e5e3d257aa9724b6dd419b58a54b8d81bd329e3e723c25c2930db7",
+        "4cf1804e17d6a8151701a7f861c3888f2f653113067b7cecd31b4ee9858220c2",
+        "99310592a550606326c7fb3c96986ffef8abbe913dcedab3e51474844e8c60a9",
+        "b805acae3b1b650e92e54506dff25ee51300e74a4999d83765276f22e4f8ddd2",
+        "b057e644d2b599518a77b95844bc93de7814261889a0c26455da6bd0c2eb9a2f",
+        "178a3ffe17cbf32d9a6b350acdf6690c6d18f5f73c6ef90a84aeb9ec8c317e6e"
+      ],
+      "superseded_cover_area_m2": 18367.92304925695,
+      "outside_roundtrip_error_m2": 0.013840659789200061,
+      "files": {
+        "Earth nav data/apt.dat": {
+          "before": "2d6e747789e0206c4ab30302bdb35b52698943c1e5d82c256c1a7368dfbdfb65",
+          "after": "0d1fdb5a7d67dfe235701e52fd974707c46253b4b8fdff91f1b88762de4e432d"
+        },
+        "Earth nav data/+20-100/+29-096.dsf": {
+          "before": "e6ca51d6a15f43df9c47f85f261a464db00c98149f7d04bd12e0674345754d93",
+          "after": "6bc56eae915d3008535e7e9cd33c50534c6dcdb089e6d26589dd8ec5ec60cbec"
+        },
+        "Source/Native/+29-096.txt": {
+          "before": "2c777a8cfc3d18b5509cba656094f5c9d308162de36722307540a6296c8970a8",
+          "after": "941e0b6bb5f2a1dc587f100a42233b3e82598abd060cb56068b9eebf355a9a3c"
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,14 @@
+0.29.1
+- Removed redundant old-island pavement contours from the rebuilt Terminal B North apron, including 30 island-shaped concrete cover pieces. The present continuous apron now supplies the surface.
+- Clipped four underlying legacy concrete surfaces locally and retained original edge lights/markings outside the changed area. The existing asphalt cut-outs remain intact.
+- Added local polygon/line overlay exclusions. Current taxi guidance, routes, gate starts, jetways and the R29 terminal materials are preserved.
+- The reported circles persisted after correcting scenery order, so this release repairs the scenery itself. With X-Plane closed, run a full SkunkCrafts check and update, then restart.
+- Both Main and Airport Only receive the repair. Offline validation passed; simulator appearance still needs confirmation.
+
 0.29.0
 - Matched the modified D West and International Processor buildings, plus fixed links at C12/C14/C15 and D1-D6, to the native X-Plane terminal-kit materials. Includes passenger window artwork, night glazing and roof detail; no AEP required.
 - Preserved existing parking starts, taxi/service routes, pavement and all animated jetway positions and controls.
-- Verified the previously fixed Terminal B pavement and exclusions remain intact in both channels. If old rounded asphalt returns, place NRT_KIAH_Campus above AEP and AEP Overlays in scenery_packs.ini, then restart.
+- Historical R29 diagnosis: confirmed the earlier pavement/exclusion records were present and recommended scenery order. The member subsequently confirmed circles persisted; 0.29.1 above supersedes that diagnosis with a geometry repair.
 - Added SCENERY_ORDER.txt and an optional manual Windows order-repair helper. SkunkCrafts does not run the helper or edit scenery order automatically.
 - Both channels share this version. Offline checks and preview renders are complete; simulator visual/operational testing remains separate.
 

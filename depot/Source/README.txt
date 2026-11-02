@@ -1,4 +1,5 @@
-CURRENT R29 EDITABLE PLACEMENT
+CURRENT R29.1 EDITABLE PLACEMENT
+Source/R29_1 records the bounded Terminal B North surface cleanup.
 Source/Native/+29-096.txt and +30-096.txt describe the compiled DSF placements
 for this variant. Source/rebuild_dsf.py rebuilds them into a new folder using
 Laminar DSFTool; OBJ8, apt.dat, XML and textures are also editable inputs.

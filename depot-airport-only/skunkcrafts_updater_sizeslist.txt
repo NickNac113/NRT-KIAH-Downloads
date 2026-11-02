@@ -1,19 +1,19 @@
 ASSET_NOTICES.txt|2069
 COPYING|18693
-Earth nav data/+20-100/+29-096.dsf|941530
+Earth nav data/+20-100/+29-096.dsf|941670
 Earth nav data/+30-100/+30-096.dsf|22135
-Earth nav data/apt.dat|1497774
+Earth nav data/apt.dat|1417833
 Fix-Scenery-Order.ps1|4215
 Gateway-original-README.txt|941
-INSTALL.txt|4760
+INSTALL.txt|4923
 JETWAYS.txt|2978
 R02-baseline-notes.txt|7988
-README.txt|216
+README.txt|292
 README_HF06_HISTORICAL.txt|5919
 README_R28_2.txt|1322
 README_R28_REVIEW_HISTORY.txt|1778
-SCENERY_ORDER.txt|2034
-Source/Native/+29-096.txt|2480053
+SCENERY_ORDER.txt|2349
+Source/Native/+29-096.txt|2480213
 Source/Native/+30-096.txt|145528
 Source/R28/R28_Evidence.json|44862
 Source/R28/audit_b.py|3185
@@ -27,7 +27,9 @@ Source/R28/render_r28.py|6020
 Source/R28/validate_r28.py|11574
 Source/R29/Materials.json|51883
 Source/R29/README.txt|1287
-Source/README.txt|399
+Source/R29_1/README.txt|1163
+Source/R29_1/RepairSummary.json|9810
+Source/README.txt|468
 Source/rebuild_dsf.py|1082
 Sources/Aircraft_Route_Audit.csv|55492
 Sources/Build/airport_geometry.py|7543
@@ -134,7 +136,7 @@ Sources/references.json|3968
 Sources/routing-build-report.json|78885
 Sources/terminal-source-manifest.json|4339
 VARIANT.txt|97
-changelog.txt|6106
+changelog.txt|6956
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733

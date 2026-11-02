@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.29.0",
+  "version": "0.29.1",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -39,9 +39,9 @@
     },
     {
       "path": "Earth nav data/+20-100/+29-096.dsf",
-      "crc32": 4214520857,
-      "sha256": "c4f8c7fae7b1b756c39290d782499d8b0cf50e4544427bea9e4d661f08952420",
-      "size": 948449
+      "crc32": 1342494910,
+      "sha256": "766753ce862cfecc04e9583764acc9cd7c1a61b53b71c33829a4dba31787b454",
+      "size": 948589
     },
     {
       "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -51,9 +51,9 @@
     },
     {
       "path": "Earth nav data/apt.dat",
-      "crc32": 1716921328,
-      "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
-      "size": 1538336
+      "crc32": 3413461718,
+      "sha256": "0bb66245b49236a4e0f2d567a735587a8618ab7e793fa4a64378fdd1b270e879",
+      "size": 1458395
     },
     {
       "path": "Fix-Scenery-Order.ps1",
@@ -81,9 +81,9 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 521089807,
-      "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
-      "size": 4760
+      "crc32": 1899817067,
+      "sha256": "346b9f8919c18f789df7bbbe91d1481fd771d9c8340cfb3696b9f6a12cbb2765",
+      "size": 4923
     },
     {
       "path": "JETWAYS.txt",
@@ -99,9 +99,9 @@
     },
     {
       "path": "README.txt",
-      "crc32": 2312806197,
-      "sha256": "72bfb369edd869b580e4130ae9d2bbe3618c4101375465a399e3e7e987bb0e94",
-      "size": 181
+      "crc32": 2883799057,
+      "sha256": "026de6732898def67ac0116f1ab3661a92b5bd8b791e037ba783fad71f4f3010",
+      "size": 281
     },
     {
       "path": "README_R22.txt",
@@ -159,15 +159,15 @@
     },
     {
       "path": "SCENERY_ORDER.txt",
-      "crc32": 1674468644,
-      "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
-      "size": 2034
+      "crc32": 1292954114,
+      "sha256": "c24d99f7f324fec365492e911b3aaa57d4f91ff75596be625066a43124868de0",
+      "size": 2349
     },
     {
       "path": "Source/Native/+29-096.txt",
-      "crc32": 3107085842,
-      "sha256": "09b4fa9bb45d71d3227047cc38bb931c8eec63162086f029732d19a572ad6a80",
-      "size": 2507397
+      "crc32": 3792494511,
+      "sha256": "b515a9f6e2a58ab6e9171fb6794bb16ec9a5d68c9453d6ba554125058a649ba4",
+      "size": 2507557
     },
     {
       "path": "Source/Native/+30-096.txt",
@@ -626,10 +626,22 @@
       "size": 1287
     },
     {
+      "path": "Source/R29_1/README.txt",
+      "crc32": 2093382318,
+      "sha256": "800c710fe7a4147f0be4298760a9f240147820bfe40c2410132284fa636ee6be",
+      "size": 1163
+    },
+    {
+      "path": "Source/R29_1/RepairSummary.json",
+      "crc32": 3240258677,
+      "sha256": "729cc820dd9306008e79e62a5210d17d492f4cc01d851e674bcf3e691d46eb5c",
+      "size": 9810
+    },
+    {
       "path": "Source/README.txt",
-      "crc32": 1376929546,
-      "sha256": "404ee1376599ae26b2b6554768ed576fc6ce1f77dd54f5f0508db3e5b65e151a",
-      "size": 1302
+      "crc32": 2372337725,
+      "sha256": "4549aeb0a80d0b9da39ca991bad65741f45ba7de299d56f81f173d19ca1ae5f1",
+      "size": 1371
     },
     {
       "path": "Source/rebuild_dsf.py",
@@ -639,15 +651,15 @@
     },
     {
       "path": "VARIANT.txt",
-      "crc32": 3425608199,
-      "sha256": "ce9345375f4f1476663ef039f06d5c7f6170213f71988f9a61efa07e671f352c",
+      "crc32": 1646653843,
+      "sha256": "34cee0e91965ce14d9c5d1a84b3ce7357e918244106de820cb43345b05066306",
       "size": 86
     },
     {
       "path": "changelog.txt",
-      "crc32": 4209965188,
-      "sha256": "76521f351caa22b8688f51bff159c59893918dedacf1e964760f84e7eb53e5db",
-      "size": 6166
+      "crc32": 2497837890,
+      "sha256": "f76e1ee58b17337c97b52b47914b39d349f214ceac880063a7370fd390d2c79a",
+      "size": 7016
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -1826,7 +1838,7 @@
       "size": 107654
     }
   ],
-  "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
+  "source_revision": "R29.1 - Terminal B North obsolete-island surface cleanup / paired content channels",
   "prerelease": true,
   "public_channels": {
     "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -2032,7 +2044,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.29.0",
+        "version": "0.29.1",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -2070,9 +2082,9 @@
           },
           {
             "path": "Earth nav data/+20-100/+29-096.dsf",
-            "crc32": 4214520857,
-            "sha256": "c4f8c7fae7b1b756c39290d782499d8b0cf50e4544427bea9e4d661f08952420",
-            "size": 948449
+            "crc32": 1342494910,
+            "sha256": "766753ce862cfecc04e9583764acc9cd7c1a61b53b71c33829a4dba31787b454",
+            "size": 948589
           },
           {
             "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -2082,9 +2094,9 @@
           },
           {
             "path": "Earth nav data/apt.dat",
-            "crc32": 1716921328,
-            "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
-            "size": 1538336
+            "crc32": 3413461718,
+            "sha256": "0bb66245b49236a4e0f2d567a735587a8618ab7e793fa4a64378fdd1b270e879",
+            "size": 1458395
           },
           {
             "path": "Fix-Scenery-Order.ps1",
@@ -2112,9 +2124,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 521089807,
-            "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
-            "size": 4760
+            "crc32": 1899817067,
+            "sha256": "346b9f8919c18f789df7bbbe91d1481fd771d9c8340cfb3696b9f6a12cbb2765",
+            "size": 4923
           },
           {
             "path": "JETWAYS.txt",
@@ -2130,9 +2142,9 @@
           },
           {
             "path": "README.txt",
-            "crc32": 2312806197,
-            "sha256": "72bfb369edd869b580e4130ae9d2bbe3618c4101375465a399e3e7e987bb0e94",
-            "size": 181
+            "crc32": 2883799057,
+            "sha256": "026de6732898def67ac0116f1ab3661a92b5bd8b791e037ba783fad71f4f3010",
+            "size": 281
           },
           {
             "path": "README_R22.txt",
@@ -2190,15 +2202,15 @@
           },
           {
             "path": "SCENERY_ORDER.txt",
-            "crc32": 1674468644,
-            "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
-            "size": 2034
+            "crc32": 1292954114,
+            "sha256": "c24d99f7f324fec365492e911b3aaa57d4f91ff75596be625066a43124868de0",
+            "size": 2349
           },
           {
             "path": "Source/Native/+29-096.txt",
-            "crc32": 3107085842,
-            "sha256": "09b4fa9bb45d71d3227047cc38bb931c8eec63162086f029732d19a572ad6a80",
-            "size": 2507397
+            "crc32": 3792494511,
+            "sha256": "b515a9f6e2a58ab6e9171fb6794bb16ec9a5d68c9453d6ba554125058a649ba4",
+            "size": 2507557
           },
           {
             "path": "Source/Native/+30-096.txt",
@@ -2657,10 +2669,22 @@
             "size": 1287
           },
           {
+            "path": "Source/R29_1/README.txt",
+            "crc32": 2093382318,
+            "sha256": "800c710fe7a4147f0be4298760a9f240147820bfe40c2410132284fa636ee6be",
+            "size": 1163
+          },
+          {
+            "path": "Source/R29_1/RepairSummary.json",
+            "crc32": 3240258677,
+            "sha256": "729cc820dd9306008e79e62a5210d17d492f4cc01d851e674bcf3e691d46eb5c",
+            "size": 9810
+          },
+          {
             "path": "Source/README.txt",
-            "crc32": 1376929546,
-            "sha256": "404ee1376599ae26b2b6554768ed576fc6ce1f77dd54f5f0508db3e5b65e151a",
-            "size": 1302
+            "crc32": 2372337725,
+            "sha256": "4549aeb0a80d0b9da39ca991bad65741f45ba7de299d56f81f173d19ca1ae5f1",
+            "size": 1371
           },
           {
             "path": "Source/rebuild_dsf.py",
@@ -2670,15 +2694,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 3425608199,
-            "sha256": "ce9345375f4f1476663ef039f06d5c7f6170213f71988f9a61efa07e671f352c",
+            "crc32": 1646653843,
+            "sha256": "34cee0e91965ce14d9c5d1a84b3ce7357e918244106de820cb43345b05066306",
             "size": 86
           },
           {
             "path": "changelog.txt",
-            "crc32": 4209965188,
-            "sha256": "76521f351caa22b8688f51bff159c59893918dedacf1e964760f84e7eb53e5db",
-            "size": 6166
+            "crc32": 2497837890,
+            "sha256": "f76e1ee58b17337c97b52b47914b39d349f214ceac880063a7370fd390d2c79a",
+            "size": 7016
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -3857,7 +3881,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
+        "source_revision": "R29.1 - Terminal B North obsolete-island surface cleanup / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -4063,7 +4087,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.29.0",
+        "version": "0.29.1",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -4083,9 +4107,9 @@
           },
           {
             "path": "Earth nav data/+20-100/+29-096.dsf",
-            "crc32": 1344322181,
-            "sha256": "e6ca51d6a15f43df9c47f85f261a464db00c98149f7d04bd12e0674345754d93",
-            "size": 941530
+            "crc32": 2320318988,
+            "sha256": "6bc56eae915d3008535e7e9cd33c50534c6dcdb089e6d26589dd8ec5ec60cbec",
+            "size": 941670
           },
           {
             "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -4095,9 +4119,9 @@
           },
           {
             "path": "Earth nav data/apt.dat",
-            "crc32": 641813588,
-            "sha256": "2d6e747789e0206c4ab30302bdb35b52698943c1e5d82c256c1a7368dfbdfb65",
-            "size": 1497774
+            "crc32": 3271113077,
+            "sha256": "0d1fdb5a7d67dfe235701e52fd974707c46253b4b8fdff91f1b88762de4e432d",
+            "size": 1417833
           },
           {
             "path": "Fix-Scenery-Order.ps1",
@@ -4113,9 +4137,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 521089807,
-            "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
-            "size": 4760
+            "crc32": 1899817067,
+            "sha256": "346b9f8919c18f789df7bbbe91d1481fd771d9c8340cfb3696b9f6a12cbb2765",
+            "size": 4923
           },
           {
             "path": "JETWAYS.txt",
@@ -4131,9 +4155,9 @@
           },
           {
             "path": "README.txt",
-            "crc32": 390906463,
-            "sha256": "a64b4f0c3d4ddfff30233e5c044c54ee4e63df72b3ab4b8da6af620ac1c348da",
-            "size": 216
+            "crc32": 3617355714,
+            "sha256": "6956883438ce19eb651e00ac3f8fe68101c2c7581516806647d8f21ef1e3f8c7",
+            "size": 292
           },
           {
             "path": "README_HF06_HISTORICAL.txt",
@@ -4155,15 +4179,15 @@
           },
           {
             "path": "SCENERY_ORDER.txt",
-            "crc32": 1674468644,
-            "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
-            "size": 2034
+            "crc32": 1292954114,
+            "sha256": "c24d99f7f324fec365492e911b3aaa57d4f91ff75596be625066a43124868de0",
+            "size": 2349
           },
           {
             "path": "Source/Native/+29-096.txt",
-            "crc32": 314125039,
-            "sha256": "2c777a8cfc3d18b5509cba656094f5c9d308162de36722307540a6296c8970a8",
-            "size": 2480053
+            "crc32": 4162100064,
+            "sha256": "941e0b6bb5f2a1dc587f100a42233b3e82598abd060cb56068b9eebf355a9a3c",
+            "size": 2480213
           },
           {
             "path": "Source/Native/+30-096.txt",
@@ -4244,10 +4268,22 @@
             "size": 1287
           },
           {
+            "path": "Source/R29_1/README.txt",
+            "crc32": 2093382318,
+            "sha256": "800c710fe7a4147f0be4298760a9f240147820bfe40c2410132284fa636ee6be",
+            "size": 1163
+          },
+          {
+            "path": "Source/R29_1/RepairSummary.json",
+            "crc32": 3240258677,
+            "sha256": "729cc820dd9306008e79e62a5210d17d492f4cc01d851e674bcf3e691d46eb5c",
+            "size": 9810
+          },
+          {
             "path": "Source/README.txt",
-            "crc32": 3513968909,
-            "sha256": "04a80e88a1141a4d897cea5f59f5829ae5d26bc68081f930662e369772df4228",
-            "size": 399
+            "crc32": 939395307,
+            "sha256": "cef80a05d772f5209305bf7cadd655b95c81677f7b413160f80b83c8e9d59353",
+            "size": 468
           },
           {
             "path": "Source/rebuild_dsf.py",
@@ -4881,15 +4917,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 1395166937,
-            "sha256": "efb582216acb0cc255721a33f8b97e996cd7757446da90648693b727c399f4d3",
+            "crc32": 1431788071,
+            "sha256": "b2af241a52f2ccea158e0313ac70324a4f0080856f18181225122467183a75cd",
             "size": 97
           },
           {
             "path": "changelog.txt",
-            "crc32": 2970770548,
-            "sha256": "5d4dbf613757dae29c749aaa29b33ae3a5281f9d9440722118b4e22202bc763f",
-            "size": 6106
+            "crc32": 3877877477,
+            "sha256": "a342394d56f350432ecc0135fb286b6117af2b14928a33cfcfc4afac40a894cf",
+            "size": 6956
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -5132,7 +5168,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
+        "source_revision": "R29.1 - Terminal B North obsolete-island surface cleanup / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -5565,6 +5601,8 @@
     "Source/R28_2/build_night_materials.py",
     "Source/R29/Materials.json",
     "Source/R29/README.txt",
+    "Source/R29_1/README.txt",
+    "Source/R29_1/RepairSummary.json",
     "Source/README.txt",
     "Source/rebuild_dsf.py",
     "Sources/Aircraft_Route_Audit.csv",

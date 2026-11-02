@@ -28,13 +28,18 @@ The helper refuses missing, duplicate, disabled or linked configuration
 paths. All other scenery entries retain their order and contents. A backup
 named scenery_packs.ini.before-NRT-<date>.bak is saved beside the original.
 
-R29 CHECK
-The original 4,741 exclusion records and 33 repaired native pavement blocks
-are preserved. Main adds six NRT-campus exclusions. Nothing in the C/D
-material pass restores the old Terminal B pavement. The supplied problem
-log placed AEP and AEP Overlays above NRT; correct the order on that PC.
-If the symptom remains after a full restart, retain the new Log.txt and
-scenery_packs.ini for checking other active KIAH copies.
+R29.1 FOLLOW-UP
+The circles persisted after the member corrected scenery order and restarted.
+Version 0.29.1 therefore removes redundant former-island surface geometry,
+retains the continuous new apron, and adds two local overlay exclusions.
+The original 4,741 exclusion records remain intact. Main also retains its
+six campus exclusions. The three HF05 asphalt cut-outs remain; the 30 old
+HF04 island-shaped cover patches have been explicitly superseded.
+
+Close X-Plane, run a full SkunkCrafts check and repair/update to 0.29.1, and
+restart. Correct order is still needed for exclusions, but moving the entry
+alone is not this repair. If circles remain after this update, retain the
+new Log.txt, scenery_packs.ini and a screenshot for follow-up.
 
 Official scenery-order guidance:
 https://www.x-plane.com/kb/prioritization-scenery-packs/
