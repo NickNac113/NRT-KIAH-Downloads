@@ -5,11 +5,11 @@ Check OpenSAM.cmd|97
 Check OpenSAM.ps1|3331
 Earth nav data/+20-100/+29-096.dsf|945591
 Earth nav data/+30-100/+30-096.dsf|22135
-Earth nav data/apt.dat|1538348
+Earth nav data/apt.dat|1538336
 Garage_Provenance.json|2462
 Garage_Replacement_Record.json|598
 Gateway-original-README.txt|941
-INSTALL.txt|3395
+INSTALL.txt|3488
 R28_Changes.json|44862
 README.txt|181
 README_R22.txt|725
@@ -96,8 +96,8 @@ Source/R28/render_r28.py|6020
 Source/R28/validate_r28.py|11574
 Source/README.txt|1270
 Source/rebuild_dsf.py|1082
-VARIANT.txt|89
-changelog.txt|4449
+VARIANT.txt|86
+changelog.txt|4797
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733

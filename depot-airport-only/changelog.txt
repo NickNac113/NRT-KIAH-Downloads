@@ -1,3 +1,8 @@
+0.28.1
+- Corrected taxi/service route node ordering that caused X-Plane loading warnings and rejected service-road connections.
+- Route geometry, parking positions, jetways and other airport records are unchanged. Both content channels use the corrected route format.
+- Fully exit X-Plane, run a full SkunkCrafts check and update, then restart X-Plane. Simulator confirmation remains pending.
+
 0.28.0
 - Two synchronized content channels: Main includes the fictional NRT ramp; Airport Only omits it. Same version and installed folder.
 - Use SkunkCrafts 4.2.3 or newer. Select a channel, then perform a full check and repair/update before starting X-Plane.

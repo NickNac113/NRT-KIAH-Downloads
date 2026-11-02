@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -51,9 +51,9 @@
     },
     {
       "path": "Earth nav data/apt.dat",
-      "crc32": 1408079980,
-      "sha256": "1e81ffc928a958f6355f81c26f2b546b5f03a405d33e9f807ebf7d794f1947f8",
-      "size": 1538348
+      "crc32": 1716921328,
+      "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
+      "size": 1538336
     },
     {
       "path": "Garage_Provenance.json",
@@ -75,9 +75,9 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 3014540565,
-      "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
-      "size": 3395
+      "crc32": 2635393147,
+      "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
+      "size": 3488
     },
     {
       "path": "R28_Changes.json",
@@ -597,15 +597,15 @@
     },
     {
       "path": "VARIANT.txt",
-      "crc32": 347113563,
-      "sha256": "b15b19385a94af7832eba87873d3090789cd57ace184d99472a21277d5203458",
-      "size": 89
+      "crc32": 2238320840,
+      "sha256": "098955d2de280d33e327623052e639034754cd3ab045ffdc43cdc2018ec82e8b",
+      "size": 86
     },
     {
       "path": "changelog.txt",
-      "crc32": 1666555009,
-      "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
-      "size": 4449
+      "crc32": 4073927696,
+      "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
+      "size": 4797
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -1784,7 +1784,7 @@
       "size": 107654
     }
   ],
-  "source_revision": "R28 - Terminal B / paired content channels",
+  "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
   "prerelease": true,
   "public_channels": {
     "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -1990,7 +1990,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.0",
+        "version": "0.28.1",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -2040,9 +2040,9 @@
           },
           {
             "path": "Earth nav data/apt.dat",
-            "crc32": 1408079980,
-            "sha256": "1e81ffc928a958f6355f81c26f2b546b5f03a405d33e9f807ebf7d794f1947f8",
-            "size": 1538348
+            "crc32": 1716921328,
+            "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
+            "size": 1538336
           },
           {
             "path": "Garage_Provenance.json",
@@ -2064,9 +2064,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 3014540565,
-            "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
-            "size": 3395
+            "crc32": 2635393147,
+            "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
+            "size": 3488
           },
           {
             "path": "R28_Changes.json",
@@ -2586,15 +2586,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 347113563,
-            "sha256": "b15b19385a94af7832eba87873d3090789cd57ace184d99472a21277d5203458",
-            "size": 89
+            "crc32": 2238320840,
+            "sha256": "098955d2de280d33e327623052e639034754cd3ab045ffdc43cdc2018ec82e8b",
+            "size": 86
           },
           {
             "path": "changelog.txt",
-            "crc32": 1666555009,
-            "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
-            "size": 4449
+            "crc32": 4073927696,
+            "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
+            "size": 4797
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -3773,7 +3773,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28 - Terminal B / paired content channels",
+        "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -3979,7 +3979,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.0",
+        "version": "0.28.1",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -4011,9 +4011,9 @@
           },
           {
             "path": "Earth nav data/apt.dat",
-            "crc32": 2136586912,
-            "sha256": "fff83b56d53191b1d84c9b9979a254f70b00ae29d1912f2c226bc5e5954cd871",
-            "size": 1497786
+            "crc32": 641813588,
+            "sha256": "2d6e747789e0206c4ab30302bdb35b52698943c1e5d82c256c1a7368dfbdfb65",
+            "size": 1497774
           },
           {
             "path": "Gateway-original-README.txt",
@@ -4023,9 +4023,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 3014540565,
-            "sha256": "58fc259fc57601df6d2cb665d3aede5010a02f9d1547a519ddb17c828e340e46",
-            "size": 3395
+            "crc32": 2635393147,
+            "sha256": "cc83ddcc670af9a35b293f732bcd8d0d47202d2cbe8b672cf1334642a251e443",
+            "size": 3488
           },
           {
             "path": "R02-baseline-notes.txt",
@@ -4755,15 +4755,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 2187907654,
-            "sha256": "3c7f7af9118ec2ce9aead47483879b7d56c89649a7cf24085aee2bc091efee10",
-            "size": 100
+            "crc32": 1591117478,
+            "sha256": "1822493dba59d85ea87ada14e3ab9465a9033ca266440379277eb1d10a2f14ff",
+            "size": 97
           },
           {
             "path": "changelog.txt",
-            "crc32": 1666555009,
-            "sha256": "6d1d5cc2cd392e2116b8790b5e07bcc3941abae67e18c3192f31eb9abf1c0e06",
-            "size": 4449
+            "crc32": 4073927696,
+            "sha256": "c2c07fb542173455d1030899222b0debcec16eebcc4fa1bfcad9c760f7e8ae84",
+            "size": 4797
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -5006,7 +5006,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28 - Terminal B / paired content channels",
+        "source_revision": "R28.1 - ordered taxi and service route records / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"

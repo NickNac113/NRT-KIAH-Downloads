@@ -1,6 +1,6 @@
 NRT KIAH - installation and content channels
 
-Member release: 0.28.0 / R28. Main and Airport Only share this version.
+Member release: 0.28.1 / R28.1. Main and Airport Only share this version.
 X-Plane visual and operational acceptance of Terminal B remains pending.
 
 One folder, one release version, two choices:
@@ -41,6 +41,8 @@ outside managed paths, or use the updater's user ignore file deliberately.
 Fully restart X-Plane after any scenery update.
 
 CONTENT AND TEST STATUS
+R28.1 corrects route-node ordering that caused scenery loading warnings.
+Taxi/service route geometry and all parking/jetway positions are unchanged.
 Both variants include R28 Terminal B North native terminal materials and
 passenger window artwork, fixed glass links, roof detail and refined ND/R1/NG
 taxi guidance. Existing gate starts, B South and other terminal layouts remain.
