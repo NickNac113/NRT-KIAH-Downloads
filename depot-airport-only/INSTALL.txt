@@ -1,7 +1,7 @@
 NRT KIAH - installation and content channels
 
-Member release: 0.28.2 / R28.2. Main and Airport Only share this version.
-X-Plane visual and operational acceptance of Terminal B remains pending.
+Member release: 0.29.0 / R29. Main and Airport Only share this version.
+In-simulator visual and operational checks remain separate from offline validation.
 
 One folder, one release version, two choices:
   Main: airport refinements plus the fictional NRT campus/ramp.
@@ -15,7 +15,9 @@ configuration and Earth nav data directly inside it. Avoid double nesting.
 Main is the initial choice and preserves the existing NRT member experience.
 
 Disable other KIAH/NRT test versions in scenery_packs.ini; retain them for
-rollback. Put this airport above other KIAH scenery and Global Airports.
+rollback. Put this airport ABOVE AEP, AEP Overlays, other KIAH scenery and
+Global Airports. Higher entries take priority. See SCENERY_ORDER.txt for
+the optional manual Windows helper if old rounded pavement returns.
 The entry must end with a slash:
 SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/
 
@@ -49,10 +51,15 @@ window. See JETWAYS.txt for the camera-distance diagnosis and docking checks.
 The updater does not change plugin preferences.
 
 CONTENT AND TEST STATUS
-R28.2 removes the repeating checkerboard from Main's FBO night glazing.
-Airport Only receives the same version and native-jetway instructions, with
-no airport geometry or material changes. Dusk/night appearance and docking
-under native X-Plane control still require simulator checks.
+R29 applies stock terminal materials to the modified D West and International
+Processor buildings and the C12/C14/C15 and D1-D6 fixed boarding links.
+Passenger window artwork, subdued night glazing, service cladding, skylights
+and HVAC match the native airport family. No AEP assets are required.
+Gate starts, animated jetways, taxi/service routes and pavement are unchanged.
+The previously confirmed B pavement/exclusion fix is verified in both
+variants. AEP above NRT can still draw its old pavement over this airport;
+correct scenery order and fully restart rather than removing AEP.
+R28.2's Main FBO night-glazing correction and native-jetway guidance remain.
 R28.1 corrects route-node ordering that caused scenery loading warnings.
 Taxi/service route geometry and all parking/jetway positions are unchanged.
 Both variants include R28 Terminal B North native terminal materials and

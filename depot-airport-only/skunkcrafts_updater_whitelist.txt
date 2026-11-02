@@ -1,17 +1,19 @@
-ASSET_NOTICES.txt|1944472361
+ASSET_NOTICES.txt|3695976782
 COPYING|2122558730
-Earth nav data/+20-100/+29-096.dsf|2561556096
+Earth nav data/+20-100/+29-096.dsf|1344322181
 Earth nav data/+30-100/+30-096.dsf|2326234223
 Earth nav data/apt.dat|641813588
+Fix-Scenery-Order.ps1|3362666335
 Gateway-original-README.txt|102524826
-INSTALL.txt|1239573270
+INSTALL.txt|521089807
 JETWAYS.txt|3774668667
 R02-baseline-notes.txt|4115343437
 README.txt|390906463
 README_HF06_HISTORICAL.txt|2604187419
 README_R28_2.txt|1453628802
 README_R28_REVIEW_HISTORY.txt|3671724453
-Source/Native/+29-096.txt|1866544685
+SCENERY_ORDER.txt|1674468644
+Source/Native/+29-096.txt|314125039
 Source/Native/+30-096.txt|820702008
 Source/R28/R28_Evidence.json|1793652328
 Source/R28/audit_b.py|4211768981
@@ -23,6 +25,9 @@ Source/R28/prepare_r28_channels.py|3886401758
 Source/R28/preview_native.py|3522679558
 Source/R28/render_r28.py|3189657636
 Source/R28/validate_r28.py|3776120916
+Source/R29/Materials.json|3974885685
+Source/R29/README.txt|948455929
+Source/README.txt|3513968909
 Source/rebuild_dsf.py|3811686248
 Sources/Aircraft_Route_Audit.csv|4186509218
 Sources/Build/airport_geometry.py|1119170509
@@ -128,8 +133,8 @@ Sources/offline-validation.json|1365422548
 Sources/references.json|4249218467
 Sources/routing-build-report.json|757808543
 Sources/terminal-source-manifest.json|2985756125
-VARIANT.txt|1414986660
-changelog.txt|3716460022
+VARIANT.txt|1395166937
+changelog.txt|2970770548
 objects/B_Lobby_Closed.obj|456459122
 objects/B_North.obj|1917700347
 objects/Current_Stand_Labels.obj|3817567693
@@ -159,14 +164,14 @@ objects/bridge_B6.obj|2633709537
 objects/bridge_B7.obj|2363397168
 objects/bridge_B8.obj|277767501
 objects/bridge_B9.obj|1545899178
-objects/bridge_C12.obj|3141302142
-objects/bridge_C14.obj|90890705
-objects/bridge_C15.obj|117391061
-objects/bridge_D1.obj|2184256594
-objects/bridge_D2.obj|3011590559
-objects/bridge_D3.obj|769173109
-objects/bridge_D4.obj|1149090086
-objects/bridge_D5.obj|614651558
-objects/bridge_D6.obj|2321882266
+objects/bridge_C12.obj|847008146
+objects/bridge_C14.obj|3681501431
+objects/bridge_C15.obj|1004377594
+objects/bridge_D1.obj|325489675
+objects/bridge_D2.obj|420155765
+objects/bridge_D3.obj|4225613655
+objects/bridge_D4.obj|2064750991
+objects/bridge_D5.obj|548849453
+objects/bridge_D6.obj|2757559294
 textures/terminal_atlas.png|3993655427
 textures/terminal_atlas_LIT.png|661616781

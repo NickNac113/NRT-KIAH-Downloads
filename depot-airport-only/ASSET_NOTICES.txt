@@ -1,19 +1,21 @@
-NRT KIAH R28 - asset and source notices
+NRT KIAH R29 - asset and source notices
 
 The inherited Scenery Gateway KIAH contribution by Dave12 retains COPYING and
 Gateway-original-README.txt (GPL version 2 or later). Original editable sources
 and native placement text accompany the distribution. This document does not
 replace those upstream licenses.
 
-R28 Terminal B uses references to Laminar's native terminal-kit, glass-bridge,
+R29 C/D and R28 Terminal B use references to Laminar's native terminal-kit, glass-bridge,
 roof, HVAC and skylight resources. Library textures and artwork are not copied
 into the depot. Current compiled placement sources are in Source/Native;
 Source/rebuild_dsf.py recompiles them with Laminar DSFTool. Historical scripts
 retain their original workspace paths and predecessor inputs and are not a
 portable complete build environment. Source/R28 contains the B authoring and
-variant preparation evidence.
+variant preparation evidence. Source/R29 documents the final C/D material
+plan; the corresponding native text and edited OBJ8 files are included.
 
-Main is the sealed cumulative R28 review plus release documentation/source.
+Main is the cumulative R28.2 review plus the R29 material pass and release
+documentation/source. Both channels receive identical C/D material changes.
 Airport Only starts with the public HF06 airport baseline and applies exactly
 the same R28 B airport-record changes, 22 bridge-object changes and 46 native
 facade placements. It excludes fictional campus models, surfaces, starts,

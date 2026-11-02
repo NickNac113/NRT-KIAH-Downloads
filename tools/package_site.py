@@ -152,7 +152,9 @@ def package(root, out):
 <h2>First installation</h2>
 <ol><li>Close X-Plane and extract the scenery ZIP into your X-Plane 12 folder. It should create <code>Custom Scenery/NRT_KIAH_Campus/</code>.</li>
 <li>Install OpenSAM, openSAM_Library and MisterX Library in the folders shown above. Follow OpenSAM's installation guide, including its first-launch restart.</li>
-<li>Keep one active NRT KIAH scenery package. Place it above other KIAH scenery and Global Airports in <code>scenery_packs.ini</code>, with the required libraries installed separately.</li></ol>
+<li>Keep one active NRT KIAH scenery package. Place it above <strong>AEP, AEP Overlays, other KIAH scenery and Global Airports</strong> in <code>scenery_packs.ini</code>, with the required libraries installed separately.</li></ol>
+<h2>Old pavement showing at Terminal B?</h2>
+<p>The earlier pavement repair is preserved. AEP above NRT can draw its old rounded asphalt over the new airport. Close X-Plane, move the NRT entry above AEP and AEP Overlays, then restart. AEP does not need to be removed. <a href="depot/SCENERY_ORDER.txt">Scenery-order instructions and optional manual Windows repair helper</a>. SkunkCrafts does not change scenery order automatically.</p>
 <h2>Future updates</h2>
 <p>The scenery includes an updater configuration, but the SkunkCrafts application is a separate download. Open the updater, select your X-Plane folder and check <strong>NRT KIAH Campus</strong> for updates while X-Plane is closed.</p>
 <p><a href="https://1228098873.rsc.cdn77.org/updater/SkunkcraftsUpdater-windows.zip">Download SkunkCrafts for Windows</a> · <a href="https://github.com/lzamouth/sku_client/blob/master/docs/USER_GUIDE.md">Updater guide and other platforms</a></p>

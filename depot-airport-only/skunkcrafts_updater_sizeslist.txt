@@ -1,17 +1,19 @@
-ASSET_NOTICES.txt|1898
+ASSET_NOTICES.txt|2069
 COPYING|18693
-Earth nav data/+20-100/+29-096.dsf|938649
+Earth nav data/+20-100/+29-096.dsf|941530
 Earth nav data/+30-100/+30-096.dsf|22135
 Earth nav data/apt.dat|1497774
+Fix-Scenery-Order.ps1|4215
 Gateway-original-README.txt|941
-INSTALL.txt|4228
+INSTALL.txt|4760
 JETWAYS.txt|2978
 R02-baseline-notes.txt|7988
 README.txt|216
 README_HF06_HISTORICAL.txt|5919
 README_R28_2.txt|1322
 README_R28_REVIEW_HISTORY.txt|1778
-Source/Native/+29-096.txt|2457451
+SCENERY_ORDER.txt|2034
+Source/Native/+29-096.txt|2480053
 Source/Native/+30-096.txt|145528
 Source/R28/R28_Evidence.json|44862
 Source/R28/audit_b.py|3185
@@ -23,6 +25,9 @@ Source/R28/prepare_r28_channels.py|10549
 Source/R28/preview_native.py|10681
 Source/R28/render_r28.py|6020
 Source/R28/validate_r28.py|11574
+Source/R29/Materials.json|51883
+Source/R29/README.txt|1287
+Source/README.txt|399
 Source/rebuild_dsf.py|1082
 Sources/Aircraft_Route_Audit.csv|55492
 Sources/Build/airport_geometry.py|7543
@@ -129,7 +134,7 @@ Sources/references.json|3968
 Sources/routing-build-report.json|78885
 Sources/terminal-source-manifest.json|4339
 VARIANT.txt|97
-changelog.txt|5235
+changelog.txt|6106
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733
@@ -159,14 +164,14 @@ objects/bridge_B6.obj|103250
 objects/bridge_B7.obj|103249
 objects/bridge_B8.obj|103237
 objects/bridge_B9.obj|103231
-objects/bridge_C12.obj|104230
-objects/bridge_C14.obj|103556
-objects/bridge_C15.obj|103556
-objects/bridge_D1.obj|105679
-objects/bridge_D2.obj|104229
-objects/bridge_D3.obj|104275
-objects/bridge_D4.obj|104235
-objects/bridge_D5.obj|105656
-objects/bridge_D6.obj|104251
+objects/bridge_C12.obj|103823
+objects/bridge_C14.obj|103245
+objects/bridge_C15.obj|103245
+objects/bridge_D1.obj|105080
+objects/bridge_D2.obj|103822
+objects/bridge_D3.obj|103868
+objects/bridge_D4.obj|103828
+objects/bridge_D5.obj|105057
+objects/bridge_D6.obj|103844
 textures/terminal_atlas.png|117546
 textures/terminal_atlas_LIT.png|107654

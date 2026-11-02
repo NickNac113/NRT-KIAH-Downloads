@@ -1,0 +1,40 @@
+OLD ROUNDED PAVEMENT OR OTHER SURFACES REAPPEARING AT TERMINAL B
+
+Close X-Plane. Open Custom Scenery/scenery_packs.ini in a text editor.
+Move this existing line above AEP, AEP Overlays, other KIAH scenery and
+Global Airports. Placing it first among the SCENERY_PACK lines is simplest:
+
+SCENERY_PACK Custom Scenery/NRT_KIAH_Campus/
+
+Keep just one enabled copy of the NRT scenery. Save and restart X-Plane.
+Do not delete AEP or its libraries. AEP is optional, not an NRT dependency.
+
+X-Plane reads higher entries first. Our repaired exclusion footprints cannot
+suppress an overlay installed ABOVE this package. An update through
+SkunkCrafts replaces scenery files but does not reorder scenery_packs.ini.
+Both Main and Airport Only use the same folder and need the same priority.
+
+OPTIONAL WINDOWS HELPER
+Fix-Scenery-Order.ps1 performs that one-line move, with an exact backup.
+It is never run automatically. Use only the copy installed inside
+X-Plane 12/Custom Scenery/NRT_KIAH_Campus, with X-Plane closed.
+In a PowerShell window opened in that folder, run:
+
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Fix-Scenery-Order.ps1
+
+Add -CheckOnly to inspect without writing. This invocation permits this one
+script for this process; it does not change the computer's execution policy.
+The helper refuses missing, duplicate, disabled or linked configuration
+paths. All other scenery entries retain their order and contents. A backup
+named scenery_packs.ini.before-NRT-<date>.bak is saved beside the original.
+
+R29 CHECK
+The original 4,741 exclusion records and 33 repaired native pavement blocks
+are preserved. Main adds six NRT-campus exclusions. Nothing in the C/D
+material pass restores the old Terminal B pavement. The supplied problem
+log placed AEP and AEP Overlays above NRT; correct the order on that PC.
+If the symptom remains after a full restart, retain the new Log.txt and
+scenery_packs.ini for checking other active KIAH copies.
+
+Official scenery-order guidance:
+https://www.x-plane.com/kb/prioritization-scenery-packs/

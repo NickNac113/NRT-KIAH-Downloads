@@ -1,15 +1,16 @@
-ASSET_NOTICES.txt|1898
+ASSET_NOTICES.txt|2069
 Build_Evidence.json|650275
 COPYING|18693
 Check OpenSAM.cmd|97
 Check OpenSAM.ps1|3331
-Earth nav data/+20-100/+29-096.dsf|945591
+Earth nav data/+20-100/+29-096.dsf|948449
 Earth nav data/+30-100/+30-096.dsf|22135
 Earth nav data/apt.dat|1538336
+Fix-Scenery-Order.ps1|4215
 Garage_Provenance.json|2462
 Garage_Replacement_Record.json|598
 Gateway-original-README.txt|941
-INSTALL.txt|4228
+INSTALL.txt|4760
 JETWAYS.txt|2978
 R28_Changes.json|44862
 README.txt|181
@@ -22,7 +23,8 @@ README_R27.txt|3889
 README_R28.txt|1716
 README_R28_2.txt|1322
 README_R28_REVIEW_HISTORY.txt|1778
-Source/Native/+29-096.txt|2484795
+SCENERY_ORDER.txt|2034
+Source/Native/+29-096.txt|2507397
 Source/Native/+30-096.txt|145492
 Source/R17_Helpers/airport_geometry.py|7661
 Source/R17_Helpers/build_test.py|31820
@@ -97,10 +99,12 @@ Source/R28/preview_native.py|10681
 Source/R28/render_r28.py|6020
 Source/R28/validate_r28.py|11574
 Source/R28_2/build_night_materials.py|2114
-Source/README.txt|1270
+Source/R29/Materials.json|51883
+Source/R29/README.txt|1287
+Source/README.txt|1302
 Source/rebuild_dsf.py|1082
 VARIANT.txt|86
-changelog.txt|5295
+changelog.txt|6166
 objects/B_Lobby_Closed.obj|401921
 objects/B_North.obj|664042
 objects/Current_Stand_Labels.obj|26733
@@ -130,15 +134,15 @@ objects/bridge_B6.obj|103250
 objects/bridge_B7.obj|103249
 objects/bridge_B8.obj|103237
 objects/bridge_B9.obj|103231
-objects/bridge_C12.obj|104230
-objects/bridge_C14.obj|103556
-objects/bridge_C15.obj|103556
-objects/bridge_D1.obj|105679
-objects/bridge_D2.obj|104229
-objects/bridge_D3.obj|104275
-objects/bridge_D4.obj|104235
-objects/bridge_D5.obj|105656
-objects/bridge_D6.obj|104251
+objects/bridge_C12.obj|103823
+objects/bridge_C14.obj|103245
+objects/bridge_C15.obj|103245
+objects/bridge_D1.obj|105080
+objects/bridge_D2.obj|103822
+objects/bridge_D3.obj|103868
+objects/bridge_D4.obj|103828
+objects/bridge_D5.obj|105057
+objects/bridge_D6.obj|103844
 objects/nrt_test/apron_material.obj|11889
 objects/nrt_test/cargo.obj|757291
 objects/nrt_test/cargo_recess_walls.obj|94491

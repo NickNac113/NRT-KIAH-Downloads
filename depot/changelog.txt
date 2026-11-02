@@ -1,3 +1,10 @@
+0.29.0
+- Matched the modified D West and International Processor buildings, plus fixed links at C12/C14/C15 and D1-D6, to the native X-Plane terminal-kit materials. Includes passenger window artwork, night glazing and roof detail; no AEP required.
+- Preserved existing parking starts, taxi/service routes, pavement and all animated jetway positions and controls.
+- Verified the previously fixed Terminal B pavement and exclusions remain intact in both channels. If old rounded asphalt returns, place NRT_KIAH_Campus above AEP and AEP Overlays in scenery_packs.ini, then restart.
+- Added SCENERY_ORDER.txt and an optional manual Windows order-repair helper. SkunkCrafts does not run the helper or edit scenery order automatically.
+- Both channels share this version. Offline checks and preview renders are complete; simulator visual/operational testing remains separate.
+
 0.28.2
 - Corrected the repeating lit/dark checkerboard on the FBO night glazing using consistent, subdued illumination. Daytime textures and scenery geometry are unchanged.
 - Added instructions for native X-Plane 12 jetway control: OpenSAM > Settings > disable Manage XP12 Jetways, then fully restart. Global setting; hangar controls remain in OpenSAM.

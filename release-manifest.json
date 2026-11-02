@@ -1,7 +1,7 @@
 {
   "product": "NRT KIAH Campus",
   "folder": "NRT_KIAH_Campus",
-  "version": "0.28.2",
+  "version": "0.29.0",
   "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
   "preview_only": false,
   "not_for_publication": false,
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "ASSET_NOTICES.txt",
-      "crc32": 1944472361,
-      "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
-      "size": 1898
+      "crc32": 3695976782,
+      "sha256": "027dd321c22917f2c6b0198b2bd3f801c14a1efee2efe560265676bda4b0fd7b",
+      "size": 2069
     },
     {
       "path": "Build_Evidence.json",
@@ -39,9 +39,9 @@
     },
     {
       "path": "Earth nav data/+20-100/+29-096.dsf",
-      "crc32": 3739112922,
-      "sha256": "a8844a456faae111caa33c6fa13767f5177699a9a5cce3a6c577f106c25112b2",
-      "size": 945591
+      "crc32": 4214520857,
+      "sha256": "c4f8c7fae7b1b756c39290d782499d8b0cf50e4544427bea9e4d661f08952420",
+      "size": 948449
     },
     {
       "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -54,6 +54,12 @@
       "crc32": 1716921328,
       "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
       "size": 1538336
+    },
+    {
+      "path": "Fix-Scenery-Order.ps1",
+      "crc32": 3362666335,
+      "sha256": "5551c932618cbb45f9e32476b0bef360609e3f31d0d8d959342208fc96b337bb",
+      "size": 4215
     },
     {
       "path": "Garage_Provenance.json",
@@ -75,9 +81,9 @@
     },
     {
       "path": "INSTALL.txt",
-      "crc32": 1239573270,
-      "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
-      "size": 4228
+      "crc32": 521089807,
+      "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
+      "size": 4760
     },
     {
       "path": "JETWAYS.txt",
@@ -152,10 +158,16 @@
       "size": 1778
     },
     {
+      "path": "SCENERY_ORDER.txt",
+      "crc32": 1674468644,
+      "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
+      "size": 2034
+    },
+    {
       "path": "Source/Native/+29-096.txt",
-      "crc32": 4044933031,
-      "sha256": "6f9a19c374f0dc2a1e2675f1c16c97a7c27826544db3a83f2cd19f8d5a4f6331",
-      "size": 2484795
+      "crc32": 3107085842,
+      "sha256": "09b4fa9bb45d71d3227047cc38bb931c8eec63162086f029732d19a572ad6a80",
+      "size": 2507397
     },
     {
       "path": "Source/Native/+30-096.txt",
@@ -602,10 +614,22 @@
       "size": 2114
     },
     {
+      "path": "Source/R29/Materials.json",
+      "crc32": 3974885685,
+      "sha256": "089830f1a5a02baef4166f0f585f20fc033669214286164f67cb3ad3d81fa7d2",
+      "size": 51883
+    },
+    {
+      "path": "Source/R29/README.txt",
+      "crc32": 948455929,
+      "sha256": "6442807a2a9624f80d9cb78f94b8c5318f69cdff25e627023bc0c8e218e172cf",
+      "size": 1287
+    },
+    {
       "path": "Source/README.txt",
-      "crc32": 3588611300,
-      "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
-      "size": 1270
+      "crc32": 1376929546,
+      "sha256": "404ee1376599ae26b2b6554768ed576fc6ce1f77dd54f5f0508db3e5b65e151a",
+      "size": 1302
     },
     {
       "path": "Source/rebuild_dsf.py",
@@ -615,15 +639,15 @@
     },
     {
       "path": "VARIANT.txt",
-      "crc32": 2886132277,
-      "sha256": "c397423a6378defb527cf5b8c66361b44baf9da20c8171968922bc28f84aef08",
+      "crc32": 3425608199,
+      "sha256": "ce9345375f4f1476663ef039f06d5c7f6170213f71988f9a61efa07e671f352c",
       "size": 86
     },
     {
       "path": "changelog.txt",
-      "crc32": 2774473960,
-      "sha256": "b38059b587d7c9e0539fea3888efb5d9d776872968c8cd9afa44c185fa5ff9d7",
-      "size": 5295
+      "crc32": 4209965188,
+      "sha256": "76521f351caa22b8688f51bff159c59893918dedacf1e964760f84e7eb53e5db",
+      "size": 6166
     },
     {
       "path": "objects/B_Lobby_Closed.obj",
@@ -801,57 +825,57 @@
     },
     {
       "path": "objects/bridge_C12.obj",
-      "crc32": 3141302142,
-      "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
-      "size": 104230
+      "crc32": 847008146,
+      "sha256": "7a4fc78651af7462c0f7a2e7a1626dabe757a35eb51bcae91fad1dfaf3bb4cb7",
+      "size": 103823
     },
     {
       "path": "objects/bridge_C14.obj",
-      "crc32": 90890705,
-      "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
-      "size": 103556
+      "crc32": 3681501431,
+      "sha256": "e1b9d4c6efc7053981880355d67a97d1bff52a514387aa6458d47ccde6eed42f",
+      "size": 103245
     },
     {
       "path": "objects/bridge_C15.obj",
-      "crc32": 117391061,
-      "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
-      "size": 103556
+      "crc32": 1004377594,
+      "sha256": "c81cfb7ea8cf057ab80a312779663412f3bc4b223628f36623ffdfe1cdec2a26",
+      "size": 103245
     },
     {
       "path": "objects/bridge_D1.obj",
-      "crc32": 2184256594,
-      "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
-      "size": 105679
+      "crc32": 325489675,
+      "sha256": "910c5372b2c7d2c4c7ce6959aefaf0d7830189c943617e0862b4c9cb113eab29",
+      "size": 105080
     },
     {
       "path": "objects/bridge_D2.obj",
-      "crc32": 3011590559,
-      "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
-      "size": 104229
+      "crc32": 420155765,
+      "sha256": "b3104ed32ccbbad14d4d2842efb4efff292461b901a50c1c75b424d43692ede8",
+      "size": 103822
     },
     {
       "path": "objects/bridge_D3.obj",
-      "crc32": 769173109,
-      "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
-      "size": 104275
+      "crc32": 4225613655,
+      "sha256": "839ce07b81e57b23fde4a777ff71fdc3ad1fd985119d8b965ee9b20717316421",
+      "size": 103868
     },
     {
       "path": "objects/bridge_D4.obj",
-      "crc32": 1149090086,
-      "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
-      "size": 104235
+      "crc32": 2064750991,
+      "sha256": "19eb6bb2c59da230c1659a39e8066d412403df2ff412870c8600f036315cfc41",
+      "size": 103828
     },
     {
       "path": "objects/bridge_D5.obj",
-      "crc32": 614651558,
-      "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
-      "size": 105656
+      "crc32": 548849453,
+      "sha256": "2223d78c572ad3880a3210578d90317abb67f4ab8c29812c01ce6a1d00295036",
+      "size": 105057
     },
     {
       "path": "objects/bridge_D6.obj",
-      "crc32": 2321882266,
-      "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
-      "size": 104251
+      "crc32": 2757559294,
+      "sha256": "816e1e144e0980d865c2e35cd8f220e301f783e0ac90db7026a38f3a7f82fc85",
+      "size": 103844
     },
     {
       "path": "objects/nrt_test/apron_material.obj",
@@ -1802,7 +1826,7 @@
       "size": 107654
     }
   ],
-  "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
+  "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
   "prerelease": true,
   "public_channels": {
     "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -2008,7 +2032,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.2",
+        "version": "0.29.0",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -2016,9 +2040,9 @@
         "files": [
           {
             "path": "ASSET_NOTICES.txt",
-            "crc32": 1944472361,
-            "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
-            "size": 1898
+            "crc32": 3695976782,
+            "sha256": "027dd321c22917f2c6b0198b2bd3f801c14a1efee2efe560265676bda4b0fd7b",
+            "size": 2069
           },
           {
             "path": "Build_Evidence.json",
@@ -2046,9 +2070,9 @@
           },
           {
             "path": "Earth nav data/+20-100/+29-096.dsf",
-            "crc32": 3739112922,
-            "sha256": "a8844a456faae111caa33c6fa13767f5177699a9a5cce3a6c577f106c25112b2",
-            "size": 945591
+            "crc32": 4214520857,
+            "sha256": "c4f8c7fae7b1b756c39290d782499d8b0cf50e4544427bea9e4d661f08952420",
+            "size": 948449
           },
           {
             "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -2061,6 +2085,12 @@
             "crc32": 1716921328,
             "sha256": "85a558ba34bf53f31320167d155eeb4bdf2f9c7b55fbb4ccb54d27ed5801cdf2",
             "size": 1538336
+          },
+          {
+            "path": "Fix-Scenery-Order.ps1",
+            "crc32": 3362666335,
+            "sha256": "5551c932618cbb45f9e32476b0bef360609e3f31d0d8d959342208fc96b337bb",
+            "size": 4215
           },
           {
             "path": "Garage_Provenance.json",
@@ -2082,9 +2112,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 1239573270,
-            "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
-            "size": 4228
+            "crc32": 521089807,
+            "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
+            "size": 4760
           },
           {
             "path": "JETWAYS.txt",
@@ -2159,10 +2189,16 @@
             "size": 1778
           },
           {
+            "path": "SCENERY_ORDER.txt",
+            "crc32": 1674468644,
+            "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
+            "size": 2034
+          },
+          {
             "path": "Source/Native/+29-096.txt",
-            "crc32": 4044933031,
-            "sha256": "6f9a19c374f0dc2a1e2675f1c16c97a7c27826544db3a83f2cd19f8d5a4f6331",
-            "size": 2484795
+            "crc32": 3107085842,
+            "sha256": "09b4fa9bb45d71d3227047cc38bb931c8eec63162086f029732d19a572ad6a80",
+            "size": 2507397
           },
           {
             "path": "Source/Native/+30-096.txt",
@@ -2609,10 +2645,22 @@
             "size": 2114
           },
           {
+            "path": "Source/R29/Materials.json",
+            "crc32": 3974885685,
+            "sha256": "089830f1a5a02baef4166f0f585f20fc033669214286164f67cb3ad3d81fa7d2",
+            "size": 51883
+          },
+          {
+            "path": "Source/R29/README.txt",
+            "crc32": 948455929,
+            "sha256": "6442807a2a9624f80d9cb78f94b8c5318f69cdff25e627023bc0c8e218e172cf",
+            "size": 1287
+          },
+          {
             "path": "Source/README.txt",
-            "crc32": 3588611300,
-            "sha256": "5d926f7de24e1965d60471b9daa3a79adcd9eb4fe7853250c9afce75a5d9926e",
-            "size": 1270
+            "crc32": 1376929546,
+            "sha256": "404ee1376599ae26b2b6554768ed576fc6ce1f77dd54f5f0508db3e5b65e151a",
+            "size": 1302
           },
           {
             "path": "Source/rebuild_dsf.py",
@@ -2622,15 +2670,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 2886132277,
-            "sha256": "c397423a6378defb527cf5b8c66361b44baf9da20c8171968922bc28f84aef08",
+            "crc32": 3425608199,
+            "sha256": "ce9345375f4f1476663ef039f06d5c7f6170213f71988f9a61efa07e671f352c",
             "size": 86
           },
           {
             "path": "changelog.txt",
-            "crc32": 2774473960,
-            "sha256": "b38059b587d7c9e0539fea3888efb5d9d776872968c8cd9afa44c185fa5ff9d7",
-            "size": 5295
+            "crc32": 4209965188,
+            "sha256": "76521f351caa22b8688f51bff159c59893918dedacf1e964760f84e7eb53e5db",
+            "size": 6166
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -2808,57 +2856,57 @@
           },
           {
             "path": "objects/bridge_C12.obj",
-            "crc32": 3141302142,
-            "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
-            "size": 104230
+            "crc32": 847008146,
+            "sha256": "7a4fc78651af7462c0f7a2e7a1626dabe757a35eb51bcae91fad1dfaf3bb4cb7",
+            "size": 103823
           },
           {
             "path": "objects/bridge_C14.obj",
-            "crc32": 90890705,
-            "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
-            "size": 103556
+            "crc32": 3681501431,
+            "sha256": "e1b9d4c6efc7053981880355d67a97d1bff52a514387aa6458d47ccde6eed42f",
+            "size": 103245
           },
           {
             "path": "objects/bridge_C15.obj",
-            "crc32": 117391061,
-            "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
-            "size": 103556
+            "crc32": 1004377594,
+            "sha256": "c81cfb7ea8cf057ab80a312779663412f3bc4b223628f36623ffdfe1cdec2a26",
+            "size": 103245
           },
           {
             "path": "objects/bridge_D1.obj",
-            "crc32": 2184256594,
-            "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
-            "size": 105679
+            "crc32": 325489675,
+            "sha256": "910c5372b2c7d2c4c7ce6959aefaf0d7830189c943617e0862b4c9cb113eab29",
+            "size": 105080
           },
           {
             "path": "objects/bridge_D2.obj",
-            "crc32": 3011590559,
-            "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
-            "size": 104229
+            "crc32": 420155765,
+            "sha256": "b3104ed32ccbbad14d4d2842efb4efff292461b901a50c1c75b424d43692ede8",
+            "size": 103822
           },
           {
             "path": "objects/bridge_D3.obj",
-            "crc32": 769173109,
-            "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
-            "size": 104275
+            "crc32": 4225613655,
+            "sha256": "839ce07b81e57b23fde4a777ff71fdc3ad1fd985119d8b965ee9b20717316421",
+            "size": 103868
           },
           {
             "path": "objects/bridge_D4.obj",
-            "crc32": 1149090086,
-            "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
-            "size": 104235
+            "crc32": 2064750991,
+            "sha256": "19eb6bb2c59da230c1659a39e8066d412403df2ff412870c8600f036315cfc41",
+            "size": 103828
           },
           {
             "path": "objects/bridge_D5.obj",
-            "crc32": 614651558,
-            "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
-            "size": 105656
+            "crc32": 548849453,
+            "sha256": "2223d78c572ad3880a3210578d90317abb67f4ab8c29812c01ce6a1d00295036",
+            "size": 105057
           },
           {
             "path": "objects/bridge_D6.obj",
-            "crc32": 2321882266,
-            "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
-            "size": 104251
+            "crc32": 2757559294,
+            "sha256": "816e1e144e0980d865c2e35cd8f220e301f783e0ac90db7026a38f3a7f82fc85",
+            "size": 103844
           },
           {
             "path": "objects/nrt_test/apron_material.obj",
@@ -3809,7 +3857,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
+        "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -4015,7 +4063,7 @@
       "release": {
         "product": "NRT KIAH Campus",
         "folder": "NRT_KIAH_Campus",
-        "version": "0.28.2",
+        "version": "0.29.0",
         "module_url": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot",
         "preview_only": false,
         "not_for_publication": false,
@@ -4023,9 +4071,9 @@
         "files": [
           {
             "path": "ASSET_NOTICES.txt",
-            "crc32": 1944472361,
-            "sha256": "3a2faff36187bbbf88246f7a2bf1aff2cdd84c73a00af7c7d91af54c9723b793",
-            "size": 1898
+            "crc32": 3695976782,
+            "sha256": "027dd321c22917f2c6b0198b2bd3f801c14a1efee2efe560265676bda4b0fd7b",
+            "size": 2069
           },
           {
             "path": "COPYING",
@@ -4035,9 +4083,9 @@
           },
           {
             "path": "Earth nav data/+20-100/+29-096.dsf",
-            "crc32": 2561556096,
-            "sha256": "fb1a4cfb5e77675652389a58d4a897bcc72fa938834e7804b78cb309c9978430",
-            "size": 938649
+            "crc32": 1344322181,
+            "sha256": "e6ca51d6a15f43df9c47f85f261a464db00c98149f7d04bd12e0674345754d93",
+            "size": 941530
           },
           {
             "path": "Earth nav data/+30-100/+30-096.dsf",
@@ -4052,6 +4100,12 @@
             "size": 1497774
           },
           {
+            "path": "Fix-Scenery-Order.ps1",
+            "crc32": 3362666335,
+            "sha256": "5551c932618cbb45f9e32476b0bef360609e3f31d0d8d959342208fc96b337bb",
+            "size": 4215
+          },
+          {
             "path": "Gateway-original-README.txt",
             "crc32": 102524826,
             "sha256": "169964b32600bae61cabef531de7f45a4408a9fbaac5b2c32e6e6a9ddedf1472",
@@ -4059,9 +4113,9 @@
           },
           {
             "path": "INSTALL.txt",
-            "crc32": 1239573270,
-            "sha256": "af03bd254fcced145f133e4ef931a64b3c27455fc25581af91f4f1ccc510bd4e",
-            "size": 4228
+            "crc32": 521089807,
+            "sha256": "3107e431529ada70c4d93b91ed1328de318d889cac27fec7a567d3ee1ddfcca5",
+            "size": 4760
           },
           {
             "path": "JETWAYS.txt",
@@ -4100,10 +4154,16 @@
             "size": 1778
           },
           {
+            "path": "SCENERY_ORDER.txt",
+            "crc32": 1674468644,
+            "sha256": "f106390b8ae93a4c6476e1cf676daa84ced09b57351cfa1d47683112faddc38b",
+            "size": 2034
+          },
+          {
             "path": "Source/Native/+29-096.txt",
-            "crc32": 1866544685,
-            "sha256": "a48926d47f8b4874a33c58a05f46e4b51a37deca723ec5687edb698880135afe",
-            "size": 2457451
+            "crc32": 314125039,
+            "sha256": "2c777a8cfc3d18b5509cba656094f5c9d308162de36722307540a6296c8970a8",
+            "size": 2480053
           },
           {
             "path": "Source/Native/+30-096.txt",
@@ -4170,6 +4230,24 @@
             "crc32": 3776120916,
             "sha256": "de322c3f9cd351d82609a12f68363dc080fd2070522bcd6d7c8de6ecb285bff5",
             "size": 11574
+          },
+          {
+            "path": "Source/R29/Materials.json",
+            "crc32": 3974885685,
+            "sha256": "089830f1a5a02baef4166f0f585f20fc033669214286164f67cb3ad3d81fa7d2",
+            "size": 51883
+          },
+          {
+            "path": "Source/R29/README.txt",
+            "crc32": 948455929,
+            "sha256": "6442807a2a9624f80d9cb78f94b8c5318f69cdff25e627023bc0c8e218e172cf",
+            "size": 1287
+          },
+          {
+            "path": "Source/README.txt",
+            "crc32": 3513968909,
+            "sha256": "04a80e88a1141a4d897cea5f59f5829ae5d26bc68081f930662e369772df4228",
+            "size": 399
           },
           {
             "path": "Source/rebuild_dsf.py",
@@ -4803,15 +4881,15 @@
           },
           {
             "path": "VARIANT.txt",
-            "crc32": 1414986660,
-            "sha256": "ea0cc7328e53ff7aba81c79b4e5f243e1aedd2024d45dc424125afe1380633dd",
+            "crc32": 1395166937,
+            "sha256": "efb582216acb0cc255721a33f8b97e996cd7757446da90648693b727c399f4d3",
             "size": 97
           },
           {
             "path": "changelog.txt",
-            "crc32": 3716460022,
-            "sha256": "9adb21908c5d3a97e52ebc0c6293a0cf9aee7a7490d1fbcdf2feb313ad7aedac",
-            "size": 5235
+            "crc32": 2970770548,
+            "sha256": "5d4dbf613757dae29c749aaa29b33ae3a5281f9d9440722118b4e22202bc763f",
+            "size": 6106
           },
           {
             "path": "objects/B_Lobby_Closed.obj",
@@ -4989,57 +5067,57 @@
           },
           {
             "path": "objects/bridge_C12.obj",
-            "crc32": 3141302142,
-            "sha256": "8cd964e8ae22b75e118f1438ad79b15452cab249902056c2d0e4630f3512bd1e",
-            "size": 104230
+            "crc32": 847008146,
+            "sha256": "7a4fc78651af7462c0f7a2e7a1626dabe757a35eb51bcae91fad1dfaf3bb4cb7",
+            "size": 103823
           },
           {
             "path": "objects/bridge_C14.obj",
-            "crc32": 90890705,
-            "sha256": "39b45713d6291fea5de1bc5a948c5fab21c61fd5092ca796bd4839ce6fceaf43",
-            "size": 103556
+            "crc32": 3681501431,
+            "sha256": "e1b9d4c6efc7053981880355d67a97d1bff52a514387aa6458d47ccde6eed42f",
+            "size": 103245
           },
           {
             "path": "objects/bridge_C15.obj",
-            "crc32": 117391061,
-            "sha256": "957a77e2f93d7350debdf60bb201dee43751921db79bdb466353d6e8e426430e",
-            "size": 103556
+            "crc32": 1004377594,
+            "sha256": "c81cfb7ea8cf057ab80a312779663412f3bc4b223628f36623ffdfe1cdec2a26",
+            "size": 103245
           },
           {
             "path": "objects/bridge_D1.obj",
-            "crc32": 2184256594,
-            "sha256": "381610c8c1ee68f6827f267e174b4e5351f3dfbb5683eff578a1739759a9f179",
-            "size": 105679
+            "crc32": 325489675,
+            "sha256": "910c5372b2c7d2c4c7ce6959aefaf0d7830189c943617e0862b4c9cb113eab29",
+            "size": 105080
           },
           {
             "path": "objects/bridge_D2.obj",
-            "crc32": 3011590559,
-            "sha256": "d888711353dd50d60e55472cb98c03462f3f768b9efbd4f319e26519aa246b4d",
-            "size": 104229
+            "crc32": 420155765,
+            "sha256": "b3104ed32ccbbad14d4d2842efb4efff292461b901a50c1c75b424d43692ede8",
+            "size": 103822
           },
           {
             "path": "objects/bridge_D3.obj",
-            "crc32": 769173109,
-            "sha256": "96508780f2efbac33998f9a41be7eed667525624f15479308a31e284d06f9038",
-            "size": 104275
+            "crc32": 4225613655,
+            "sha256": "839ce07b81e57b23fde4a777ff71fdc3ad1fd985119d8b965ee9b20717316421",
+            "size": 103868
           },
           {
             "path": "objects/bridge_D4.obj",
-            "crc32": 1149090086,
-            "sha256": "798b6083c8e03f61423cfe6c88958fc591e324bf0a173116c5435dbc46980380",
-            "size": 104235
+            "crc32": 2064750991,
+            "sha256": "19eb6bb2c59da230c1659a39e8066d412403df2ff412870c8600f036315cfc41",
+            "size": 103828
           },
           {
             "path": "objects/bridge_D5.obj",
-            "crc32": 614651558,
-            "sha256": "9b33ab7324b1e9c8f76fbfb5e8e503ce3287914f1e8d534998f2f4e9bd7c3308",
-            "size": 105656
+            "crc32": 548849453,
+            "sha256": "2223d78c572ad3880a3210578d90317abb67f4ab8c29812c01ce6a1d00295036",
+            "size": 105057
           },
           {
             "path": "objects/bridge_D6.obj",
-            "crc32": 2321882266,
-            "sha256": "4d0793627316ecb45bd9084a1733fae3d0d8fe41e15058853f1089be5084b179",
-            "size": 104251
+            "crc32": 2757559294,
+            "sha256": "816e1e144e0980d865c2e35cd8f220e301f783e0ac90db7026a38f3a7f82fc85",
+            "size": 103844
           },
           {
             "path": "textures/terminal_atlas.png",
@@ -5054,7 +5132,7 @@
             "size": 107654
           }
         ],
-        "source_revision": "R28.2 - FBO night glazing and native jetway guidance / paired content channels",
+        "source_revision": "R29 - C/D native terminal materials and B surface compatibility / paired content channels",
         "prerelease": true,
         "public_channels": {
           "Airport Only": "https://nicknac113.github.io/NRT-KIAH-Downloads/depot-airport-only"
@@ -5138,7 +5216,6 @@
           "Source/R27/seal_delivery.py",
           "Source/R27/validate_r27.py",
           "Source/R28_2/build_night_materials.py",
-          "Source/README.txt",
           "objects/nrt_test/apron_material.obj",
           "objects/nrt_test/cargo.obj",
           "objects/nrt_test/cargo_recess_walls.obj",
@@ -5389,6 +5466,7 @@
     "Earth nav data/+20-100/+29-096.dsf",
     "Earth nav data/+30-100/+30-096.dsf",
     "Earth nav data/apt.dat",
+    "Fix-Scenery-Order.ps1",
     "Garage_Provenance.json",
     "Garage_Replacement_Record.json",
     "Gateway-original-README.txt",
@@ -5409,6 +5487,7 @@
     "README_R28.txt",
     "README_R28_2.txt",
     "README_R28_REVIEW_HISTORY.txt",
+    "SCENERY_ORDER.txt",
     "Source/Native/+29-096.txt",
     "Source/Native/+30-096.txt",
     "Source/R17_Helpers/airport_geometry.py",
@@ -5484,6 +5563,8 @@
     "Source/R28/render_r28.py",
     "Source/R28/validate_r28.py",
     "Source/R28_2/build_night_materials.py",
+    "Source/R29/Materials.json",
+    "Source/R29/README.txt",
     "Source/README.txt",
     "Source/rebuild_dsf.py",
     "Sources/Aircraft_Route_Audit.csv",

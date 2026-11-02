@@ -1,8 +1,8 @@
-CURRENT R28 EDITABLE PLACEMENT
+CURRENT R29 EDITABLE PLACEMENT
 Source/Native/+29-096.txt and +30-096.txt describe the compiled DSF placements
 for this variant. Source/rebuild_dsf.py rebuilds them into a new folder using
 Laminar DSFTool; OBJ8, apt.dat, XML and textures are also editable inputs.
-Source/R28 contains the Terminal B authoring scripts and variant preparation.
+Source/R29 documents the C/D material pass. Source/R28 contains the Terminal B authoring scripts and variant preparation.
 Historical generation scripts require their recorded predecessor inputs and
 workspace paths; they are not a portable complete authoring environment.
 

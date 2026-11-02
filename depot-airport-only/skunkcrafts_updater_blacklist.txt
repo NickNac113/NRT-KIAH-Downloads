@@ -76,7 +76,6 @@ Source/R27/review_r27.py
 Source/R27/seal_delivery.py
 Source/R27/validate_r27.py
 Source/R28_2/build_night_materials.py
-Source/README.txt
 objects/nrt_test/apron_material.obj
 objects/nrt_test/cargo.obj
 objects/nrt_test/cargo_recess_walls.obj
